@@ -1,0 +1,605 @@
+0===1==="Henry"==="was"==="Governor Edwin Washington Edwards's choice"===0.9469705806066386===0===0.9080231681699978===0.9481947648689547
+0===1==="Henry"==="was"==="Governor Edwin Washington Edwards's choice for Speaker"===0===0===0.9080231681699978===0.9481947648689547
+0===1==="Henry"==="was choice for"==="Speaker"===0===0.729===0===0
+1===1==="Mrs. Yogeswaran"==="was shot"==="five times"===0.8719603938339819===0===0===0
+1===1==="Mrs. Yogeswaran"==="was shot"==="five times with a pistol near her Jaffna home"===0===0===0.7750629212557932===0
+1===1==="Mrs. Yogeswaran"==="was shot"==="five times with a pistol near her Jaffna home on May 17 1998"===0===0===0.7750629212557932===0
+1===1==="Mrs. Yogeswaran"==="was shot on"==="May 17 , 1998"===0===0.83===0===0
+1===1==="Mrs. Yogeswaran"==="was shot with"==="a pistol"===0===0.918===0===0.8433894019474816
+2===1==="Girard"==="did"==="studies"===0===0.692===0.6708611025708267===0
+2===1==="Girard"==="did"==="studies for the master's degree"===0===0===0.6708611025708267===0
+2===1==="Girard"==="did"==="studies in industrial relations"===0===0===0.6708611025708267===0
+2===1==="Girard"==="has"==="a bachelor's degree"===0===0.785===0===0.9383119524695255
+2===1==="Girard"==="has"==="a bachelor's degree in political sciences at the Universite de Montreal"===0===0===0.6708611025708267===0.9383119524695255
+2===1==="Girard"==="has a bachelor's degree in"==="political sciences"===0.8902733769558768===0===0===0
+2===1==="Girard"==="has a bachelor's degree in political sciences at"==="the Universite de Montreal"===0===0.877===0===0
+3===1==="It"==="was"==="#109 on the Billboard 200 chart"===0===0===0.9449190649603072===0.27813615858960106
+4===1==="Robert Barnard"==="is"==="an English crime writer"===0.8980503531597858===0===0===0.9445721975409912
+4===1==="Robert Barnard born 23 November 1936"==="is"==="an English crime writer"===0===0===0.7783149047475986===0.9445721975409912
+6===1==="Doing Time on Maple Drive"==="was released"==="on Region 1 DVD"===0===0===0.7537660956163076===0
+6===1==="Doing Time on Maple Drive"==="was released"==="on Region 1 DVD on September 7 2004"===0===0===0.7537660956163076===0
+7===1==="It"==="comprises"==="mountains reaching an altitude of above sea level"===0===0===0.8672799733510419===0
+7===1==="It"==="includes"==="mountains"===0.03930031909484239===0===0===0.41051436014453063
+7===1==="It"==="includes"==="mountains reaching an altitude of above sea level"===0===0.782===0.8672799733510419===0.41051436014453063
+8===1==="He"==="starred"==="as Lancelot in the national tour of Spamalot"===0===0===0.8251165335281713===0
+8===1==="He"==="starred"==="as Lancelot in the national tour of Spamalot from 2006"===0===0===0.8251165335281713===0
+8===1==="He"==="starred"==="as Lancelot in the national tour of Spamalot through 2008"===0===0===0.8251165335281713===0
+8===1==="He"==="starred as"==="Lancelot"===0.624153827226402===0.856===0===0.4978219019954182
+9===1==="The film"==="were criticized"==="by some religious groups"===0===0===0.8914315350356096===0
+9===1==="the musical"==="were criticized by"==="some religious groups"===0.898120834641084===0.869===0===0.5682555286682759
+10===1==="Richards"==="is given"==="the chance to become a Hunter by Killian , though unlike in the film , he accepts"===0===0.805===0===0.9324144673478683
+10===1==="Richards"==="is given"==="the chance to become a Hunter by Killian though unlike in the film he accepts"===0===0===0.7321293651886551===0.9324144673478683
+11===1==="The film"==="debuted"==="on October 30 1968 December 29 1968 London premiere"===0===0===0.8045772574298934===0
+11===1==="The film"==="debuted on"==="October 30 , 1968"===0===0.87===0===0.9180804252893389
+11===1==="The film"==="debuted on"==="October 30 , 1968 ( December 29 , 1968 London premiere"===0.9999999999996749===0===0===0.9180804252893389
+12===1==="The Arab nationalists"==="aimed"==="in part to remove British imperial influence"===0===0===0.8434559573097399===0
+12===1==="The Arab nationalists"==="aimed"==="in part to remove British imperial influence in Iraq"===0===0===0.8434559573097399===0
+12===1==="The Arab nationalists"==="aimed"==="to remove British imperial influence"===0===0===0.8434559573097399===0
+12===1==="The Arab nationalists"==="aimed"==="to remove British imperial influence in Iraq"===0===0===0.8434559573097399===0
+13===1==="A sequel in name only"==="called"==="Return of the Ape Man"===0===0===0.4514714496016525===0
+13===1==="A sequel in name only"==="followed"==="in 1944 one year later after this film"===0===0===0.4514714496016525===0
+14===1==="Bipasha Basu"==="is researching"==="the esoteric practices"===0===0.7===0===0
+14===1==="Dr.Gayatri"==="is researching"==="the esoteric practices"===0.9034011328347001===0===0===0.9395490589944211
+16===1==="This version"==="was cut"==="down to 100-minutes"===0===0===0.9455312860526163===0
+16===1==="This version"==="was cut"==="down to 100-minutes in length"===0===0===0.9455312860526163===0
+16===1==="This version"==="was cut down to"==="100-minutes"===0.9416431321362796===0.929===0===0.9030401971054747
+17===1==="He"==="died at"==="Livonia"===0.7596805064587696===0.683===0===0.45592395356914683
+17===1==="He"==="was born"==="in New York"===0===0===0.926312136450092===0
+17===1==="He"==="was born in"==="New York"===0.8087444844682747===0.836===0===0.4978219019954182
+18===1==="Fred Kohler April 20 1888 October 28 1938"==="was"==="an American actor"===0===0===0.6773045380478069===0
+18===1==="Fred Kohler April 20 1888 October 28 1938"==="was"==="an American actor known for his heavy style of character"===0===0===0.6773045380478069===0
+19===1==="Outpost Harry"==="was"==="a remote Korean War station"===0.6037662270039228===0.655===0.5651150134476931===0.9527410621066101
+19===1==="Outpost Harry"==="was"==="a remote Korean War station located on a tiny hilltop in what was commonly referred to as the Iron Triangle on the Korean Peninsula"===0===0===0.5651150134476931===0.9527410621066101
+19===1==="what"==="was referred"==="to as the Iron Triangle on the Korean Peninsula"===0===0===0.5651150134476931===0
+21===1==="Fighting"==="continued"==="around Baidoa"===0===0===0.6350986054091845===0
+21===1==="Fighting"==="continued"==="around Baidoa at Dinsoor"===0===0===0.6350986054091845===0
+21===1==="Fighting"==="continued"==="around Baidoa at Iidale"===0===0===0.6350986054091845===0
+21===1==="Fighting"==="continued"==="around Baidoa particularly"===0===0===0.6350986054091845===0
+21===1==="Fighting"==="continued"==="in Baidoa"===0===0===0.6350986054091845===0
+21===1==="Fighting"==="continued"==="in Baidoa at Dinsoor"===0===0===0.6350986054091845===0
+21===1==="Fighting"==="continued"==="in Baidoa at Iidale"===0===0===0.6350986054091845===0
+21===1==="Fighting"==="continued"==="in Baidoa particularly"===0===0===0.6350986054091845===0
+22===1==="Another version of the story"==="was filmed"==="in 1934 entitled The Courage of Charlie Chan"===0===0===0.8154745513507753===0
+22===1==="Another version of the story"==="was filmed in"==="1934"===0.9392862213031551===0.919===0===0.8143831551075259
+23===1==="He"==="consults"==="his family doctor"===0.34554776592511155===0.666===0.9723708862774886===0.30899953469486874
+23===1==="He"==="consults"==="his family doctor for solution"===0===0===0.9723708862774886===0.30899953469486874
+24===1==="ICRW"==="is a non-profit organization with"==="a regional office"===0===0.696===0===0
+24===1==="The International Center for Research on Women ICRW"==="is"==="a non-profit organization"===0===0===0.5851209782917941===0.9779279830020898
+25===1==="His return bout in the UFC"==="occurred"==="at UFC 81"===0===0===0.6617837540606395===0
+25===1==="His return bout in the UFC"==="occurred"==="at UFC 81 where he submitted Rob Yundt at 1:08 in the first round"===0===0===0.6617837540606395===0
+25===1==="he"==="submitted"==="Rob Yundt"===0.4257538620352172===0.734===0.6617837540606395===0.4978219019954182
+25===1==="he"==="submitted"==="Rob Yundt at 1:08"===0===0===0.6617837540606395===0.4978219019954182
+25===1==="he"==="submitted"==="Rob Yundt in the first round"===0===0===0.6617837540606395===0.4978219019954182
+27===1==="Wu"==="worked"==="as a reporter for United Press International from 1973 until 1978"===0===0===0.5167726049798033===0
+27===1==="Wu"==="worked as a reporter for"==="United Press International"===0.98814470114608===0===0===0
+27===1==="she"==="joined"==="WGBH-TV"===0.5136583312344386===0===0.5167726049798033===0.4978219019954182
+27===1==="she"==="joined"==="WGBH-TV , Boston's public television station"===0===0.667===0===0.4978219019954182
+27===1==="she"==="joined"==="WGBH-TV as the Massachusetts State House reporter"===0===0===0.5167726049798033===0.4978219019954182
+27===1==="she"==="joined"==="WGBH-TV until 1983"===0===0===0.5167726049798033===0.4978219019954182
+28===1==="The New Zealand Naval Forces"==="was"==="a Division"===0===0===0.8978091368384522===0.9642085744698567
+28===1==="The New Zealand Naval Forces"==="was"==="a Division of the Royal Navy"===0===0.77===0.8978091368384522===0.9642085744698567
+28===1==="The New Zealand Naval Forces"==="was a Division of"==="the Royal Navy"===0.9999999999723574===0.853===0===0
+29===1==="The previous season"==="had seen"==="him lead Dawlish to 2nd place in the Western League their highest ever league finishing position"===0===0===0.6729509113256071===0
+30===1==="he"==="has reported"==="on 1993 events in Moscow"===0===0===0.0===0
+30===1==="he"==="has reported"==="on Bosnian War"===0===0===0.0===0
+30===1==="he"==="has reported"==="on Middle East peace process"===0===0===0.0===0
+30===1==="he"==="has reported"==="on many of the most compelling foreign news stories in the past two decades"===0===0===0.0===0
+30===1==="he"==="has reported"==="on the Gulf War"===0===0===0.0===0
+30===1==="he"==="has reported"==="on the War in Kosovo"===0===0===0.0===0
+30===1==="he"==="has reported"==="on the attempted coup d'etat in Moscow"===0===0===0.0===0
+30===1==="he"==="has reported on"==="many of the most compelling foreign news stories"===0.9855180868198309===0===0===0.5691839633287576
+31===1==="William Dozier"==="was"==="an American film and television producer and actor"===0.9999999999144422===0===0===0.9340463819568752
+31===1==="William Dozier February 13 1908 April 23 1991"==="was"==="actor"===0===0===0.7383602611111826===0.9340463819568752
+31===1==="William Dozier February 13 1908 April 23 1991"==="was"==="television producer"===0===0===0.7383602611111826===0.9340463819568752
+32===1==="Nhema"==="was included"==="in the Cabinet"===0===0===0.606825523630553===0
+32===1==="Nhema"==="was included"==="in the Cabinet as Minister of the Environment"===0===0===0.606825523630553===0
+32===1==="Nhema"==="was included as"==="Minister of the Environment"===0===0.927===0===0
+32===1==="Nhema"==="was included in"==="the Cabinet"===0.9547209375548888===0.932===0===0.9324144673478683
+32===1==="the ZANU-PF-Movement for Democratic Change national unity government"==="was sworn"==="in on February 13 2009"===0===0===0.606825523630553===0
+33===1==="She"==="was"==="a member"===0===0===0.9516818947055952===0.5680679595514976
+33===1==="She"==="was"==="a member of the National Union of Women Workers"===0===0.688===0.9516818947055952===0.5680679595514976
+33===1==="She"==="was a member of"==="the National Union of Women Workers"===0.9999999996738331===0.92===0===0.8847999636040884
+34===1==="He"==="was"==="Premier of the Republic of China"===0===0.765===0===0.5680679595514976
+34===1==="He"==="was"==="Premier of the Republic of China serving for one year under former President Lee Teng-hui"===0===0===0.7351987352386996===0.5680679595514976
+34===1==="He"==="was Premier of"==="the Republic of China"===0.5878264246567749===0.887===0===0.8847999636040884
+35===1==="He"==="made"==="his debut"===0===0.71===0.849495465741073===0.30899953469486874
+35===1==="He"==="made"==="his debut in a Champions League game Fenerbahce-Inter"===0===0===0.849495465741073===0.30899953469486874
+35===1==="He"==="made his debut in"==="a Champions League game Fenerbahce-Inter"===0.9999999998396301===0===0===0
+36===1==="The Islamic Jihad Union IJU also known as Islamic Jihad Group IJG"==="is"==="a terrorist organization"===0===0===0.3010018228512249===0
+36===1==="a terrorist organization"==="has conducted"==="attacks in Uzbekistan"===0===0===0.3010018228512249===0
+36===1==="a terrorist organization"==="has conducted"==="attempted attacks in Germany"===0===0===0.3010018228512249===0
+36===1==="a terrorist organization"==="splintered"==="from the Islamic Movement of Uzbekistan IMU"===0===0===0.3010018228512249===0
+36===1==="a terrorist organization"==="splintered from"==="the Islamic Movement of Uzbekistan"===0===0.82===0===0.9125462839307745
+37===1==="she"==="died"==="at the age of 53"===0===0===0.7003848165999128===0
+37===1==="she"==="died"==="in Leusden"===0===0===0.7003848165999128===0
+37===1==="she"==="died"==="where she had lived during her illness"===0===0===0.7003848165999128===0
+37===1==="she"==="died at"==="the age of 53"===0.21437687988709164===0.895===0===0.4978219019954182
+37===1==="she"==="died in"==="Leusden"===0===0.748===0===0
+38===1==="Cadabra"==="has also played for"==="FC Cessange Bracarenses Grund 2001"===0.9895412604868152===0.811===0===0
+38===1==="Cadabra"==="has played"==="for FC Cessange Bracarenses Grund 2001 twice"===0===0===0.6689942490162781===0
+38===1==="Cadabra"==="has played"==="for FC Etzella Ettelbruck in Luxembourg"===0===0===0.6689942490162781===0
+39===1==="Goggins"==="is"==="a Draenei shaman"===0===0===0.8985948576824653===0
+39===1==="He"==="played"==="the healer Goggins"===0.42649625675401404===0===0.8985948576824653===0.4978219019954182
+39===1==="the healer Goggins"==="is"==="a Draenei shaman"===0.7394475548779242===0===0===0.9262990687352972
+40===1==="Pace"==="played"==="with the Nelson Giants"===0===0===0.7998589132851072===0
+40===1==="Pace"==="played"==="with the Nelson Giants in the New Zealand National Basketball League"===0===0===0.7998589132851072===0
+40===1==="Pace"==="played in"==="the New Zealand National Basketball League"===0===0.879===0===0
+40===1==="Pace"==="played with"==="the Nelson Giants"===0.91360963514526===0.916===0===0.9105129651916236
+41===1==="These policies"==="were enforced"==="by the police"===0===0===1.0===0
+41===1==="These policies"==="were enforced by"==="the police"===0.9999999999631286===0.919===0===0.9030401971054747
+42===1==="the post office"==="was renamed"==="the " Larry S. Pierce Post Office"===0===0.694===0===0.9530647582435334
+42===1==="the post office in Taft"==="was renamed"==="the Larry S. Pierce Post Office in his honor"===0===0===0.6973758648429575===0
+43===1==="LaBrocca"==="scored"==="his first goal for the club"===0===0===0.7996482228851588===0.9231320349505967
+43===1==="LaBrocca"==="scored for"==="the club"===0===0.826===0===0
+43===1==="LaBrocca"==="scored his first goal for"==="the club"===0.962087976778284===0===0===0
+44===1==="He"==="is married"==="to Washington Post journalist Ruth Marcus"===0===0===0.9321479737210238===0
+44===1==="He"==="is married to"==="Washington Post journalist Ruth Marcus"===0.999999999916863===0.875===0===0
+45===1==="Kuroki"==="is"==="the Japanese American"===0===0===0.7179595583871855===0
+45===1==="Kuroki"==="is"==="the Japanese American known to have participated in air combat missions in the Pacific theater of operations during the war"===0===0===0.7179595583871855===0
+46===1==="Middleton"==="became"==="the operator of Cedar Hill Farm near Waldorf Maryland"===0===0===0.6436012065091598===0
+46===1==="Middleton"==="became"==="the owner and operator of Cedar Hill Farm"===0.9059944442645228===0.845===0===0.9567562066335041
+46===1==="Middleton"==="became"==="the owner of Cedar Hill Farm near Waldorf Maryland"===0===0===0.6436012065091598===0
+46===1==="Middleton"==="became the owner of"==="Cedar Hill Farm"===0===0.92===0===0
+47===1==="The Candy Trail"==="is"==="a 1916 silent comedy film"===0.09959661785015074===0===0.7857990368320255===0.949419443712137
+47===1==="The Candy Trail"==="is"==="a 1916 silent comedy film featuring Oliver Hardy"===0===0.664===0.7857990368320255===0.949419443712137
+48===1==="Daughter of actress Ana Maria Bueno better known as Ana Rosetti"==="spent"==="her childhood in Madrid"===0===0===0.34369880035535466===0
+48===1==="Daughter of writer Ana Maria Bueno better known as Ana Rosetti"==="spent"==="her childhood in Madrid"===0===0===0.34369880035535466===0
+48===1==="Gabriel"==="was born"==="in San Fernando"===0===0===0.34369880035535466===0
+48===1==="Gabriel"==="was born in"==="San Fernando"===0.9777155167500745===0.895===0===0.9324144673478683
+49===1==="He"==="was made"==="an Officer of the Order of Australia"===0===0===0.1513932228185515===0
+49===1==="He"==="was made"==="an Officer of the Order of Australia for service to politics by strengthening the party's financial structure"===0===0===0.1513932228185515===0
+49===1==="He"==="was made"==="an Officer of the Order of Australia for service to politics by strengthening the party's organisational structure"===0===0===0.1513932228185515===0
+49===1==="He"==="was made"==="an Officer of the Order of Australia for service to politics through the introduction of modern campaign techniques"===0===0===0.1513932228185515===0
+49===1==="He"==="was made"==="an Officer of the Order of Australia for service to the Australian Labor Party"===0===0===0.1513932228185515===0
+51===1==="Europe"==="remains"==="the primary objective"===0.7458270751552096===0.768===0.8169092688190246===0.9064683704715875
+51===1==="the Arab world"==="is"==="a rich prize"===0===0.569===0.8169092688190246===0.8807736236589644
+51===1==="the Arab world"==="is"==="a rich prize in itself"===0===0===0.8169092688190246===0.8807736236589644
+52===1==="it"==="was not"==="difficult to position a squadron to intercept it"===0===0===0.484057137062766===0
+52===1==="the fleet"==="could land"==="at Cadiz"===0===0===0.484057137062766===0
+52===1==="the fleet"==="could only land at"==="Cadiz"===0.27574049466871864===0===0===0
+53===1==="Tomkins"==="made"==="his Premier League debut"===0.9633432551928722===0===0.7355058080999534===0.8821938819052391
+53===1==="Tomkins"==="made"==="his Premier League debut March 2008"===0===0===0.7355058080999534===0.8821938819052391
+53===1==="Tomkins"==="made"==="his Premier League debut in a 1-1 draw away to Everton"===0===0===0.7355058080999534===0.8821938819052391
+54===1==="He"==="then went on to work for"==="Cisco Systems"===0.4497664618617422===0===0===0
+54===1==="He"==="then went to work for"==="Cisco Systems"===0===0.685===0===0
+54===1==="He"==="went on"==="to work for Cisco Systems"===0===0===0.8468354381177238===0
+55===1==="He"==="fathered"==="Donald"===0===0===0.7370422290659389===0
+55===1==="He"==="fathered"==="Edna"===0===0===0.7370422290659389===0
+55===1==="He"==="fathered"==="two children"===0.48947808379059926===0.685===0.7370422290659389===0.45170382506656653
+55===1==="He"==="lived"==="in Aberdeen"===0===0===0.7370422290659389===0
+55===1==="He"==="lived"==="in Aberdeen until his death"===0===0===0.7370422290659389===0
+55===1==="He"==="lived in"==="Aberdeen"===0===0.856===0===0.45592395356914683
+56===1==="A Great-Great Grandson"==="was"==="Robert Norton Noyce"===0.9737930701543489===0.628===0===0
+56===1==="A Great-Great Grandson"==="was"==="Robert Norton Noyce 1927 1990"===0===0===0.476398505173689===0
+56===1==="A Great-Great Grandson"==="was"==="co-founder of Fairchild Semiconductor in 1957"===0===0===0.476398505173689===0
+56===1==="A Great-Great Grandson"==="was"==="nicknamed the Mayor of Silicon Valley"===0===0===0.476398505173689===0
+57===1==="Alice"==="was accepted"==="as a student of Carlos Salzedo"===0===0===0.5160502271120241===0
+57===1==="Alice"==="was accepted"==="as a student of Carlos Salzedo at the Curtis Institute of Music"===0===0===0.5160502271120241===0
+57===1==="Alice"==="was accepted"==="as a student of Carlos Salzedo in Philadelphia Pennsylvania"===0===0===0.5160502271120241===0
+57===1==="Alice"==="was accepted as"==="a student of Carlos Salzedo"===0.9025612419928769===0.95===0===0.9567562066335041
+58===1==="This article"==="excludes"==="military action involving the Danish territory of Greenland"===0===0===0.3566327681424039===0
+58===1==="This article"==="excludes"==="military action involving the Danish territory of the Caribbean"===0===0===0.3566327681424039===0
+58===1==="This article"==="includes"==="attacks"===0===0.807===0.3566327681424039===0
+58===1==="This article"==="includes"==="attacks on continental territory extending 200 miles into the ocean"===0===0===0.3566327681424039===0
+58===1==="This article"==="includes attacks on"==="continental territory"===0.9979799530929367===0===0===0
+58===1==="continental territory"==="is today under"==="the sovereignty of the United States"===0.9767953484199358===0===0===0
+58===1==="continental territory extending 200 miles into the ocean"==="is"==="today under the sovereignty of the United States"===0===0===0.3566327681424039===0
+60===1==="The report"==="implied"==="that the infighting in Zanu-PF over Mugabe's successor was also hurting policy formulation in implementation"===0===0===0.7025824801214947===0
+60===1==="the infighting"==="was also hurting"==="policy formulation and consistency"===0===0.569===0===0
+60===1==="the infighting in Zanu-PF over Mugabe's successor"==="was hurting"==="policy consistency in implementation"===0===0===0.7025824801214947===0
+61===1==="Life Partner"==="netted"==="overseas"===0===0===0.7755189076614132===0.7900566639584307
+61===1==="Life Partner"==="netted"==="overseas in its opening week"===0===0===0.7755189076614132===0.7900566639584307
+61===1==="Life Partner"==="netted"==="overseas while it netted domestically by the third week"===0===0===0.7755189076614132===0.7900566639584307
+61===1==="it"==="netted"==="domestically"===0===0===0.7755189076614132===0.22506131975927415
+61===1==="it"==="netted"==="domestically by the third week"===0===0===0.7755189076614132===0.22506131975927415
+61===1==="it"==="netted domestically by"==="the third week"===0.5115022002450349===0.766===0===0
+62===1==="He"==="also did the voice of"==="Tommy"===0.5878264246567749===0===0===0
+62===1==="He"==="did"==="the voice of Tommy"===0===0===0.9002938910312874===0
+62===1==="He"==="did"==="the voice of Tommy in the action game Prey"===0===0===0.9002938910312874===0
+63===1==="The film"==="was shown"==="on 18 July 2009"===0===0===0.8455265952382309===0
+64===1==="Greece"==="had expanded"==="its geographic borders"===0.3129173763299631===0.755===0.5400447050083445===0.8615585111461579
+64===1==="Greece"==="had expanded"==="its geographic borders after the World War I."===0===0===0.5400447050083445===0.8615585111461579
+64===1==="Greece"==="had expanded"==="its geographic borders to the wider Smyrna area"===0===0===0.5400447050083445===0.8615585111461579
+65===1==="These"==="include"==="award sculptures"===0.649972421242354===0===0.48356703564343423===0.6975150372385567
+65===1==="These"==="include"==="award sculptures for organizations such as the Georgetown University Lombardi Cancer Center"===0===0===0.48356703564343423===0
+65===1==="These"==="include"==="award sculptures for organizations such as the PGA Tour"===0===0===0.48356703564343423===0
+65===1==="These"==="include"==="award sculptures for organizations such as the Shakespeare Guild"===0===0===0.48356703564343423===0
+65===1==="These"==="include"==="award sculptures for organizations such as the World Peace Foundation"===0===0===0.48356703564343423===0
+66===1==="Argentina"==="has"==="an important rugby union football team"===0.8980503531597858===0.712===0===0.9383119524695255
+66===1==="Argentina"==="has"==="an important rugby union football team Los Pumas"===0===0===0.7175299507366372===0.9383119524695255
+66===1==="Argentina"==="has"==="an important rugby union football team Los Pumas with many of its players playing in Europe"===0===0===0.7175299507366372===0.9383119524695255
+67===1==="They"==="have also competed in"==="the UEFA Women's Cup and UEFA Women's Champions League"===0.9999999997428872===0.871===0===0
+67===1==="They"==="have competed"==="in UEFA Women's Champions League"===0===0===0.7919239648801029===0
+67===1==="They"==="have competed"==="in the UEFA Women's Cup"===0===0===0.7919239648801029===0
+68===1==="Finklea"==="began"==="his medical career"===0===0.812===0.8418655146157361===0.8615585111461579
+68===1==="Finklea"==="began"==="his medical career as a physician"===0===0===0.8418655146157361===0.8615585111461579
+68===1==="Finklea"==="began"==="his medical career as a professor"===0===0===0.8418655146157361===0.8615585111461579
+68===1==="Finklea"==="began"==="his medical career at a series of medical schools"===0===0===0.8418655146157361===0.8615585111461579
+68===1==="Finklea"==="began his medical career as"==="a physician"===0.9575933837049809===0===0===0
+68===1==="Finklea"==="began his medical career as"==="a physician and a professor"===0===0.92===0===0
+69===1==="It"==="was broadcast"==="on NBC"===0===0===0.47123845839838235===0
+69===1==="It"==="was broadcast"==="on NBC on February 26 2009"===0===0===0.47123845839838235===0
+69===1==="It"==="was later broadcast on"==="February 26 , 2009"===0===0.848===0===0
+69===1==="It"==="was later broadcast on"==="NBC"===0.9984788610320028===0.88===0===0
+70===1==="They"==="are"==="adamant"===0===0===0.9541633845746625===0.4649296389869295
+70===1==="They"==="are"==="adamant on finding out the truth about her"===0===0===0.9541633845746625===0.4649296389869295
+71===1==="the air force"==="was engaged"==="primarily in immigration patrol"===0===0===0.7666511174157635===0
+71===1==="the air force"==="was engaged in"==="immigration patrol"===0===0.868===0===0
+71===1==="the air force"==="was engaged primarily in"==="immigration patrol"===0.8930429844059324===0===0===0.9111779447320654
+72===1==="Dileep"==="finds"==="that his father has been locked in"===0===0===0.4630299483402838===0
+72===1==="Sarada"==="knows"==="the truth about his deeds"===0===0===0.4630299483402838===0
+72===1==="Sarada"==="tries"==="to act normal while planning to escape"===0===0===0.4630299483402838===0
+72===1==="he"==="realizes"==="that Sarada knows the truth about his deeds"===0===0===0.4630299483402838===0
+72===1==="he"==="saves"==="his father"===0.156834021301096===0.561===0.4630299483402838===0.30899953469486874
+72===1==="his"==="has"==="deeds"===0===0===0.4630299483402838===0
+72===1==="his"==="has"==="father"===0===0===0.4630299483402838===0
+72===1==="his father"==="has been locked"==="in"===0===0===0.4630299483402838===0
+73===1==="she"==="comes"==="to see him as the ideal man for her plans"===0===0===0.7485133646887041===0
+73===1==="she"==="comes to see him as"==="the ideal man"===0===0.799===0===0
+73===1==="she"==="wards off"==="Charlie's advances"===0===0===0.7485133646887041===0.4978219019954182
+74===1==="He"==="had served"==="four terms in the House"===0===0===0.6942354721648093===0.3125601471068353
+74===1==="He"==="has represented"==="parts of the city of Rutland"===0===0.771===0.6942354721648093===0.6138676038426771
+74===1==="He"==="has represented"==="parts of the city of Rutland in the Vermont House of Representatives"===0===0===0.6942354721648093===0.6138676038426771
+74===1==="He"==="has represented"==="parts of the city of Rutland since 2005"===0===0===0.6942354721648093===0
+74===1==="He"==="has represented parts of"==="the city of Rutland"===0.5590057120671265===0===0===0
+75===1==="himself"==="tried to work with"==="the screenwriter and director"===0===0.945===0===0
+76===1==="Hobbs"==="acquired"==="the role of top gymnast"===0.8592671476475923===0===0.6699933207784547===0.8607333732491365
+77===1==="Burma"==="gained"==="independence"===0===0.842===0===0.9197759696552441
+77===1==="Burma"==="gained independence from"==="Great Britain"===0.9479673276809475===0===0===0.9324144673478683
+77===1==="Mya Than Tint"==="entered"==="Rangoon University"===0.9469705806066386===0.838===0===0.9436221120476838
+77===1==="Mya Than Tint"==="received"==="a degree in philosophy , political science and English literature"===0===0.772===0===0.9496374851507858
+78===1==="They"==="seek"==="help"===0===0.839===0===0.6155020116081594
+78===1==="They"==="seek help from"==="a prisoner"===0.9999999994318867===0===0===0
+79===1==="He"==="trained"==="with the club for one month"===0===0===0.718063261990814===0
+79===1==="He"==="trained"==="with the club for one month before being waived on March 1 2011 prior to the start of the MLS season"===0===0===0.718063261990814===0
+79===1==="He"==="trained with"==="the club"===0.33581513542863184===0===0===0.45170382506656653
+80===1==="The twisted creations of two cartoonists"==="come"==="to life in this tongue-in-cheek low budget schlocker"===0===0===0.8041515179086651===0
+80===1==="The twisted creations of two cartoonists"==="come to"==="life"===0.7226925441005609===0.85===0===0.9320111551042786
+81===1==="Bryant"==="committed"==="suicide"===0.8446451270506704===0.85===0.8235536017246498===0.9197759696552441
+81===1==="Bryant"==="committed"==="suicide by falling off a ferry into San Francisco Bay"===0===0===0.8235536017246498===0.9197759696552441
+82===1==="Dawson"==="began"==="his career"===0===0.812===0.6017470283426704===0.8615585111461579
+82===1==="Dawson"==="began"==="his career as an English teacher"===0===0===0.6017470283426704===0.8615585111461579
+82===1==="Dawson"==="began"==="his career at Southern University in Baton Rouge"===0===0===0.6017470283426704===0.8615585111461579
+82===1==="Dawson"==="began his career as"==="an English teacher"===0.9830722243365434===0.92===0===0.9324144673478683
+83===1==="It"==="gave"==="the amateurs of the time a chance to compensate to some extent for their lack of skill"===0===0===0.7269462605888153===0.41051436014453063
+83===1==="It"==="relied"==="on collective work"===0===0===0.7269462605888153===0
+83===1==="It"==="relied on"==="collective work"===0.9919300175348043===0.815===0===0.45170382506656653
+84===1==="The University of Sulaimani"==="is"==="a public university"===0===0===0.8405981456301252===0.9751389598371145
+84===1==="The University of Sulaimani"==="is"==="a public university located in the city of Sulaymaniyah in Kurdistan"===0===0.792===0.8405981456301252===0.9751389598371145
+84===1==="The University of Sulaimani"==="is a public university in"==="Kurdistan"===0===0.765===0===0
+84===1==="The University of Sulaimani"==="is a public university in"==="the city of Sulaymaniyah"===0===0.852===0===0
+84===1==="The University of Sulaimani"==="is a public university located in"==="the city of Sulaymaniyah"===0.9681732840114884===0===0===0
+85===1==="Titterton"==="topped"==="the year"===0.7270365554018569===0===0.8645604897497026===0.9197759696552441
+85===1==="Titterton"==="topped"==="the year in Physics"===0===0===0.8645604897497026===0.9197759696552441
+86===1==="Langley"==="became"==="the first President of the General Union of Railway Clerks"===0===0.852===0.6747863292535827===0.9567562066335041
+86===1==="Langley"==="became the first President of"==="the General Union of Railway Clerks"===0.943908204426886===0===0===0
+86===1==="he"==="resigned"==="due to ill health"===0===0===0.6747863292535827===0.45170382506656653
+86===1==="he"==="resigned"==="due to ill health the following year"===0===0===0.6747863292535827===0.45170382506656653
+86===1==="he"==="resigned due to"==="ill health"===0===0.722===0===0
+87===1==="The post-war era"==="saw the creation of"==="New College"===0.9131831343431706===0===0===0
+88===1==="The cast"==="consisted"==="of some of the most prominent Israeli actors of the time"===0===0===0.7991763488459408===0
+88===1==="The cast"==="consisted of"==="some of the most prominent Israeli actors of the time"===0.6921553243863184===0===0===0.9372494423173455
+89===1==="He"==="didn't get"==="his money's worth"===0.023037526005686152===0.562===0.5133805763376831===0
+89===1==="news outlets"==="reported"==="that taxpayers were charged for a $600 makeup session for Illinois Governor Rod Blagojevich for his budget speech"===0===0===0.5133805763376831===0
+89===1==="taxpayers"==="were charged"==="for a $600 makeup session for Illinois Governor Rod Blagojevich for his budget speech"===0===0===0.5133805763376831===0
+89===1==="taxpayers"==="were charged for"==="a $600 makeup session"===0.7219439641891653===0===0===0
+90===1==="her father"==="had appealed"==="to Fey for help"===0===0===0.3422113253769624===0
+90===1==="her father"==="had appealed to"==="Fey"===0.8704987709884378===0===0===0
+90===1==="the late Sommers"==="was"==="a friend"===0===0===0.3422113253769624===0
+90===1==="the late Sommers"==="was"==="a friend of her family"===0===0===0.3422113253769624===0
+90===1==="the late Sommers"==="was a friend of"==="her family"===0.3544297449488014===0.845===0===0.3853208301752743
+92===1==="He"==="told"==="the Washington Post that the Iraqis warned the Zarqawi operatives that the Jordanians knew where they were"===0===0===0.7248170912595863===0
+92===1==="the Iraqis"==="warned"==="the Zarqawi operatives"===0.022049430514527006===0===0===0
+92===1==="the Iraqis"==="warned"==="the Zarqawi operatives that the Jordanians knew where they were"===0===0===0.7248170912595863===0
+92===1==="the Jordanians"==="knew"==="where they were"===0===0===0.7248170912595863===0
+95===1==="They"==="made"==="their first division debut"===0.4040889255783679===0.873===0.6459355942505183===0.6264169087396353
+95===1==="They"==="made"==="their first division debut against Club America in the Estadio Azteca"===0===0===0.6459355942505183===0.6264169087396353
+95===1==="They"==="made"==="their first division debut coming back from 2-0 to win 3-2"===0===0===0.6459355942505183===0
+95===1==="They"==="made"==="their first division debut in a memorbla match"===0===0===0.6459355942505183===0
+96===1==="he"==="'s going"==="to beat the hour record"===0===0===0.4618506406207091===0
+97===1==="Ronald Squire"==="was"==="an English character actor"===0.9999999999144422===0.737===0===0.9445721975409912
+97===1==="Ronald Squire 25 March 1886 16 November 1958"==="was"==="an English character actor"===0===0===0.7582597297509751===0.9445721975409912
+98===1==="" Casanova Brown"==="is"==="a 1944 film"===0.2653693671658188===0===0===0.9647009540301618
+98===1==="Casanova Brown"==="is"==="a 1944 film"===0===0===0.7661761488730894===0.9647009540301618
+98===1==="Casanova Brown"==="is"==="a 1944 film starring Frank Morgan"===0===0===0.7661761488730894===0
+98===1==="Casanova Brown"==="is"==="a 1944 film starring Gary Cooper"===0===0===0.7661761488730894===0.9647009540301618
+98===1==="Casanova Brown"==="is"==="a 1944 film starring Gary Cooper , Teresa Wright , and Frank Morgan"===0===0.748===0===0.9647009540301618
+98===1==="Casanova Brown"==="is"==="a 1944 film starring Teresa Wright"===0===0===0.7661761488730894===0
+99===1==="Macher"==="had informed"==="the local fire brigade"===0.9498975658051393===0.684===0.6572250221398515===0.9197759696552441
+100===1==="he"==="sponsored"==="successful bills"===0.022547296254994516===0===0.41046482574152887===0.3880890333449538
+102===1==="Jerry Goldsmith"==="won"==="the BMI Film & TV Award"===0.9469705806066386===0===0===0.9527410621066101
+102===1==="Jerry Goldsmith"==="won"==="the BMI Film & TV Award for his original score"===0===0===0.31028284252181354===0.9527410621066101
+102===1==="Morgan Freeman"==="was nominated"==="for the NAACP Image Award for Outstanding Actor in a Motion Picture"===0===0===0.31028284252181354===0
+102===1==="Morgan Freeman"==="was nominated for"==="Outstanding Actor"===0===0.932===0===0
+102===1==="Morgan Freeman"==="was nominated for"==="the NAACP Image Award"===0.9789965287683448===0.93===0===0.9382554258342916
+103===1==="any active player"==="can activate"==="their Overdrive to bring failed players back into the song saving the band member"===0===0===0.6898653540034592===0
+104===1==="The film's writer Aseem Arora"==="was nominated"==="for a Filmfare Award for Best Story"===0===0===0.7863489150010471===0
+104===1==="The film's writer Aseem Arora"==="was nominated for"==="a Filmfare Award"===0.9895990845441637===0.925===0===0.9199569125504766
+105===1==="Ten Heuvel"==="is"==="the older brother of Arturo ten Heuvel"===0===0.768===0.8735134543160907===0.9527410621066101
+105===1==="Ten Heuvel"==="is the older brother of"==="Arturo ten Heuvel"===0.9999999999644988===0.926===0===0
+106===1==="Soubry"==="graduated"==="in law"===0===0===0.9029475220895657===0
+106===1==="Soubry"==="graduated"==="in law from the University of Birmingham"===0===0===0.9029475220895657===0
+106===1==="Soubry"==="graduated"==="in law in 1979"===0===0===0.9029475220895657===0
+106===1==="Soubry"==="graduated from"==="the University of Birmingham"===0===0.926===0===0.9000738595917936
+106===1==="Soubry"==="graduated in"==="1979"===0===0.908===0===0
+106===1==="Soubry"==="graduated in"==="law"===0.7785592651849728===0.919===0===0
+107===1==="the Dorados"==="remained"==="in the LMB Northern Division"===0===0===0.7417611958852011===0
+107===1==="the Dorados"==="remained"==="in the LMB Northern Division in 2007"===0===0===0.7417611958852011===0
+107===1==="the Dorados"==="remained in"==="the LMB Northern Division"===0.8617337109745917===0===0===0.9382554258342916
+108===1==="He"==="played"==="one game"===0===0.761===0===0.45170382506656653
+108===1==="He"==="played"==="one game for West Ham in the Premier League"===0===0===0.711398305351789===0.45170382506656653
+108===1==="He"==="played"==="one game for West Ham in the Premier League as a substitute"===0===0===0.711398305351789===0.45170382506656653
+108===1==="He"==="played"==="one game for West Ham in the Premier League during the latter stages of the 1996-97 season"===0===0===0.711398305351789===0.45170382506656653
+108===1==="He"==="played one game for"==="West Ham"===0.8759910355494324===0===0===0
+109===1==="He"==="was"==="Captain"===0===0===0.6751165731529107===0.5129232809985469
+109===1==="He"==="was"==="Captain of the Atheists team"===0===0.72===0.6751165731529107===0.5129232809985469
+109===1==="He"==="was"==="Captain on CBC Test the Nation"===0===0===0.6751165731529107===0
+109===1==="He"==="was Captain of"==="the Atheists team"===0.3027515148251368===0.817===0===0.8847999636040884
+109===1==="IQ"==="broadcast live on"==="January 24 , 2010"===0.9996870855063081===0.696===0===0
+110===1==="Georgia"==="accuses"==="Russia"===0===0.681===0===0.9210233335200773
+110===1==="Georgia"==="accuses"==="Russia of supplying the Abkhaz troops"===0===0===0.46904377616671555===0.9210233335200773
+110===1==="Georgia"==="accuses"==="Russia of training the Abkhaz troops"===0===0===0.46904377616671555===0.9210233335200773
+111===1==="He"==="is buried"==="in Sandy Valley Waynesburg Ohio"===0===0===0.8719068032167892===0
+111===1==="He"==="is buried in"==="Sandy Valley"===0.9467975274333748===0.836===0===0.4978219019954182
+112===1==="The Hollywood United 7-a-side teams"==="compete"==="in the Santa Monica Adult Soccer League"===0===0===0.819833178337706===0
+112===1==="The Hollywood United 7-a-side teams"==="compete in"==="the Santa Monica Adult Soccer League"===0.9999999999262801===0.821===0===0.9676245771062721
+113===1==="signs in Cyrillic"==="are"==="visible"===0===0===0.806681519780085===0
+113===1==="the film's Bulgarian locale"==="is given"==="away"===0===0===0.806681519780085===0
+113===1==="the film's Bulgarian locale"==="is given"==="away as signs in Cyrillic are visible"===0===0===0.806681519780085===0
+114===1==="Hermine"==="was"==="married"===0===0===0.4757744721352606===0
+114===1==="Hermine"==="was"==="married on 7 January 1907 in Greiz to Prince Johann George Ludwig Ferdinand August of Schoenaich-Carolath 11 September 1873 7 April 1920"===0===0===0.4757744721352606===0
+114===1==="Hermine"==="was married on"==="7 January 1907"===0===0.918===0===0
+114===1==="Hermine"==="was married to"==="Prince Johann George Ludwig Ferdinand August of Schoenaich-Carolath"===0===0.913===0===0
+115===1==="He"==="appeared"==="in over 140 films between 1935 and 1950"===0===0===0.9208202230480353===0
+115===1==="He"==="appeared in"==="over 140 films"===0===0.9===0===0.45170382506656653
+115===1==="He"==="appeared in over"==="140 films"===0.2906278719070988===0===0===0
+116===1==="Ludwig"==="appeared"==="in a lead role"===0===0===0.7648532863834263===0
+116===1==="Ludwig"==="appeared"==="in a lead role in Disney's Race to Witch Mountain"===0===0===0.7648532863834263===0
+116===1==="Ludwig"==="appeared in"==="a lead role"===0.6059241336356725===0.915===0===0.9567562066335041
+117===1==="Pierluigi Casiraghi"==="called up"==="Alfonso"===0.9631289090565847===0.769===0===0.9212499880074402
+117===1==="Pierluigi Casiraghi"==="called up"==="Alfonso alongside with teammate Francesco Bolzoni to form part of the Italy national under-21 football team"===0===0===0.5503579302707988===0.9212499880074402
+117===1==="Pierluigi Casiraghi"==="called up"==="Alfonso to form part of the Italy national under-21 football team"===0===0===0.5503579302707988===0.9212499880074402
+118===1==="Journalists"==="are prohibited"==="from covering the rebellion"===0===0===0.9537975538855887===0
+119===1==="Grimes"==="also starred in"==="the sequel"===0===0.887===0===0
+119===1==="Grimes"==="also starred in"==="the sequel " Class of '44 ""===0.9150126180464356===0===0===0
+119===1==="the sequel " Class of '44 ""==="followed"==="his character"===0.11408257305142319===0===0===0
+120===1==="Guilty"==="is"==="a 1916 silent drama film"===0.15035610103919592===0===0.8356847722919066===0.9392901325936276
+120===1==="Guilty"==="is"==="a 1916 silent drama film featuring Harry Carey"===0===0===0.8356847722919066===0.9392901325936276
+121===1==="This"==="led"==="to an uprising"===0===0===0.6936527620688748===0
+121===1==="This"==="led"==="to an uprising in the holy city of Qum"===0===0===0.6936527620688748===0
+121===1==="This"==="led to"==="an uprising"===0.826674514502314===0===0===0.5426967497281026
+121===1==="the uprising"==="soon spread to"==="Tabriz"===0.9731666072246963===0===0===0
+122===1==="He"==="appeared"==="in 129 films between 1929 and 1946"===0===0===0.9343333535733986===0
+122===1==="He"==="appeared in"==="129 films"===0.19448935585236465===0.866===0===0.45170382506656653
+123===1==="Wellington"==="exploited"==="his great victory"===0.8119687736740755===0.803===0.7535957847126774===0.8615585111461579
+123===1==="Wellington"==="exploited"==="his great victory by capturing Madrid"===0===0===0.7535957847126774===0.8615585111461579
+124===1==="The title of the series"==="comes"==="from the very first episode"===0===0===0.7783133952337175===0
+124===1==="The title of the series"==="comes from"==="the very first episode"===0.8579895438744981===0===0===0.9256263201643982
+124===1==="Udav"==="has"==="his length measured in parrots"===0===0.784===0===0.8919658476537646
+125===1==="Carter's reorganization efforts"==="separated"==="the Department of Health , Education and Welfare"===0.9469705806066386===0===0===0.9485479188231729
+127===1==="all other Eclipse Awards"==="are voted on"==="by a chosen committee"===0===0===0.5629752397834497===0
+127===1==="all other Eclipse Awards"==="are voted on by"==="a chosen committee"===0.7268241238554065===0===0===0
+127===1==="the Moment of the Year"==="is voted on"==="by racing fans"===0===0===0.5629752397834497===0
+128===1==="Beauman"==="is married"==="to film director"===0===0===0.6946019066594356===0
+128===1==="Beauman"==="is married"==="to film director with whom she has one daughter"===0===0===0.6946019066594356===0
+128===1==="Beauman"==="is married"==="to producer James Bobin"===0===0===0.6946019066594356===0
+128===1==="Beauman"==="is married"==="to producer James Bobin with whom she has one daughter"===0===0===0.6946019066594356===0
+128===1==="Beauman"==="is married"==="to screenwriter"===0===0===0.6946019066594356===0
+128===1==="Beauman"==="is married"==="to screenwriter with whom she has one daughter"===0===0===0.6946019066594356===0
+128===1==="Beauman"==="is married to"==="film director"===0.9766491860803801===0===0===0
+128===1==="Beauman"==="is married to"==="film director , screenwriter and producer James Bobin"===0===0.908===0===0
+128===1==="she"==="has"==="one daughter"===0.10116583363167754===0.452===0===0.5222094630377523
+129===1==="others"==="noted"==="changes in the musical score"===0===0===0.45007794186235595===0
+129===1==="others"==="noted"==="disappointing choreography in some songs"===0===0===0.45007794186235595===0
+129===1==="others"==="noted"==="its mediocre production values"===0.3873363534717786===0===0.45007794186235595===0.7794154230651349
+129===1==="some reviewers"==="praised"==="the movie"===0.6614570597526983===0.793===0.45007794186235595===0.9030401971054747
+129===1==="some reviewers"==="praised"==="the movie as a classic example of 1960s camp"===0===0===0.45007794186235595===0.9030401971054747
+129===1==="some reviewers"==="praised the movie as"==="a classic example of 1960s camp"===0===0.881===0===0.9030401971054747
+130===1==="it"==="is ranked"==="as the strongest hockey league in Europe"===0===0===0.8884111109731583===0
+130===1==="it"==="is ranked as"==="the strongest hockey league"===0.4182057517452398===0.885===0===0.4978219019954182
+131===1==="He"==="is"==="an accomplished musician"===0===0===0.7810704091239246===0
+131===1==="He"==="is"==="songwriter"===0===0===0.7810704091239246===0
+131===1==="He"==="is also"==="an accomplished musician and songwriter"===0.334566675110679===0===0===0.45170382506656653
+132===1==="He"==="also served as"==="a councillor"===0.33581513542863184===0.866===0===0
+132===1==="He"==="served"==="as a councillor"===0===0===0.9699067935559004===0
+132===1==="He"==="served"==="as a councillor on Bermondsey"===0===0===0.9699067935559004===0
+133===1==="One other person"==="was killed"==="in fighting in Sidon"===0===0===0.7683294704244154===0
+133===1==="One other person"==="was killed in fighting in"==="Sidon"===0.9843233095715208===0===0===0
+134===1==="He"==="spent"==="two years on board the Type IIB U-boat"===0===0===0.24155195839236318===0.4667063855863067
+134===1==="He"==="spent two years on"==="board"===0.9885094733276938===0===0===0
+135===1==="Graziani"==="ordered"==="his entire army to advance towards the Ethiopian defensive lines"===0===0===0.737262769043961===0.8615585111461579
+135===1==="Graziani"==="ordered"==="his entire army to advance towards the Ethiopian defensive lines in a three-pronged attack"===0===0===0.737262769043961===0.8615585111461579
+136===1==="Bastion"==="had been"==="successful in the National Amateur League competitions the Fourth Level of competition in Ukraine"===0===0===0.5277880183618778===0.7735794665865495
+136===1==="Bastion"==="had been"==="successful in the National Amateur League competitions the Fourth Level of competition in Ukraine including winning the Ukrainian Amateur Championship in 2007"===0===0===0.5277880183618778===0.7735794665865495
+136===1==="Bastion"==="had been successful in"==="the National Amateur League competitions"===0===0.803===0===0.9210233335200773
+137===1==="The show"==="won"==="an Emmy Award"===0===0.792===0.7531732717773699===0.9369813267476892
+137===1==="The show"==="won"==="an Emmy Award in the category of Special Classification of Outstanding Program Achievements"===0===0===0.7531732717773699===0.9369813267476892
+137===1==="The show"==="won an Emmy Award in"==="the category of " Special Classification of Outstanding Program Achievements"===0===0.908===0===0.9472929138282772
+138===1==="He"==="held"==="the seat"===0===0.716===0.9759670766720215===0.5222094630377523
+138===1==="He"==="held"==="the seat in 1987"===0===0===0.9759670766720215===0.5222094630377523
+138===1==="He"==="held"==="the seat until his retirement"===0===0===0.9759670766720215===0.5222094630377523
+138===1==="He"==="held the seat until"==="his retirement"===0.6880136235720988===0.832===0===0.30899953469486874
+139===1==="France"==="was opposing"==="Spain at every juncture"===0===0===0.9460592762703626===0.9210233335200773
+140===1==="He"==="served"==="in the Wisconsin State Assembly"===0===0===0.766611719103468===0
+140===1==="He"==="served"==="in the Wisconsin State Assembly from 1998 to 2010"===0===0===0.766611719103468===0
+140===1==="He"==="served"==="in the Wisconsin State Assembly until he was appointed to the Wisconsin Court of Appeals"===0===0===0.766611719103468===0
+140===1==="He"==="served in"==="the Wisconsin State Assembly"===0.4946138394312085===0===0===0.4978219019954182
+140===1==="he"==="was appointed"==="to the Wisconsin Court of Appeals"===0===0===0.766611719103468===0
+140===1==="he"==="was appointed to"==="the Wisconsin Court of Appeals"===0.8339211946264882===0.852===0===0.4978219019954182
+141===1==="Cassinelli"==="attended"==="the catholic college Vittorino da Feltre"===0.9597780550807343===0===0===0.9064683704715875
+141===1==="Cassinelli"==="attended"==="the catholic college Vittorino da Feltre in the same city"===0===0===0.7601480561404818===0.9064683704715875
+141===1==="Cassinelli"==="was born"==="in Genoa"===0===0===0.7601480561404818===0
+141===1==="Cassinelli"==="was born in"==="Genoa"===0.9878484195117798===0.901===0===0.9324144673478683
+142===1==="Yun Jung Hoon"==="is"==="a Korean actor"===0.9999999998901186===0.735===0===0
+142===1==="Yun Jung Hoon born 1978"==="is"==="a Korean actor"===0===0===0.8759046941239945===0.9542225327267282
+143===1==="Lotu-Iiga"==="lives with"==="his wife"===0===0.797===0===0
+143===1==="Lotu-Iiga"==="lives with"==="his wife Jules"===0.9573625449070617===0===0===0
+144===1==="Dr. Jivraj"==="graced"==="public office"===0.7458239936821157===0.842===0.8552264672729655===0.9266232318014763
+144===1==="Dr. Jivraj"==="graced"==="public office in various positions"===0===0===0.8552264672729655===0.9266232318014763
+144===1==="Dr. Jivraj"==="graced public office in"==="various positions"===0===0.903===0===0.9266232318014763
+145===1==="Both films"==="are based"==="on the short story The Single Standard"===0===0===0.6103701641260478===0
+145===1==="the story"==="was adapted"==="for this production"===0===0===0.6103701641260478===0
+145===1==="the story"==="was adapted"==="for this production by Gerrit J. Lloyd"===0===0===0.6103701641260478===0
+145===1==="the story"==="was adapted for"==="this production"===0.8986869871225542===0.925===0===0.8997345737322758
+146===1==="the accompanying music"==="is generated"==="by the program"===0===0===0.7034409784034981===0
+146===1==="the accompanying music"==="is generated"==="by the program so that it's almost certain the listener will never quite hear the same arrangement twice"===0===0===0.7034409784034981===0
+147===1==="Booth"==="captain-coached"==="the Sandy Bay Football Club"===0===0.842===0.6820724131168152===0.9210233335200773
+147===1==="Booth"==="captain-coached"==="the Sandy Bay Football Club from 1959"===0===0===0.6820724131168152===0.9210233335200773
+147===1==="Booth"==="captain-coached"==="the Sandy Bay Football Club to 1961"===0===0===0.6820724131168152===0.9210233335200773
+147===1==="Booth"==="moved"==="to Tasmania"===0===0===0.6820724131168152===0
+147===1==="Booth"==="moved to"==="Tasmania"===0.9452787129637445===0===0===0.9324144673478683
+148===1==="Garcia"==="continued"==="to serve in that capacity for 7 years"===0===0===0.6112607018401767===0
+148===1==="Garcia"==="continued to serve for"==="7 years"===0===0.879===0===0
+148===1==="Garcia"==="continued to serve in"==="that capacity"===0.29473518776554997===0.916===0===0
+148===1==="Garcia"==="ran"==="for the Miami Beach City Commission"===0===0===0.6112607018401767===0
+148===1==="Garcia"==="successfully ran for"==="the Miami Beach City Commission"===0.9252270905941792===0.881===0===0.9324144673478683
+149===1==="Lawson"==="was"==="the sole black member"===0===0===0.496650407566861===0.9481947648689547
+149===1==="Lawson"==="was"==="the sole black member of the Homebrew Computer Club"===0===0.746===0.496650407566861===0.9481947648689547
+149===1==="a group of early computer hobbyists"==="would produce"==="a number of industry legends including Apple founders Steve Jobs"===0===0===0.496650407566861===0
+149===1==="a group of early computer hobbyists"==="would produce"==="a number of industry legends including Steve Wozniak"===0===0===0.496650407566861===0
+149===1==="a group of early computer hobbyists"==="would produce a number of"==="industry legends"===0.29000993991858154===0===0===0
+150===1==="Brawn GP"==="secured"==="a single race sponsorship deal"===0.7458239936821157===0.607===0.36432600563720413===0.8866256386988218
+150===1==="Brawn GP"==="secured"==="a single race sponsorship deal with Angfa Co. Ltd"===0===0===0.36432600563720413===0.8866256386988218
+150===1==="the medical shampoo Scalp-D"==="has proved"==="very popular in Japan"===0===0===0.36432600563720413===0.7535117993595638
+150===1==="the medical shampoo Scalp-D"==="has proved"==="very popular in Japan since its launch in 2005"===0===0===0.36432600563720413===0.7535117993595638
+151===1==="David Segal"==="died"==="nine years later"===0===0===0.9870114632861506===0.9266232318014763
+152===1==="Foreign investors"==="are declining"==="to finance Hungary's high budget"===0===0===0.5417636262025495===0
+152===1==="Foreign investors"==="are declining to finance"==="Hungary's high budget and current account deficits"===0===0.523===0===0
+152===1==="families"==="took out"==="foreign currency mortgages"===0===0===0.5417636262025495===0.896604430840561
+152===1==="hundreds of thousands of families"==="took out"==="foreign currency mortgages"===0.43218005525306424===0===0===0.896604430840561
+152===1==="the forint's weakness"==="threatens"==="hundreds of thousands of families"===0===0.846===0===0.9378846471308124
+152===1==="the forint's weakness in recent months"==="threatens"==="hundreds of thousands of families"===0===0===0.5417636262025495===0.9378846471308124
+153===1==="he"==="was appointed"==="General Staff Officer Grade III"===0.5057064693201853===0.714===0===0.4978219019954182
+154===1==="He"==="is"==="unaware of Thomas Barrett's intentions"===0===0===0.79696306185569===0.6783685094789625
+154===1==="He"==="is focused"==="on breaking up Garrincha's gang"===0===0===0.79696306185569===0
+154===1==="He"==="is unaware of"==="Thomas Barrett's intentions"===0.587830363038826===0===0===0
+155===1==="The royal family"==="did not edit"==="the book"===0.561189262245797===0.686===0.8149529765670235===0.9111779447320654
+156===1==="He"==="attempted"==="to escape"===0===0===0.47082047400471805===0
+156===1==="his ships"==="had been"==="at sea"===0===0===0.47082047400471805===0
+156===1==="his ships"==="had been"==="at sea for an extended period"===0===0===0.47082047400471805===0
+156===1==="his ships"==="had been at"==="sea"===0.8607331325158505===0.883===0===0.6381012045821894
+156===1==="his ships"==="were"==="sluggish"===0===0.771===0.47082047400471805===0.3444466732705899
+156===1==="his ships"==="were"==="sluggish compared to the 98-gun London"===0===0===0.47082047400471805===0.3444466732705899
+156===1==="the 98-gun " London ""==="opened"==="a heavy fire"===0.769710892074983===0===0===0
+156===1==="the 98-gun " London ""==="rapidly came alongside"==="the French ship of the line"===0.705983587209429===0.692===0===0.9401624716630546
+156===1==="the 98-gun London"==="came"==="alongside the French ship of the line"===0===0===0.47082047400471805===0
+156===1==="the 98-gun London"==="opened"==="a heavy fire"===0===0===0.47082047400471805===0
+157===1==="Abby"==="claims to be"==="12 years"===0.051015796133535275===0===0===0
+157===1==="Her name"==="is revealed"==="to be Abby"===0===0===0.7747747173180527===0
+157===1==="Her name"==="is revealed to be"==="Abby"===0.8974400375483986===0===0===0
+158===1==="he"==="only rejoined"==="the Bundestag"===0.47264609285600057===0===0===0.4978219019954182
+158===1==="he"==="rejoined"==="the Bundestag"===0===0===0.7885740894131112===0
+158===1==="he"==="rejoined"==="the Bundestag after the next elections as replacement candidate"===0===0===0.7885740894131112===0
+158===1==="he"==="rejoined"==="the Bundestag from 1964 to 1969"===0===0===0.7885740894131112===0
+159===1==="Zimmer"==="ran"==="for Mayor of Hoboken"===0===0===0.9432648830426759===0
+159===1==="Zimmer"==="ran"==="for Mayor of Hoboken in 2009"===0===0===0.9432648830426759===0
+159===1==="Zimmer"==="ran for"==="Mayor of Hoboken"===0.9656631702901362===0.941===0===0.9324144673478683
+160===1==="Lieutenant Commander Pavlic"==="received"==="the Purple Heart"===0.9643776020134006===0===0.8844426933244806===0.9436221120476838
+160===1==="Lieutenant Commander Pavlic"==="received"==="the Purple Heart posthumously"===0===0===0.8844426933244806===0.9436221120476838
+161===1==="His work in spectroscopy"==="involved"==="close cooperation"===0===0===0.8401755194812767===0
+161===1==="His work in spectroscopy"==="involved"==="close cooperation with Achim Mueller"===0===0===0.8401755194812767===0
+161===1==="His work in synthesis"==="involved"==="close cooperation"===0===0===0.8401755194812767===0
+161===1==="His work in synthesis"==="involved"==="close cooperation with Achim Mueller"===0===0===0.8401755194812767===0
+162===1==="The publisher"==="is"==="McGill-Queen's University Press"===0.9999999999464781===0.703===0.9812953304659866===0.9369813267476892
+163===1==="the president"==="will help"==="but totally unnecessary"===0===0===0.9348111147167527===0
+164===1==="It"==="was written"==="by David Frankel"===0===0===0.5968669209166055===0
+164===1==="It"==="was written"==="by David Frankel based on the article Convention of the Love Goddesses in Esquire Magazine by Bob Greene"===0===0===0.5968669209166055===0
+164===1==="It"==="was written"==="by Norman Steinberg"===0===0===0.5968669209166055===0
+164===1==="It"==="was written"==="by Norman Steinberg based on the article Convention of the Love Goddesses in Esquire Magazine by Bob Greene"===0===0===0.5968669209166055===0
+164===1==="It"==="was written by"==="Norman Steinberg"===0.8532470052209638===0===0===0.4978219019954182
+164===1==="It"==="was written by"==="Norman Steinberg and David Frankel"===0===0.876===0===0.4978219019954182
+165===1==="Tahar Rahim"==="is a French actor of"==="Algerian origins"===0.9999999998833959===0===0===0
+165===1==="Tahar Rahim born 5 July 1981"==="is"==="a French actor"===0===0===0.8048386108894746===0.9340463819568752
+165===1==="Tahar Rahim born 5 July 1981"==="is"==="a French actor of Algerian origins"===0===0===0.8048386108894746===0.9340463819568752
+167===1==="He"==="was called up for"==="a friendly game"===0===0.891===0===0.3929209860966329
+168===1==="He"==="resumed"==="test piloting"===0===0===0.855493896525918===0.41051436014453063
+168===1==="He"==="resumed"==="test piloting for SISA Airline"===0===0===0.855493896525918===0.41051436014453063
+168===1==="He"==="resumed"==="test piloting for fifteen years"===0===0===0.855493896525918===0.41051436014453063
+169===1==="the Jets"==="waived"==="defensive lineman Rodrique Wright"===0.9525032874453302===0===0.5670420588682488===0.9180804252893389
+169===1==="the Jets"==="waived"==="wide receivers Aundrae Allison"===0===0===0.5670420588682488===0
+169===1==="the Jets"==="waived"==="wide receivers Laveranues Coles"===0===0===0.5670420588682488===0
+169===1==="the Jets"==="waived"==="wide receivers Marcus Henry"===0===0===0.5670420588682488===0
+170===1==="Mana"==="began"==="his playing career"===0.8288762275876247===0.812===0.7271357423187348===0.8821938819052391
+170===1==="Mana"==="began"==="his playing career with Quilmes"===0===0===0.7271357423187348===0.8821938819052391
+170===1==="Mana"==="began his playing career with"==="Quilmes"===0===0.81===0===0
+171===1==="Baharum"==="was elected"==="to federal Parliament"===0===0===0.8095386710473765===0
+171===1==="Baharum"==="was elected"==="to federal Parliament in the 2004 election for the newly created seat of Sekijang"===0===0===0.8095386710473765===0
+171===1==="Baharum"==="was elected for"==="the newly created seat of Sekijang"===0===0.931===0===0
+171===1==="Baharum"==="was elected in"==="the 2004 election"===0===0.918===0===0
+171===1==="Baharum"==="was elected to"==="federal Parliament"===0.9883435392517197===0.935===0===0.9324144673478683
+172===1==="Ryerson's Faculty of Community Services"==="offers"==="multi-disciplinary programs"===0===0===0.691213614064171===0.9675410502087985
+172===1==="Ryerson's Faculty of Community Services"==="offers"==="multi-disciplinary programs in community development"===0===0===0.691213614064171===0
+172===1==="Ryerson's Faculty of Community Services"==="offers"==="multi-disciplinary programs in early childhood education"===0===0===0.691213614064171===0
+172===1==="Ryerson's Faculty of Community Services"==="offers"==="multi-disciplinary programs in health"===0===0===0.691213614064171===0.9675410502087985
+172===1==="Ryerson's Faculty of Community Services"==="offers"==="multi-disciplinary programs in social justice"===0===0===0.691213614064171===0
+173===1==="A woman Tina"==="arrives"==="at Cholera street"===0===0===0.7568135399772298===0
+173===1==="A woman Tina"==="arrives"==="at Cholera street where she takes up residence"===0===0===0.7568135399772298===0
+173===1==="A woman Tina"==="arrives"==="at Cholera street where she works as a prostitute"===0===0===0.7568135399772298===0
+173===1==="Tina"==="arrives at"==="Cholera street"===0.8110035721705385===0===0===0
+173===1==="she"==="takes up"==="residence"===0===0===0.7568135399772298===0.45170382506656653
+173===1==="she"==="takes up"==="residence and works"===0.16168056748408838===0.71===0===0.45170382506656653
+173===1==="she"==="takes up works as"==="a prostitute"===0===0.648===0===0
+173===1==="she"==="works"==="as a prostitute"===0===0===0.7568135399772298===0
+174===1==="The plan"==="was"==="to airlift one battalion of the 24th Infantry Division"===0===0===0.3701494837632347===0
+174===1==="The plan"==="was"==="to airlift one battalion of the 24th Infantry Division into South Korea via C-54 Skymaster transport aircraft"===0===0===0.3701494837632347===0
+174===1==="The plan"==="was"==="to block advancing North Korean forces"===0===0===0.3701494837632347===0
+174===1==="The plan"==="was"==="to block advancing North Korean forces while the remainder of the division was transported on ships"===0===0===0.3701494837632347===0
+174===1==="The plan"==="was to airlift"==="one battalion of the 24th Infantry Division"===0===0.87===0===0
+174===1==="the remainder of the division"==="was transported"==="on ships"===0===0===0.3701494837632347===0
+174===1==="the remainder of the division"==="was transported on"==="ships"===0.9990300197003998===0.867===0===0.9256263201643982
+175===1==="His usual position"==="was"==="in the centres"===0===0===0.931007196343263===0
+175===1==="His usual position"==="was"==="on the wing"===0===0===0.931007196343263===0
+175===1==="His usual position"==="was on"==="the wing"===0.9982059868263585===0===0===0.6601056213946704
+177===1==="Akhundov"==="served"==="as the Vice President of the Azerbaijan National Academy of Sciences"===0===0===0.7412380738497212===0
+177===1==="Akhundov"==="served"==="as the Vice President of the Azerbaijan National Academy of Sciences until 1972"===0===0===0.7412380738497212===0
+177===1==="Akhundov"==="served as"==="the Vice President of the Azerbaijan National Academy of Sciences"===0.91360963514526===0.937===0===0.9567562066335041
+178===1==="They"==="were given"==="a revision session on how to pray"===0===0===0.8656439433378303===0.7196671313632028
+178===1==="They"==="were given"==="a revision session on how to pray , and character building"===0===0.878===0===0.7196671313632028
+181===1==="Some academic philosophers"==="have criticized"==="Rand"===0.8579818605444661===0.766===0===0.9250606141558615
+181===1==="Some academic philosophers"==="have criticized"==="Rand for what they consider her lack of rigor"===0===0===0.6887038208098338===0.9250606141558615
+181===1==="Some academic philosophers"==="have criticized"==="Rand for what they consider limited understanding of philosophical subject matter"===0===0===0.6887038208098338===0.9250606141558615
+182===1==="the Almoravid dynasty"==="constructed"==="a unified Al-Andalus"===0.9059944442645228===0===0.37416833804446326===0.927981291055698
+182===1==="the Almoravid dynasty"==="constructed"==="a unified Al-Andalus in Granada"===0===0===0.37416833804446326===0.927981291055698
+182===1==="the Almoravid dynasty"==="constructed"==="a unified Al-Andalus with its capital"===0===0===0.37416833804446326===0.927981291055698
+183===1==="Lancaster"==="was"==="nominated"===0===0.69===0===0
+183===1==="Lancaster"==="was nominated"==="four times"===0===0===0.6860389627420652===0
+183===1==="Lancaster"==="was nominated"==="four times for Academy Awards"===0===0===0.6860389627420652===0
+183===1==="Lancaster"==="was nominated for"==="Academy Awards"===0===0.755===0===0.9000738595917936
+183===1==="Lancaster"==="was nominated four times for"==="Academy Awards"===0.9906932305345331===0===0===0
+183===1==="Lancaster"==="won"==="once for his work"===0===0===0.6860389627420652===0.8192566902456899
+183===1==="Lancaster"==="won"==="once for his work in Elmer Gantry in 1960"===0===0===0.6860389627420652===0.8192566902456899
+183===1==="Lancaster"==="won once for"==="his work"===0===0.873===0===0
+185===1==="She"==="was discharged from"==="the Sirio-Libanes Hospital"===0.8489034501550581===0.891===0===0.4978219019954182
+185===1==="She"==="was discharged on"==="the June 23 , 2008"===0===0.864===0===0
+186===1==="the trio"==="did appear"==="on the 12-date benefit tour for Action for Research into Multiple Sclerosis"===0===0===0.5919709635947895===0
+186===1==="the trio"==="did appear on"==="the 12-date benefit tour"===0.9691386963941753===0===0===0.9472929138282772
+187===1==="Crick"==="stressed"==="the importance"===0.8446451270506704===0===0===0.8550806581371961
+187===1==="Crick"==="stressed"==="the importance of finding new methods to probe human brain function"===0===0===0.8392682261630682===0.8550806581371961
+189===1==="unarmed protesters"==="had objected"==="to policies of the Hamas government"===0===0===0.4036670318809709===0
+189===1==="unarmed protesters"==="had objected to"==="policies of the Hamas government"===0.9413606567781092===0===0===0.9045207649554154
+190===1==="The court's official seat"==="is"==="in The Hague Netherlands"===0===0===0.8100076770102206===0
+190===1==="The court's official seat"==="is in"==="The Hague , Netherlands"===0.9212276729769894===0===0===0.9374058759955192
+190===1==="its proceedings"==="may take"==="place"===0.47171513913294055===0===0===0.6381012045821894
+190===1==="its proceedings"==="may take"==="place anywhere"===0===0===0.8100076770102206===0.6381012045821894
+191===1==="Donald Markwel"==="argued"==="that in the absence of such an international approach there would be a risk of possibly even world war arising from similar economic factors to those present during the depression of the 1930s"===0===0===0.42934016468871916===0
+191===1==="Donald Markwel"==="argued"==="that in the absence of such an international approach there would be a risk of worsening international relations"===0===0===0.42934016468871916===0
+192===1==="This"==="was"==="a first"===0===0===0.8625844794726302===0.4953945753189672
+192===1==="This"==="was"==="a first as the market shifts away from traditional television"===0===0===0.8625844794726302===0
+192===1==="This"==="was"==="a first for the United States"===0===0===0.8625844794726302===0.4953945753189672
+192===1==="This"==="was a first for"==="the United States"===0.9908599211399505===0===0===0
+193===1==="The Ottoman Central Bank"==="is"==="the first building"===0===0.734===0.9535389364199168===0.9531084046451801
+193===1==="The Ottoman Central Bank"==="is"==="the first building at right"===0===0===0.9535389364199168===0.9531084046451801
+194===1==="This"==="may seem out"==="of step with his agnostic convictions"===0===0===0.5783319018738992===0
+194===1==="This"==="may seem out of"==="step"===0.0969559959812882===0===0===0
+194===1==="the Bible's significant moral teachings and superb use of language"==="were"==="relevant"===0===0.689===0===0
+195===1==="Ukraine"==="continues"==="to maintain the second largest military in Europe"===0===0===0.7602067762304547===0
+196===1==="The Venice Film Festival"==="is"==="the oldest film festival"===0.8089177588800741===0.734===0.9043722012905061===0.9531084046451801
+196===1==="The Venice Film Festival"==="is"==="the oldest film festival in the world"===0===0===0.9043722012905061===0.9531084046451801
+197===1==="Harold"==="had"==="foot soldiers and few if any archers"===0===0.799===0===0.9383119524695255
+197===1==="William"==="had"==="both cavalry and infantry"===0.6416724770704978===0===0===0.9383119524695255
+197===1==="William"==="had"==="cavalry and infantry"===0===0.784===0===0.9383119524695255
+198===1==="it"==="has"==="several ski resorts"===0.21373931071215443===0.624===0.5997879057521422===0.5222094630377523
+198===1==="the Moncayo"==="has"==="several ski resorts"===0===0.558===0===0
+199===1==="The Battle of Weihaiwei"==="was"==="a 23 day siege"===0.8446451270506704===0.736===0.7221289112023553===0.9751389598371145
+199===1==="The Battle of Weihaiwei"==="was"==="a 23 day siege during the First Sino-Japanese War"===0===0===0.7221289112023553===0
+199===1==="The Battle of Weihaiwei"==="was"==="a 23 day siege with naval component"===0===0===0.7221289112023553===0

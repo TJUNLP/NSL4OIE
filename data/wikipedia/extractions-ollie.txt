@@ -1,0 +1,765 @@
+Henry was Governor Edwin Washington Edwards's choice for Speaker.
+0	"Henry"	"was choice for"	"Speaker"	0.729
+0	"Henry"	"was"	"choice"	0.766
+Mrs. Yogeswaran was shot five times with a pistol near her Jaffna home on May 17, 1998.
+1	"Mrs. Yogeswaran"	"was shot in"	"five times"	0.829
+1	"Mrs. Yogeswaran"	"was shot on"	"May 17 , 1998"	0.83
+1	"Mrs. Yogeswaran"	"was shot with"	"a pistol"	0.918
+Girard has a bachelor's degree in political sciences at the Universite de Montreal and did studies for the master's degree in industrial relations.
+2	"Girard"	"did"	"studies"	0.692
+2	"Girard"	"has a bachelor 's degree in political sciences at"	"the Universite de Montreal"	0.877
+2	"Girard"	"has in"	"political sciences"	0.826
+2	"Girard"	"has"	"a bachelor 's degree"	0.785
+It was #109 on the Billboard 200 chart.
+3	"It"	"was"	"109"	0.649
+Robert Barnard (born 23 November 1936) is an English crime writer, critic and lecturer.
+The secretary/music director for the church, Anne (Susan Clark), is wary of changes for the congregation intended by Hill.
+5	"the church"	"be The secretary/music director for"	"Anne"	0.309
+5	"the congregation"	"be intended by"	"Hill"	0.719
+"Doing Time on Maple Drive" was released on Region 1 DVD on September 7, 2004.
+6	"Doing Time"	"was released in"	"Region 1 DVD"	0.561
+6	"Doing Time"	"was released in"	"September 7"	0.466
+6	"Doing Time"	"was released on"	"Region 1 DVD"	0.899
+6	"Doing Time"	"was released on"	"September 7"	0.858
+6	"Doing Time"	"was released"	"2004"	0.684
+It comprises and includes mountains reaching an altitude of above sea level.
+7	"It"	"includes"	"mountains reaching an altitude of above sea level"	0.782
+He starred as Lancelot in the national tour of "Spamalot" from 2006 through 2008.
+8	"He"	"starred as"	"Lancelot"	0.856
+The film as well as the musical were criticized by some religious groups.
+9	"the musical"	"were criticized by"	"some religious groups"	0.869
+As in the film, Richards is given the chance to become a Hunter by Killian, though unlike in the film, he accepts.
+10	"Richards"	"is given"	"the chance to become a Hunter by Killian , though unlike in the film , he accepts"	0.805
+The film debuted on October 30, 1968 (December 29, 1968 London premiere.
+11	"The film"	"debuted on"	"October 30 , 1968"	0.87
+The Arab nationalists aimed, in part, to remove British imperial influence in Iraq.
+A sequel, in name only, called "Return of the Ape Man", followed in 1944, one year later after this film and starred Bela Lugosi, John Carradine and George Zucco.
+13	"A sequel"	"be only called one year later after"	"this film"	0.754
+13	"A sequel"	"be only called one year later in"	"name"	0.745
+Dr.Gayatri (Bipasha Basu) is researching the esoteric practices like voodoo, spirit possession, magic and healing powers.
+14	"Bipasha Basu"	"is researching"	"the esoteric practices"	0.7
+Simultaneously won the "Hope of the World Ballet" Prize.
+This version was cut down to 100-minutes in length.
+16	"This version"	"was cut down to"	"100-minutes"	0.929
+He was born in New York and died at Livonia, Michigan.
+17	"He"	"died at"	"Livonia"	0.683
+17	"He"	"was born at"	"New York"	0.413
+17	"He"	"was born in"	"New York"	0.836
+17	"He"	"was born on"	"New York"	0.412
+Fred Kohler (April 20, 1888 - October 28, 1938) was an American actor known for his "heavy" style of character.
+18	""heavy"	"be style of"	"character"	0.347
+18	"an American actor"	"be known for"	"his "heavy " style of character"	0.746
+Outpost Harry was a remote Korean War station located on a tiny hilltop in what was commonly referred to as the "Iron Triangle" on the Korean Peninsula.
+19	"Outpost Harry"	"was a remote Korean War station on"	"a tiny hilltop"	0.804
+19	"Outpost Harry"	"was"	"a remote Korean War station"	0.655
+19	"a remote Korean War station"	"be located on"	"a tiny hilltop"	0.772
+By agreement among the Allied nations, in March 1942 the acific theatre was divided into the South West Pacific Area, under General Douglas MacArthur, and the Pacific Ocean Areas, under Admiral Chester W. Nimitz.
+Fighting continued in and around Baidoa, particularly at Iidale and Dinsoor; approximately 60 and 120 kilometres south of Baidoa respectively.
+21	"Fighting"	"continued approximately 60 and 120 kilometres south of Baidoa respectively around"	"in and around Baidoa"	0.742
+21	"Fighting"	"continued"	"approximately 60 and 120 kilometres"	0.66
+21	"approximately 60 and 120 kilometres"	"be continued around"	"in and around Baidoa"	0.641
+Another version of the story was filmed in 1934, entitled The Courage of Charlie Chan.
+22	"Another version of the story"	"was filmed in"	"1934"	0.919
+He consults his family doctor for solution.
+23	"He"	"consults"	"his family doctor"	0.666
+The International Center for Research on Women (ICRW) is a non-profit organization headquartered in Washington, D.C., United States, with a regional office in New Delhi, India.
+24	"ICRW"	"is a non-profit organization with"	"a regional office"	0.696
+24	"ICRW"	"is"	"a non-profit organization headquartered in Washington , D.C. , United States"	0.599
+24	"a non-profit organization"	"be headquartered in"	"Washington"	0.667
+His return bout in the UFC occurred at "UFC 81", where he submitted Rob Yundt at 1:08 in the first round.
+25	"His return bout"	"occurred at"	"UFC 81""	0.908
+25	"Rob Yundt"	"be submitted at"	"1:08"	0.819
+25	"Rob Yundt"	"be submitted in"	"the first round"	0.795
+25	"he"	"submitted Rob Yundt at"	"1:08"	0.859
+25	"he"	"submitted Rob Yundt in"	"the first round"	0.803
+25	"he"	"submitted"	"Rob Yundt"	0.734
+Frank Lanning as Francisco Cortez, escaped convict falsely accused of murder ing Jim Lester's father.
+26	"convict"	"be falsely accused of"	"murder ing Jim Lester 's father"	0.928
+Wu worked as a reporter for United Press International from 1973 until 1978 when she joined WGBH-TV, Boston's public television station, as the Massachusetts State House reporter until 1983.
+27	"Wu"	"worked as a reporter for United Press International as"	"the Massachusetts State House reporter"	0.668
+27	"Wu"	"worked as a reporter for United Press International from"	"1973"	0.837
+27	"Wu"	"worked as a reporter for United Press International until"	"1978"	0.731
+27	"Wu"	"worked as a reporter for United Press International until"	"1983"	0.633
+27	"Wu"	"worked"	"a reporter"	0.716
+27	"a reporter"	"be worked as"	"the Massachusetts State House reporter"	0.674
+27	"a reporter"	"be worked from"	"1973"	0.804
+27	"a reporter"	"be worked until"	"1978"	0.736
+27	"a reporter"	"be worked until"	"1983"	0.639
+27	"she"	"joined"	"WGBH-TV , Boston 's public television station"	0.667
+The New Zealand Naval Forces was a Division of the Royal Navy.
+28	"The New Zealand Naval Forces"	"was a Division of"	"the Royal Navy"	0.853
+28	"The New Zealand Naval Forces"	"was"	"a Division of the Royal Navy"	0.77
+The previous season had seen him lead Dawlish to 2nd place in the Western League, their highest ever league finishing position.
+29	"Dawlish"	"be lead to"	"2nd place"	0.818
+29	"him"	"lead Dawlish to"	"2nd place"	0.784
+29	"him"	"lead"	"Dawlish"	0.693
+29	"the Western League"	"be 2nd place in"	"their highest ever league finishing position"	0.227
+In his years on Newsnight, he has reported on many of the most compelling foreign news stories in the past two decades: the Gulf War; the attempted coup d'etat in Moscow; 1993 events in Moscow; Bosnian War; Middle East peace process; the War in Kosovo; and the recent US military campaigns in War in Afghanistan and War in Iraq.
+30	"US"	"be military campaigns in"	"Afghanistan and War"	0.685
+30	"US"	"be military campaigns in"	"Iraq"	0.632
+30	"US"	"be military campaigns in"	"War"	0.662
+30	"US"	"military campaigns in"	"Afghanistan and War"	0.724
+30	"US"	"military campaigns in"	"Iraq"	0.674
+30	"US"	"military campaigns in"	"War"	0.702
+30	"compelling"	"be foreign news stories in"	"the past two decades"	0.256
+30	"foreign"	"be news stories in"	"the past two decades"	0.256
+30	"he"	"has reported 1993 events in Moscow in"	"his years"	0.245
+30	"he"	"has reported 1993 events in Moscow on"	"many of the most compelling foreign news stories"	0.558
+30	"he"	"has reported Bosnian War in"	"his years"	0.245
+30	"he"	"has reported Bosnian War on"	"many of the most compelling foreign news stories"	0.558
+30	"he"	"has reported Middle East peace process in"	"his years"	0.245
+30	"he"	"has reported Middle East peace process on"	"many of the most compelling foreign news stories"	0.558
+30	"he"	"has reported the Gulf War"	"the attempted coup d'etat in Moscow"	"1993 events in Moscow"	"Bosnian War"	"Middle East peace process"	"the War in Kosovo"	"in"	"his years"	0.112
+30	"he"	"has reported the Gulf War"	"the attempted coup d'etat in Moscow"	"1993 events in Moscow"	"Bosnian War"	"Middle East peace process"	"the War in Kosovo"	"on"	"many of the most compelling foreign news stories"	0.494
+30	"he"	"has reported the War in Kosovo in"	"his years"	0.245
+30	"he"	"has reported the War in Kosovo on"	"many of the most compelling foreign news stories"	0.558
+30	"he"	"has reported the attempted coup d'etat in Moscow in"	"his years"	0.245
+30	"he"	"has reported the attempted coup d'etat in Moscow on"	"many of the most compelling foreign news stories"	0.558
+30	"he"	"has reported the recent US military campaigns in War in Afghanistan and War in Iraq in"	"his years"	0.112
+30	"he"	"has reported the recent US military campaigns in War in Afghanistan and War in Iraq on"	"many of the most compelling foreign news stories"	0.329
+30	"he"	"has reported"	"the Gulf War"	"the attempted coup d'etat in Moscow"	"1993 events in Moscow"	"Bosnian War"	"Middle East peace process"	"the War in Kosovo"	"and the recent US military campaigns"	0.643
+William Dozier (February 13, 1908 - April 23, 1991) was an American film and television producer and actor.
+When the ZANU-PF-Movement for Democratic Change national unity government was sworn in on February 13, 2009, Nhema was included in the Cabinet as Minister of the Environment.
+32	"Nhema"	"was included as"	"Minister of the Environment"	0.927
+32	"Nhema"	"was included in"	"the Cabinet"	0.932
+She was a member of the National Union of Women Workers.
+33	"She"	"was a member of"	"the National Union of Women Workers"	0.92
+33	"She"	"was"	"a member of the National Union of Women Workers"	0.688
+He was Premier of the Republic of China from 1989 to 1990, serving for one year under former President Lee Teng-hui.
+34	"He"	"was Premier of the Republic of China from"	"1989"	0.822
+34	"He"	"was Premier of"	"the Republic of China"	0.887
+34	"He"	"was"	"Premier of the Republic of China"	0.765
+He made his debut in a Champions League game Fenerbahce-Inter (1-0).
+35	"He"	"made his debut in"	"a Champions League game Fenerbahce-Inter"	"1-0"	0.815
+35	"He"	"made"	"his debut"	0.71
+35	"his debut"	"be made in"	"a Champions League game Fenerbahce-Inter"	"1-0"	0.795
+The Islamic Jihad Union (IJU), also known as Islamic Jihad Group (IJG), is a terrorist organization which splintered from the Islamic Movement of Uzbekistan (IMU), and has conducted attacks in Uzbekistan and attempted attacks in Germany.
+36	"IJG"	"is"	"a terrorist organization which splintered from the Islamic Movement of Uzbekistan"	"IMU"	", and has conducted attacks in Uzbekistan and attempted attacks in Germany"	0.603
+36	"IJU"	"be also known as"	"Islamic Jihad Group"	0.894
+36	"a terrorist organization"	"splintered from"	"the Islamic Movement of Uzbekistan"	0.82
+After three brain surgeries, she died at the age of 53 in Leusden, The Netherlands, where she had lived during her illness.
+37	"she"	"died after"	"three brain surgeries"	0.601
+37	"she"	"died at"	"the age of 53"	0.895
+37	"she"	"died in"	"Leusden"	0.748
+37	"she"	"died"	"Leusden"	0.46
+37	"she"	"had lived during"	"her illness"	0.688
+Cadabra has also played for FC Cessange Bracarenses Grund 2001 (twice) and FC Etzella Ettelbruck in Luxembourg.
+38	"Cadabra"	"has also played for"	"FC Cessange Bracarenses Grund 2001"	0.811
+He played the healer Goggins who is a Draenei shaman.
+39	"He"	"played"	"the healer"	0.685
+For the 2006-07 season, Pace played with the Nelson Giants in the New Zealand National Basketball League.
+40	"Pace"	"played for"	"the 2006-07 season"	0.728
+40	"Pace"	"played in"	"the New Zealand National Basketball League"	0.879
+40	"Pace"	"played with"	"the Nelson Giants"	0.916
+These policies were enforced by the police.
+41	"These policies"	"were enforced by"	"the police"	0.919
+On February 6, 2008, the post office in Taft was renamed the "Larry S. Pierce Post Office" in his honor.
+42	"the post office"	"was renamed the " Larry S. Pierce Post Office " in"	"his honor"	0.79
+42	"the post office"	"was renamed the " Larry S. Pierce Post Office " on"	"February 6 , 2008"	0.586
+42	"the post office"	"was renamed"	"the " Larry S. Pierce Post Office"	0.694
+LaBrocca scored his first goal for the club in a 4-1 home victory vs. Chicago Fire.
+43	"LaBrocca"	"scored for"	"the club"	0.826
+43	"LaBrocca"	"scored"	"his first goal"	0.812
+He is married to Washington Post journalist Ruth Marcus.
+44	"He"	"is married to"	"Washington Post journalist Ruth Marcus"	0.875
+44	"Ruth Marcus"	"be journalist for"	"Washington Post"	0.57
+44	"Ruth Marcus"	"be journalist of"	"Washington Post"	0.645
+Kuroki is the only Japanese American known to have participated in air combat missions in the Pacific theater of operations during the war.
+45	"Kuroki"	"is"	"the only Japanese American"	0.687
+After his service in the United States Army (1968-1971), Middleton became the owner and operator of Cedar Hill Farm near Waldorf, Maryland.
+46	"Middleton"	"became the owner of"	"Cedar Hill Farm"	0.92
+46	"Middleton"	"became"	"the owner and operator of Cedar Hill Farm"	0.845
+"The Candy Trail" is a 1916 silent comedy film featuring Oliver Hardy.
+47	"The Candy Trail"	"is"	"a 1916 silent comedy film featuring Oliver Hardy"	0.664
+Daughter of the actor Ismael Sanchez Abellan and actress and writer Ana Maria Bueno (better known as Ana Rosetti), Gabriel was born in San Fernando, Cadiz, but spent her childhood in Madrid.
+48	"Daughter of the actor Ismael Sanchez Abellan and actress and writer Ana Maria"	"be known as"	"Ana Rosetti"	0.531
+48	"Daughter of the actor Ismael Sanchez Abellan and actress and writer Ana Maria"	"was born at"	"San Fernando"	0.322
+48	"Daughter of the actor Ismael Sanchez Abellan and actress and writer Ana Maria"	"was born in"	"San Fernando"	0.775
+48	"Daughter of the actor Ismael Sanchez Abellan and actress and writer Ana Maria"	"was born on"	"San Fernando"	0.322
+48	"Gabriel"	"be known as"	"Ana Rosetti"	0.578
+48	"Gabriel"	"was born at"	"San Fernando"	0.541
+48	"Gabriel"	"was born in"	"San Fernando"	0.895
+48	"Gabriel"	"was born on"	"San Fernando"	0.54
+48	"San Fernando"	"was born in"	"Cadiz"	0.504
+48	"her childhood"	"be spent in"	"Madrid"	0.818
+He was made an Officer of the Order of Australia in the Australia Day honours of 2003, for service to the Australian Labor Party and to politics through the introduction of modern campaign techniques, fundraising protocols for all political parties, affirmative action guidelines, and by strengthening the party's organisational and financial structure.
+49	"He"	"be an Officer of"	"the Order of Australia"	0.692
+49	"He"	"was made affirmative action guidelines for"	"service"	0.737
+49	"He"	"was made affirmative action guidelines in"	"the Australia Day honours of 2003"	0.726
+49	"He"	"was made affirmative action guidelines on"	"the Australia Day honours of 2003"	0.319
+49	"He"	"was made affirmative action guidelines through"	"the introduction of modern campaign techniques"	0.726
+49	"He"	"was made affirmative action guidelines"	"an Officer of the Order of Australia"	0.526
+49	"He"	"was made an Officer of the Order of Australia for"	"service"	0.889
+49	"He"	"was made an Officer of the Order of Australia in"	"the Australia Day honours of 2003"	0.907
+49	"He"	"was made an Officer of the Order of Australia on"	"the Australia Day honours of 2003"	0.574
+49	"He"	"was made an Officer of the Order of Australia through"	"the introduction of modern campaign techniques"	0.793
+49	"He"	"was made an Officer of the Order of Australia"	"affirmative action guidelines"	0.502
+Dissatisfaction with progress and lack of resettlement of refugees caused the CNDP forces to declare war on the FDLR and hostilities to resume, including civilian atrocities.
+50	"Dissatisfaction"	"caused including"	"civilian atrocities"	0.702
+50	"Dissatisfaction"	"caused"	"the CNDP forces"	0.867
+50	"war"	"to be declare on"	"the FDLR and hostilities"	0.615
+"While the Arab world is a rich prize in itself, Europe has been and remains the primary objective.
+51	"Europe"	"remains"	"the primary objective"	0.768
+51	"the Arab world"	"is a rich prize in"	"itself"	0.736
+51	"the Arab world"	"is"	"a rich prize"	0.569
+Since the British also knew that by law the fleet could only land at Cadiz, as well as its place and approximate time of departure from South America, it was not difficult to position a squadron to intercept it.
+52	"it"	"was"	"not difficult"	0.566
+52	"the fleet"	"could only land at"	"Cadiz"	"[attrib=the British also knew]"	0.774
+52	"the fleet"	"could only land by"	"law"	"[attrib=the British also knew]"	0.586
+Tomkins made his Premier League debut on 22 March 2008 in a 1-1 draw away to Everton.
+53	"Tomkins"	"made away"	"his Premier League debut"	0.699
+53	"Tomkins"	"made his Premier League debut away in"	"a 1-1 draw"	0.808
+53	"Tomkins"	"made his Premier League debut away on"	"22 March 2008"	0.861
+53	"Tomkins"	"made his Premier League debut away to"	"Everton"	0.83
+53	"his Premier League debut"	"be made away in"	"a 1-1 draw"	0.728
+53	"his Premier League debut"	"be made away on"	"22 March 2008"	0.798
+53	"his Premier League debut"	"be made away to"	"Everton"	0.757
+He then went on to work for Cisco Systems, one of the world's largest high-tech businesses.
+54	"He"	"then went to work for"	"Cisco Systems"	0.685
+54	"He"	"to work for"	"Cisco Systems"	0.685
+He fathered two children, Edna and Donald, and lived in Aberdeen until his death from tuberculosis in 1942.
+55	"He"	"fathered"	"two children"	0.685
+55	"He"	"lived in"	"Aberdeen"	0.856
+55	"He"	"lived until"	"his death"	0.794
+A Great-Great Grandson was Robert Norton Noyce (1927 - 1990), nicknamed "the Mayor of Silicon Valley", co-founder of Fairchild Semiconductor in 1957 and Intel in 1968.
+56	"A Great-Great Grandson"	"was"	"Robert Norton Noyce"	0.628
+After learning to play from her mother and continuing as a music student in local schools, Alice was accepted as a student of Carlos Salzedo at the Curtis Institute of Music in Philadelphia, Pennsylvania.
+57	"Alice"	"be a student of"	"Carlos Salzedo"	0.453
+57	"Alice"	"was accepted as"	"a student of Carlos Salzedo"	0.95
+This article includes attacks on continental territory (extending 200 miles into the ocean) which is today under the sovereignty of the United States, Canada and Mexico but excludes military action involving the Danish territory of Greenland and the Caribbean.
+58	"200 miles"	"be extending into"	"the ocean"	0.622
+58	"Danish"	"be territory of"	"Greenland and the Caribbean"	0.837
+58	"This article"	"includes"	"attacks"	0.807
+Princeton's women's track & field team has also enjoyed great success under Head Coach Peter Farrell.
+59	"Princeton 's women 's track"	"has also enjoyed great success under"	"Head Coach Peter Farrell"	0.809
+59	"Princeton 's women 's track"	"has also enjoyed"	"great success"	0.784
+59	"field team"	"has also enjoyed great success under"	"Head Coach Peter Farrell"	0.8
+59	"field team"	"has also enjoyed"	"great success"	0.785
+The report implied that the infighting in Zanu-PF over Mugabe's successor was also hurting policy formulation and consistency in implementation.
+60	"the infighting"	"was also hurting"	"policy formulation and consistency"	0.569
+"Life Partner" netted overseas in its opening week while it netted domestically by the third week.
+61	"Life Partner"	"netted overseas in"	"its opening week"	"[enabler=while it netted domestically by the third week]"	0.82
+61	"it"	"netted domestically by"	"the third week"	0.766
+He also did the voice of Tommy in the action game "Prey".
+62	"the voice of Tommy"	"be did in"	"the action game"	0.724
+The film was first shown on 18 July 2009 in Montreal at the Fantasia Festival.
+63	"The film"	"was"	"first"	0.665
+63	"first"	"be shown at"	"the Fantasia Festival"	0.595
+63	"first"	"be shown on"	"18 July 2009"	0.645
+The foundations of the University of the Aegean date back to October 1918 when Greece had expanded its geographic borders to the wider Smyrna area after the World War I. 
+64	"Greece"	"had expanded its geographic borders after"	"the World War I."	0.799
+64	"Greece"	"had expanded its geographic borders to"	"the wider Smyrna area"	0.856
+64	"Greece"	"had expanded"	"its geographic borders"	0.755
+These include award sculptures for organizations such as the National Air and Space Museum, the PGA Tour, the Georgetown University Lombardi Cancer Center, the World Peace Foundation, and the Shakespeare Guild.
+Argentina has an important rugby union football team, "Los Pumas", with many of its players playing in Europe.
+66	"Argentina"	"has"	"an important rugby union football team"	0.712
+66	"its players"	"playing in"	"Europe"	0.682
+They have also competed in the UEFA Women's Cup and UEFA Women's Champions League.
+67	"They"	"have also competed in"	"the UEFA Women 's Cup and UEFA Women 's Champions League"	0.871
+Finklea began his medical career as a physician and a professor at a series of medical schools.
+68	"Finklea"	"began his medical career as"	"a physician and a professor"	0.92
+68	"Finklea"	"began"	"his medical career"	0.812
+68	"his medical career"	"be began as"	"a physician and a professor"	0.813
+It was later broadcast on NBC on February 26, 2009 and is now available as a separate DVD as of March 24, 2009, It also the televison premiere for Nickelodeon on March 6, 2011.
+69	"It"	"be also the televison premiere for"	"Nickelodeon"	0.671
+69	"It"	"be also the televison premiere on"	"March 6 , 2011"	0.656
+69	"It"	"was later broadcast on"	"February 26 , 2009"	0.848
+69	"It"	"was later broadcast on"	"NBC"	0.88
+They are adamant on finding out the truth about her.
+In its early years, the air force was engaged primarily in immigration patrol, with occasional assistance in emergency relief.
+71	"the air force"	"was engaged in"	"immigration patrol"	0.868
+71	"the air force"	"was engaged in"	"its early years"	0.688
+71	"the air force"	"was engaged with"	"occasional assistance"	0.906
+As Sarada tries to act normal while planning to escape, Dileep finds that his father has been locked in and when he saves his father, he realizes that Sarada knows the truth about his deeds.
+72	"Sarada"	"knows"	"the truth"	"[attrib=he realizes]"	0.774
+72	"Sarada"	"realizes in"	"he"	0.516
+72	"Sarada"	"tries to act"	"normal"	"[enabler=while planning to escape]"	0.731
+72	"he"	"saves"	"his father"	0.561
+Although at first she wards off Charlie's advances, she comes to see him as the ideal man for her plans.
+73	"him"	"to be see as"	"the ideal man"	0.636
+73	"she"	"be wards off"	"Charlie 's advances"	0.602
+73	"she"	"comes to see him as"	"the ideal man"	0.799
+73	"she"	"comes to see"	"him"	0.648
+73	"she"	"to see him as"	"the ideal man"	0.764
+He has represented parts of the city of Rutland in the Vermont House of Representatives since 2005 and had previously served four terms in the House.
+74	"He"	"has represented parts of the city of Rutland in"	"the Vermont House of Representatives"	0.832
+74	"He"	"has represented parts of the city of Rutland since"	"2005"	0.654
+74	"He"	"has represented"	"parts of the city of Rutland"	0.771
+According to gay film historian Vito Russo in his book The Celluloid Closet, co-star Michael Greer, who played the flamboyantly gay Malcolm and who was himself gay, tried to work with the screenwriter and director to minimize the negativity of the characterization and present Malcolm in a positive light.
+75	"himself"	"played"	"the flamboyantly gay Malcolm"	0.739
+75	"himself"	"to work with"	"the screenwriter and director"	0.903
+75	"himself"	"tried to work with"	"the screenwriter and director"	0.945
+In 2009, Hobbs acquired the role of top gymnast, Emily Kmetko, in ABC Family's "Make It or Break It".
+76	"Emily Kmetko"	"be acquired the role of top gymnast in"	"2009"	0.589
+76	"Hobbs"	"acquired Emily Kmetko , in ABC Family 's " Make It or Break It " in"	"2009"	0.243
+76	"Hobbs"	"acquired Emily Kmetko , in ABC Family 's " Make It or Break It ""	"the role of top gymnast"	0.319
+76	"Hobbs"	"acquired the role of top gymnast in"	"2009"	0.544
+76	"Hobbs"	"acquired the role of top gymnast"	"Emily Kmetko"	0.598
+76	"the role of top gymnast"	"be acquired Emily Kmetko , in ABC Family 's " Make It or Break It " in"	"2009"	0.211
+Mya Than Tint entered Rangoon University in 1948, the year Burma gained independence from Great Britain, and received a degree in philosophy, political science and English literature.
+77	"Burma"	"gained independence from Great Britain in"	"the year"	0.589
+77	"Burma"	"gained"	"independence"	0.842
+77	"Mya Than Tint"	"entered Rangoon University in"	"1948"	0.887
+77	"Mya Than Tint"	"entered Rangoon University"	"1948"	0.636
+77	"Mya Than Tint"	"entered"	"Rangoon University"	0.838
+77	"Mya Than Tint"	"received"	"a degree in philosophy , political science and English literature"	0.772
+77	"Rangoon University"	"be entered in"	"1948"	0.755
+They seek help from a prisoner (played by Blacky Ko).
+78	"They"	"seek"	"help"	0.839
+78	"a prisoner"	"be"	"played by"	"Blacky Ko"	0.64
+He trained with the club for one month before being waived on March 1, 2011, prior to the start of the MLS season.
+79	"He"	"trained prior to the start the MLS season for"	"one month"	0.777
+79	"He"	"trained prior to the start the MLS season with"	"the club"	0.637
+The twisted creations of two cartoonists come to life in this tongue-in-cheek low budget schlocker.
+80	"The twisted creations of two cartoonists"	"come to"	"life"	0.85
+Bryant committed suicide by falling off a ferry into San Francisco Bay, and drowned.
+81	"Bryant"	"committed"	"suicide"	0.85
+Dawson began his career as an English teacher at Southern University in Baton Rouge, Louisiana, where he remained three years after earning his M.A.
+82	"Dawson"	"began his career as"	"an English teacher"	0.92
+82	"Dawson"	"began"	"his career"	0.812
+82	"Louisiana"	"be Southern University in"	"Baton Rouge"	0.35
+82	"Southern University"	"be an English teacher at"	"Louisiana"	0.222
+82	"he"	"remained in"	"three years"	0.718
+82	"his career"	"be began as"	"an English teacher"	0.851
+It relied on collective work, and gave the amateurs of the time a chance to compensate to some extent for their lack of skill.
+83	"It"	"gave"	"the amateurs of the time"	0.751
+83	"It"	"relied on"	"collective work"	0.815
+The University of Sulaimani is a public university located in the city of Sulaymaniyah in Kurdistan.
+84	"Kurdistan"	"be the city of"	"Sulaymaniyah"	0.199
+84	"The University of Sulaimani"	"is a public university in"	"Kurdistan"	0.765
+84	"The University of Sulaimani"	"is a public university in"	"the city of Sulaymaniyah"	0.852
+84	"The University of Sulaimani"	"is"	"a public university located in the city of Sulaymaniyah in Kurdistan"	0.792
+84	"a public university"	"be located in"	"Kurdistan"	0.716
+84	"a public university"	"be located in"	"the city of Sulaymaniyah"	0.817
+An honours year quickly followed, and Titterton topped the year in Physics.
+85	"An honours year"	"topped in"	"Physics"	0.857
+85	"Titterton"	"topped in"	"Physics"	0.869
+Langley became the first President of the General Union of Railway Clerks in 1897, although he resigned due to ill health the following year.
+86	"Langley"	"became the first President of the General Union of Railway Clerks in"	"1897"	"[enabler=although he resigned due to ill health the following year]"	0.684
+86	"Langley"	"became the first President of"	"the General Union of Railway Clerks"	"[enabler=although he resigned due to ill health the following year]"	0.917
+86	"Langley"	"became"	"the first President of the General Union of Railway Clerks"	0.852
+86	"he"	"resigned due to"	"ill health"	0.722
+The post-war era saw the creation of New College in 1962, Innis College in 1964 and Woodsworth College in 1974, all of them nondenominational.
+87	"Innis College"	"be saw the creation of New College in"	"1962"	0.601
+87	"Innis College"	"be saw the creation of New College in"	"1964"	0.755
+87	"The post-war era"	"saw Innis College in"	"1962"	0.745
+87	"The post-war era"	"saw Innis College in"	"1964"	0.745
+87	"The post-war era"	"saw Innis College"	"the creation of New College"	0.734
+87	"The post-war era"	"saw the creation of New College in"	"1962"	0.845
+87	"The post-war era"	"saw the creation of New College in"	"1964"	0.845
+87	"The post-war era"	"saw the creation of New College"	"Innis College"	0.772
+87	"Woodsworth College"	"saw Innis College in"	"1962"	0.66
+87	"Woodsworth College"	"saw Innis College in"	"1964"	0.66
+87	"Woodsworth College"	"saw Innis College"	"the creation of New College"	0.661
+87	"Woodsworth College"	"saw the creation of New College in"	"1962"	0.783
+87	"Woodsworth College"	"saw the creation of New College in"	"1964"	0.783
+87	"Woodsworth College"	"saw the creation of New College"	"Innis College"	0.705
+87	"the creation of New College"	"be saw Innis College in"	"1962"	0.644
+87	"the creation of New College"	"be saw Innis College in"	"1964"	0.644
+The cast consisted of some of the most prominent Israeli actors of the time, as well as hundreds of extras.
+When news outlets reported that taxpayers were charged for a $600 makeup session for Illinois Governor Rod Blagojevich for his budget speech, Bomke said, "He didn't get his money's worth."
+89	"He"	"did n't get"	"his money 's worth"	0.562
+89	"taxpayers"	"were charged for"	"a $ 600 makeup session"	"[attrib=news outlets reported]"	0.885
+She later revealed to Christina the late Sommers was a friend of her family and her father had appealed to Fey for help in getting Amanda a job at "MODE" after her career as an actress didn't pan out.
+90	"She"	"later revealed to"	"Christina"	0.802
+90	"a friend of her family and her father"	"had appealed for"	"help"	"[attrib=She later revealed]"	0.859
+90	"a friend of her family and her father"	"had appealed to"	"Fey"	"[attrib=She later revealed]"	0.873
+90	"a job"	"be getting Amanda after"	"her career"	"[enabler=as an actress did n't pan out]"	0.635
+90	"the late Sommers"	"was a friend of"	"her family"	0.845
+90	"the late Sommers"	"was"	"a friend of her family and her father"	0.594
+So he was forced to requisition not only the public treasury of Gades but also the wealth from its temples.
+91	"he"	"to requisition"	"the public treasury of Gades"	0.563
+He also told the "Washington Post" that the Iraqis warned the Zarqawi operatives that the Jordanians knew where they were.
+92	"He"	"also told"	"the " Washington Post"	0.685
+92	"the Iraqis"	"warned"	"the Zarqawi operatives"	"[attrib=He also told the " Washington Post]"	0.74
+During the Punitive Expedition into Mexico in 1916, he was for a time depot manager at Columbus, New Mexico, the main logistical base of the expedition.
+93	"Columbus"	"be a time depot manager at"	"New Mexico"	0.222
+93	"Columbus"	"be a time depot manager at"	"the main logistical base of the expedition"	0.353
+93	"Columbus"	"be the main logistical base of"	"the expedition"	0.616
+93	"he"	"was during"	"the Punitive Expedition"	0.688
+93	"he"	"was for"	"a time depot manager"	0.859
+In his "2006 Movie Guide", Leonard Maltin gives the film 3.5 stars (out of four) and calls it "probably Malle's best early film." 
+94	"Leonard Maltin"	"gives the film 3.5 stars"	"out of four"	"and calls it "probably Malle 's best early film in"	"his " 2006 Movie Guide""	0.397
+94	"Leonard Maltin"	"gives the film 3.5 stars"	"out of four"	"and calls it "probably Malle 's best early film to"	"his " 2006 Movie Guide""	0.184
+94	"Leonard Maltin"	"gives the film"	"3.5 stars"	0.747
+94	"it"	"be "probably best early film of"	"Malle"	0.345
+They made their first division debut against Club America in the Estadio Azteca in a memorbla match, coming back from 2-0 to win 3-2.
+95	"They"	"made their first division debut against Club America coming back from"	"2-0"	0.742
+95	"They"	"made their first division debut against Club America in"	"a memorbla match"	0.926
+95	"They"	"made their first division debut against Club America in"	"the Estadio Azteca"	0.948
+95	"They"	"made"	"their first division debut"	0.873
+95	"their first division debut"	"be made in"	"a memorbla match"	0.79
+95	"their first division debut"	"be made in"	"the Estadio Azteca"	0.847
+An ex-minister turned boatyard owner Baxter (Cox) befriends Obree, which results in Obree coming up with a daring idea - he's going to try and beat the hour record.
+96	"An ex-minister"	"turned"	"boatyard owner Baxter"	0.767
+96	"Obree"	"coming up with"	"a daring idea"	0.598
+96	"he"	"'s going beat"	"the hour record"	0.377
+96	"he"	"beat"	"the hour record"	0.651
+Ronald Squire (25 March 1886 - 16 November 1958) was an English character actor.
+97	"25 March 1886"	"was"	"an English character actor"	0.706
+97	"Ronald Squire"	"was"	"an English character actor"	0.737
+"Casanova Brown" is a 1944 film starring Gary Cooper, Teresa Wright, and Frank Morgan.
+98	"Casanova Brown"	"is"	"a 1944 film starring Gary Cooper , Teresa Wright , and Frank Morgan"	0.748
+The same day, after Macher had informed the local fire brigade, the south-east tower, the least important tower of the large castle, was blown up.
+99	"Macher"	"had informed"	"the local fire brigade"	0.684
+99	"the south-east tower"	"be the least important tower of"	"the large castle"	0.64
+While in the legislature, he sponsored successful bills to encourage state purchasing of "environmentally preferable" products, to allow Colorado State University to require graduate student health insurance, and to create licensing standards for hemodialysis technicians.
+100	"Colorado State University"	"to create"	"licensing standards"	0.813
+100	"Colorado State University"	"to require"	"graduate student health insurance"	0.748
+100	"he"	"sponsored"	"successful bills to encourage state purchasing of "environmentally preferable " products ,"	0.828
+Indeed the rivalry between the Soviet armies to capture the city centre was becoming intense.
+Jerry Goldsmith won the BMI Film & TV Award for his original score, and Morgan Freeman was nominated for the NAACP Image Award for Outstanding Actor in a Motion Picture but lost to Denzel Washington for "Training Day".
+102	"Jerry Goldsmith"	"won TV Award for"	"his original score"	0.763
+102	"Jerry Goldsmith"	"won TV Award"	"the BMI Film"	0.674
+102	"Jerry Goldsmith"	"won the BMI Film for"	"his original score"	0.823
+102	"Jerry Goldsmith"	"won the BMI Film"	"TV Award"	0.838
+102	"Morgan Freeman"	"was nominated for"	"Outstanding Actor"	0.932
+102	"Morgan Freeman"	"was nominated for"	"the NAACP Image Award"	0.93
+102	"Morgan Freeman"	"was nominated in"	"a Motion Picture"	0.879
+102	"TV Award"	"be won the BMI Film for"	"his original score"	0.701
+102	"the BMI Film"	"be won TV Award for"	"his original score"	0.58
+However, any active player can activate their Overdrive to bring failed players back into the song, "saving" the band member.
+103	"any active player"	"However can activate"	"their Overdrive to bring failed players back into the song"	0.618
+103	"failed players"	"to be bring back into"	"the song"	0.508
+The film's writer Aseem Arora was nominated for a Filmfare Award for Best Story.
+104	"The film 's writer Aseem Arora"	"was nominated for"	"a Filmfare Award"	0.925
+Ten Heuvel is the older brother of Arturo ten Heuvel.
+105	"Ten Heuvel"	"is the older brother of"	"Arturo ten Heuvel"	0.926
+105	"Ten Heuvel"	"is"	"the older brother of Arturo ten Heuvel"	0.768
+Soubry graduated in law from the University of Birmingham in 1979.
+106	"Soubry"	"graduated from"	"the University of Birmingham"	0.926
+106	"Soubry"	"graduated in"	"1979"	0.908
+106	"Soubry"	"graduated in"	"law"	0.919
+As the Liga's most northwesterly city after Tijuana, the Dorados remained in the LMB Northern Division in 2007.
+107	"Tijuana"	"remained in"	"2007"	0.853
+107	"Tijuana"	"remained in"	"the LMB Northern Division"	0.871
+He played one game for West Ham in the Premier League, as a substitute during the latter stages of the 1996-97 season.
+108	"He"	"played one game for West Ham as"	"a substitute"	0.835
+108	"He"	"played one game for West Ham during"	"the latter stages of the 1996-97 season"	0.858
+108	"He"	"played one game for West Ham in"	"the Premier League"	0.815
+108	"He"	"played"	"one game"	0.761
+108	"one game"	"be played as"	"a substitute"	0.804
+108	"one game"	"be played during"	"the latter stages of the 1996-97 season"	0.712
+108	"one game"	"be played in"	"the Premier League"	0.724
+He was Captain of the Atheists team on CBC Test the Nation: IQ broadcast live on January 24, 2010.
+109	"He"	"was Captain of"	"the Atheists team"	0.817
+109	"He"	"was"	"Captain of the Atheists team"	0.72
+109	"IQ"	"broadcast live on"	"January 24 , 2010"	0.696
+Georgia regards the Abkhaz armed forces as "unlawful military formations" and accuses Russia of supplying and training the Abkhaz troops, partly in exchange for Abkhaz land or hotels.
+110	"Georgia"	"accuses"	"Russia"	0.681
+110	"Georgia"	"regards the Abkhaz armed forces as"	""unlawful military formations"	0.836
+110	"Georgia"	"regards the Abkhaz armed forces in"	"exchange"	0.746
+110	"Georgia"	"regards"	"the Abkhaz armed forces"	0.822
+He is buried in Sandy Valley, Waynesburg, Ohio (Stark County).
+111	"He"	"is buried in"	"Sandy Valley"	0.836
+The Hollywood United 7-a-side teams compete in the Santa Monica Adult Soccer League.
+112	"The Hollywood United 7-a-side teams"	"compete in"	"the Santa Monica Adult Soccer League"	0.821
+In several scenes, the film's Bulgarian locale is given away as signs in Cyrillic are visible.
+113	"the film 's Bulgarian locale"	"is given away in"	"several scenes"	"[enabler=as signs in Cyrillic are visible]"	0.7
+113	"visible"	"be signs in"	"Cyrillic"	0.351
+Hermine was married, on 7 January 1907 in Greiz to Prince Johann George Ludwig Ferdinand August of Schoenaich-Carolath (11 September 1873 - 7 April 1920).
+114	"Hermine"	"was married on"	"7 January 1907"	0.918
+114	"Hermine"	"was married to"	"Prince Johann George Ludwig Ferdinand August of Schoenaich-Carolath"	0.913
+He appeared in over 140 films between 1935 and 1950.
+115	"He"	"appeared in"	"over 140 films"	0.9
+In March 2009, Ludwig appeared in a lead role in Disney's "Race to Witch Mountain".
+116	"Ludwig"	"appeared in"	"March 2009"	0.775
+116	"Ludwig"	"appeared in"	"a lead role"	0.915
+On 5 October 2007, Pierluigi Casiraghi called up Alfonso, alongside with teammate Francesco Bolzoni, to form part of the Italy national under-21 football team.
+117	"Alfonso"	"be called up on"	"5 October 2007"	0.589
+117	"Pierluigi Casiraghi"	"called up Alfonso , on"	"5 October 2007"	0.728
+117	"Pierluigi Casiraghi"	"called up Alfonso , to form"	"part of the Italy national under-21 football team"	0.773
+117	"Pierluigi Casiraghi"	"called up"	"Alfonso"	0.769
+117	"Pierluigi Casiraghi"	"to form"	"part of the Italy national under-21 football team"	0.701
+Journalists are strictly prohibited from covering the rebellion.
+Grimes also starred in the sequel "Class of '44" (1973), which followed his character to college.
+119	"Grimes"	"also starred in"	"the sequel"	0.887
+119	"his character"	"be followed to"	"college"	0.831
+"Guilty" is a 1916 silent drama film featuring Harry Carey.
+This led to an uprising in the holy city of Qum and the uprising soon spread to Tabriz, Tehran and other major cities.
+121	"holy"	"be city of"	"Qum"	0.262
+He appeared in 129 films between 1929 and 1946.
+122	"He"	"appeared in"	"129 films"	0.866
+After crushing a French army in July 1812, Wellington exploited his great victory by capturing Madrid.
+123	"Wellington"	"exploited"	"his great victory"	0.803
+123	"a French army"	"be crushing in"	"July 1812"	0.541
+The title of the series comes from the very first episode, where Udav has his length measured in parrots.
+124	"The title of the series"	"comes from"	"the very first episode where Udav has his length"	0.804
+124	"Udav"	"has"	"his length measured in parrots"	0.784
+124	"his length measured in parrots"	"be has by"	"the very first episode"	0.642
+124	"his length"	"be measured in"	"parrots"	0.842
+Carter's reorganization efforts separated the Department of Health, Education and Welfare into the Department of Education and the Department of Health and Human Services.
+125	"Carter 's reorganization efforts"	"separated the Department of Health , Education and Welfare into"	"the Department of Education and the Department of Health and Human Services"	0.92
+125	"Carter 's reorganization efforts"	"separated"	"the Department of Health"	0.821
+125	"the Department of Health"	"be separated into"	"the Department of Education and the Department of Health and Human Services"	0.819
+In March 2005, his second single, "Wisemen," was released.
+126	"Wisemen"	"was released in"	"March 2005"	0.771
+126	"Wisemen"	"was released on"	"March 2005"	0.373
+Unlike all other Eclipse Awards, which are voted on by a chosen committee from among the horse racing world, the Moment of the Year is voted on by racing fans.
+127	"the Moment of the Year"	"is voted unlike"	"all other Eclipse Awards"	0.606
+Beauman is married to film director, screenwriter and producer James Bobin, with whom she has one daughter, Madelaine.
+128	"Beauman"	"is married to"	"film director , screenwriter and producer James Bobin"	0.908
+128	"one daughter"	"be has by"	"film director , screenwriter and producer James Bobin"	0.548
+128	"she"	"has"	"one daughter"	0.452
+While some reviewers praised the movie as a classic example of 1960s camp, others noted its mediocre production values, rewriting of the script, changes in the musical score, and disappointing choreography in some songs.
+129	"others"	"noted its mediocre production values rewriting of"	"the script"	"[enabler=While some reviewers praised the movie as a classic example of 1960s camp]"	0.768
+129	"others"	"noted"	"its mediocre production values"	"[enabler=While some reviewers praised the movie as a classic example of 1960s camp]"	0.75
+129	"some reviewers"	"praised the movie as"	"a classic example of 1960s camp"	0.881
+129	"some reviewers"	"praised"	"the movie"	0.793
+129	"the movie"	"be praised as"	"a classic example of 1960s camp"	0.831
+As of 2009, it is ranked as the strongest hockey league in Europe.
+130	"it"	"is ranked as"	"the strongest hockey league"	0.885
+He is also an accomplished musician and songwriter and fronts his own band, Ten Athlone.
+131	"He"	"is also"	"an accomplished musician and songwriter and fronts his own band"	0.546
+He also served as a councillor on Bermondsey.
+132	"He"	"also served as"	"a councillor"	0.866
+One other person was killed in fighting in Sidon and two soldiers died in fighting east of Beirut.
+He spent two years on board the Type IIB U-boat, under the command of "Oberleutnant zur See" Otto Kretschmer, completing five combat patrols as 1.WO (second-in-command), between October 1939 and January 1940.
+134	"He"	"spent the Type IIB U-boat , under the command of " Oberleutnant zur See " Otto Kretschmer , completing five combat patrols as 1.WO"	"second-in-command"	", between October 1939 and January 1940 in"	"two years"	0.352
+134	"He"	"spent the Type IIB U-boat , under the command of " Oberleutnant zur See " Otto Kretschmer , completing five combat patrols as 1.WO"	"second-in-command"	", between October 1939 and January 1940 on"	"board"	0.409
+134	"He"	"spent"	"the Type IIB U-boat"	0.685
+134	"Oberleutnant"	"See Otto Kretschmer completing five combat patrols as"	"1.WO"	0.638
+134	"Oberleutnant"	"See Otto Kretschmer completing"	"five combat patrols"	0.637
+134	"Oberleutnant"	"See"	"Otto Kretschmer"	0.775
+134	"five combat patrols"	"be completing as"	"1.WO"	0.675
+134	"the Type IIB U-boat"	"be spent on"	"board"	0.619
+On 14 April, Graziani ordered his entire army to advance towards the Ethiopian defensive lines in a three-pronged attack.
+135	"Graziani"	"ordered his entire army on"	"14 April"	0.728
+135	"Graziani"	"ordered his entire army to advance towards"	"the Ethiopian defensive lines"	0.916
+135	"Graziani"	"ordered"	"his entire army"	0.803
+135	"Graziani"	"to advance towards"	"the Ethiopian defensive lines"	0.853
+135	"his entire army"	"be ordered on"	"14 April"	0.581
+"Bastion" had been successful in the National Amateur League competitions (the "Fourth Level" of competition in Ukraine) including winning the Ukrainian Amateur Championship in 2007.
+136	"Bastion"	"had been successful in"	"the National Amateur League competitions"	0.803
+136	"the Ukrainian Amateur Championship"	"be winning in"	"2007"	0.661
+The show won an Emmy Award in the category of "Special Classification of Outstanding Program Achievements." 
+137	"The show"	"won an Emmy Award in"	"the category of " Special Classification of Outstanding Program Achievements"	0.908
+137	"The show"	"won an Emmy Award"	"the category of " Special Classification of Outstanding Program Achievements"	0.688
+137	"The show"	"won"	"an Emmy Award"	0.792
+137	"an Emmy Award"	"be won in"	"the category of " Special Classification of Outstanding Program Achievements"	0.785
+He held the seat until his retirement in 1987.
+138	"He"	"held the seat until"	"his retirement"	0.832
+138	"He"	"held"	"the seat"	0.716
+138	"the seat"	"be held until"	"his retirement"	0.747
+France too was opposing Spain at every juncture.
+139	"Spain"	"be opposing at"	"every juncture"	0.695
+He served in the Wisconsin State Assembly from 1998 to 2010 until he was appointed to the Wisconsin Court of Appeals.
+140	"He"	"served from"	"1998"	"[enabler=until he was appointed to the Wisconsin Court of Appeals]"	0.835
+140	"He"	"served in"	"the Wisconsin State Assembly"	"[enabler=until he was appointed to the Wisconsin Court of Appeals]"	0.866
+140	"He"	"served to"	"2010"	"[enabler=until he was appointed to the Wisconsin Court of Appeals]"	0.835
+140	"he"	"was appointed to"	"the Wisconsin Court of Appeals"	0.852
+Cassinelli was born in Genoa, and attended the catholic college Vittorino da Feltre in the same city.
+141	"Cassinelli"	"attended the catholic college Vittorino da Feltre in"	"the same city"	0.839
+141	"Cassinelli"	"was born at"	"Genoa"	0.555
+141	"Cassinelli"	"was born in"	"Genoa"	0.901
+141	"Cassinelli"	"was born on"	"Genoa"	0.555
+141	"the catholic college Vittorino da Feltre"	"be attended in"	"the same city"	0.716
+Yun Jung Hoon (born 1978) is a Korean actor.
+142	"Yun Jung Hoon"	"is"	"a Korean actor"	0.735
+Lotu-Iiga lives with his wife Jules in Onehunga.
+143	"Lotu-Iiga"	"lives with"	"his wife"	0.797
+After independence in 1947, Dr. Jivraj graced public office in various positions.
+144	"Dr. Jivraj"	"graced public office after"	"independence"	0.797
+144	"Dr. Jivraj"	"graced public office in"	"1947"	0.775
+144	"Dr. Jivraj"	"graced public office in"	"various positions"	0.903
+144	"Dr. Jivraj"	"graced"	"public office"	0.842
+144	"public office"	"be graced after"	"independence"	0.593
+144	"public office"	"be graced in"	"1947"	0.499
+144	"public office"	"be graced in"	"various positions"	0.728
+Both films are based on the short story "The Single Standard" by Daniel Carson Goodman; the story was adapted for this production by Gerrit J. Lloyd.
+145	"Both films"	"are based on"	"The Single Standard"	0.894
+145	"the story"	"was adapted for"	"this production"	0.925
+Likewise, the accompanying music is generated by the program so that it's almost certain the listener will never quite hear the same arrangement twice.
+146	"it"	"so 's almost"	"certain"	0.332
+146	"the accompanying music"	"Likewise is generated by"	"the program"	0.835
+146	"the listener"	"will never quite hear twice"	"the same arrangement"	0.59
+Once leaving Essendon, Booth moved to Tasmania and captain-coached the Sandy Bay Football Club from 1959 to 1961.
+147	"Booth"	"captain-coached the Sandy Bay Football Club from"	"1959"	0.916
+147	"Booth"	"captain-coached"	"the Sandy Bay Football Club"	0.842
+147	"Booth"	"moved to"	"Tasmania"	"[enabler=Once leaving Essendon]"	0.871
+147	"the Sandy Bay Football Club"	"be captain-coached from"	"1959"	0.794
+After retiring as Miami Beach Fire Chief in 1999, Garcia successfully ran for the Miami Beach City Commission and continued to serve in that capacity for 7 years.
+148	"Garcia"	"continued to serve for"	"7 years"	0.879
+148	"Garcia"	"continued to serve in"	"that capacity"	0.916
+148	"Garcia"	"successfully ran for"	"the Miami Beach City Commission"	0.881
+148	"Garcia"	"to serve for"	"7 years"	0.662
+148	"Garcia"	"to serve in"	"that capacity"	0.746
+Lawson was the sole black member of the Homebrew Computer Club, a group of early computer hobbyists which would produce a number of industry legends, including Apple founders Steve Jobs and Steve Wozniak.
+149	"Lawson"	"was the sole black member of"	"the Homebrew Computer Club"	0.917
+149	"Lawson"	"was"	"the sole black member of the Homebrew Computer Club"	0.746
+149	"Steve Jobs and Steve Wozniak"	"be founders for"	"Apple"	0.517
+149	"Steve Jobs and Steve Wozniak"	"be founders of"	"Apple"	0.595
+149	"black"	"was member of"	"the Homebrew Computer Club"	0.23
+149	"sole"	"was black member of"	"the Homebrew Computer Club"	0.401
+149	"the Homebrew Computer Club"	"be a group of"	"early computer hobbyists which would produce a number of industry legends , including Apple founders Steve Jobs and Steve Wozniak"	0.675
+149	"the Homebrew Computer Club"	"was the sole black member of"	"a group of early computer hobbyists"	0.587
+For the 2009 Japanese Grand Prix, Brawn GP secured a single race sponsorship deal with Angfa Co. Ltd, maker of the medical shampoo Scalp-D, which has proved very popular in Japan since its launch in 2005.
+150	"Angfa Co. Ltd"	"be maker of"	"the medical shampoo which has proved very popular in Japan since its launch in 2005"	0.664
+150	"Brawn GP"	"secured a single race sponsorship deal with Angfa Co. Ltd , maker of the medical shampoo Scalp-D , which has proved very popular in Japan since its launch in 2005 for"	"the 2009 Japanese Grand Prix"	0.232
+150	"Brawn GP"	"secured"	"a single race sponsorship deal"	0.607
+150	"a single race sponsorship deal"	"be secured for"	"the 2009 Japanese Grand Prix"	0.482
+David Segal died nine years later.
+Foreign investors are declining to finance Hungary's high budget and current account deficits, and the forint's weakness in recent months threatens hundreds of thousands of families who took out foreign currency mortgages.
+152	"Foreign investors"	"are declining to finance"	"Hungary 's high budget and current account deficits"	0.523
+152	"Foreign investors"	"threatens"	"hundreds of thousands of families"	0.692
+152	"the forint 's weakness"	"are declining to finance"	"Hungary 's high budget and current account deficits"	0.398
+152	"the forint 's weakness"	"threatens"	"hundreds of thousands of families"	0.846
+On 2 January 1940, after the commencement of World War II, he was appointed General Staff Officer Grade III in the Western Command headquarters of the Citizen Forces, working with the Intelligence Section.
+153	"he"	"was appointed General Staff Officer Grade III after"	"the commencement of World War II"	0.725
+153	"he"	"was appointed General Staff Officer Grade III in"	"the Western Command headquarters of the Citizen Forces"	0.879
+153	"he"	"was appointed General Staff Officer Grade III on"	"2 January 1940"	0.655
+153	"he"	"was appointed"	"General Staff Officer Grade III"	0.714
+He is largely focused on breaking up Garrincha's gang and is unaware of Thomas Barrett's intentions.
+The royal family did not edit the book, nor did they have a preview before its printing.
+155	"The royal family"	"did not edit"	"the book"	0.686
+155	"a preview"	"did have before"	"its printing"	0.636
+155	"they"	"did have a preview before"	"its printing"	0.742
+155	"they"	"did have"	"a preview"	0.747
+He attempted to escape, but his ships had been at sea for an extended period and were sluggish compared to the 98-gun "London", which rapidly came alongside the French ship of the line and opened a heavy fire.
+156	"his ships"	"had been at"	"sea"	0.883
+156	"his ships"	"had been for"	"an extended period"	0.799
+156	"his ships"	"were"	"sluggish"	0.771
+156	"the 98-gun " London""	"rapidly came alongside"	"the French ship of the line"	0.692
+Her name is revealed to be Abby (Chloe Grace Moretz), who claims to be 12 years old.
+157	"Her name"	"is revealed"	"Abby"	0.764
+Similarly, he only rejoined the Bundestag after the next elections as replacement candidate from 1964 to 1969.
+158	"he"	"Similarly only rejoined the Bundestag after"	"the next elections"	0.827
+158	"he"	"Similarly only rejoined"	"the Bundestag"	0.702
+158	"the Bundestag"	"be Similarly only rejoined after"	"the next elections"	0.795
+Zimmer ran for Mayor of Hoboken in 2009.
+159	"Zimmer"	"ran for"	"Mayor of Hoboken"	0.941
+159	"Zimmer"	"ran in"	"2009"	0.885
+Lieutenant Commander Pavlic received the Purple Heart posthumously.
+160	"Lieutenant Commander Pavlic"	"received posthumously"	"the Purple Heart"	0.638
+His work in synthesis and spectroscopy involved close cooperation with Achim Mueller.
+The publisher is McGill-Queen's University Press.
+162	"The publisher"	"is"	"McGill-Queen 's University Press"	0.703
+Great if the president will help but totally unnecessary.
+It was written by Norman Steinberg and David Frankel, based on the article "Convention of the Love Goddesses" in "Esquire Magazine" by Bob Greene.
+164	"It"	"was written by"	"Norman Steinberg and David Frankel"	0.876
+164	"Norman Steinberg and David Frankel"	"be based on"	"the article"	0.693
+Tahar Rahim (born 5 July 1981) is a French actor of Algerian origins.
+The Prince is hurt.
+He was called up for the Black Stars for a friendly game against Argentina national football team and marked in the game on 1 October 2009 his debut.
+167	"He"	"marked in"	"the game"	0.634
+167	"He"	"was called up for"	"a friendly game"	0.891
+167	"He"	"was called up for"	"the Black Stars"	0.891
+He then resumed test piloting, for SISA Airline, for fifteen years.
+168	"He"	"then resumed test piloting for"	"SISA Airline"	0.759
+168	"He"	"then resumed test piloting for"	"fifteen years"	0.813
+168	"He"	"then resumed"	"test piloting"	0.685
+168	"test piloting"	"be then resumed for"	"SISA Airline"	0.707
+168	"test piloting"	"be then resumed for"	"fifteen years"	0.779
+On August 29, 2010, the Jets waived defensive lineman Rodrique Wright, and wide receivers Aundrae Allison, Marcus Henry and Laveranues Coles.
+169	"defensive lineman Rodrique Wright , and wide receivers"	"Aundrae"	"Allison , Marcus Henry and Laveranues Coles"	0.69
+169	"the Jets"	"waived on"	"August 29 , 2010"	0.695
+Mana began his playing career with Quilmes and appeared in nine Primera Division Argentina matches for the club.
+170	"Mana"	"appeared in"	"nine Primera Division Argentina"	0.887
+170	"Mana"	"began his playing career with"	"Quilmes"	0.81
+170	"Mana"	"began"	"his playing career"	0.812
+170	"his playing career"	"be began with"	"Quilmes"	0.732
+Baharum was elected to federal Parliament in the 2004 election for the newly created seat of Sekijang.
+171	"Baharum"	"was elected for"	"the newly created seat of Sekijang"	0.931
+171	"Baharum"	"was elected in"	"the 2004 election"	0.918
+171	"Baharum"	"was elected to"	"federal Parliament"	0.935
+Ryerson's Faculty of Community Services offers multi-disciplinary programs in health, early childhood education, social justice and community development.
+172	"Ryerson 's Faculty of Community Services"	"offers community development in"	"health"	0.656
+172	"Ryerson 's Faculty of Community Services"	"offers community development"	"multi-disciplinary programs"	0.515
+172	"Ryerson 's Faculty of Community Services"	"offers multi-disciplinary programs in health"	"social justice and community development"	0.771
+172	"Ryerson 's Faculty of Community Services"	"offers social justice in"	"health"	0.656
+172	"Ryerson 's Faculty of Community Services"	"offers social justice"	"multi-disciplinary programs"	0.678
+A woman Tina arrives at Cholera street where she takes up residence and works as a prostitute.
+173	"Tina"	"arrives at"	"Cholera street"	"[enabler=where she takes up residence and works as a prostitute]"	0.828
+173	"she"	"takes up residence as"	"a prostitute"	0.727
+173	"she"	"takes up works as"	"a prostitute"	0.648
+173	"she"	"takes up"	"residence and works"	0.71
+The plan was to airlift one battalion of the 24th Infantry Division into South Korea via C-54 Skymaster transport aircraft and quickly block advancing North Korean forces while the remainder of the division was transported on ships.
+174	"The plan"	"to airlift one battalion of the 24th Infantry Division into"	"South Korea"	0.829
+174	"The plan"	"to airlift one battalion of the 24th Infantry Division via"	"C-54 Skymaster transport aircraft"	0.736
+174	"The plan"	"to airlift"	"one battalion of the 24th Infantry Division"	0.83
+174	"The plan"	"was to airlift one battalion of the 24th Infantry Division into"	"South Korea"	0.816
+174	"The plan"	"was to airlift one battalion of the 24th Infantry Division via"	"C-54 Skymaster transport aircraft"	0.719
+174	"The plan"	"was to airlift"	"one battalion of the 24th Infantry Division"	0.87
+174	"one battalion of the 24th Infantry Division"	"to be airlift into"	"South Korea"	0.651
+174	"one battalion of the 24th Infantry Division"	"to be airlift via"	"C-54 Skymaster transport aircraft"	0.58
+174	"the remainder of the division"	"was transported on"	"ships"	0.867
+His usual position was on the wing or in the centres.
+175	"His usual position"	"was on"	"the wing or in"	0.913
+Later on, Han Sui and Ma Teng shared an uneasy relationship with each other; between them were periods of alliance followed by periods of open warfare.
+176	"Han Sui and Ma Teng"	"Later on shared"	"an uneasy relationship"	0.78
+176	"periods of alliance followed by periods of open warfare"	"were between"	"them"	0.567
+176	"periods of alliance"	"be followed by"	"periods of open warfare"	0.841
+After the end of political career, Akhundov served as the Vice President of the Azerbaijan National Academy of Sciences until 1972.
+177	"Akhundov"	"be the Vice President of"	"the Azerbaijan National Academy of Sciences"	0.553
+177	"Akhundov"	"served after"	"the end of political career"	0.788
+177	"Akhundov"	"served as"	"the Vice President of the Azerbaijan National Academy of Sciences"	0.937
+177	"Akhundov"	"served until"	"1972"	0.785
+They were given a revision session on how to pray, and character building.
+178	"They"	"were given"	"a revision session on how to pray , and character building"	0.878
+Clayton State University is an NCAA Division II member, competing in one of the top conferences in the nation at that level - the Peach Belt Conference.
+179	"Clayton State University"	"is member of"	"NCAA Division II"	0.891
+179	"Clayton State University"	"is"	"an NCAA Division II member"	0.732
+The state's two U.S. senators are Jefferson B. Sessions III and Richard C. Shelby, both Republicans.
+Some academic philosophers have criticized Rand for what they consider her lack of rigor and limited understanding of philosophical subject matter.
+181	"Some academic philosophers"	"have criticized"	"Rand"	0.766
+After the Muslim victory at the Battle of Sagrajas (1086) put at temporary stop to Christian expansion, the Almoravid dynasty constructed a unified Al-Andalus with its capital in Granada, ruling until mid-12th century.
+182	"a unified Al-Andalus"	"be constructed with"	"its capital"	"[enabler=After the Muslim victory at the Battle of Sagrajas"	"1086"	"put at temporary stop to Christian expansion]"	0.74
+182	"the Almoravid dynasty"	"constructed a unified Al-Andalus ruling until"	"mid-12th century"	"[enabler=After the Muslim victory at the Battle of Sagrajas"	"1086"	"put at temporary stop to Christian expansion]"	0.772
+182	"the Almoravid dynasty"	"constructed a unified Al-Andalus with"	"its capital"	"[enabler=After the Muslim victory at the Battle of Sagrajas"	"1086"	"put at temporary stop to Christian expansion]"	0.9
+182	"the Almoravid dynasty"	"constructed"	"a unified Al-Andalus"	"[enabler=After the Muslim victory at the Battle of Sagrajas"	"1086"	"put at temporary stop to Christian expansion]"	0.851
+182	"the Muslim victory"	"put at"	"temporary stop"	0.886
+182	"the Muslim victory"	"put to"	"Christian expansion"	0.804
+Lancaster was nominated four times for Academy Awards and won once - for his work in "Elmer Gantry" in 1960.
+183	"Lancaster"	"was nominated for"	"Academy Awards"	0.755
+183	"Lancaster"	"was"	"nominated"	0.69
+183	"Lancaster"	"won once for"	"his work"	0.873
+The shield can be shown surrounded by the insignia of an honorary Knight Commander of the Most Honorable Order of the Bath (KCB), an award the General received after the first Gulf War.
+184	"an honorary Knight Commander of the Most Honorable Order of the Bath"	"KCB"	"of received after"	"the first Gulf War"	0.47
+184	"the General"	"of received after"	"the first Gulf War"	0.616
+She was discharged from the Sirio-Libanes Hospital on the June 23, 2008 after suffering strong chest pains.
+185	"She"	"was discharged from"	"the Sirio-Libanes Hospital"	0.891
+185	"She"	"was discharged on"	"the June 23 , 2008"	0.864
+However, the trio did appear on the 12-date benefit tour for Action for Research into Multiple Sclerosis, as well as on the album "Guitar Boogie".
+186	"the trio"	"However did appear on"	"the 12-date benefit tour"	0.82
+186	"the trio"	"However did appear on"	"the album"	0.611
+Crick stressed the importance of finding new methods to probe human brain function.
+187	"Crick"	"stressed"	"the importance finding new methods to probe human brain function"	0.777
+Among modern critics, Steve Biodrowski of "Cinefantastique" wrote, "In the end, "Destroy All Monsters" is too slim in its storyline, too thin in its characterizations, to be considered a truly great film.
+188	"All Monsters"	"is too slim in"	"its storyline"	0.727
+188	"All Monsters"	"is too slim in"	"the end"	0.618
+188	"All Monsters"	"is too"	"slim"	0.764
+More widely, in late August, 2007 the group was accused in "The Telegraph", a conservative British newspaper, of torturing, detaining, and firing on unarmed protesters who had objected to policies of the Hamas government.
+189	"2007 the group"	"More widely was accused in"	"The Telegraph" , a conservative British newspaper , of torturing"	0.921
+189	"2007 the group"	"More widely was accused in"	"late August"	0.793
+189	"a conservative British newspaper"	"be The Telegraph" of"	"torturing"	0.563
+The court's official seat is in The Hague, Netherlands, but its proceedings may take place anywhere.
+190	"Hague"	"may take anywhere"	"place"	0.614
+Donald Markwel argued that in the absence of such an international approach, there would be a risk of worsening international relations and possibly even world war arising from similar economic factors to those present during the depression of the 1930s.
+191	"international relations"	"be worsening during"	"the depression of the 1930s"	0.454
+This was a first for the United States, as the market shifts away from traditional television.
+The Ottoman Central Bank is the first building at right.
+193	"The Ottoman Central Bank"	"is the first building at"	"right"	0.909
+193	"The Ottoman Central Bank"	"is"	"the first building"	0.734
+This may seem out of step with his agnostic convictions, but he believed that the Bible's significant moral teachings and superb use of language were relevant to English life.
+194	"relevant"	"be superb use of"	"language"	0.399
+194	"the Bible 's significant moral teachings and superb use of language"	"were relevant to"	"English life"	"[attrib=he believed]"	0.732
+194	"the Bible 's significant moral teachings and superb use of language"	"were"	"relevant"	0.689
+Since the dissolution of the Soviet Union, Ukraine continues to maintain the second largest military in Europe, after that of Russia.
+195	"Ukraine"	"continues since"	"the dissolution of the Soviet Union"	0.709
+195	"Ukraine"	"continues to maintain"	"the second largest military"	0.812
+The Venice Film Festival is the oldest film festival in the world.
+196	"The Venice Film Festival"	"is the oldest film festival in"	"the world"	0.911
+196	"The Venice Film Festival"	"is the oldest film festival of"	"the world"	0.648
+196	"The Venice Film Festival"	"is"	"the oldest film festival"	0.734
+Although the numbers on each side were about equal, William had both cavalry and infantry, including many archers, while Harold had only foot soldiers and few if any archers.
+197	"Harold"	"had"	"foot soldiers and few if any archers"	0.799
+197	"William"	"had"	"cavalry and infantry"	0.784
+The highest mountain in this range is the Moncayo (2,313 m) and, despite getting less snow than in the Pyrenees, it has several ski resorts.
+198	"The highest mountain"	"is"	"the Moncayo"	0.59
+198	"it"	"has"	"several ski resorts"	0.624
+198	"the Moncayo"	"be The highest mountain in"	"this range"	0.426
+198	"the Moncayo"	"has"	"several ski resorts"	0.558
+The Battle of Weihaiwei was a 23 day siege with a major land and naval component during the First Sino-Japanese War.
+199	"The Battle of Weihaiwei"	"was a 23 day siege during"	"the First Sino-Japanese War"	0.888
+199	"The Battle of Weihaiwei"	"was a 23 day siege with"	"a major land and naval component"	0.922
+199	"The Battle of Weihaiwei"	"was"	"a 23 day siege"	0.736

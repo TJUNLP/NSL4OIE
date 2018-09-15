@@ -1,0 +1,1969 @@
+Henry was Governor Edwin Washington Edwards's choice for Speaker.
+0	"Governor Edwin Washington Edwards"	"has"	"choice for Speaker"	1
+0	"Henry"	"was"	"Governor Edwin Washington Edwards 's choice"	1
+0	"Henry"	"was"	"Governor Edwin Washington Edwards 's choice for Speaker"	1
+0	"Henry"	"was"	"choice"	0
+0	"Henry"	"was choice for"	"Speaker"	1
+Mrs. Yogeswaran was shot five times with a pistol near her Jaffna home on May 17, 1998.
+1	"Mrs. Yogeswaran"	"was shot"	"five times"	1
+1	"Mrs. Yogeswaran"	"was shot"	"five times with a pistol near her Jaffna home"	1
+1	"Mrs. Yogeswaran"	"was shot"	"five times with a pistol near her Jaffna home on May 17 1998"	1
+1	"Mrs. Yogeswaran"	"was shot in"	"five times"	0
+1	"Mrs. Yogeswaran"	"was shot on"	"May 17 , 1998"	1
+1	"Mrs. Yogeswaran"	"was shot with"	"a pistol"	1
+1	"her"	"has"	"Jaffna home"	1
+Girard has a bachelor's degree in political sciences at the Universite de Montreal and did studies for the master's degree in industrial relations.
+2	"Girard"	"did"	"studies"	1
+2	"Girard"	"did"	"studies for the master 's degree"	1
+2	"Girard"	"did"	"studies in industrial relations"	1
+2	"Girard"	"has"	"a bachelor 's degree"	1
+2	"Girard"	"has"	"a bachelor 's degree in political sciences at the Universite de Montreal"	1
+2	"Girard"	"has a bachelor 's degree in"	"political sciences"	1
+2	"Girard"	"has a bachelor 's degree in political sciences at"	"the Universite de Montreal"	1
+2	"Girard"	"has in"	"political sciences"	0
+2	"a bachelor"	"has"	"degree in political sciences at the Universite de Montreal"	0
+2	"the Universite"	"did studies for"	"the master 's degree"	0
+2	"the master"	"has"	"degree"	0
+It was #109 on the Billboard 200 chart.
+3	"It"	"was"	"# 109"	0
+3	"It"	"was"	"# 109 on the Billboard 200 chart"	1
+3	"It"	"was"	"109"	0
+Robert Barnard (born 23 November 1936) is an English crime writer, critic and lecturer.
+4	"Robert Barnard"	"is"	"an English crime writer"	1
+4	"Robert Barnard born 23 November 1936"	"is"	"an English crime critic"	0
+4	"Robert Barnard born 23 November 1936"	"is"	"an English crime lecturer"	0
+4	"Robert Barnard born 23 November 1936"	"is"	"an English crime writer"	1
+4	"Robert Barnard born 23 November 1936"	"is"	"an English crime writer critic and lecturer"	1
+The secretary/music director for the church, Anne (Susan Clark), is wary of changes for the congregation intended by Hill.
+5	"Anne"	"is"	"Susan Clark"	0
+5	"The secretary\/music director for the church"	"is"	"Anne"	1
+5	"The secretary\/music director for the church"	"is"	"wary"	0
+5	"The secretary\/music director for the church"	"is"	"wary of changes for the congregation intended by Hill"	1
+5	"the church"	"be The secretary/music director for"	"Anne"	0
+5	"the church"	"is wary of"	"changes"	0
+5	"the congregation"	"be intended"	"by Hill"	1
+5	"the congregation"	"be intended by"	"Hill"	1
+"Doing Time on Maple Drive" was released on Region 1 DVD on September 7, 2004.
+6	"Doing Time"	"was released"	"2004"	0
+6	"Doing Time"	"was released in"	"Region 1 DVD"	0
+6	"Doing Time"	"was released in"	"September 7"	0
+6	"Doing Time"	"was released on"	"Region 1 DVD"	0
+6	"Doing Time"	"was released on"	"September 7"	0
+6	"Doing Time on Maple Drive"	"was released"	"on Region 1 DVD"	1
+6	"Doing Time on Maple Drive"	"was released"	"on Region 1 DVD on September 7 2004"	1
+6	"Maple Drive"	"was released on"	"Region 1 DVD"	0
+It comprises and includes mountains reaching an altitude of above sea level.
+7	"It"	"comprises"	"mountains reaching an altitude of above sea level"	1
+7	"It"	"includes"	"mountains"	1
+7	"It"	"includes"	"mountains reaching an altitude of above sea level"	1
+7	"mountains"	"be reaching"	"an altitude of above sea level"	1
+He starred as Lancelot in the national tour of "Spamalot" from 2006 through 2008.
+8	"He"	"starred"	"as Lancelot in the national tour of Spamalot"	1
+8	"He"	"starred"	"as Lancelot in the national tour of Spamalot from 2006"	1
+8	"He"	"starred"	"as Lancelot in the national tour of Spamalot through 2008"	1
+8	"He"	"starred as"	"Lancelot"	1
+The film as well as the musical were criticized by some religious groups.
+9	"The film"	"were criticized"	"by some religious groups"	1
+9	"The film"	"were criticized"	"by some religious groups as well as the musical"	0
+9	"the musical"	"were criticized by"	"some religious groups"	1
+As in the film, Richards is given the chance to become a Hunter by Killian, though unlike in the film, he accepts.
+10	"Richards"	"is given"	"the chance"	0
+10	"Richards"	"is given"	"the chance to become a Hunter by Killian , though unlike in the film , he accepts"	1
+10	"Richards"	"is given"	"the chance to become a Hunter by Killian though unlike in the film he accepts"	1
+10	"Richards"	"is given"	"the chance to become a Hunter by Killian though unlike in the film he accepts As in the film"	1
+10	"he"	"accepts"	0
+10	"he"	"accepts"	"unlike in the film"	0
+The film debuted on October 30, 1968 (December 29, 1968 London premiere.
+11	"The film"	"debuted"	"on October 30 1968 December 29 1968 London premiere"	1
+11	"The film"	"debuted on"	"October 30 , 1968"	1
+11	"The film"	"debuted on"	"October 30 , 1968 ( December 29 , 1968 London premiere"	1
+The Arab nationalists aimed, in part, to remove British imperial influence in Iraq.
+12	"The Arab nationalists"	"aimed"	"in part to remove British imperial influence"	1
+12	"The Arab nationalists"	"aimed"	"in part to remove British imperial influence in Iraq"	1
+12	"The Arab nationalists"	"aimed"	"to remove British imperial influence"	1
+12	"The Arab nationalists"	"aimed"	"to remove British imperial influence in Iraq"	1
+A sequel, in name only, called "Return of the Ape Man", followed in 1944, one year later after this film and starred Bela Lugosi, John Carradine and George Zucco.
+13	"A sequel"	"be only called one year later after"	"this film"	0
+13	"A sequel"	"be only called one year later in"	"name"	0
+13	"A sequel in name only"	"called"	"Return of the Ape Man"	1
+13	"A sequel in name only"	"followed"	"in 1944 one year later after this film"	1
+13	"A sequel in name only"	"starred"	"Bela Lugosi"	0
+13	"A sequel in name only"	"starred"	"Bela Lugosi John Carradine and George Zucco"	0
+13	"A sequel in name only"	"starred"	"George Zucco"	0
+13	"A sequel in name only"	"starred"	"John Carradine"	0
+13	"name"	"followed in"	"1944"	0
+13	"one year"	"starred"	"Bela Lugosi"	0
+Dr.Gayatri (Bipasha Basu) is researching the esoteric practices like voodoo, spirit possession, magic and healing powers.
+14	"Bipasha Basu"	"is researching"	"the esoteric practices"	1
+14	"Dr. Gayatri"	"is"	"Bipasha Basu"	1
+14	"Dr. Gayatri"	"is researching"	"the esoteric practices like voodoo spirit healing powers"	0
+14	"Dr. Gayatri"	"is researching"	"the esoteric practices like voodoo spirit magic powers"	0
+14	"Dr. Gayatri"	"is researching"	"the esoteric practices like voodoo spirit possession magic and healing powers"	1
+14	"Dr. Gayatri"	"is researching"	"the esoteric practices like voodoo spirit possession powers"	0
+14	"Dr.Gayatri"	"is researching"	"the esoteric practices"	1
+Simultaneously won the "Hope of the World Ballet" Prize.
+15	"Simultaneously"	"won"	"the Hope of the World Ballet Prize"	0
+This version was cut down to 100-minutes in length.
+16	"This version"	"was cut"	"down to 100-minutes"	1
+16	"This version"	"was cut"	"down to 100-minutes in length"	1
+16	"This version"	"was cut down to"	"100-minutes"	1
+He was born in New York and died at Livonia, Michigan.
+17	"He"	"died at"	"Livonia"	1
+17	"He"	"was born"	"in New York"	1
+17	"He"	"was born at"	"New York"	0
+17	"He"	"was born in"	"New York"	1
+17	"He"	"was born on"	"New York"	0
+17	"He"	"was died"	0
+17	"He"	"was died"	"at Livonia Michigan"	0
+Fred Kohler (April 20, 1888 - October 28, 1938) was an American actor known for his "heavy" style of character.
+18	""heavy"	"be style of"	"character"	1
+18	"Fred Kohler"	"was an American actor known for"	"his "heavy " style of character"	0
+18	"Fred Kohler April 20 1888 October 28 1938"	"was"	"an American actor"	1
+18	"Fred Kohler April 20 1888 October 28 1938"	"was"	"an American actor known for his heavy style of character"	1
+18	"an American actor"	"be known"	"for his heavy style of character"	1
+18	"an American actor"	"be known for"	"his "heavy " style of character"	1
+18	"his"	"has"	"heavy style of character"	1
+Outpost Harry was a remote Korean War station located on a tiny hilltop in what was commonly referred to as the "Iron Triangle" on the Korean Peninsula.
+19	"Outpost Harry"	"was"	"a remote Korean War station"	1
+19	"Outpost Harry"	"was"	"a remote Korean War station located on a tiny hilltop in what was commonly referred to as the Iron Triangle on the Korean Peninsula"	1
+19	"Outpost Harry"	"was a remote Korean War station on"	"a tiny hilltop"	0
+19	"a remote Korean War station"	"be located"	"on a tiny hilltop in what was commonly referred to as the Iron Triangle on the Korean Peninsula"	1
+19	"a remote Korean War station"	"be located on"	"a tiny hilltop"	1
+19	"a tiny hilltop"	"was commonly referred to as"	"the " Iron Triangle"	0
+19	"what"	"was referred"	"to as the Iron Triangle on the Korean Peninsula"	1
+19	"what"	"was referred"	"to as the Iron Triangle on the Korean Peninsula commonly"	1
+By agreement among the Allied nations, in March 1942 the acific theatre was divided into the South West Pacific Area, under General Douglas MacArthur, and the Pacific Ocean Areas, under Admiral Chester W. Nimitz.
+20	"the acific theater"	"was divided"	"into the South West Pacific Area"	0
+20	"the acific theater"	"was divided"	"into the South West Pacific Area By agreement among the Allied nations"	0
+20	"the acific theater"	"was divided"	"into the South West Pacific Area in March 1942"	0
+20	"the acific theater"	"was divided"	"into the South West Pacific Area under General Douglas MacArthur and the Pacific Ocean Areas under Admiral Chester W. Nimitz"	1
+20	"the acific theater"	"was divided"	"into the South West Pacific Area under General Douglas MacArthur under Admiral Chester W. Nimitz"	0
+20	"the acific theater"	"was divided"	"into the South West Pacific Area under the Pacific Ocean Areas under Admiral Chester W. Nimitz"	0
+20	"the acific theatre"	"was divided into"	"the South West Pacific Area"	0
+Fighting continued in and around Baidoa, particularly at Iidale and Dinsoor; approximately 60 and 120 kilometres south of Baidoa respectively.
+21	"Fighting"	"continued"	"approximately 60 and 120 kilometres"	0
+21	"Fighting"	"continued"	"around Baidoa"	1
+21	"Fighting"	"continued"	"around Baidoa at Dinsoor"	1
+21	"Fighting"	"continued"	"around Baidoa at Iidale"	1
+21	"Fighting"	"continued"	"around Baidoa particularly"	1
+21	"Fighting"	"continued"	"in Baidoa"	1
+21	"Fighting"	"continued"	"in Baidoa at Dinsoor"	1
+21	"Fighting"	"continued"	"in Baidoa at Iidale"	1
+21	"Fighting"	"continued"	"in Baidoa particularly"	1
+21	"Fighting"	"continued"	"in and around Baidoa"	1
+21	"Fighting"	"continued"	"in and around Baidoa at Iidale and Dinsoor"	1
+21	"Fighting"	"continued"	"in and around Baidoa particularly"	1
+21	"Fighting"	"continued approximately 60 and 120 kilometres south of Baidoa respectively around"	"in and around Baidoa"	0
+21	"approximately 120"	"kilometres"	"south of Baidoa"	0
+21	"approximately 120"	"kilometres"	"south of Baidoa respectively"	0
+21	"approximately 60"	"kilometres"	"south of Baidoa"	0
+21	"approximately 60"	"kilometres"	"south of Baidoa respectively"	0
+21	"approximately 60 and 120"	"kilometres"	"south of Baidoa"	0
+21	"approximately 60 and 120"	"kilometres"	"south of Baidoa respectively"	0
+21	"approximately 60 and 120 kilometres"	"be continued around"	"in and around Baidoa"	0
+Another version of the story was filmed in 1934, entitled The Courage of Charlie Chan.
+22	"1934"	"be entitled"	"The Courage of Charlie Chan"	0
+22	"Another version of the story"	"was filmed"	"in 1934 entitled The Courage of Charlie Chan"	1
+22	"Another version of the story"	"was filmed in"	"1934"	1
+He consults his family doctor for solution.
+23	"He"	"consults"	"his family doctor"	1
+23	"He"	"consults"	"his family doctor for solution"	1
+23	"his"	"has"	"family doctor"	1
+The International Center for Research on Women (ICRW) is a non-profit organization headquartered in Washington, D.C., United States, with a regional office in New Delhi, India.
+24	"ICRW"	"is"	"a non-profit organization headquartered in Washington , D.C. , United States"	1
+24	"ICRW"	"is a non-profit organization with"	"a regional office"	1
+24	"New Delhi"	"is"	"India"	0
+24	"The International Center for Research on Women ICRW"	"is"	"a non-profit organization"	1
+24	"The International Center for Research on Women ICRW"	"is"	"a non-profit organization headquartered in Washington D.C. United States with a regional office in New Delhi"	1
+24	"Women"	"is a non-profit organization headquartered in"	"Washington"	0
+24	"a non-profit organization"	"be headquartered"	"in Washington D.C. United States"	1
+24	"a non-profit organization"	"be headquartered"	"in Washington D.C. United States with a regional office in New Delhi"	1
+24	"a non-profit organization"	"be headquartered in"	"Washington"	1
+His return bout in the UFC occurred at "UFC 81", where he submitted Rob Yundt at 1:08 in the first round.
+25	"His"	"has"	"return bout in the UFC"	0
+25	"His return bout"	"occurred at"	"UFC 81""	1
+25	"His return bout in the UFC"	"occurred"	"at UFC 81"	1
+25	"His return bout in the UFC"	"occurred"	"at UFC 81 where he submitted Rob Yundt at 1:08 in the first round"	1
+25	"Rob Yundt"	"be submitted at"	"1:08"	1
+25	"Rob Yundt"	"be submitted in"	"the first round"	1
+25	"he"	"submitted"	"Rob Yundt"	1
+25	"he"	"submitted"	"Rob Yundt at 1:08"	1
+25	"he"	"submitted"	"Rob Yundt in the first round"	1
+25	"he"	"submitted"	"Rob Yundt where"	0
+25	"he"	"submitted Rob Yundt at"	"1:08"	0
+25	"he"	"submitted Rob Yundt in"	"the first round"	0
+Frank Lanning as Francisco Cortez, escaped convict falsely accused of murder ing Jim Lester's father.
+26	"Frank Lanning"	"escaped"	"convict"	0
+26	"Frank Lanning as Francisco Cortez"	"escaped"	"convict falsely accused of murder ing Jim Lester 's father"	0
+26	"Jim Lester"	"has"	"father"	1
+26	"convict"	"be falsely accused of"	"murder ing Jim Lester 's father"	0
+Wu worked as a reporter for United Press International from 1973 until 1978 when she joined WGBH-TV, Boston's public television station, as the Massachusetts State House reporter until 1983.
+27	"Boston"	"has"	"public television station"	1
+27	"WGBH-TV"	"is"	"Boston 's public television station"	1
+27	"Wu"	"worked"	"a reporter"	0
+27	"Wu"	"worked"	"as a reporter for United Press International from 1973"	0
+27	"Wu"	"worked"	"as a reporter for United Press International from 1973 until 1978"	1
+27	"Wu"	"worked"	"as a reporter for United Press International from 1973 when she joined WGBH-TV as the Massachusetts State House reporter until 1983"	0
+27	"Wu"	"worked as a reporter for"	"United Press International"	1
+27	"Wu"	"worked as a reporter for United Press International as"	"the Massachusetts State House reporter"	0
+27	"Wu"	"worked as a reporter for United Press International from"	"1973"	0
+27	"Wu"	"worked as a reporter for United Press International until"	"1978"	0
+27	"Wu"	"worked as a reporter for United Press International until"	"1983"	0
+27	"a reporter"	"be worked as"	"the Massachusetts State House reporter"	0
+27	"a reporter"	"be worked from"	"1973"	0
+27	"a reporter"	"be worked until"	"1978"	0
+27	"a reporter"	"be worked until"	"1983"	0
+27	"she"	"joined"	"WGBH-TV"	1
+27	"she"	"joined"	"WGBH-TV , Boston 's public television station"	1
+27	"she"	"joined"	"WGBH-TV as the Massachusetts State House reporter"	1
+27	"she"	"joined"	"WGBH-TV until 1983"	1
+27	"she"	"joined"	"WGBH-TV when"	0
+The New Zealand Naval Forces was a Division of the Royal Navy.
+28	"The New Zealand Naval Forces"	"was"	"a Division"	1
+28	"The New Zealand Naval Forces"	"was"	"a Division of the Royal Navy"	1
+28	"The New Zealand Naval Forces"	"was a Division of"	"the Royal Navy"	1
+The previous season had seen him lead Dawlish to 2nd place in the Western League, their highest ever league finishing position.
+29	"Dawlish"	"be lead to"	"2nd place"	1
+29	"The previous season"	"had seen"	"him"	0
+29	"The previous season"	"had seen"	"him lead Dawlish to 2nd place in the Western League their highest ever league finishing position"	1
+29	"him"	"lead"	"Dawlish"	0
+29	"him"	"lead"	"Dawlish their highest ever league finishing position"	0
+29	"him"	"lead"	"Dawlish to 2nd place in the Western League their highest ever league finishing position"	0
+29	"him"	"lead Dawlish to"	"2nd place"	0
+29	"the Western League"	"be 2nd place in"	"their highest ever league finishing position"	0
+29	"their"	"has"	"highest ever league finishing position"	1
+29	"their highest"	"be finishing"	"ever league position"	0
+In his years on Newsnight, he has reported on many of the most compelling foreign news stories in the past two decades: the Gulf War; the attempted coup d'etat in Moscow; 1993 events in Moscow; Bosnian War; Middle East peace process; the War in Kosovo; and the recent US military campaigns in War in Afghanistan and War in Iraq.
+30	"US"	"be military campaigns in"	"Afghanistan and War"	0
+30	"US"	"be military campaigns in"	"Iraq"	0
+30	"US"	"be military campaigns in"	"War"	0
+30	"US"	"military campaigns in"	"Afghanistan and War"	0
+30	"US"	"military campaigns in"	"Iraq"	0
+30	"US"	"military campaigns in"	"War"	0
+30	"compelling"	"be foreign news stories in"	"the past two decades"	0
+30	"foreign"	"be news stories in"	"the past two decades"	0
+30	"he"	"has reported"	"on 1993 events in Moscow"	1
+30	"he"	"has reported"	"on 1993 events in Moscow In his years on Newsnight"	1
+30	"he"	"has reported"	"on 1993 events in Moscow in Afghanistan"	0
+30	"he"	"has reported"	"on 1993 events in Moscow in Iraq"	0
+30	"he"	"has reported"	"on 1993 events in Moscow in War"	0
+30	"he"	"has reported"	"on Bosnian War"	1
+30	"he"	"has reported"	"on Bosnian War In his years on Newsnight"	1
+30	"he"	"has reported"	"on Bosnian War in Afghanistan"	0
+30	"he"	"has reported"	"on Bosnian War in Iraq"	0
+30	"he"	"has reported"	"on Bosnian War in War"	0
+30	"he"	"has reported"	"on Middle East peace process"	1
+30	"he"	"has reported"	"on Middle East peace process In his years on Newsnight"	1
+30	"he"	"has reported"	"on Middle East peace process in Afghanistan"	0
+30	"he"	"has reported"	"on Middle East peace process in Iraq"	0
+30	"he"	"has reported"	"on Middle East peace process in War"	0
+30	"he"	"has reported"	"on many of the most compelling foreign news stories in the past two decades"	1
+30	"he"	"has reported"	"on many of the most compelling foreign news stories in the past two decades In his years on Newsnight"	1
+30	"he"	"has reported"	"on many of the most compelling foreign news stories in the past two decades in Afghanistan"	0
+30	"he"	"has reported"	"on many of the most compelling foreign news stories in the past two decades in Iraq"	0
+30	"he"	"has reported"	"on many of the most compelling foreign news stories in the past two decades in War"	0
+30	"he"	"has reported"	"on many of the most compelling foreign news stories in the past two decades the Gulf War the attempted coup d'etat in Moscow 1993 events in Moscow Bosnian War Middle East peace process the War in Kosovo and the recent US military campaigns in War"	0
+30	"he"	"has reported"	"on many of the most compelling foreign news stories in the past two decades the Gulf War the attempted coup d'etat in Moscow 1993 events in Moscow Bosnian War Middle East peace process the War in Kosovo and the recent US military campaigns in War In his years on Newsnight"	0
+30	"he"	"has reported"	"on many of the most compelling foreign news stories in the past two decades the Gulf War the attempted coup d'etat in Moscow 1993 events in Moscow Bosnian War Middle East peace process the War in Kosovo and the recent US military campaigns in War in Afghanistan and War"	0
+30	"he"	"has reported"	"on many of the most compelling foreign news stories in the past two decades the Gulf War the attempted coup d'etat in Moscow 1993 events in Moscow Bosnian War Middle East peace process the War in Kosovo and the recent US military campaigns in War in Iraq"	0
+30	"he"	"has reported"	"on the Gulf War"	1
+30	"he"	"has reported"	"on the Gulf War In his years on Newsnight"	1
+30	"he"	"has reported"	"on the Gulf War in Afghanistan"	0
+30	"he"	"has reported"	"on the Gulf War in Iraq"	0
+30	"he"	"has reported"	"on the Gulf War in War"	0
+30	"he"	"has reported"	"on the War in Kosovo"	1
+30	"he"	"has reported"	"on the War in Kosovo In his years on Newsnight"	1
+30	"he"	"has reported"	"on the War in Kosovo in Afghanistan"	0
+30	"he"	"has reported"	"on the War in Kosovo in Iraq"	0
+30	"he"	"has reported"	"on the War in Kosovo in War"	0
+30	"he"	"has reported"	"on the attempted coup d'etat in Moscow"	1
+30	"he"	"has reported"	"on the attempted coup d'etat in Moscow In his years on Newsnight"	1
+30	"he"	"has reported"	"on the attempted coup d'etat in Moscow in Afghanistan"	0
+30	"he"	"has reported"	"on the attempted coup d'etat in Moscow in Iraq"	0
+30	"he"	"has reported"	"on the attempted coup d'etat in Moscow in War"	0
+30	"he"	"has reported"	"on the recent US military campaigns in War"	0
+30	"he"	"has reported"	"on the recent US military campaigns in War In his years on Newsnight"	0
+30	"he"	"has reported"	"on the recent US military campaigns in War in Afghanistan"	0
+30	"he"	"has reported"	"on the recent US military campaigns in War in Iraq"	0
+30	"he"	"has reported"	"on the recent US military campaigns in War in War"	0
+30	"he"	"has reported"	"the Gulf War"	"the attempted coup d'etat in Moscow"	"1993 events in Moscow"	"Bosnian War"	"Middle East peace process"	"the War in Kosovo"	"and the recent US military campaigns"	0
+30	"he"	"has reported 1993 events in Moscow in"	"his years"	0
+30	"he"	"has reported 1993 events in Moscow on"	"many of the most compelling foreign news stories"	0
+30	"he"	"has reported Bosnian War in"	"his years"	0
+30	"he"	"has reported Bosnian War on"	"many of the most compelling foreign news stories"	0
+30	"he"	"has reported Middle East peace process in"	"his years"	0
+30	"he"	"has reported Middle East peace process on"	"many of the most compelling foreign news stories"	0
+30	"he"	"has reported on"	"many of the most compelling foreign news stories"	1
+30	"he"	"has reported the Gulf War"	"the attempted coup d'etat in Moscow"	"1993 events in Moscow"	"Bosnian War"	"Middle East peace process"	"the War in Kosovo"	"in"	"his years"	0
+30	"he"	"has reported the Gulf War"	"the attempted coup d'etat in Moscow"	"1993 events in Moscow"	"Bosnian War"	"Middle East peace process"	"the War in Kosovo"	"on"	"many of the most compelling foreign news stories"	0
+30	"he"	"has reported the War in Kosovo in"	"his years"	0
+30	"he"	"has reported the War in Kosovo on"	"many of the most compelling foreign news stories"	0
+30	"he"	"has reported the attempted coup d'etat in Moscow in"	"his years"	0
+30	"he"	"has reported the attempted coup d'etat in Moscow on"	"many of the most compelling foreign news stories"	0
+30	"he"	"has reported the recent US military campaigns in War in Afghanistan and War in Iraq in"	"his years"	0
+30	"he"	"has reported the recent US military campaigns in War in Afghanistan and War in Iraq on"	"many of the most compelling foreign news stories"	0
+30	"his"	"has"	"years on Newsnight"	1
+William Dozier (February 13, 1908 - April 23, 1991) was an American film and television producer and actor.
+31	"William Dozier"	"was"	"an American film and television producer and actor"	1
+31	"William Dozier February 13 1908 April 23 1991"	"was"	"actor"	1
+31	"William Dozier February 13 1908 April 23 1991"	"was"	"an American film"	0
+31	"William Dozier February 13 1908 April 23 1991"	"was"	"an American film and television producer and actor"	1
+31	"William Dozier February 13 1908 April 23 1991"	"was"	"television producer"	1
+When the ZANU-PF-Movement for Democratic Change national unity government was sworn in on February 13, 2009, Nhema was included in the Cabinet as Minister of the Environment.
+32	"Democratic Change national unity government"	"was sworn in on"	"February 13 , 2009"	0
+32	"Nhema"	"was included"	"in the Cabinet"	1
+32	"Nhema"	"was included"	"in the Cabinet When the ZANU-PF-Movement for Democratic Change national unity government was sworn in on February 13 2009"	1
+32	"Nhema"	"was included"	"in the Cabinet as Minister of the Environment"	1
+32	"Nhema"	"was included as"	"Minister of the Environment"	1
+32	"Nhema"	"was included in"	"the Cabinet"	1
+32	"the ZANU-PF-Movement for Democratic Change national unity government"	"was sworn"	"in on February 13 2009"	1
+32	"the ZANU-PF-Movement for Democratic Change national unity government"	"was sworn"	"in on February 13 2009 When"	0
+She was a member of the National Union of Women Workers.
+33	"She"	"was"	"a member"	1
+33	"She"	"was"	"a member of the National Union of Women Workers"	1
+33	"She"	"was a member of"	"the National Union of Women Workers"	1
+He was Premier of the Republic of China from 1989 to 1990, serving for one year under former President Lee Teng-hui.
+34	"He"	"was"	"Premier of the Republic of China"	1
+34	"He"	"was"	"Premier of the Republic of China serving"	0
+34	"He"	"was"	"Premier of the Republic of China serving for one year under former President Lee Teng-hui"	1
+34	"He"	"was"	"Premier of the Republic of China serving from 1989 to 1990"	1
+34	"He"	"was Premier of"	"the Republic of China"	1
+34	"He"	"was Premier of the Republic of China from"	"1989"	0
+He made his debut in a Champions League game Fenerbahce-Inter (1-0).
+35	"He"	"made"	"his debut"	1
+35	"He"	"made"	"his debut in a Champions League game Fenerbahce-Inter"	1
+35	"He"	"made his debut in"	"a Champions League game Fenerbahce-Inter"	1
+35	"He"	"made his debut in"	"a Champions League game Fenerbahce-Inter"	"1-0"	0
+35	"a Champions League game Fenerbahce-Inter"	"is"	"1-0"	0
+35	"his"	"has"	"debut"	1
+35	"his debut"	"be made in"	"a Champions League game Fenerbahce-Inter"	"1-0"	0
+The Islamic Jihad Union (IJU), also known as Islamic Jihad Group (IJG), is a terrorist organization which splintered from the Islamic Movement of Uzbekistan (IMU), and has conducted attacks in Uzbekistan and attempted attacks in Germany.
+36	"IJG"	"is"	"a terrorist organization which splintered from the Islamic Movement of Uzbekistan"	"IMU"	", and has conducted attacks in Uzbekistan and attempted attacks in Germany"	0
+36	"IJU"	"be also known as"	"Islamic Jihad Group"	1
+36	"The Islamic Jihad Union IJU"	"be known"	"also"	0
+36	"The Islamic Jihad Union IJU"	"be known"	"also as Islamic Jihad Group IJG"	1
+36	"The Islamic Jihad Union IJU also known as Islamic Jihad Group IJG"	"is"	"a terrorist organization"	1
+36	"a terrorist organization"	"has conducted"	"attacks in Uzbekistan"	1
+36	"a terrorist organization"	"has conducted"	"attacks in Uzbekistan and attempted attacks in Germany"	1
+36	"a terrorist organization"	"has conducted"	"attempted attacks in Germany"	1
+36	"a terrorist organization"	"splintered"	"from the Islamic Movement of Uzbekistan IMU"	1
+36	"a terrorist organization"	"splintered from"	"the Islamic Movement of Uzbekistan"	1
+36	"attacks"	"attempted"	"attacks"	0
+After three brain surgeries, she died at the age of 53 in Leusden, The Netherlands, where she had lived during her illness.
+37	"Leusden"	"is"	"The Netherlands"	0
+37	"her"	"has"	"illness"	1
+37	"she"	"died"	1
+37	"she"	"died"	"After three brain surgeries"	1
+37	"she"	"died"	"Leusden"	0
+37	"she"	"died"	"at the age of 53"	1
+37	"she"	"died"	"in Leusden"	1
+37	"she"	"died"	"where she had lived during her illness"	1
+37	"she"	"died after"	"three brain surgeries"	1
+37	"she"	"died at"	"the age of 53"	1
+37	"she"	"died in"	"Leusden"	1
+37	"she"	"had lived"	"during her illness"	0
+37	"she"	"had lived"	"during her illness where"	0
+37	"she"	"had lived during"	"her illness"	0
+Cadabra has also played for FC Cessange Bracarenses Grund 2001 (twice) and FC Etzella Ettelbruck in Luxembourg.
+38	"Cadabra"	"has also played for"	"FC Cessange Bracarenses Grund 2001"	1
+38	"Cadabra"	"has played"	"for FC Cessange Bracarenses Grund 2001 twice"	1
+38	"Cadabra"	"has played"	"for FC Cessange Bracarenses Grund 2001 twice also"	1
+38	"Cadabra"	"has played"	"for FC Cessange Bracarenses Grund 2001 twice and FC Etzella Ettelbruck in Luxembourg"	1
+38	"Cadabra"	"has played"	"for FC Cessange Bracarenses Grund 2001 twice and FC Etzella Ettelbruck in Luxembourg also"	1
+38	"Cadabra"	"has played"	"for FC Etzella Ettelbruck in Luxembourg"	1
+38	"Cadabra"	"has played"	"for FC Etzella Ettelbruck in Luxembourg also"	1
+He played the healer Goggins who is a Draenei shaman.
+39	"Goggins"	"is"	"a Draenei shaman"	1
+39	"He"	"played"	"the healer"	0
+39	"He"	"played"	"the healer Goggins"	1
+39	"the healer Goggins"	"is"	"a Draenei shaman"	1
+For the 2006-07 season, Pace played with the Nelson Giants in the New Zealand National Basketball League.
+40	"Pace"	"played"	"with the Nelson Giants"	1
+40	"Pace"	"played"	"with the Nelson Giants For the 2006-07 season"	1
+40	"Pace"	"played"	"with the Nelson Giants in the New Zealand National Basketball League"	1
+40	"Pace"	"played for"	"the 2006-07 season"	1
+40	"Pace"	"played in"	"the New Zealand National Basketball League"	1
+40	"Pace"	"played with"	"the Nelson Giants"	1
+These policies were enforced by the police.
+41	"These policies"	"were enforced"	"by the police"	1
+41	"These policies"	"were enforced by"	"the police"	1
+On February 6, 2008, the post office in Taft was renamed the "Larry S. Pierce Post Office" in his honor.
+42	"Taft"	"was renamed"	"the " Larry S. Pierce Post Office"	0
+42	"his"	"has"	"honor"	0
+42	"the post office"	"was renamed"	"the " Larry S. Pierce Post Office"	1
+42	"the post office"	"was renamed the " Larry S. Pierce Post Office " in"	"his honor"	0
+42	"the post office"	"was renamed the " Larry S. Pierce Post Office " on"	"February 6 , 2008"	0
+42	"the post office in Taft"	"was renamed"	"the Larry S. Pierce Post Office in his honor"	1
+42	"the post office in Taft"	"was renamed"	"the Larry S. Pierce Post Office in his honor On February 6 2008"	1
+LaBrocca scored his first goal for the club in a 4-1 home victory vs. Chicago Fire.
+43	"LaBrocca"	"scored"	"his first goal"	0
+43	"LaBrocca"	"scored"	"his first goal for the club"	1
+43	"LaBrocca"	"scored"	"his first goal in a 4-1 home victory vs. Chicago Fire"	0
+43	"LaBrocca"	"scored for"	"the club"	1
+43	"LaBrocca"	"scored his first goal for"	"the club"	1
+43	"his"	"has"	"first goal"	0
+He is married to Washington Post journalist Ruth Marcus.
+44	"He"	"is married"	"to Washington Post journalist Ruth Marcus"	1
+44	"He"	"is married to"	"Washington Post journalist Ruth Marcus"	1
+44	"Ruth Marcus"	"be journalist for"	"Washington Post"	1
+44	"Ruth Marcus"	"be journalist of"	"Washington Post"	1
+Kuroki is the only Japanese American known to have participated in air combat missions in the Pacific theater of operations during the war.
+45	"Kuroki"	"is"	"the Japanese American"	1
+45	"Kuroki"	"is"	"the Japanese American known to have participated in air combat missions in the Pacific theater of operations during the war"	1
+45	"Kuroki"	"is"	"the Japanese American only"	0
+45	"Kuroki"	"is"	"the only Japanese American"	0
+45	"Kuroki"	"is"	"the only Japanese American known"	0
+45	"the only Japanese American"	"be known"	"to have participated in air combat missions in the Pacific theater of operations"	0
+45	"the only Japanese American"	"be known"	"to have participated in air combat missions in the Pacific theater of operations during the war"	0
+After his service in the United States Army (1968-1971), Middleton became the owner and operator of Cedar Hill Farm near Waldorf, Maryland.
+46	"Middleton"	"became"	"the operator"	0
+46	"Middleton"	"became"	"the operator After his service in the United States Army"	0
+46	"Middleton"	"became"	"the operator of Cedar Hill Farm near Waldorf Maryland"	1
+46	"Middleton"	"became"	"the owner"	0
+46	"Middleton"	"became"	"the owner After his service in the United States Army"	0
+46	"Middleton"	"became"	"the owner and operator"	0
+46	"Middleton"	"became"	"the owner and operator After his service in the United States Army"	0
+46	"Middleton"	"became"	"the owner and operator of Cedar Hill Farm"	1
+46	"Middleton"	"became"	"the owner and operator of Cedar Hill Farm near Waldorf Maryland"	1
+46	"Middleton"	"became"	"the owner of Cedar Hill Farm near Waldorf Maryland"	1
+46	"Middleton"	"became the owner of"	"Cedar Hill Farm"	1
+46	"his"	"has"	"service in the United States Army"	1
+46	"the United States Army"	"is"	"1968-1971"	0
+"The Candy Trail" is a 1916 silent comedy film featuring Oliver Hardy.
+47	"The Candy Trail"	"is"	"a 1916 silent comedy film"	1
+47	"The Candy Trail"	"is"	"a 1916 silent comedy film featuring Oliver Hardy"	1
+47	"a 1916 silent comedy film"	"be featuring"	"Oliver Hardy"	1
+Daughter of the actor Ismael Sanchez Abellan and actress and writer Ana Maria Bueno (better known as Ana Rosetti), Gabriel was born in San Fernando, Cadiz, but spent her childhood in Madrid.
+48	"Cadiz"	"spent her childhood in"	"Madrid"	0
+48	"Daughter of actress Ana Maria Bueno better known as Ana Rosetti"	"Cadiz"	0
+48	"Daughter of actress Ana Maria Bueno better known as Ana Rosetti"	"spent"	"her childhood"	0
+48	"Daughter of actress Ana Maria Bueno better known as Ana Rosetti"	"spent"	"her childhood in Madrid"	1
+48	"Daughter of the actor Ismael Sanchez Abellan and actress and writer Ana Maria"	"be known as"	"Ana Rosetti"	0
+48	"Daughter of the actor Ismael Sanchez Abellan and actress and writer Ana Maria"	"was born at"	"San Fernando"	0
+48	"Daughter of the actor Ismael Sanchez Abellan and actress and writer Ana Maria"	"was born in"	"San Fernando"	0
+48	"Daughter of the actor Ismael Sanchez Abellan and actress and writer Ana Maria"	"was born on"	"San Fernando"	0
+48	"Daughter of the actor Ismael Sanchez Abellan and actress and writer Ana Maria Bueno better known as Ana Rosetti"	"Cadiz"	0
+48	"Daughter of the actor Ismael Sanchez Abellan and actress and writer Ana Maria Bueno better known as Ana Rosetti"	"spent"	"her childhood"	0
+48	"Daughter of the actor Ismael Sanchez Abellan and actress and writer Ana Maria Bueno better known as Ana Rosetti"	"spent"	"her childhood in Madrid"	1
+48	"Daughter of the actor Ismael Sanchez Abellan better known as Ana Rosetti"	"Cadiz"	0
+48	"Daughter of the actor Ismael Sanchez Abellan better known as Ana Rosetti"	"spent"	"her childhood"	0
+48	"Daughter of the actor Ismael Sanchez Abellan better known as Ana Rosetti"	"spent"	"her childhood in Madrid"	0
+48	"Daughter of writer Ana Maria Bueno better known as Ana Rosetti"	"Cadiz"	0
+48	"Daughter of writer Ana Maria Bueno better known as Ana Rosetti"	"spent"	"her childhood"	0
+48	"Daughter of writer Ana Maria Bueno better known as Ana Rosetti"	"spent"	"her childhood in Madrid"	1
+48	"Gabriel"	"be known as"	"Ana Rosetti"	0
+48	"Gabriel"	"was born"	"in San Fernando"	1
+48	"Gabriel"	"was born at"	"San Fernando"	0
+48	"Gabriel"	"was born in"	"San Fernando"	1
+48	"Gabriel"	"was born on"	"San Fernando"	0
+48	"San Fernando"	"was born in"	"Cadiz"	0
+48	"her"	"has"	"childhood"	1
+48	"her childhood"	"be spent in"	"Madrid"	0
+He was made an Officer of the Order of Australia in the Australia Day honours of 2003, for service to the Australian Labor Party and to politics through the introduction of modern campaign techniques, fundraising protocols for all political parties, affirmative action guidelines, and by strengthening the party's organisational and financial structure.
+49	"He"	"be an Officer of"	"the Order of Australia"	1
+49	"He"	"was made"	"an Officer of the Order of Australia"	1
+49	"He"	"was made"	"an Officer of the Order of Australia for service to politics by strengthening the party 's financial structure"	1
+49	"He"	"was made"	"an Officer of the Order of Australia for service to politics by strengthening the party 's organisational structure"	1
+49	"He"	"was made"	"an Officer of the Order of Australia for service to politics through the introduction of modern campaign techniques"	1
+49	"He"	"was made"	"an Officer of the Order of Australia for service to the Australian Labor Party"	1
+49	"He"	"was made"	"an Officer of the Order of Australia for service to the Australian Labor Party and to politics through the introduction of modern campaign techniques and by strengthening the party 's organisational and financial structure"	1
+49	"He"	"was made"	"an Officer of the Order of Australia in the Australia Day honors of 2003"	1
+49	"He"	"was made affirmative action guidelines"	"an Officer of the Order of Australia"	0
+49	"He"	"was made affirmative action guidelines for"	"service"	0
+49	"He"	"was made affirmative action guidelines in"	"the Australia Day honours of 2003"	0
+49	"He"	"was made affirmative action guidelines on"	"the Australia Day honours of 2003"	0
+49	"He"	"was made affirmative action guidelines through"	"the introduction of modern campaign techniques"	0
+49	"He"	"was made an Officer of"	"the Order of Australia"	0
+49	"He"	"was made an Officer of the Order of Australia"	"affirmative action guidelines"	0
+49	"He"	"was made an Officer of the Order of Australia for"	"service"	0
+49	"He"	"was made an Officer of the Order of Australia in"	"the Australia Day honours of 2003"	0
+49	"He"	"was made an Officer of the Order of Australia on"	"the Australia Day honours of 2003"	0
+49	"He"	"was made an Officer of the Order of Australia through"	"the introduction of modern campaign techniques"	0
+49	"all political parties"	"is"	"affirmative action guidelines"	0
+49	"modern campaign techniques"	"is"	"fundraising protocols for all political parties"	0
+49	"the party"	"has"	"financial structure"	1
+49	"the party"	"has"	"organisational and financial structure"	1
+49	"the party"	"has"	"organisational structure"	1
+Dissatisfaction with progress and lack of resettlement of refugees caused the CNDP forces to declare war on the FDLR and hostilities to resume, including civilian atrocities.
+50	"Dissatisfaction"	"caused"	"the CNDP forces"	0
+50	"Dissatisfaction"	"caused including"	"civilian atrocities"	0
+50	"Dissatisfaction with lack of resettlement of refugees"	"caused"	"the CNDP forces to declare war on hostilities to resume"	0
+50	"Dissatisfaction with lack of resettlement of refugees"	"caused"	"the CNDP forces to declare war on the FDLR to resume"	0
+50	"Dissatisfaction with lack of resettlement of refugees"	"caused"	"the CNDP forces to declare war to resume"	0
+50	"Dissatisfaction with lack of resettlement of refugees"	"caused"	"the CNDP forces to declare war to resume including civilian atrocities"	0
+50	"Dissatisfaction with progress and lack of resettlement of refugees"	"caused"	"the CNDP forces to declare war on the FDLR and hostilities to resume"	0
+50	"Dissatisfaction with progress and lack of resettlement of refugees"	"caused"	"the CNDP forces to declare war to resume"	0
+50	"Dissatisfaction with progress and lack of resettlement of refugees"	"caused"	"the CNDP forces to declare war to resume including civilian atrocities"	0
+50	"Dissatisfaction with progress of resettlement of refugees"	"caused"	"the CNDP forces to declare war on hostilities to resume"	0
+50	"Dissatisfaction with progress of resettlement of refugees"	"caused"	"the CNDP forces to declare war on the FDLR to resume"	0
+50	"Dissatisfaction with progress of resettlement of refugees"	"caused"	"the CNDP forces to declare war to resume"	0
+50	"Dissatisfaction with progress of resettlement of refugees"	"caused"	"the CNDP forces to declare war to resume including civilian atrocities"	0
+50	"progress and lack of resettlement of refugees"	"caused"	"the CNDP forces"	0
+50	"war"	"to be declare on"	"the FDLR and hostilities"	0
+"While the Arab world is a rich prize in itself, Europe has been and remains the primary objective.
+51	"Europe"	"has been"	0
+51	"Europe"	"has been"	"While the Arab world is a rich prize in itself"	0
+51	"Europe"	"remains"	"the primary objective"	1
+51	"Europe"	"remains"	"the primary objective While the Arab world is a rich prize in itself"	1
+51	"the Arab world"	"is"	"a rich prize"	1
+51	"the Arab world"	"is"	"a rich prize in itself"	1
+51	"the Arab world"	"is a rich prize in"	"itself"	0
+Since the British also knew that by law the fleet could only land at Cadiz, as well as its place and approximate time of departure from South America, it was not difficult to position a squadron to intercept it.
+52	"it"	"was"	"not difficult"	0
+52	"it"	"was not"	"difficult to position a squadron to intercept it"	1
+52	"it"	"was not"	"difficult to position a squadron to intercept it Since the British also knew that by law the fleet could only land at Cadiz as well as its place and approximate time of departure from South America"	1
+52	"it"	"was not"	"difficult to position a squadron to intercept it Since the British also knew that by law the fleet could only land at Cadiz from South America"	0
+52	"it"	"was not"	"difficult to position a squadron to intercept it Since the British also knew that by law the fleet could only land at approximate time of departure from South America"	0
+52	"it"	"was not"	"difficult to position a squadron to intercept it Since the British also knew that by law the fleet could only land at its place of departure from South America"	0
+52	"its"	"has"	"place and approximate time of departure"	1
+52	"its"	"has"	"place of departure"	1
+52	"the British"	"knew"	"that by law the fleet could only land at Cadiz as well as its place and approximate time of departure from South America"	1
+52	"the British"	"knew"	"that by law the fleet could only land at Cadiz as well as its place and approximate time of departure from South America also"	1
+52	"the British"	"knew"	"that by law the fleet could only land at Cadiz from South America"	0
+52	"the British"	"knew"	"that by law the fleet could only land at Cadiz from South America also"	0
+52	"the British"	"knew"	"that by law the fleet could only land at approximate time of departure from South America"	0
+52	"the British"	"knew"	"that by law the fleet could only land at approximate time of departure from South America also"	0
+52	"the British"	"knew"	"that by law the fleet could only land at its place of departure from South America"	0
+52	"the British"	"knew"	"that by law the fleet could only land at its place of departure from South America also"	0
+52	"the fleet"	"could land"	"at Cadiz"	1
+52	"the fleet"	"could land"	"at Cadiz as well as its place and approximate time of departure"	0
+52	"the fleet"	"could land"	"at Cadiz as well as its place and approximate time of departure by law"	0
+52	"the fleet"	"could land"	"at Cadiz as well as its place and approximate time of departure from South America"	0
+52	"the fleet"	"could land"	"at Cadiz as well as its place and approximate time of departure only"	0
+52	"the fleet"	"could land"	"at Cadiz by law"	1
+52	"the fleet"	"could land"	"at Cadiz from South America"	0
+52	"the fleet"	"could land"	"at Cadiz only"	1
+52	"the fleet"	"could land"	"at approximate time of departure"	0
+52	"the fleet"	"could land"	"at approximate time of departure by law"	0
+52	"the fleet"	"could land"	"at approximate time of departure from South America"	0
+52	"the fleet"	"could land"	"at approximate time of departure only"	0
+52	"the fleet"	"could land"	"at its place of departure"	0
+52	"the fleet"	"could land"	"at its place of departure by law"	0
+52	"the fleet"	"could land"	"at its place of departure from South America"	0
+52	"the fleet"	"could land"	"at its place of departure only"	0
+52	"the fleet"	"could only land at"	"Cadiz"	1
+52	"the fleet"	"could only land at"	"Cadiz"	"[attrib=the British also knew]"	1
+52	"the fleet"	"could only land by"	"law"	"[attrib=the British also knew]"	0
+Tomkins made his Premier League debut on 22 March 2008 in a 1-1 draw away to Everton.
+53	"Tomkins"	"made"	"his Premier League debut"	1
+53	"Tomkins"	"made"	"his Premier League debut March 2008"	1
+53	"Tomkins"	"made"	"his Premier League debut in a 1-1 draw away to Everton"	1
+53	"Tomkins"	"made"	"his Premier League debut on 22"	0
+53	"Tomkins"	"made away"	"his Premier League debut"	0
+53	"Tomkins"	"made his Premier League debut away in"	"a 1-1 draw"	0
+53	"Tomkins"	"made his Premier League debut away on"	"22 March 2008"	0
+53	"Tomkins"	"made his Premier League debut away to"	"Everton"	0
+53	"his"	"has"	"Premier League debut"	1
+53	"his Premier League debut"	"be made away in"	"a 1-1 draw"	0
+53	"his Premier League debut"	"be made away on"	"22 March 2008"	0
+53	"his Premier League debut"	"be made away to"	"Everton"	0
+He then went on to work for Cisco Systems, one of the world's largest high-tech businesses.
+54	"Cisco Systems"	"is"	"one of the world 's largest high-tech businesses"	1
+54	"He"	"then went on to work for"	"Cisco Systems"	1
+54	"He"	"then went to work for"	"Cisco Systems"	1
+54	"He"	"to work for"	"Cisco Systems"	0
+54	"He"	"went on"	"to work for Cisco Systems"	1
+54	"the world"	"has"	"largest high-tech businesses"	1
+He fathered two children, Edna and Donald, and lived in Aberdeen until his death from tuberculosis in 1942.
+55	"He"	"fathered"	"Donald"	1
+55	"He"	"fathered"	"Edna"	1
+55	"He"	"fathered"	"two children"	1
+55	"He"	"fathered"	"two children Edna and Donald"	1
+55	"He"	"lived"	"in Aberdeen"	1
+55	"He"	"lived"	"in Aberdeen from tuberculosis in 1942"	0
+55	"He"	"lived"	"in Aberdeen until his death"	1
+55	"He"	"lived in"	"Aberdeen"	1
+55	"He"	"lived until"	"his death"	0
+55	"his"	"has"	"death"	1
+55	"two children"	"lived in"	"Aberdeen"	0
+A Great-Great Grandson was Robert Norton Noyce (1927 - 1990), nicknamed "the Mayor of Silicon Valley", co-founder of Fairchild Semiconductor in 1957 and Intel in 1968.
+56	"A Great-Great Grandson"	"was"	"Intel in 1968"	0
+56	"A Great-Great Grandson"	"was"	"Robert Norton Noyce"	1
+56	"A Great-Great Grandson"	"was"	"Robert Norton Noyce 1927 1990"	1
+56	"A Great-Great Grandson"	"was"	"Robert Norton Noyce 1927 1990 co-founder of Fairchild Semiconductor in 1957 and Intel in 1968"	1
+56	"A Great-Great Grandson"	"was"	"co-founder of Fairchild Semiconductor in 1957"	1
+56	"A Great-Great Grandson"	"was"	"nicknamed the Mayor of Silicon Valley"	1
+After learning to play from her mother and continuing as a music student in local schools, Alice was accepted as a student of Carlos Salzedo at the Curtis Institute of Music in Philadelphia, Pennsylvania.
+57	"Alice"	"be a student of"	"Carlos Salzedo"	1
+57	"Alice"	"was accepted"	"as a student of Carlos Salzedo"	1
+57	"Alice"	"was accepted"	"as a student of Carlos Salzedo After continuing as a music student in local schools"	1
+57	"Alice"	"was accepted"	"as a student of Carlos Salzedo After learning to play from her mother"	1
+57	"Alice"	"was accepted"	"as a student of Carlos Salzedo After learning to play from her mother and continuing as a music student in local schools"	1
+57	"Alice"	"was accepted"	"as a student of Carlos Salzedo at the Curtis Institute of Music"	1
+57	"Alice"	"was accepted"	"as a student of Carlos Salzedo in Philadelphia Pennsylvania"	1
+57	"Alice"	"was accepted as"	"a student of Carlos Salzedo"	1
+57	"her"	"has"	"mother"	1
+This article includes attacks on continental territory (extending 200 miles into the ocean) which is today under the sovereignty of the United States, Canada and Mexico but excludes military action involving the Danish territory of Greenland and the Caribbean.
+58	"200 miles"	"be extending into"	"the ocean"	0
+58	"Danish"	"be territory of"	"Greenland and the Caribbean"	0
+58	"Mexico"	"excludes"	"military action"	0
+58	"This article"	"excludes"	"military action involving the Danish territory of Greenland"	1
+58	"This article"	"excludes"	"military action involving the Danish territory of Greenland and the Caribbean"	1
+58	"This article"	"excludes"	"military action involving the Danish territory of the Caribbean"	1
+58	"This article"	"includes"	"attacks"	1
+58	"This article"	"includes"	"attacks on continental territory extending 200 miles into the ocean"	1
+58	"This article"	"includes attacks on"	"continental territory"	1
+58	"continental territory"	"is today under"	"the sovereignty of the United States"	1
+58	"continental territory extending 200 miles into the ocean"	"is"	"today"	0
+58	"continental territory extending 200 miles into the ocean"	"is"	"today under the sovereignty of the United Canada"	0
+58	"continental territory extending 200 miles into the ocean"	"is"	"today under the sovereignty of the United Mexico"	0
+58	"continental territory extending 200 miles into the ocean"	"is"	"today under the sovereignty of the United States"	1
+58	"continental territory extending 200 miles into the ocean"	"is"	"today under the sovereignty of the United States Canada and Mexico"	1
+Princeton's women's track & field team has also enjoyed great success under Head Coach Peter Farrell.
+59	"Princeton 's women 's track"	"has also enjoyed"	"great success"	0
+59	"Princeton 's women 's track"	"has also enjoyed great success under"	"Head Coach Peter Farrell"	0
+59	"Princeton 's women 's track & field team"	"has also enjoyed great success under"	"Head Coach Peter Farrell"	0
+59	"Princeton 's women 's track & field team"	"has enjoyed"	"great success"	0
+59	"Princeton 's women 's track & field team"	"has enjoyed"	"great success also"	0
+59	"Princeton 's women 's track & field team"	"has enjoyed"	"great success under Head Coach Peter Farrell"	0
+59	"field team"	"has also enjoyed"	"great success"	0
+59	"field team"	"has also enjoyed great success under"	"Head Coach Peter Farrell"	0
+59	"women"	"has"	"track &"	0
+59	"women"	"has"	"track & field team"	0
+The report implied that the infighting in Zanu-PF over Mugabe's successor was also hurting policy formulation and consistency in implementation.
+60	"Mugabe"	"has"	"successor"	1
+60	"Mugabe 's successor"	"was also hurting"	"policy formulation and consistency"	0
+60	"The report"	"implied"	"that the infighting in Zanu-PF over Mugabe 's successor was also hurting policy consistency in implementation"	0
+60	"The report"	"implied"	"that the infighting in Zanu-PF over Mugabe 's successor was also hurting policy formulation and consistency in implementation"	1
+60	"The report"	"implied"	"that the infighting in Zanu-PF over Mugabe 's successor was also hurting policy formulation in implementation"	1
+60	"the infighting"	"was also hurting"	"policy formulation and consistency"	1
+60	"the infighting in Zanu-PF over Mugabe 's successor"	"was hurting"	"policy consistency in implementation"	1
+60	"the infighting in Zanu-PF over Mugabe 's successor"	"was hurting"	"policy consistency in implementation also"	1
+60	"the infighting in Zanu-PF over Mugabe 's successor"	"was hurting"	"policy formulation and consistency in implementation"	1
+60	"the infighting in Zanu-PF over Mugabe 's successor"	"was hurting"	"policy formulation and consistency in implementation also"	1
+60	"the infighting in Zanu-PF over Mugabe 's successor"	"was hurting"	"policy formulation in implementation"	0
+60	"the infighting in Zanu-PF over Mugabe 's successor"	"was hurting"	"policy formulation in implementation also"	0
+"Life Partner" netted overseas in its opening week while it netted domestically by the third week.
+61	"Life Partner"	"netted"	"overseas"	1
+61	"Life Partner"	"netted"	"overseas in its opening week"	1
+61	"Life Partner"	"netted"	"overseas while it netted domestically by the third week"	1
+61	"Life Partner"	"netted overseas in"	"its opening week"	"[enabler=while it netted domestically by the third week]"	1
+61	"it"	"netted"	"domestically"	1
+61	"it"	"netted"	"domestically by the third week"	1
+61	"it"	"netted domestically by"	"the third week"	1
+61	"its"	"has"	"opening week"	1
+He also did the voice of Tommy in the action game "Prey".
+62	"He"	"also did the voice of"	"Tommy"	1
+62	"He"	"did"	"the voice of Tommy"	1
+62	"He"	"did"	"the voice of Tommy also"	1
+62	"He"	"did"	"the voice of Tommy in the action game Prey"	1
+62	"the voice of Tommy"	"be did in"	"the action game"	1
+The film was first shown on 18 July 2009 in Montreal at the Fantasia Festival.
+63	"The film"	"was"	"first"	0
+63	"The film"	"was shown"	"on 18"	0
+63	"The film"	"was shown"	"on 18 July 2009"	1
+63	"The film"	"was shown"	"on 18 first"	0
+63	"The film"	"was shown"	"on 18 in Montreal at the Fantasia Festival"	0
+63	"first"	"be shown at"	"the Fantasia Festival"	0
+63	"first"	"be shown on"	"18 July 2009"	0
+The foundations of the University of the Aegean date back to October 1918 when Greece had expanded its geographic borders to the wider Smyrna area after the World War I.
+64	"Greece"	"had expanded"	"its geographic borders"	1
+64	"Greece"	"had expanded"	"its geographic borders after the World War I."	1
+64	"Greece"	"had expanded"	"its geographic borders to the wider Smyrna area"	1
+64	"Greece"	"had expanded"	"its geographic borders when"	0
+64	"Greece"	"had expanded its geographic borders after"	"the World War I."	0
+64	"Greece"	"had expanded its geographic borders to"	"the wider Smyrna area"	0
+64	"its"	"has"	"geographic borders"	1
+These include award sculptures for organizations such as the National Air and Space Museum, the PGA Tour, the Georgetown University Lombardi Cancer Center, the World Peace Foundation, and the Shakespeare Guild.
+65	"These"	"include"	"award sculptures"	1
+65	"These"	"include"	"award sculptures for organizations such as Space Museum"	0
+65	"These"	"include"	"award sculptures for organizations such as the Georgetown University Lombardi Cancer Center"	1
+65	"These"	"include"	"award sculptures for organizations such as the National Air"	0
+65	"These"	"include"	"award sculptures for organizations such as the National Air and Space Museum the PGA Tour the Georgetown University Lombardi Cancer Center the World Peace Foundation and the Shakespeare Guild"	1
+65	"These"	"include"	"award sculptures for organizations such as the PGA Tour"	1
+65	"These"	"include"	"award sculptures for organizations such as the Shakespeare Guild"	1
+65	"These"	"include"	"award sculptures for organizations such as the World Peace Foundation"	1
+Argentina has an important rugby union football team, "Los Pumas", with many of its players playing in Europe.
+66	"Argentina"	"has"	"an important rugby union football team"	1
+66	"Argentina"	"has"	"an important rugby union football team Los Pumas"	1
+66	"Argentina"	"has"	"an important rugby union football team Los Pumas with many of its players playing in Europe"	1
+66	"its"	"has"	"players"	1
+66	"its players"	"playing in"	"Europe"	0
+66	"many of its players"	"playing"	"in Europe"	0
+They have also competed in the UEFA Women's Cup and UEFA Women's Champions League.
+67	"They"	"have also competed in"	"the UEFA Women 's Cup and UEFA Women 's Champions League"	1
+67	"They"	"have competed"	"in UEFA Women 's Champions League"	1
+67	"They"	"have competed"	"in UEFA Women 's Champions League also"	1
+67	"They"	"have competed"	"in the UEFA Women 's Cup"	1
+67	"They"	"have competed"	"in the UEFA Women 's Cup also"	1
+67	"They"	"have competed"	"in the UEFA Women 's Cup and UEFA Women 's Champions League"	1
+67	"They"	"have competed"	"in the UEFA Women 's Cup and UEFA Women 's Champions League also"	1
+67	"UEFA Women"	"has"	"Champions League"	0
+67	"the UEFA Women"	"has"	"Cup"	0
+67	"the UEFA Women"	"has"	"Cup and UEFA Women 's Champions League"	0
+Finklea began his medical career as a physician and a professor at a series of medical schools.
+68	"Finklea"	"began"	"his medical career"	1
+68	"Finklea"	"began"	"his medical career as a physician"	1
+68	"Finklea"	"began"	"his medical career as a physician and a professor"	1
+68	"Finklea"	"began"	"his medical career as a professor"	1
+68	"Finklea"	"began"	"his medical career at a series of medical schools"	1
+68	"Finklea"	"began his medical career as"	"a physician"	1
+68	"Finklea"	"began his medical career as"	"a physician and a professor"	1
+68	"his"	"has"	"medical career"	1
+68	"his medical career"	"be began as"	"a physician and a professor"	1
+It was later broadcast on NBC on February 26, 2009 and is now available as a separate DVD as of March 24, 2009, It also the televison premiere for Nickelodeon on March 6, 2011.
+69	"It"	"be also the televison premiere for"	"Nickelodeon"	0
+69	"It"	"be also the televison premiere on"	"March 6 , 2011"	0
+69	"It"	"was It"	"also the televison premiere for Nickelodeon on March 6 2011"	0
+69	"It"	"was It"	"also the televison premiere for Nickelodeon on March 6 2011 later"	0
+69	"It"	"was broadcast"	"on NBC"	1
+69	"It"	"was broadcast"	"on NBC later"	1
+69	"It"	"was broadcast"	"on NBC on February 26 2009"	1
+69	"It"	"was is"	"available"	0
+69	"It"	"was is"	"available as a separate DVD as of March 24 2009"	0
+69	"It"	"was is"	"available later"	0
+69	"It"	"was is"	"available now"	0
+69	"It"	"was later broadcast on"	"February 26 , 2009"	1
+69	"It"	"was later broadcast on"	"NBC"	1
+They are adamant on finding out the truth about her.
+70	"They"	"are"	"adamant"	1
+70	"They"	"are"	"adamant on finding out the truth about her"	1
+In its early years, the air force was engaged primarily in immigration patrol, with occasional assistance in emergency relief.
+71	"its"	"has"	"early years"	1
+71	"the air force"	"was engaged"	"primarily"	0
+71	"the air force"	"was engaged"	"primarily In its early years"	0
+71	"the air force"	"was engaged"	"primarily in immigration patrol"	1
+71	"the air force"	"was engaged"	"primarily with occasional assistance in emergency relief"	0
+71	"the air force"	"was engaged in"	"immigration patrol"	1
+71	"the air force"	"was engaged in"	"its early years"	0
+71	"the air force"	"was engaged primarily in"	"immigration patrol"	1
+71	"the air force"	"was engaged with"	"occasional assistance"	0
+As Sarada tries to act normal while planning to escape, Dileep finds that his father has been locked in and when he saves his father, he realizes that Sarada knows the truth about his deeds.
+72	"Dileep"	"finds"	"that his father has been locked in"	1
+72	"Dileep"	"finds"	"that his father has been locked in As Sarada tries to act normal while planning to escape"	1
+72	"Dileep"	"finds"	"that his father has been locked in and when he saves his father he realizes that Sarada knows the truth about his deeds"	1
+72	"Dileep"	"finds"	"that his father has been locked in and when he saves his father he realizes that Sarada knows the truth about his deeds As Sarada tries to act normal while planning to escape"	1
+72	"Dileep"	"finds"	"that when he saves his father he realizes that Sarada knows the truth about his deeds"	0
+72	"Dileep"	"finds"	"that when he saves his father he realizes that Sarada knows the truth about his deeds As Sarada tries to act normal while planning to escape"	0
+72	"Sarada"	"knows"	"the truth"	"[attrib=he realizes]"	1
+72	"Sarada"	"knows"	"the truth about his deeds"	1
+72	"Sarada"	"realizes in"	"he"	0
+72	"Sarada"	"tries"	"to act normal while planning to escape"	1
+72	"Sarada"	"tries to act"	"normal"	"[enabler=while planning to escape]"	1
+72	"he"	"knows the truth about"	"his deeds"	0
+72	"he"	"realizes"	"that Sarada"	0
+72	"he"	"realizes"	"that Sarada knows the truth about his deeds"	1
+72	"he"	"realizes"	"that Sarada knows the truth about his deeds when he saves his father"	0
+72	"he"	"saves"	"his father"	1
+72	"he"	"saves"	"his father when"	0
+72	"his"	"has"	"deeds"	1
+72	"his"	"has"	"father"	1
+72	"his father"	"has been locked"	"in"	1
+72	"normal while"	"be planning"	"to escape"	0
+Although at first she wards off Charlie's advances, she comes to see him as the ideal man for her plans.
+73	"Charlie"	"has"	"advances"	0
+73	"her"	"has"	"plans"	1
+73	"him"	"to be see as"	"the ideal man"	0
+73	"she"	"be wards off"	"Charlie 's advances"	1
+73	"she"	"comes"	"to see him"	0
+73	"she"	"comes"	"to see him Although at first she wards off Charlie 's advances"	0
+73	"she"	"comes"	"to see him as the ideal man for her plans"	1
+73	"she"	"comes"	"to see him as the ideal man for her plans Although at first she wards off Charlie 's advances"	1
+73	"she"	"comes to see"	"him"	0
+73	"she"	"comes to see him as"	"the ideal man"	1
+73	"she"	"to see him as"	"the ideal man"	0
+73	"she"	"wards off"	"Charlie 's advances"	1
+73	"she"	"wards off"	"Charlie 's advances at first"	1
+He has represented parts of the city of Rutland in the Vermont House of Representatives since 2005 and had previously served four terms in the House.
+74	"He"	"had served"	"four terms in the House"	1
+74	"He"	"had served"	"four terms in the House previously"	1
+74	"He"	"has represented"	"parts of the city of Rutland"	1
+74	"He"	"has represented"	"parts of the city of Rutland in the Vermont House of Representatives"	1
+74	"He"	"has represented"	"parts of the city of Rutland since 2005"	1
+74	"He"	"has represented parts of"	"the city of Rutland"	1
+74	"He"	"has represented parts of the city of Rutland in"	"the Vermont House of Representatives"	0
+74	"He"	"has represented parts of the city of Rutland since"	"2005"	0
+74	"the Vermont House of Representatives"	"had previously served four terms in"	"the House"	0
+According to gay film historian Vito Russo in his book The Celluloid Closet, co-star Michael Greer, who played the flamboyantly gay Malcolm and who was himself gay, tried to work with the screenwriter and director to minimize the negativity of the characterization and present Malcolm in a positive light.
+75	"The Celluloid Closet co-star Michael Greer"	"played"	"the flamboyantly gay Malcolm"	0
+75	"The Celluloid Closet co-star Michael Greer"	"played"	"the flamboyantly gay Malcolm and who was himself gay"	0
+75	"The Celluloid Closet co-star Michael Greer"	"played"	"who was himself gay"	0
+75	"The Celluloid Closet co-star Michael Greer"	"tried"	"to work to minimize the negativity of the characterization"	0
+75	"The Celluloid Closet co-star Michael Greer"	"tried"	"to work to minimize the negativity of the characterization According to gay film historian Vito Russo in his book"	0
+75	"The Celluloid Closet co-star Michael Greer"	"tried"	"to work to present Malcolm in a positive light"	0
+75	"The Celluloid Closet co-star Michael Greer"	"tried"	"to work to present Malcolm in a positive light According to gay film historian Vito Russo in his book"	0
+75	"The Celluloid Closet co-star Michael Greer"	"tried"	"to work with the director to minimize the negativity of the characterization"	0
+75	"The Celluloid Closet co-star Michael Greer"	"tried"	"to work with the director to minimize the negativity of the characterization According to gay film historian Vito Russo in his book"	0
+75	"The Celluloid Closet co-star Michael Greer"	"tried"	"to work with the director to present Malcolm in a positive light"	0
+75	"The Celluloid Closet co-star Michael Greer"	"tried"	"to work with the director to present Malcolm in a positive light According to gay film historian Vito Russo in his book"	0
+75	"The Celluloid Closet co-star Michael Greer"	"tried"	"to work with the screenwriter and director to minimize the negativity of the characterization"	0
+75	"The Celluloid Closet co-star Michael Greer"	"tried"	"to work with the screenwriter and director to minimize the negativity of the characterization According to gay film historian Vito Russo in his book"	0
+75	"The Celluloid Closet co-star Michael Greer"	"tried"	"to work with the screenwriter and director to present Malcolm in a positive light"	0
+75	"The Celluloid Closet co-star Michael Greer"	"tried"	"to work with the screenwriter and director to present Malcolm in a positive light According to gay film historian Vito Russo in his book"	0
+75	"The Celluloid Closet co-star Michael Greer"	"tried"	"to work with the screenwriter to minimize the negativity of the characterization"	0
+75	"The Celluloid Closet co-star Michael Greer"	"tried"	"to work with the screenwriter to minimize the negativity of the characterization According to gay film historian Vito Russo in his book"	0
+75	"The Celluloid Closet co-star Michael Greer"	"tried"	"to work with the screenwriter to present Malcolm in a positive light"	0
+75	"The Celluloid Closet co-star Michael Greer"	"tried"	"to work with the screenwriter to present Malcolm in a positive light According to gay film historian Vito Russo in his book"	0
+75	"co-star Michael Greer"	"played"	"the flamboyantly gay Malcolm and"	0
+75	"himself"	"played"	"the flamboyantly gay Malcolm"	1
+75	"himself"	"to work with"	"the screenwriter and director"	0
+75	"himself"	"tried to work with"	"the screenwriter and director"	1
+75	"his"	"has"	"book"	1
+75	"the flamboyantly gay Malcolm and"	"tried to work with"	"the screenwriter and director"	0
+75	"the flamboyantly gay Malcolm and"	"was"	"himself"	0
+75	"who"	"was"	"himself gay"	0
+In 2009, Hobbs acquired the role of top gymnast, Emily Kmetko, in ABC Family's "Make It or Break It".
+76	"ABC Family 's"	"Make"	"It"	0
+76	"Break"	"It"	0
+76	"Emily Kmetko"	"be acquired the role of top gymnast in"	"2009"	0
+76	"Hobbs"	"acquired"	"the role of top gymnast"	1
+76	"Hobbs"	"acquired"	"the role of top gymnast In 2009"	1
+76	"Hobbs"	"acquired"	"the role of top gymnast in ABC Family 's Make Break It"	0
+76	"Hobbs"	"acquired"	"the role of top gymnast in ABC Family 's Make It It"	0
+76	"Hobbs"	"acquired"	"the role of top gymnast in ABC Family 's Make It or Break It"	1
+76	"Hobbs"	"acquired Emily Kmetko , in ABC Family 's " Make It or Break It ""	"the role of top gymnast"	0
+76	"Hobbs"	"acquired Emily Kmetko , in ABC Family 's " Make It or Break It " in"	"2009"	0
+76	"Hobbs"	"acquired the role of top gymnast"	"Emily Kmetko"	0
+76	"Hobbs"	"acquired the role of top gymnast in"	"2009"	0
+76	"It"	"It"	0
+76	"It or Break"	"It"	0
+76	"the role of top gymnast"	"be acquired Emily Kmetko , in ABC Family 's " Make It or Break It " in"	"2009"	0
+76	"top gymnast"	"is"	"Emily Kmetko"	0
+Mya Than Tint entered Rangoon University in 1948, the year Burma gained independence from Great Britain, and received a degree in philosophy, political science and English literature.
+77	"Burma"	"gained"	"independence"	1
+77	"Burma"	"gained independence from"	"Great Britain"	1
+77	"Burma"	"gained independence from Great Britain in"	"the year"	0
+77	"Mya Than Tint"	"entered"	"Rangoon University"	1
+77	"Mya Than Tint"	"entered Rangoon University"	"1948"	0
+77	"Mya Than Tint"	"entered Rangoon University in"	"1948"	0
+77	"Mya Than Tint"	"received"	"a degree in philosophy , political science and English literature"	1
+77	"Rangoon University"	"be entered in"	"1948"	0
+77	"Tint"	"entered"	"Rangoon University in 1948"	0
+77	"independence"	"received a degree in"	"philosophy"	0
+77	"the year Burma"	"gained"	"Mya Than Tint entered Rangoon University in 1948 independence"	0
+77	"the year Burma"	"gained"	"Mya Than Tint entered Rangoon University in 1948 independence from Great Britain"	0
+77	"the year Burma"	"received"	"Mya Than Tint entered Rangoon University in 1948 a degree"	0
+77	"the year Burma"	"received"	"Mya Than Tint entered Rangoon University in 1948 a degree in English literature"	0
+77	"the year Burma"	"received"	"Mya Than Tint entered Rangoon University in 1948 a degree in philosophy"	0
+77	"the year Burma"	"received"	"Mya Than Tint entered Rangoon University in 1948 a degree in philosophy political science and English literature"	0
+77	"the year Burma"	"received"	"Mya Than Tint entered Rangoon University in 1948 a degree in political science"	0
+They seek help from a prisoner (played by Blacky Ko).
+78	"They"	"seek"	0
+78	"They"	"seek"	"help"	1
+78	"They"	"seek help from"	"a prisoner"	1
+78	"a prisoner"	"be"	"played by"	"Blacky Ko"	0
+He trained with the club for one month before being waived on March 1, 2011, prior to the start of the MLS season.
+79	"He"	"trained"	"with the club for one month"	1
+79	"He"	"trained"	"with the club for one month before being waived on March 1 2011 prior to the start of the MLS season"	1
+79	"He"	"trained prior to the start the MLS season for"	"one month"	0
+79	"He"	"trained prior to the start the MLS season with"	"the club"	0
+79	"He"	"trained with"	"the club"	1
+The twisted creations of two cartoonists come to life in this tongue-in-cheek low budget schlocker.
+80	"The twisted creations of two cartoonists"	"come"	"to life in this tongue-in-cheek low budget schlocker"	1
+80	"The twisted creations of two cartoonists"	"come to"	"life"	1
+Bryant committed suicide by falling off a ferry into San Francisco Bay, and drowned.
+81	"Bryant"	"committed"	"suicide"	1
+81	"Bryant"	"committed"	"suicide by falling off a ferry into San Francisco Bay"	1
+81	"Bryant"	"drowned"	1
+Dawson began his career as an English teacher at Southern University in Baton Rouge, Louisiana, where he remained three years after earning his M.A.
+82	"Baton Rouge"	"is"	"Louisiana"	0
+82	"Dawson"	"began"	"his career"	1
+82	"Dawson"	"began"	"his career as an English teacher"	1
+82	"Dawson"	"began"	"his career at Southern University in Baton Rouge"	1
+82	"Dawson"	"began"	"his career where he remained three years after earning his M.A."	0
+82	"Dawson"	"began his career as"	"an English teacher"	1
+82	"Louisiana"	"be Southern University in"	"Baton Rouge"	0
+82	"Southern University"	"be an English teacher at"	"Louisiana"	0
+82	"he"	"remained"	"three years"	0
+82	"he"	"remained"	"three years after earning his M.A."	0
+82	"he"	"remained"	"three years where"	0
+82	"he"	"remained in"	"three years"	0
+82	"his"	"has"	"M.A."	1
+82	"his"	"has"	"career"	1
+82	"his career"	"be began as"	"an English teacher"	1
+It relied on collective work, and gave the amateurs of the time a chance to compensate to some extent for their lack of skill.
+83	"It"	"gave"	"the amateurs of the time"	0
+83	"It"	"gave"	"the amateurs of the time a chance to compensate to some extent for their lack of skill"	1
+83	"It"	"relied"	"on collective work"	1
+83	"It"	"relied on"	"collective work"	1
+83	"their"	"has"	"lack of skill"	1
+The University of Sulaimani is a public university located in the city of Sulaymaniyah in Kurdistan.
+84	"Kurdistan"	"be the city of"	"Sulaymaniyah"	0
+84	"The University of Sulaimani"	"is"	"a public university"	1
+84	"The University of Sulaimani"	"is"	"a public university located in the city of Sulaymaniyah in Kurdistan"	1
+84	"The University of Sulaimani"	"is a public university in"	"Kurdistan"	1
+84	"The University of Sulaimani"	"is a public university in"	"the city of Sulaymaniyah"	1
+84	"The University of Sulaimani"	"is a public university located in"	"the city of Sulaymaniyah"	1
+84	"a public university"	"be located"	"in the city of Sulaymaniyah"	1
+84	"a public university"	"be located"	"in the city of Sulaymaniyah in Kurdistan"	1
+84	"a public university"	"be located in"	"Kurdistan"	1
+84	"a public university"	"be located in"	"the city of Sulaymaniyah"	1
+An honours year quickly followed, and Titterton topped the year in Physics.
+85	"An honors year"	"followed"	1
+85	"An honors year"	"followed"	"quickly"	1
+85	"An honours year"	"topped in"	"Physics"	0
+85	"Titterton"	"topped"	"the year"	1
+85	"Titterton"	"topped"	"the year in Physics"	1
+85	"Titterton"	"topped in"	"Physics"	0
+Langley became the first President of the General Union of Railway Clerks in 1897, although he resigned due to ill health the following year.
+86	"Langley"	"became"	"the first President"	0
+86	"Langley"	"became"	"the first President although he resigned due to ill health the following year"	0
+86	"Langley"	"became"	"the first President in 1897"	0
+86	"Langley"	"became"	"the first President of the General Union of Railway Clerks"	1
+86	"Langley"	"became the first President of"	"the General Union of Railway Clerks"	1
+86	"Langley"	"became the first President of"	"the General Union of Railway Clerks"	"[enabler=although he resigned due to ill health the following year]"	1
+86	"Langley"	"became the first President of the General Union of Railway Clerks in"	"1897"	"[enabler=although he resigned due to ill health the following year]"	0
+86	"he"	"resigned"	"due to ill health"	1
+86	"he"	"resigned"	"due to ill health the following year"	1
+86	"he"	"resigned due to"	"ill health"	1
+The post-war era saw the creation of New College in 1962, Innis College in 1964 and Woodsworth College in 1974, all of them nondenominational.
+87	"Innis College"	"be saw the creation of New College in"	"1962"	0
+87	"Innis College"	"be saw the creation of New College in"	"1964"	0
+87	"The post-war era"	"saw"	"the creation of Innis College in 1964 all of them nondenominational"	0
+87	"The post-war era"	"saw"	"the creation of New College in 1962 Innis College in 1964 and Woodsworth College in 1974 all of them nondenominational"	1
+87	"The post-war era"	"saw"	"the creation of New College in 1962 all of them nondenominational"	0
+87	"The post-war era"	"saw"	"the creation of Woodsworth College in 1974 all of them nondenominational"	0
+87	"The post-war era"	"saw Innis College"	"the creation of New College"	0
+87	"The post-war era"	"saw Innis College in"	"1962"	0
+87	"The post-war era"	"saw Innis College in"	"1964"	0
+87	"The post-war era"	"saw the creation of"	"New College"	1
+87	"The post-war era"	"saw the creation of New College"	"Innis College"	0
+87	"The post-war era"	"saw the creation of New College in"	"1962"	0
+87	"The post-war era"	"saw the creation of New College in"	"1964"	0
+87	"Woodsworth College"	"saw Innis College"	"the creation of New College"	0
+87	"Woodsworth College"	"saw Innis College in"	"1962"	0
+87	"Woodsworth College"	"saw Innis College in"	"1964"	0
+87	"Woodsworth College"	"saw the creation of New College"	"Innis College"	0
+87	"Woodsworth College"	"saw the creation of New College in"	"1962"	0
+87	"Woodsworth College"	"saw the creation of New College in"	"1964"	0
+87	"the creation of New College"	"be saw Innis College in"	"1962"	0
+87	"the creation of New College"	"be saw Innis College in"	"1964"	0
+The cast consisted of some of the most prominent Israeli actors of the time, as well as hundreds of extras.
+88	"The cast"	"consisted"	"of some of hundreds of extras"	0
+88	"The cast"	"consisted"	"of some of the most prominent Israeli actors of the time"	1
+88	"The cast"	"consisted"	"of some of the most prominent Israeli actors of the time as well as hundreds of extras"	1
+88	"The cast"	"consisted of"	"some of the most prominent Israeli actors of the time"	1
+When news outlets reported that taxpayers were charged for a $600 makeup session for Illinois Governor Rod Blagojevich for his budget speech, Bomke said, "He didn't get his money's worth."
+89	"Bomke"	"said"	"When news outlets reported that taxpayers were charged for a $ 600 makeup session for Illinois Governor Rod Blagojevich for his budget speech He did n't get his money 's worth"	0
+89	"He"	"did n't get"	"his money 's worth"	1
+89	"He"	"did n't get"	"his money 's worth When news outlets reported that taxpayers were charged for a $ 600 makeup session for Illinois Governor Rod Blagojevich for his budget speech"	0
+89	"his"	"has"	"budget speech"	1
+89	"his"	"has"	"money 's"	1
+89	"his money"	"has"	"worth"	1
+89	"news outlets"	"reported"	"that taxpayers were charged for a $ 600 makeup session for Illinois Governor Rod Blagojevich for his budget speech"	1
+89	"news outlets"	"reported"	"that taxpayers were charged for a $ 600 makeup session for Illinois Governor Rod Blagojevich for his budget speech When"	0
+89	"taxpayers"	"were charged"	"for a $ 600 makeup session for Illinois Governor Rod Blagojevich for his budget speech"	1
+89	"taxpayers"	"were charged for"	"a $ 600 makeup session"	1
+89	"taxpayers"	"were charged for"	"a $ 600 makeup session"	"[attrib=news outlets reported]"	1
+She later revealed to Christina the late Sommers was a friend of her family and her father had appealed to Fey for help in getting Amanda a job at "MODE" after her career as an actress didn't pan out.
+90	"She"	"later revealed to"	"Christina"	0
+90	"She"	"revealed"	"to Christina"	0
+90	"She"	"revealed"	"to Christina as an actress did n't pan out"	0
+90	"She"	"revealed"	"to Christina later"	0
+90	"a friend of her family and her father"	"had appealed for"	"help"	"[attrib=She later revealed]"	0
+90	"a friend of her family and her father"	"had appealed to"	"Fey"	"[attrib=She later revealed]"	0
+90	"a job"	"be getting Amanda after"	"her career"	"[enabler=as an actress did n't pan out]"	0
+90	"an actress"	"did n't pan out"	0
+90	"her"	"has"	"career"	1
+90	"her"	"has"	"family"	1
+90	"her"	"has"	"father"	1
+90	"her father"	"had appealed"	"to Fey for help"	1
+90	"her father"	"had appealed"	"to Fey for help in getting Amanda a job at MODE after her career"	0
+90	"her father"	"had appealed to"	"Fey"	1
+90	"the late Sommers"	"was"	"a friend"	1
+90	"the late Sommers"	"was"	"a friend of her family"	1
+90	"the late Sommers"	"was"	"a friend of her family and her father"	0
+90	"the late Sommers"	"was a friend of"	"her family"	1
+So he was forced to requisition not only the public treasury of Gades but also the wealth from its temples.
+91	"he"	"to requisition"	"the public treasury of Gades"	0
+91	"he"	"was forced"	"to requisition not only also the wealth from its temples"	0
+91	"he"	"was forced"	"to requisition not only the public treasury of Gades also"	0
+91	"he"	"was forced"	"to requisition not only the public treasury of Gades but also the wealth from its temples"	1
+91	"its"	"has"	"temples"	1
+He also told the "Washington Post" that the Iraqis warned the Zarqawi operatives that the Jordanians knew where they were.
+92	"He"	"also told"	"the " Washington Post"	0
+92	"He"	"told"	"the Washington Post that the Iraqis warned the Zarqawi operatives that the Jordanians knew where they were"	1
+92	"He"	"told"	"the Washington Post that the Iraqis warned the Zarqawi operatives that the Jordanians knew where they were also"	1
+92	"the Iraqis"	"warned"	"the Zarqawi operatives"	1
+92	"the Iraqis"	"warned"	"the Zarqawi operatives"	"[attrib=He also told the " Washington Post]"	1
+92	"the Iraqis"	"warned"	"the Zarqawi operatives that the Jordanians knew where they were"	1
+92	"the Jordanians"	"knew"	"where they were"	1
+92	"they"	"were"	0
+92	"they"	"were"	"where"	0
+During the Punitive Expedition into Mexico in 1916, he was for a time depot manager at Columbus, New Mexico, the main logistical base of the expedition.
+93	"Columbus"	"be a time depot manager at"	"New Mexico"	0
+93	"Columbus"	"be a time depot manager at"	"the main logistical base of the expedition"	0
+93	"Columbus"	"be the main logistical base of"	"the expedition"	1
+93	"Columbus"	"is"	"New Mexico"	0
+93	"he"	"was"	"the main logistical base"	0
+93	"he"	"was"	"the main logistical base During the Punitive Expedition into Mexico in 1916"	0
+93	"he"	"was"	"the main logistical base for a time depot manager at Columbus"	0
+93	"he"	"was"	"the main logistical base of the expedition"	0
+93	"he"	"was during"	"the Punitive Expedition"	0
+93	"he"	"was for"	"a time depot manager"	0
+In his "2006 Movie Guide", Leonard Maltin gives the film 3.5 stars (out of four) and calls it "probably Malle's best early film."
+94	"Leonard Maltin"	"calls"	0
+94	"Leonard Maltin"	"calls"	"In his 2006 Movie Guide"	0
+94	"Leonard Maltin"	"gives"	"the film"	0
+94	"Leonard Maltin"	"gives"	"the film 3.5 stars out of four"	1
+94	"Leonard Maltin"	"gives"	"the film 3.5 stars out of four In his 2006 Movie Guide"	1
+94	"Leonard Maltin"	"gives the film"	"3.5 stars"	1
+94	"Leonard Maltin"	"gives the film 3.5 stars"	"out of four"	"and calls it "probably Malle 's best early film in"	"his " 2006 Movie Guide""	0
+94	"Leonard Maltin"	"gives the film 3.5 stars"	"out of four"	"and calls it "probably Malle 's best early film to"	"his " 2006 Movie Guide""	0
+94	"his"	"has"	"2006 Movie Guide"	1
+94	"it"	"be "probably best early film of"	"Malle"	0
+94	"probably Malle"	"has"	"it best early film"	0
+94	"the film"	"calls"	"it"	0
+They made their first division debut against Club America in the Estadio Azteca in a memorbla match, coming back from 2-0 to win 3-2.
+95	"They"	"be coming"	"back from 2-0 to win 3-2"	1
+95	"They"	"be coming"	"back to win 3-2"	1
+95	"They"	"made"	"their first division debut"	1
+95	"They"	"made"	"their first division debut against Club America in the Estadio Azteca"	1
+95	"They"	"made"	"their first division debut coming back from 2-0 to win 3-2"	1
+95	"They"	"made"	"their first division debut in a memorbla match"	1
+95	"They"	"made their first division debut against Club America coming back from"	"2-0"	0
+95	"They"	"made their first division debut against Club America in"	"a memorbla match"	0
+95	"They"	"made their first division debut against Club America in"	"the Estadio Azteca"	0
+95	"their"	"has"	"first division debut"	1
+95	"their first division debut"	"be made in"	"a memorbla match"	1
+95	"their first division debut"	"be made in"	"the Estadio Azteca"	1
+An ex-minister turned boatyard owner Baxter (Cox) befriends Obree, which results in Obree coming up with a daring idea - he's going to try and beat the hour record.
+96	"An ex-minister"	"turned"	"boatyard owner Baxter"	0
+96	"An ex-minister"	"turned"	"boatyard owner Baxter befriends Obree"	0
+96	"Obree"	"coming up"	"with a daring idea"	0
+96	"Obree"	"coming up with"	"a daring idea"	0
+96	"Obree"	"results"	"in Obree coming up with a daring idea"	0
+96	"Obree"	"results in"	"Obree"	0
+96	"boatyard owner Baxter"	"befriends"	"Obree"	0
+96	"boatyard owner Baxter"	"is"	"Cox"	0
+96	"he"	"'s going"	"to beat the hour record"	1
+96	"he"	"'s going"	"to try the hour record"	0
+96	"he"	"'s going beat"	"the hour record"	0
+96	"he"	"beat"	"the hour record"	0
+Ronald Squire (25 March 1886 - 16 November 1958) was an English character actor.
+97	"25 March 1886"	"was"	"an English character actor"	0
+97	"Ronald Squire"	"was"	"an English character actor"	1
+97	"Ronald Squire 25 March 1886 16 November 1958"	"was"	"an English character actor"	1
+"Casanova Brown" is a 1944 film starring Gary Cooper, Teresa Wright, and Frank Morgan.
+98	"" Casanova Brown"	"is"	"a 1944 film"	1
+98	"Casanova Brown"	"is"	"a 1944 film"	1
+98	"Casanova Brown"	"is"	"a 1944 film starring Frank Morgan"	1
+98	"Casanova Brown"	"is"	"a 1944 film starring Gary Cooper"	1
+98	"Casanova Brown"	"is"	"a 1944 film starring Gary Cooper , Teresa Wright , and Frank Morgan"	1
+98	"Casanova Brown"	"is"	"a 1944 film starring Gary Cooper Teresa Wright and Frank Morgan"	1
+98	"Casanova Brown"	"is"	"a 1944 film starring Teresa Wright"	1
+98	"a 1944 film"	"be starring"	"Frank Morgan"	0
+98	"a 1944 film"	"be starring"	"Gary Cooper"	0
+98	"a 1944 film"	"be starring"	"Gary Cooper Teresa Wright and Frank Morgan"	0
+98	"a 1944 film"	"be starring"	"Teresa Wright"	0
+The same day, after Macher had informed the local fire brigade, the south-east tower, the least important tower of the large castle, was blown up.
+99	"Macher"	"had informed"	"the local fire brigade"	1
+99	"The same day"	"the south-east tower was blown up"	0
+99	"The same day"	"the south-east tower was blown up"	"after Macher had informed the local fire brigade"	0
+99	"the south-east tower"	"The same day was blown up"	0
+99	"the south-east tower"	"The same day was blown up"	"after Macher had informed the local fire brigade"	0
+99	"the south-east tower"	"be the least important tower of"	"the large castle"	1
+99	"the south-east tower"	"is"	"the least important tower of the large castle"	1
+While in the legislature, he sponsored successful bills to encourage state purchasing of "environmentally preferable" products, to allow Colorado State University to require graduate student health insurance, and to create licensing standards for hemodialysis technicians.
+100	"Colorado State University"	"to create"	"licensing standards"	0
+100	"Colorado State University"	"to require"	"graduate student health insurance"	0
+100	"he"	"sponsored"	"successful bills"	1
+100	"he"	"sponsored"	"successful bills While in the legislature"	1
+100	"he"	"sponsored"	"successful bills to encourage state purchasing of "environmentally preferable " products ,"	1
+Indeed the rivalry between the Soviet armies to capture the city centre was becoming intense.
+101	"the rivalry between the Soviet armies to capture the city center"	"was becoming"	"intense"	1
+101	"the rivalry between the Soviet armies to capture the city center"	"was becoming"	"intense Indeed"	1
+Jerry Goldsmith won the BMI Film & TV Award for his original score, and Morgan Freeman was nominated for the NAACP Image Award for Outstanding Actor in a Motion Picture but lost to Denzel Washington for "Training Day".
+102	"Jerry Goldsmith"	"won"	"the BMI Film & TV Award"	1
+102	"Jerry Goldsmith"	"won"	"the BMI Film & TV Award for his original score"	1
+102	"Jerry Goldsmith"	"won TV Award"	"the BMI Film"	0
+102	"Jerry Goldsmith"	"won TV Award for"	"his original score"	0
+102	"Jerry Goldsmith"	"won the BMI Film"	"TV Award"	0
+102	"Jerry Goldsmith"	"won the BMI Film for"	"his original score"	0
+102	"Morgan Freeman"	"was lost"	"to Denzel Washington for Training Day"	0
+102	"Morgan Freeman"	"was nominated"	"for the NAACP Image Award for Outstanding Actor in a Motion Picture"	1
+102	"Morgan Freeman"	"was nominated for"	"Outstanding Actor"	1
+102	"Morgan Freeman"	"was nominated for"	"the NAACP Image Award"	1
+102	"Morgan Freeman"	"was nominated in"	"a Motion Picture"	0
+102	"TV Award"	"be won the BMI Film for"	"his original score"	0
+102	"a Motion Picture"	"lost to"	"Denzel Washington"	0
+102	"his"	"has"	"original score"	1
+102	"the BMI Film"	"be won TV Award for"	"his original score"	0
+However, any active player can activate their Overdrive to bring failed players back into the song, "saving" the band member.
+103	"any active player"	"However can activate"	"their Overdrive to bring failed players back into the song"	0
+103	"any active player"	"can activate"	"their Overdrive"	0
+103	"any active player"	"can activate"	"their Overdrive to bring failed players back into the song saving the band member"	1
+103	"any active player"	"can activate"	"their Overdrive to bring failed players back into the song saving the band member However"	1
+103	"failed players"	"to be bring back into"	"the song"	0
+103	"their"	"has"	"Overdrive to bring failed players back into the song saving the band member"	0
+The film's writer Aseem Arora was nominated for a Filmfare Award for Best Story.
+104	"The film"	"has"	"writer Aseem Arora"	1
+104	"The film 's writer Aseem Arora"	"was nominated"	"for a Filmfare Award for Best Story"	1
+104	"The film 's writer Aseem Arora"	"was nominated for"	"a Filmfare Award"	1
+Ten Heuvel is the older brother of Arturo ten Heuvel.
+105	"Ten Heuvel"	"is"	"the older brother"	0
+105	"Ten Heuvel"	"is"	"the older brother of Arturo ten Heuvel"	1
+105	"Ten Heuvel"	"is the older brother of"	"Arturo ten Heuvel"	1
+Soubry graduated in law from the University of Birmingham in 1979.
+106	"Soubry"	"graduated"	"in law"	1
+106	"Soubry"	"graduated"	"in law from the University of Birmingham"	1
+106	"Soubry"	"graduated"	"in law in 1979"	1
+106	"Soubry"	"graduated from"	"the University of Birmingham"	1
+106	"Soubry"	"graduated in"	"1979"	1
+106	"Soubry"	"graduated in"	"law"	1
+As the Liga's most northwesterly city after Tijuana, the Dorados remained in the LMB Northern Division in 2007.
+107	"Tijuana"	"remained in"	"2007"	0
+107	"Tijuana"	"remained in"	"the LMB Northern Division"	0
+107	"the Dorados"	"remained"	"in the LMB Northern Division"	1
+107	"the Dorados"	"remained"	"in the LMB Northern Division As the Liga 's most northwesterly city after Tijuana"	1
+107	"the Dorados"	"remained"	"in the LMB Northern Division in 2007"	1
+107	"the Dorados"	"remained in"	"the LMB Northern Division"	1
+107	"the Liga"	"has"	"most northwesterly city after Tijuana"	1
+He played one game for West Ham in the Premier League, as a substitute during the latter stages of the 1996-97 season.
+108	"He"	"played"	"one game"	1
+108	"He"	"played"	"one game for West Ham in the Premier League"	1
+108	"He"	"played"	"one game for West Ham in the Premier League as a substitute"	1
+108	"He"	"played"	"one game for West Ham in the Premier League during the latter stages of the 1996-97 season"	1
+108	"He"	"played one game for"	"West Ham"	1
+108	"He"	"played one game for West Ham as"	"a substitute"	0
+108	"He"	"played one game for West Ham during"	"the latter stages of the 1996-97 season"	0
+108	"He"	"played one game for West Ham in"	"the Premier League"	0
+108	"one game"	"be played as"	"a substitute"	0
+108	"one game"	"be played during"	"the latter stages of the 1996-97 season"	0
+108	"one game"	"be played in"	"the Premier League"	0
+He was Captain of the Atheists team on CBC Test the Nation: IQ broadcast live on January 24, 2010.
+109	"He"	"was"	"Captain"	1
+109	"He"	"was"	"Captain of the Atheists team"	1
+109	"He"	"was"	"Captain on CBC Test the Nation"	1
+109	"He"	"was Captain of"	"the Atheists team"	1
+109	"IQ"	"broadcast live on"	"January 24 , 2010"	1
+109	"IQ broadcast"	"live"	"on January 24 2010"	0
+Georgia regards the Abkhaz armed forces as "unlawful military formations" and accuses Russia of supplying and training the Abkhaz troops, partly in exchange for Abkhaz land or hotels.
+110	""unlawful military formations"	"accuses"	"Russia"	0
+110	"Georgia"	"accuses"	"Russia"	1
+110	"Georgia"	"accuses"	"Russia of supplying and training the Abkhaz troops"	1
+110	"Georgia"	"accuses"	"Russia of supplying the Abkhaz troops"	1
+110	"Georgia"	"accuses"	"Russia of training the Abkhaz troops"	1
+110	"Georgia"	"in"	"exchange for Abkhaz land"	0
+110	"Georgia"	"in"	"exchange for Abkhaz land or hotels"	0
+110	"Georgia"	"in"	"exchange for Abkhaz land or hotels partly"	0
+110	"Georgia"	"in"	"exchange for Abkhaz land partly"	0
+110	"Georgia"	"in"	"exchange for hotels"	0
+110	"Georgia"	"in"	"exchange for hotels partly"	0
+110	"Georgia"	"regards"	"the Abkhaz armed forces"	0
+110	"Georgia"	"regards"	"the Abkhaz armed forces as unlawful military formations"	0
+110	"Georgia"	"regards the Abkhaz armed forces as"	""unlawful military formations"	0
+110	"Georgia"	"regards the Abkhaz armed forces in"	"exchange"	0
+He is buried in Sandy Valley, Waynesburg, Ohio (Stark County).
+111	"He"	"is buried"	"in Sandy Valley Waynesburg Ohio"	1
+111	"He"	"is buried in"	"Sandy Valley"	1
+111	"Sandy Valley Waynesburg Ohio"	"is"	"Stark County"	0
+The Hollywood United 7-a-side teams compete in the Santa Monica Adult Soccer League.
+112	"The Hollywood United 7-a-side teams"	"compete"	"in the Santa Monica Adult Soccer League"	1
+112	"The Hollywood United 7-a-side teams"	"compete in"	"the Santa Monica Adult Soccer League"	1
+In several scenes, the film's Bulgarian locale is given away as signs in Cyrillic are visible.
+113	"signs in Cyrillic"	"are"	"visible"	1
+113	"the film"	"has"	"Bulgarian locale"	1
+113	"the film 's Bulgarian locale"	"is given"	"away"	1
+113	"the film 's Bulgarian locale"	"is given"	"away In several scenes"	1
+113	"the film 's Bulgarian locale"	"is given"	"away as signs in Cyrillic are visible"	1
+113	"the film 's Bulgarian locale"	"is given away as"	"signs"	0
+113	"the film 's Bulgarian locale"	"is given away in"	"several scenes"	"[enabler=as signs in Cyrillic are visible]"	1
+113	"visible"	"be signs in"	"Cyrillic"	0
+Hermine was married, on 7 January 1907 in Greiz to Prince Johann George Ludwig Ferdinand August of Schoenaich-Carolath (11 September 1873 - 7 April 1920).
+114	"Hermine"	"was"	"married"	1
+114	"Hermine"	"was"	"married on 7 January 1907 in Greiz to Prince Johann George Ludwig Ferdinand August of Schoenaich-Carolath 11 September 1873 7 April 1920"	1
+114	"Hermine"	"was married on"	"7 January 1907"	1
+114	"Hermine"	"was married to"	"Prince Johann George Ludwig Ferdinand August of Schoenaich-Carolath"	1
+He appeared in over 140 films between 1935 and 1950.
+115	"He"	"appeared"	"in over 140 films between 1935 and 1950"	1
+115	"He"	"appeared in"	"over 140 films"	1
+115	"He"	"appeared in over"	"140 films"	1
+In March 2009, Ludwig appeared in a lead role in Disney's "Race to Witch Mountain".
+116	"Disney"	"has"	"Race to Witch Mountain"	0
+116	"Ludwig"	"appeared"	"in a lead role"	1
+116	"Ludwig"	"appeared"	"in a lead role In March 2009"	1
+116	"Ludwig"	"appeared"	"in a lead role in Disney 's Race to Witch Mountain"	1
+116	"Ludwig"	"appeared in"	"March 2009"	0
+116	"Ludwig"	"appeared in"	"a lead role"	1
+On 5 October 2007, Pierluigi Casiraghi called up Alfonso, alongside with teammate Francesco Bolzoni, to form part of the Italy national under-21 football team.
+117	"Alfonso"	"be called up on"	"5 October 2007"	1
+117	"Pierluigi Casiraghi"	"called up"	"Alfonso"	1
+117	"Pierluigi Casiraghi"	"called up"	"Alfonso alongside with teammate Francesco Bolzoni to form part of the Italy national under-21 football team"	1
+117	"Pierluigi Casiraghi"	"called up"	"Alfonso to form part of the Italy national under-21 football team"	1
+117	"Pierluigi Casiraghi"	"called up"	"Alfonso to form part of the Italy national under-21 football team October 2007"	1
+117	"Pierluigi Casiraghi"	"called up"	"Alfonso to form part of the Italy national under-21 football team On 5"	0
+117	"Pierluigi Casiraghi"	"called up Alfonso , on"	"5 October 2007"	0
+117	"Pierluigi Casiraghi"	"called up Alfonso , to form"	"part of the Italy national under-21 football team"	0
+117	"Pierluigi Casiraghi"	"to form"	"part of the Italy national under-21 football team"	0
+Journalists are strictly prohibited from covering the rebellion.
+118	"Journalists"	"are prohibited"	"from covering the rebellion"	1
+118	"Journalists"	"are prohibited"	"from covering the rebellion strictly"	1
+Grimes also starred in the sequel "Class of '44" (1973), which followed his character to college.
+119	"Class of 44"	"followed"	"his character"	1
+119	"Class of 44"	"followed"	"his character to college"	1
+119	"Class of 44"	"is"	"1973"	0
+119	"Grimes"	"also starred in"	"the sequel"	1
+119	"Grimes"	"also starred in"	"the sequel " Class of '44 ""	1
+119	"Grimes"	"starred"	"Class of 44"	0
+119	"Grimes"	"starred"	"Class of 44 also"	0
+119	"Grimes"	"starred"	"in the sequel Class of 44"	1
+119	"his"	"has"	"character"	1
+119	"his character"	"be followed to"	"college"	1
+119	"the sequel " Class of '44 ""	"followed"	"his character"	1
+"Guilty" is a 1916 silent drama film featuring Harry Carey.
+120	"Guilty"	"is"	"a 1916 silent drama film"	1
+120	"Guilty"	"is"	"a 1916 silent drama film featuring Harry Carey"	1
+120	"a 1916 silent drama film"	"be featuring"	"Harry Carey"	1
+This led to an uprising in the holy city of Qum and the uprising soon spread to Tabriz, Tehran and other major cities.
+121	"This"	"led"	"to an uprising"	1
+121	"This"	"led"	"to an uprising in the holy city of Qum"	1
+121	"This"	"led"	"to an uprising in the holy city of Qum and the uprising soon spread to Tabriz Tehran and other major cities"	0
+121	"This"	"led"	"to an uprising in the uprising soon spread to Tabriz"	0
+121	"This"	"led"	"to an uprising in the uprising soon spread to Tehran"	0
+121	"This"	"led"	"to an uprising in the uprising soon spread to other major cities"	0
+121	"This"	"led to"	"an uprising"	1
+121	"holy"	"be city of"	"Qum"	0
+121	"the uprising"	"be spread"	"soon"	0
+121	"the uprising"	"be spread"	"soon to Tabriz"	0
+121	"the uprising"	"be spread"	"soon to Tabriz Tehran and other major cities"	0
+121	"the uprising"	"be spread"	"soon to Tehran"	0
+121	"the uprising"	"be spread"	"soon to other major cities"	0
+121	"the uprising"	"soon spread to"	"Tabriz"	1
+He appeared in 129 films between 1929 and 1946.
+122	"He"	"appeared"	"in 129 films between 1929 and 1946"	1
+122	"He"	"appeared in"	"129 films"	1
+After crushing a French army in July 1812, Wellington exploited his great victory by capturing Madrid.
+123	"Wellington"	"exploited"	"his great victory"	1
+123	"Wellington"	"exploited"	"his great victory After crushing a French army in July 1812"	1
+123	"Wellington"	"exploited"	"his great victory by capturing Madrid"	1
+123	"a French army"	"be crushing in"	"July 1812"	0
+123	"his"	"has"	"great victory"	1
+The title of the series comes from the very first episode, where Udav has his length measured in parrots.
+124	"The title of the series"	"comes"	"from the very first episode"	1
+124	"The title of the series"	"comes from"	"the very first episode"	1
+124	"The title of the series"	"comes from"	"the very first episode where Udav has his length"	0
+124	"Udav"	"has"	"his length"	0
+124	"Udav"	"has"	"his length measured in parrots"	1
+124	"Udav"	"has"	"his length measured in parrots the very first episode"	0
+124	"Udav"	"has"	"his length measured in parrots the very first episode where"	0
+124	"his"	"has"	"length measured in parrots"	0
+124	"his length"	"be measured"	"in parrots"	1
+124	"his length"	"be measured in"	"parrots"	1
+124	"his length measured in parrots"	"be has by"	"the very first episode"	0
+Carter's reorganization efforts separated the Department of Health, Education and Welfare into the Department of Education and the Department of Health and Human Services.
+125	"Carter"	"has"	"reorganization efforts"	1
+125	"Carter 's reorganization efforts"	"separated"	"the Department of Education"	0
+125	"Carter 's reorganization efforts"	"separated"	"the Department of Education into the Department of Education"	0
+125	"Carter 's reorganization efforts"	"separated"	"the Department of Education into the Department of Health Services"	0
+125	"Carter 's reorganization efforts"	"separated"	"the Department of Education into the Department of Human Services"	0
+125	"Carter 's reorganization efforts"	"separated"	"the Department of Health"	0
+125	"Carter 's reorganization efforts"	"separated"	"the Department of Health , Education and Welfare"	1
+125	"Carter 's reorganization efforts"	"separated"	"the Department of Health Education and Welfare"	0
+125	"Carter 's reorganization efforts"	"separated"	"the Department of Health Education and Welfare into the Department of Education and the Department of Health and Human Services"	1
+125	"Carter 's reorganization efforts"	"separated"	"the Department of Health into the Department of Education"	0
+125	"Carter 's reorganization efforts"	"separated"	"the Department of Health into the Department of Health Services"	0
+125	"Carter 's reorganization efforts"	"separated"	"the Department of Health into the Department of Human Services"	0
+125	"Carter 's reorganization efforts"	"separated"	"the Department of Welfare"	0
+125	"Carter 's reorganization efforts"	"separated"	"the Department of Welfare into the Department of Education"	0
+125	"Carter 's reorganization efforts"	"separated"	"the Department of Welfare into the Department of Health Services"	0
+125	"Carter 's reorganization efforts"	"separated"	"the Department of Welfare into the Department of Human Services"	0
+125	"Carter 's reorganization efforts"	"separated the Department of Health , Education and Welfare into"	"the Department of Education and the Department of Health and Human Services"	0
+125	"the Department of Health"	"be separated into"	"the Department of Education and the Department of Health and Human Services"	0
+In March 2005, his second single, "Wisemen," was released.
+126	"March 2005"	"is"	"his second single"	0
+126	"Wisemen"	"was released"	1
+126	"Wisemen"	"was released"	"In March 2005"	1
+126	"Wisemen"	"was released in"	"March 2005"	1
+126	"Wisemen"	"was released on"	"March 2005"	0
+126	"his"	"has"	"second single"	1
+Unlike all other Eclipse Awards, which are voted on by a chosen committee from among the horse racing world, the Moment of the Year is voted on by racing fans.
+127	"all other Eclipse Awards"	"are voted on"	"by a chosen committee"	1
+127	"all other Eclipse Awards"	"are voted on"	"by a chosen committee among from the horse racing world"	1
+127	"all other Eclipse Awards"	"are voted on by"	"a chosen committee"	1
+127	"the Moment of the Year"	"is voted on"	"by racing fans"	1
+127	"the Moment of the Year"	"is voted on"	"by racing fans Unlike all other Eclipse Awards"	1
+127	"the Moment of the Year"	"is voted unlike"	"all other Eclipse Awards"	0
+Beauman is married to film director, screenwriter and producer James Bobin, with whom she has one daughter, Madelaine.
+128	"Beauman"	"is married"	"to film director"	1
+128	"Beauman"	"is married"	"to film director screenwriter and producer James Bobin"	1
+128	"Beauman"	"is married"	"to film director screenwriter and producer James Bobin with whom she has one daughter"	1
+128	"Beauman"	"is married"	"to film director with whom she has one daughter"	1
+128	"Beauman"	"is married"	"to producer James Bobin"	1
+128	"Beauman"	"is married"	"to producer James Bobin with whom she has one daughter"	1
+128	"Beauman"	"is married"	"to screenwriter"	1
+128	"Beauman"	"is married"	"to screenwriter with whom she has one daughter"	1
+128	"Beauman"	"is married to"	"film director"	1
+128	"Beauman"	"is married to"	"film director , screenwriter and producer James Bobin"	1
+128	"one daughter"	"be has by"	"film director , screenwriter and producer James Bobin"	0
+128	"one daughter"	"is"	"Madelaine"	0
+128	"she"	"has"	"one daughter"	1
+128	"she"	"has"	"whom one daughter"	0
+While some reviewers praised the movie as a classic example of 1960s camp, others noted its mediocre production values, rewriting of the script, changes in the musical score, and disappointing choreography in some songs.
+129	"changes in the musical score"	"is"	"rewriting of the script"	0
+129	"disappointing choreography in some songs"	"is"	"rewriting of the script"	0
+129	"its"	"has"	"mediocre production values"	1
+129	"its"	"has"	"mediocre production values changes in the musical score and disappointing choreography in some songs"	1
+129	"its mediocre production values"	"is"	"rewriting of the script"	0
+129	"its mediocre production values changes in the musical score and disappointing choreography in some songs"	"is"	"rewriting of the script"	0
+129	"others"	"noted"	"changes in the musical score"	1
+129	"others"	"noted"	"changes in the musical score While some reviewers praised the movie as a classic example of 1960s camp"	1
+129	"others"	"noted"	"disappointing choreography in some songs"	1
+129	"others"	"noted"	"disappointing choreography in some songs While some reviewers praised the movie as a classic example of 1960s camp"	1
+129	"others"	"noted"	"its mediocre production values"	1
+129	"others"	"noted"	"its mediocre production values"	"[enabler=While some reviewers praised the movie as a classic example of 1960s camp]"	0
+129	"others"	"noted"	"its mediocre production values While some reviewers praised the movie as a classic example of 1960s camp"	1
+129	"others"	"noted"	"its mediocre production values changes in the musical score and disappointing choreography in some songs"	1
+129	"others"	"noted"	"its mediocre production values changes in the musical score and disappointing choreography in some songs While some reviewers praised the movie as a classic example of 1960s camp"	1
+129	"others"	"noted its mediocre production values rewriting of"	"the script"	"[enabler=While some reviewers praised the movie as a classic example of 1960s camp]"	0
+129	"some reviewers"	"praised"	"the movie"	1
+129	"some reviewers"	"praised"	"the movie as a classic example of 1960s camp"	1
+129	"some reviewers"	"praised the movie as"	"a classic example of 1960s camp"	1
+129	"the movie"	"be praised as"	"a classic example of 1960s camp"	1
+As of 2009, it is ranked as the strongest hockey league in Europe.
+130	"it"	"is ranked"	"as the strongest hockey league in Europe"	1
+130	"it"	"is ranked"	"as the strongest hockey league in Europe As of 2009"	1
+130	"it"	"is ranked as"	"the strongest hockey league"	1
+He is also an accomplished musician and songwriter and fronts his own band, Ten Athlone.
+131	"He"	"is"	"an accomplished musician"	1
+131	"He"	"is"	"an accomplished musician also"	1
+131	"He"	"is"	"an accomplished musician and songwriter and fronts his own band"	0
+131	"He"	"is"	"an accomplished musician and songwriter and fronts his own band also"	0
+131	"He"	"is"	"fronts his own band"	0
+131	"He"	"is"	"fronts his own band also"	0
+131	"He"	"is"	"songwriter"	1
+131	"He"	"is"	"songwriter also"	1
+131	"He"	"is also"	"an accomplished musician and songwriter"	1
+131	"He"	"is also"	"an accomplished musician and songwriter and fronts his own band"	0
+131	"his"	"has"	"own band"	1
+131	"his own band"	"is"	"Ten Athlone"	1
+He also served as a councillor on Bermondsey.
+132	"He"	"also served as"	"a councillor"	1
+132	"He"	"served"	"as a councillor"	1
+132	"He"	"served"	"as a councillor also"	1
+132	"He"	"served"	"as a councillor on Bermondsey"	1
+One other person was killed in fighting in Sidon and two soldiers died in fighting east of Beirut.
+133	"One other person"	"was killed"	"in fighting in Sidon"	1
+133	"One other person"	"was killed"	"in fighting in Sidon and two soldiers died in fighting east of Beirut"	0
+133	"One other person"	"was killed"	"in fighting in two soldiers died in fighting east of Beirut"	0
+133	"One other person"	"was killed in fighting in"	"Sidon"	1
+133	"two soldiers"	"be died"	"in fighting east of Beirut"	0
+He spent two years on board the Type IIB U-boat, under the command of "Oberleutnant zur See" Otto Kretschmer, completing five combat patrols as 1.WO (second-in-command), between October 1939 and January 1940.
+134	"He"	"spent"	"the Type IIB U-boat"	0
+134	"He"	"spent"	"two years"	0
+134	"He"	"spent"	"two years on board the Type IIB U-boat"	1
+134	"He"	"spent"	"two years under the command of Oberleutnant zur See Otto Kretschmer completing five combat patrols as 1 WO second-in-command between October 1939 and January 1940"	1
+134	"He"	"spent the Type IIB U-boat , under the command of " Oberleutnant zur See " Otto Kretschmer , completing five combat patrols as 1.WO"	"second-in-command"	", between October 1939 and January 1940 in"	"two years"	0
+134	"He"	"spent the Type IIB U-boat , under the command of " Oberleutnant zur See " Otto Kretschmer , completing five combat patrols as 1.WO"	"second-in-command"	", between October 1939 and January 1940 on"	"board"	0
+134	"He"	"spent two years on"	"board"	1
+134	"Oberleutnant"	"See"	"Otto Kretschmer"	0
+134	"Oberleutnant"	"See Otto Kretschmer completing"	"five combat patrols"	0
+134	"Oberleutnant"	"See Otto Kretschmer completing five combat patrols as"	"1.WO"	0
+134	"Oberleutnant zur See Otto Kretschmer"	"be completing"	"five combat patrols as 1 WO second-in-command between October 1939 and January 1940"	0
+134	"five combat patrols"	"be completing as"	"1.WO"	1
+134	"the Type IIB U-boat"	"be spent on"	"board"	0
+On 14 April, Graziani ordered his entire army to advance towards the Ethiopian defensive lines in a three-pronged attack.
+135	"Graziani"	"ordered"	"his entire army"	0
+135	"Graziani"	"ordered"	"his entire army to advance towards the Ethiopian defensive lines"	1
+135	"Graziani"	"ordered"	"his entire army to advance towards the Ethiopian defensive lines April"	1
+135	"Graziani"	"ordered"	"his entire army to advance towards the Ethiopian defensive lines On 14"	0
+135	"Graziani"	"ordered"	"his entire army to advance towards the Ethiopian defensive lines in a three-pronged attack"	1
+135	"Graziani"	"ordered"	"his entire army to advance towards the Ethiopian defensive lines in a three-pronged attack April"	0
+135	"Graziani"	"ordered"	"his entire army to advance towards the Ethiopian defensive lines in a three-pronged attack On 14"	0
+135	"Graziani"	"ordered his entire army on"	"14 April"	0
+135	"Graziani"	"ordered his entire army to advance towards"	"the Ethiopian defensive lines"	0
+135	"Graziani"	"to advance towards"	"the Ethiopian defensive lines"	0
+135	"his"	"has"	"entire army"	1
+135	"his entire army"	"be ordered on"	"14 April"	1
+"Bastion" had been successful in the National Amateur League competitions (the "Fourth Level" of competition in Ukraine) including winning the Ukrainian Amateur Championship in 2007.
+136	"Bastion"	"had been"	"successful in the National Amateur League competitions the Fourth Level of competition in Ukraine"	1
+136	"Bastion"	"had been"	"successful in the National Amateur League competitions the Fourth Level of competition in Ukraine including winning the Ukrainian Amateur Championship in 2007"	1
+136	"Bastion"	"had been successful in"	"the National Amateur League competitions"	1
+136	"the Ukrainian Amateur Championship"	"be winning in"	"2007"	1
+The show won an Emmy Award in the category of "Special Classification of Outstanding Program Achievements."
+137	"The show"	"won"	"an Emmy Award"	1
+137	"The show"	"won"	"an Emmy Award in the category of Special Classification of Outstanding Program Achievements"	1
+137	"The show"	"won an Emmy Award"	"the category of " Special Classification of Outstanding Program Achievements"	0
+137	"The show"	"won an Emmy Award in"	"the category"	0
+137	"The show"	"won an Emmy Award in"	"the category of " Special Classification of Outstanding Program Achievements"	1
+137	"an Emmy Award"	"be won in"	"the category of " Special Classification of Outstanding Program Achievements"	1
+He held the seat until his retirement in 1987.
+138	"He"	"held"	"the seat"	1
+138	"He"	"held"	"the seat in 1987"	1
+138	"He"	"held"	"the seat until his retirement"	1
+138	"He"	"held the seat until"	"his retirement"	1
+138	"his"	"has"	"retirement"	1
+138	"the seat"	"be held until"	"his retirement"	1
+France too was opposing Spain at every juncture.
+139	"France"	"too was opposing"	"Spain"	0
+139	"France"	"was opposing"	"Spain at every juncture"	1
+139	"France"	"was opposing"	"Spain at every juncture too"	1
+139	"Spain"	"be opposing at"	"every juncture"	0
+He served in the Wisconsin State Assembly from 1998 to 2010 until he was appointed to the Wisconsin Court of Appeals.
+140	"He"	"served"	"in the Wisconsin State Assembly"	1
+140	"He"	"served"	"in the Wisconsin State Assembly from 1998 to 2010"	1
+140	"He"	"served"	"in the Wisconsin State Assembly until he was appointed to the Wisconsin Court of Appeals"	1
+140	"He"	"served from"	"1998"	"[enabler=until he was appointed to the Wisconsin Court of Appeals]"	0
+140	"He"	"served in"	"the Wisconsin State Assembly"	1
+140	"He"	"served in"	"the Wisconsin State Assembly"	"[enabler=until he was appointed to the Wisconsin Court of Appeals]"	1
+140	"He"	"served to"	"2010"	"[enabler=until he was appointed to the Wisconsin Court of Appeals]"	0
+140	"he"	"was appointed"	"to the Wisconsin Court of Appeals"	1
+140	"he"	"was appointed to"	"the Wisconsin Court of Appeals"	1
+Cassinelli was born in Genoa, and attended the catholic college Vittorino da Feltre in the same city.
+141	"Cassinelli"	"attended"	"the catholic college Vittorino da Feltre"	1
+141	"Cassinelli"	"attended"	"the catholic college Vittorino da Feltre in the same city"	1
+141	"Cassinelli"	"attended the catholic college Vittorino da Feltre in"	"the same city"	0
+141	"Cassinelli"	"was born"	"in Genoa"	1
+141	"Cassinelli"	"was born at"	"Genoa"	0
+141	"Cassinelli"	"was born in"	"Genoa"	1
+141	"Cassinelli"	"was born on"	"Genoa"	0
+141	"the catholic college Vittorino da Feltre"	"be attended in"	"the same city"	0
+Yun Jung Hoon (born 1978) is a Korean actor.
+142	"Yun Jung Hoon"	"is"	"a Korean actor"	1
+142	"Yun Jung Hoon born 1978"	"is"	"a Korean actor"	1
+Lotu-Iiga lives with his wife Jules in Onehunga.
+143	"Lotu-Iiga"	"lives with"	"his wife"	1
+143	"Lotu-Iiga"	"lives with"	"his wife Jules"	1
+143	"Lotu-Iiga lives with his wife"	"Jules"	"in Onehunga"	0
+143	"his"	"has"	"wife"	1
+After independence in 1947, Dr. Jivraj graced public office in various positions.
+144	"Dr. Jivraj"	"graced"	"public office"	1
+144	"Dr. Jivraj"	"graced"	"public office After independence in 1947"	1
+144	"Dr. Jivraj"	"graced"	"public office in various positions"	1
+144	"Dr. Jivraj"	"graced public office after"	"independence"	0
+144	"Dr. Jivraj"	"graced public office in"	"1947"	1
+144	"Dr. Jivraj"	"graced public office in"	"various positions"	1
+144	"public office"	"be graced after"	"independence"	0
+144	"public office"	"be graced in"	"1947"	0
+144	"public office"	"be graced in"	"various positions"	0
+Both films are based on the short story "The Single Standard" by Daniel Carson Goodman; the story was adapted for this production by Gerrit J. Lloyd.
+145	"Both films"	"are based"	"The Single Standard"	0
+145	"Both films"	"are based"	"The Single Standard by Daniel Carson Goodman"	0
+145	"Both films"	"are based"	"on the short story The Single Standard"	1
+145	"Both films"	"are based on"	"The Single Standard"	0
+145	"Both films"	"are based on"	"the short story"	0
+145	"the story"	"was adapted"	"for this production"	1
+145	"the story"	"was adapted"	"for this production by Gerrit J. Lloyd"	1
+145	"the story"	"was adapted for"	"this production"	1
+Likewise, the accompanying music is generated by the program so that it's almost certain the listener will never quite hear the same arrangement twice.
+146	"it"	"'s"	"that certain almost the listener will never quite hear the same arrangement twice"	0
+146	"it"	"'s"	"that certain the listener will never quite hear the same arrangement twice"	0
+146	"it"	"so 's almost"	"certain"	0
+146	"the accompanying music"	"Likewise is generated by"	"the program"	0
+146	"the accompanying music"	"is generated"	"by the program"	1
+146	"the accompanying music"	"is generated"	"by the program Likewise"	1
+146	"the accompanying music"	"is generated"	"by the program so that it 's almost certain the listener will never quite hear the same arrangement twice"	1
+146	"the accompanying music"	"is generated by"	"the program"	0
+146	"the listener"	"will hear"	"the same arrangement"	0
+146	"the listener"	"will hear"	"the same arrangement never quite"	1
+146	"the listener"	"will hear"	"the same arrangement twice"	0
+146	"the listener"	"will never quite hear"	"the same arrangement"	0
+146	"the listener"	"will never quite hear twice"	"the same arrangement"	0
+Once leaving Essendon, Booth moved to Tasmania and captain-coached the Sandy Bay Football Club from 1959 to 1961.
+147	"Booth"	"captain-coached"	"the Sandy Bay Football Club"	1
+147	"Booth"	"captain-coached"	"the Sandy Bay Football Club Once leaving Essendon"	1
+147	"Booth"	"captain-coached"	"the Sandy Bay Football Club from 1959"	1
+147	"Booth"	"captain-coached"	"the Sandy Bay Football Club to 1961"	1
+147	"Booth"	"captain-coached the Sandy Bay Football Club from"	"1959"	0
+147	"Booth"	"moved"	"to Tasmania"	1
+147	"Booth"	"moved"	"to Tasmania Once leaving Essendon"	1
+147	"Booth"	"moved to"	"Tasmania"	1
+147	"Booth"	"moved to"	"Tasmania"	"[enabler=Once leaving Essendon]"	1
+147	"the Sandy Bay Football Club"	"be captain-coached from"	"1959"	0
+After retiring as Miami Beach Fire Chief in 1999, Garcia successfully ran for the Miami Beach City Commission and continued to serve in that capacity for 7 years.
+148	"Garcia"	"continued"	"to serve in that capacity for 7 years"	1
+148	"Garcia"	"continued"	"to serve in that capacity for 7 years After retiring as Miami Beach Fire Chief in 1999"	1
+148	"Garcia"	"continued to serve for"	"7 years"	1
+148	"Garcia"	"continued to serve in"	"that capacity"	1
+148	"Garcia"	"ran"	"for the Miami Beach City Commission"	1
+148	"Garcia"	"ran"	"for the Miami Beach City Commission After retiring as Miami Beach Fire Chief in 1999"	1
+148	"Garcia"	"ran"	"for the Miami Beach City Commission successfully"	1
+148	"Garcia"	"successfully ran for"	"the Miami Beach City Commission"	1
+148	"Garcia"	"to serve for"	"7 years"	0
+148	"Garcia"	"to serve in"	"that capacity"	0
+Lawson was the sole black member of the Homebrew Computer Club, a group of early computer hobbyists which would produce a number of industry legends, including Apple founders Steve Jobs and Steve Wozniak.
+149	"Lawson"	"was"	"the sole black member"	1
+149	"Lawson"	"was"	"the sole black member of the Homebrew Computer Club"	1
+149	"Lawson"	"was the sole black member of"	"the Homebrew Computer Club"	0
+149	"Steve Jobs and Steve Wozniak"	"be founders for"	"Apple"	0
+149	"Steve Jobs and Steve Wozniak"	"be founders of"	"Apple"	1
+149	"a group of early computer hobbyists"	"would produce"	"a number of industry legends including Apple founders Steve Jobs"	1
+149	"a group of early computer hobbyists"	"would produce"	"a number of industry legends including Apple founders Steve Jobs and Steve Wozniak"	1
+149	"a group of early computer hobbyists"	"would produce"	"a number of industry legends including Steve Wozniak"	1
+149	"a group of early computer hobbyists"	"would produce a number of"	"industry legends"	1
+149	"black"	"was member of"	"the Homebrew Computer Club"	0
+149	"sole"	"was black member of"	"the Homebrew Computer Club"	0
+149	"the Homebrew Computer Club"	"be a group of"	"early computer hobbyists which would produce a number of industry legends , including Apple founders Steve Jobs and Steve Wozniak"	1
+149	"the Homebrew Computer Club"	"is"	"a group of early computer hobbyists"	1
+149	"the Homebrew Computer Club"	"was the sole black member of"	"a group of early computer hobbyists"	0
+For the 2009 Japanese Grand Prix, Brawn GP secured a single race sponsorship deal with Angfa Co. Ltd, maker of the medical shampoo Scalp-D, which has proved very popular in Japan since its launch in 2005.
+150	"Angfa Co. Ltd"	"be maker of"	"the medical shampoo which has proved very popular in Japan since its launch in 2005"	1
+150	"Angfa Co. Ltd"	"is"	"maker of the medical shampoo Scalp-D"	1
+150	"Brawn GP"	"secured"	"a single race sponsorship deal"	1
+150	"Brawn GP"	"secured"	"a single race sponsorship deal For the 2009 Japanese Grand Prix"	1
+150	"Brawn GP"	"secured"	"a single race sponsorship deal with Angfa Co. Ltd"	1
+150	"Brawn GP"	"secured a single race sponsorship deal with Angfa Co. Ltd , maker of the medical shampoo Scalp-D , which has proved very popular in Japan since its launch in 2005 for"	"the 2009 Japanese Grand Prix"	0
+150	"a single race sponsorship deal"	"be secured for"	"the 2009 Japanese Grand Prix"	1
+150	"its"	"has"	"launch in 2005"	1
+150	"the medical shampoo Scalp-D"	"has proved"	"very popular in Japan"	1
+150	"the medical shampoo Scalp-D"	"has proved"	"very popular in Japan since its launch in 2005"	1
+David Segal died nine years later.
+151	"David Segal"	"died"	1
+151	"David Segal"	"died"	"nine years"	0
+151	"David Segal"	"died"	"nine years later"	1
+Foreign investors are declining to finance Hungary's high budget and current account deficits, and the forint's weakness in recent months threatens hundreds of thousands of families who took out foreign currency mortgages.
+152	"Foreign investors"	"are declining"	"to finance Hungary 's high budget"	1
+152	"Foreign investors"	"are declining"	"to finance Hungary 's high budget and current account deficits"	1
+152	"Foreign investors"	"are declining"	"to finance current account deficits"	0
+152	"Foreign investors"	"are declining to finance"	"Hungary 's high budget and current account deficits"	1
+152	"Foreign investors"	"threatens"	"hundreds of thousands of families"	0
+152	"Hungary"	"has"	"high budget"	0
+152	"Hungary"	"has"	"high budget and current account deficits"	1
+152	"families"	"took out"	"foreign currency mortgages"	1
+152	"hundreds of thousands of families"	"took out"	"foreign currency mortgages"	1
+152	"recent months"	"threatens hundreds of"	"thousands of families"	0
+152	"the forint"	"has"	"weakness in recent months"	1
+152	"the forint 's weakness"	"are declining to finance"	"Hungary 's high budget and current account deficits"	0
+152	"the forint 's weakness"	"threatens"	"hundreds of thousands of families"	1
+152	"the forint 's weakness in recent months"	"threatens"	"hundreds of thousands of families"	1
+On 2 January 1940, after the commencement of World War II, he was appointed General Staff Officer Grade III in the Western Command headquarters of the Citizen Forces, working with the Intelligence Section.
+153	"January 1940"	"be working"	"with the Intelligence Section"	0
+153	"January 1940"	"he was appointed"	"General Staff Officer Grade III in the Western Command headquarters of the Citizen Forces"	0
+153	"January 1940"	"he was appointed"	"General Staff Officer Grade III in the Western Command headquarters of the Citizen Forces On 2"	0
+153	"January 1940"	"he was appointed"	"General Staff Officer Grade III in the Western Command headquarters of the Citizen Forces after the commencement of World War II"	0
+153	"January 1940"	"he was appointed"	"General Staff Officer Grade III in the Western Command headquarters of the Citizen Forces working with the Intelligence Section"	0
+153	"he"	"January 1940 was appointed"	"General Staff Officer Grade III in the Western Command headquarters of the Citizen Forces"	0
+153	"he"	"January 1940 was appointed"	"General Staff Officer Grade III in the Western Command headquarters of the Citizen Forces On 2"	0
+153	"he"	"January 1940 was appointed"	"General Staff Officer Grade III in the Western Command headquarters of the Citizen Forces after the commencement of World War II"	0
+153	"he"	"January 1940 was appointed"	"General Staff Officer Grade III in the Western Command headquarters of the Citizen Forces working with the Intelligence Section"	0
+153	"he"	"was appointed"	"General Staff Officer Grade III"	1
+153	"he"	"was appointed General Staff Officer Grade III after"	"the commencement of World War II"	0
+153	"he"	"was appointed General Staff Officer Grade III in"	"the Western Command headquarters of the Citizen Forces"	0
+153	"he"	"was appointed General Staff Officer Grade III on"	"2 January 1940"	0
+He is largely focused on breaking up Garrincha's gang and is unaware of Thomas Barrett's intentions.
+154	"Garrincha"	"has"	"gang"	1
+154	"He"	"is"	"unaware"	0
+154	"He"	"is"	"unaware of Thomas Barrett 's intentions"	1
+154	"He"	"is focused"	"on breaking up Garrincha 's gang"	1
+154	"He"	"is focused"	"on breaking up Garrincha 's gang largely"	1
+154	"He"	"is unaware of"	"Thomas Barrett 's intentions"	1
+154	"Thomas Barrett"	"has"	"intentions"	1
+The royal family did not edit the book, nor did they have a preview before its printing.
+155	"The royal family"	"did not edit"	"the book"	1
+155	"a preview"	"did have before"	"its printing"	0
+155	"its"	"has"	"printing"	1
+155	"the book"	"have"	"a preview"	0
+155	"they"	"did have"	"a preview"	0
+155	"they"	"did have"	"a preview before its printing"	0
+155	"they"	"did have a preview before"	"its printing"	0
+He attempted to escape, but his ships had been at sea for an extended period and were sluggish compared to the 98-gun "London", which rapidly came alongside the French ship of the line and opened a heavy fire.
+156	"He"	"attempted"	"to escape"	1
+156	"his"	"has"	"ships"	1
+156	"his ships"	"had been"	"at sea"	1
+156	"his ships"	"had been"	"at sea for an extended period"	1
+156	"his ships"	"had been at"	"sea"	1
+156	"his ships"	"had been for"	"an extended period"	0
+156	"his ships"	"were"	"sluggish"	1
+156	"his ships"	"were"	"sluggish compared to the 98-gun London"	1
+156	"the 98-gun " London""	"opened"	"a heavy fire"	1
+156	"the 98-gun " London""	"rapidly came alongside"	"the French ship of the line"	1
+156	"the 98-gun London"	"came"	"alongside the French ship of the line"	1
+156	"the 98-gun London"	"came"	"alongside the French ship of the line rapidly"	1
+156	"the 98-gun London"	"opened"	"a heavy fire"	1
+Her name is revealed to be Abby (Chloe Grace Moretz), who claims to be 12 years old.
+157	"Abby"	"claims"	"to be old"	0
+157	"Abby"	"claims"	"to be old 12 years"	0
+157	"Abby"	"claims to be"	"12 years"	1
+157	"Her"	"has"	"name"	1
+157	"Her name"	"is revealed"	"Abby"	0
+157	"Her name"	"is revealed"	"to be Abby"	1
+157	"Her name"	"is revealed to be"	"Abby"	1
+157	"to be Abby"	"is"	"Chloe Grace Moretz"	0
+Similarly, he only rejoined the Bundestag after the next elections as replacement candidate from 1964 to 1969.
+158	"he"	"Similarly only rejoined"	"the Bundestag"	0
+158	"he"	"Similarly only rejoined the Bundestag after"	"the next elections"	0
+158	"he"	"only rejoined"	"the Bundestag"	1
+158	"he"	"rejoined"	"the Bundestag"	1
+158	"he"	"rejoined"	"the Bundestag Similarly"	1
+158	"he"	"rejoined"	"the Bundestag after the next elections as replacement candidate"	1
+158	"he"	"rejoined"	"the Bundestag from 1964 to 1969"	1
+158	"he"	"rejoined"	"the Bundestag only"	0
+158	"the Bundestag"	"be Similarly only rejoined after"	"the next elections"	0
+Zimmer ran for Mayor of Hoboken in 2009.
+159	"Zimmer"	"ran"	"for Mayor of Hoboken"	1
+159	"Zimmer"	"ran"	"for Mayor of Hoboken in 2009"	1
+159	"Zimmer"	"ran for"	"Mayor of Hoboken"	1
+159	"Zimmer"	"ran in"	"2009"	0
+Lieutenant Commander Pavlic received the Purple Heart posthumously.
+160	"Lieutenant Commander Pavlic"	"received"	"the Purple Heart"	1
+160	"Lieutenant Commander Pavlic"	"received"	"the Purple Heart posthumously"	1
+160	"Lieutenant Commander Pavlic"	"received posthumously"	"the Purple Heart"	0
+His work in synthesis and spectroscopy involved close cooperation with Achim Mueller.
+161	"His"	"has"	"work in spectroscopy"	1
+161	"His"	"has"	"work in synthesis"	1
+161	"His"	"has"	"work in synthesis and spectroscopy"	1
+161	"His work in spectroscopy"	"involved"	"close cooperation"	1
+161	"His work in spectroscopy"	"involved"	"close cooperation with Achim Mueller"	1
+161	"His work in synthesis"	"involved"	"close cooperation"	1
+161	"His work in synthesis"	"involved"	"close cooperation with Achim Mueller"	1
+161	"His work in synthesis and spectroscopy"	"involved"	"close cooperation"	1
+161	"His work in synthesis and spectroscopy"	"involved"	"close cooperation with Achim Mueller"	1
+The publisher is McGill-Queen's University Press.
+162	"McGill-Queen"	"has"	"University Press"	1
+162	"The publisher"	"is"	"McGill-Queen 's University Press"	1
+Great if the president will help but totally unnecessary.
+163	"the president"	"will help"	"but totally unnecessary"	1
+It was written by Norman Steinberg and David Frankel, based on the article "Convention of the Love Goddesses" in "Esquire Magazine" by Bob Greene.
+164	"Convention of the Love"	"the Goddesses"	"in Esquire Magazine by Bob Greene"	0
+164	"It"	"was written"	"by David Frankel"	1
+164	"It"	"was written"	"by David Frankel based on the article Convention of the Love Goddesses in Esquire Magazine by Bob Greene"	1
+164	"It"	"was written"	"by Norman Steinberg"	1
+164	"It"	"was written"	"by Norman Steinberg and David Frankel"	1
+164	"It"	"was written"	"by Norman Steinberg and David Frankel based on the article Convention of the Love Goddesses in Esquire Magazine by Bob Greene"	1
+164	"It"	"was written"	"by Norman Steinberg based on the article Convention of the Love Goddesses in Esquire Magazine by Bob Greene"	1
+164	"It"	"was written by"	"Norman Steinberg"	1
+164	"It"	"was written by"	"Norman Steinberg and David Frankel"	1
+164	"Norman Steinberg and David Frankel"	"be based on"	"the article"	0
+Tahar Rahim (born 5 July 1981) is a French actor of Algerian origins.
+165	"Tahar Rahim"	"is a French actor of"	"Algerian origins"	1
+165	"Tahar Rahim born 5 July 1981"	"is"	"a French actor"	1
+165	"Tahar Rahim born 5 July 1981"	"is"	"a French actor of Algerian origins"	1
+The Prince is hurt.
+166	"The Prince"	"is hurt"	1
+He was called up for the Black Stars for a friendly game against Argentina national football team and marked in the game on 1 October 2009 his debut.
+167	"He"	"marked in"	"the game"	0
+167	"He"	"was called up"	"for a friendly game against Argentina national football team his debut"	0
+167	"He"	"was called up"	"for the Black Stars his debut"	0
+167	"He"	"was called up"	"his debut"	0
+167	"He"	"was called up for"	"a friendly game"	1
+167	"He"	"was called up for"	"the Black Stars"	0
+167	"He"	"was marked"	"October 2009 his debut"	0
+167	"He"	"was marked"	"his debut"	0
+167	"He"	"was marked"	"in the game on 1 his debut"	0
+167	"a friendly game"	"marked in"	"the game"	0
+167	"his"	"has"	"debut"	1
+He then resumed test piloting, for SISA Airline, for fifteen years.
+168	"He"	"resumed"	"test piloting"	1
+168	"He"	"resumed"	"test piloting for SISA Airline"	1
+168	"He"	"resumed"	"test piloting for fifteen years"	1
+168	"He"	"then resumed"	"test piloting"	0
+168	"He"	"then resumed test piloting for"	"SISA Airline"	0
+168	"He"	"then resumed test piloting for"	"fifteen years"	0
+168	"test piloting"	"be then resumed for"	"SISA Airline"	0
+168	"test piloting"	"be then resumed for"	"fifteen years"	0
+On August 29, 2010, the Jets waived defensive lineman Rodrique Wright, and wide receivers Aundrae Allison, Marcus Henry and Laveranues Coles.
+169	"defensive lineman Rodrique Wright , and wide receivers"	"Aundrae"	"Allison , Marcus Henry and Laveranues Coles"	0
+169	"the Jets"	"waived"	"defensive lineman Rodrique Wright"	1
+169	"the Jets"	"waived"	"defensive lineman Rodrique Wright On August 29 2010"	1
+169	"the Jets"	"waived"	"defensive lineman Rodrique Wright and wide receivers Aundrae Allison Marcus Henry and Laveranues Coles"	1
+169	"the Jets"	"waived"	"defensive lineman Rodrique Wright and wide receivers Aundrae Allison Marcus Henry and Laveranues Coles On August 29 2010"	1
+169	"the Jets"	"waived"	"wide receivers Aundrae Allison"	1
+169	"the Jets"	"waived"	"wide receivers Aundrae Allison On August 29 2010"	1
+169	"the Jets"	"waived"	"wide receivers Laveranues Coles"	1
+169	"the Jets"	"waived"	"wide receivers Laveranues Coles On August 29 2010"	1
+169	"the Jets"	"waived"	"wide receivers Marcus Henry"	1
+169	"the Jets"	"waived"	"wide receivers Marcus Henry On August 29 2010"	1
+169	"the Jets"	"waived on"	"August 29 , 2010"	0
+Mana began his playing career with Quilmes and appeared in nine Primera Division Argentina matches for the club.
+170	"Mana"	"appeared"	"in nine"	0
+170	"Mana"	"appeared in"	"nine Primera Division Argentina"	0
+170	"Mana"	"began"	"his playing career"	1
+170	"Mana"	"began"	"his playing career with Quilmes"	1
+170	"Mana"	"began his playing career with"	"Quilmes"	1
+170	"Primera Division Argentina"	"matches"	"for the club"	0
+170	"his"	"has"	"playing career"	1
+170	"his playing career"	"appeared in"	"nine Primera Division Argentina"	0
+170	"his playing career"	"be began with"	"Quilmes"	1
+170	"nine Primera Division Argentina"	"matches for"	"the club"	0
+Baharum was elected to federal Parliament in the 2004 election for the newly created seat of Sekijang.
+171	"Baharum"	"was elected"	"to federal Parliament"	1
+171	"Baharum"	"was elected"	"to federal Parliament in the 2004 election for the newly created seat of Sekijang"	1
+171	"Baharum"	"was elected for"	"the newly created seat of Sekijang"	1
+171	"Baharum"	"was elected in"	"the 2004 election"	1
+171	"Baharum"	"was elected to"	"federal Parliament"	1
+Ryerson's Faculty of Community Services offers multi-disciplinary programs in health, early childhood education, social justice and community development.
+172	"Ryerson"	"has"	"Faculty of Community Services"	1
+172	"Ryerson 's Faculty of Community Services"	"offers"	"multi-disciplinary programs"	1
+172	"Ryerson 's Faculty of Community Services"	"offers"	"multi-disciplinary programs in community development"	1
+172	"Ryerson 's Faculty of Community Services"	"offers"	"multi-disciplinary programs in early childhood education"	1
+172	"Ryerson 's Faculty of Community Services"	"offers"	"multi-disciplinary programs in health"	1
+172	"Ryerson 's Faculty of Community Services"	"offers"	"multi-disciplinary programs in health early childhood education social justice and community development"	1
+172	"Ryerson 's Faculty of Community Services"	"offers"	"multi-disciplinary programs in social justice"	1
+172	"Ryerson 's Faculty of Community Services"	"offers community development"	"multi-disciplinary programs"	0
+172	"Ryerson 's Faculty of Community Services"	"offers community development in"	"health"	0
+172	"Ryerson 's Faculty of Community Services"	"offers multi-disciplinary programs in"	"health"	0
+172	"Ryerson 's Faculty of Community Services"	"offers multi-disciplinary programs in health"	"social justice and community development"	0
+172	"Ryerson 's Faculty of Community Services"	"offers social justice"	"multi-disciplinary programs"	0
+172	"Ryerson 's Faculty of Community Services"	"offers social justice in"	"health"	0
+A woman Tina arrives at Cholera street where she takes up residence and works as a prostitute.
+173	"A woman Tina"	"arrives"	"at Cholera street"	1
+173	"A woman Tina"	"arrives"	"at Cholera street where she takes up residence"	1
+173	"A woman Tina"	"arrives"	"at Cholera street where she takes up residence and works as a prostitute"	1
+173	"A woman Tina"	"arrives"	"at Cholera street where she works as a prostitute"	1
+173	"Tina"	"arrives at"	"Cholera street"	1
+173	"Tina"	"arrives at"	"Cholera street"	"[enabler=where she takes up residence and works as a prostitute]"	1
+173	"she"	"takes up"	"residence"	1
+173	"she"	"takes up"	"residence and works"	1
+173	"she"	"takes up"	"residence where"	0
+173	"she"	"takes up residence as"	"a prostitute"	0
+173	"she"	"takes up works as"	"a prostitute"	1
+173	"she"	"works"	"as a prostitute"	1
+173	"she"	"works"	"as a prostitute where"	0
+The plan was to airlift one battalion of the 24th Infantry Division into South Korea via C-54 Skymaster transport aircraft and quickly block advancing North Korean forces while the remainder of the division was transported on ships.
+174	"The plan"	"to airlift"	"one battalion of the 24th Infantry Division"	0
+174	"The plan"	"to airlift one battalion of the 24th Infantry Division into"	"South Korea"	0
+174	"The plan"	"to airlift one battalion of the 24th Infantry Division via"	"C-54 Skymaster transport aircraft"	0
+174	"The plan"	"was"	"to airlift one battalion of the 24th Infantry Division"	1
+174	"The plan"	"was"	"to airlift one battalion of the 24th Infantry Division into South Korea via C-54 Skymaster transport aircraft"	1
+174	"The plan"	"was"	"to airlift one battalion of the 24th Infantry Division quickly"	0
+174	"The plan"	"was"	"to block advancing North Korean forces"	1
+174	"The plan"	"was"	"to block advancing North Korean forces quickly"	1
+174	"The plan"	"was"	"to block advancing North Korean forces while the remainder of the division was transported on ships"	1
+174	"The plan"	"was"	"to block advancing North Korean forces while the remainder of the division was transported on ships quickly"	1
+174	"The plan"	"was to airlift"	"one battalion of the 24th Infantry Division"	1
+174	"The plan"	"was to airlift one battalion of the 24th Infantry Division into"	"South Korea"	0
+174	"The plan"	"was to airlift one battalion of the 24th Infantry Division via"	"C-54 Skymaster transport aircraft"	0
+174	"one battalion of the 24th Infantry Division"	"to be airlift into"	"South Korea"	0
+174	"one battalion of the 24th Infantry Division"	"to be airlift via"	"C-54 Skymaster transport aircraft"	0
+174	"the remainder of the division"	"was transported"	"on ships"	1
+174	"the remainder of the division"	"was transported on"	"ships"	1
+His usual position was on the wing or in the centres.
+175	"His"	"has"	"usual position"	1
+175	"His usual position"	"was"	"in the centres"	1
+175	"His usual position"	"was"	"on the wing"	1
+175	"His usual position"	"was"	"on the wing or in the centres"	1
+175	"His usual position"	"was on"	"the wing"	1
+175	"His usual position"	"was on"	"the wing or in"	0
+Later on, Han Sui and Ma Teng shared an uneasy relationship with each other; between them were periods of alliance followed by periods of open warfare.
+176	"Han Sui"	"shared"	"an uneasy relationship"	0
+176	"Han Sui"	"shared"	"an uneasy relationship Later on"	0
+176	"Han Sui"	"shared"	"an uneasy relationship with each other between them"	0
+176	"Han Sui and Ma Teng"	"Later on shared"	"an uneasy relationship"	0
+176	"Han Sui and Ma Teng"	"shared"	"an uneasy relationship"	1
+176	"Han Sui and Ma Teng"	"shared"	"an uneasy relationship Later on"	1
+176	"Han Sui and Ma Teng"	"shared"	"an uneasy relationship with each other between them"	0
+176	"Ma Teng"	"shared"	"an uneasy relationship"	0
+176	"Ma Teng"	"shared"	"an uneasy relationship Later on"	0
+176	"Ma Teng"	"shared"	"an uneasy relationship with each other between them"	0
+176	"Ma Teng"	"shared an uneasy relationship with"	"each other"	0
+176	"alliance"	"be followed"	"by periods of open warfare"	0
+176	"periods of alliance"	"be followed by"	"periods of open warfare"	1
+176	"periods of alliance followed by periods of open warfare"	"were between"	"them"	0
+176	"them"	"were periods of"	"alliance"	0
+After the end of political career, Akhundov served as the Vice President of the Azerbaijan National Academy of Sciences until 1972.
+177	"Akhundov"	"be the Vice President of"	"the Azerbaijan National Academy of Sciences"	1
+177	"Akhundov"	"served"	"as the Vice President of the Azerbaijan National Academy of Sciences"	1
+177	"Akhundov"	"served"	"as the Vice President of the Azerbaijan National Academy of Sciences After the end of political career"	1
+177	"Akhundov"	"served"	"as the Vice President of the Azerbaijan National Academy of Sciences until 1972"	1
+177	"Akhundov"	"served after"	"the end of political career"	0
+177	"Akhundov"	"served as"	"the Vice President of the Azerbaijan National Academy of Sciences"	1
+177	"Akhundov"	"served until"	"1972"	0
+They were given a revision session on how to pray, and character building.
+178	"They"	"were given"	"a revision character building"	0
+178	"They"	"were given"	"a revision session"	0
+178	"They"	"were given"	"a revision session on how to pray"	1
+178	"They"	"were given"	"a revision session on how to pray , and character building"	1
+178	"They"	"were given"	"a revision session on how to pray and character building"	1
+Clayton State University is an NCAA Division II member, competing in one of the top conferences in the nation at that level - the Peach Belt Conference.
+179	"Clayton State University"	"is"	"an NCAA Division II member"	0
+179	"Clayton State University"	"is member of"	"NCAA Division II"	1
+179	"Clayton State University is an NCAA Division II member"	"is"	"competing in one of the top conferences in the nation at that level the Peach Belt Conference"	0
+The state's two U.S. senators are Jefferson B. Sessions III and Richard C. Shelby, both Republicans.
+180	"The state"	"has"	"two U.S. senators are Jefferson B. Sessions III"	0
+180	"The state"	"has"	"two U.S. senators are Jefferson B. Sessions III and Richard C. Shelby"	0
+180	"The state"	"has"	"two U.S. senators are Richard C. Shelby"	0
+180	"The state 's two U.S. senators"	"are"	"Jefferson B. Sessions III"	0
+180	"The state 's two U.S. senators are Jefferson B. Sessions III"	"is"	"both Republicans"	0
+180	"The state 's two U.S. senators are Jefferson B. Sessions III and Richard C. Shelby"	"is"	"both Republicans"	0
+180	"The state 's two U.S. senators are Richard C. Shelby"	"is"	"both Republicans"	0
+Some academic philosophers have criticized Rand for what they consider her lack of rigor and limited understanding of philosophical subject matter.
+181	"Some academic philosophers"	"have criticized"	"Rand"	1
+181	"Some academic philosophers"	"have criticized"	"Rand for what they consider her lack of rigor"	1
+181	"Some academic philosophers"	"have criticized"	"Rand for what they consider her lack of rigor and limited understanding of philosophical subject matter"	1
+181	"Some academic philosophers"	"have criticized"	"Rand for what they consider limited understanding of philosophical subject matter"	1
+181	"her"	"has"	"lack of rigor"	1
+181	"her"	"has"	"lack of rigor and limited understanding of philosophical subject matter"	1
+181	"they"	"consider"	"what her lack of rigor"	0
+181	"they"	"consider"	"what her lack of rigor and limited understanding of philosophical subject matter"	0
+181	"they"	"consider"	"what limited understanding of philosophical subject matter"	0
+181	"they"	"consider her lack of"	"rigor"	0
+After the Muslim victory at the Battle of Sagrajas (1086) put at temporary stop to Christian expansion, the Almoravid dynasty constructed a unified Al-Andalus with its capital in Granada, ruling until mid-12th century.
+182	"Sagrajas"	"be put"	"at temporary stop"	0
+182	"Sagrajas"	"be put"	"at temporary stop to Christian expansion"	0
+182	"Sagrajas put at temporary stop to Christian expansion"	"is"	"1086"	0
+182	"a unified Al-Andalus"	"be constructed with"	"its capital"	"[enabler=After the Muslim victory at the Battle of Sagrajas"	"1086"	"put at temporary stop to Christian expansion]"	0
+182	"its"	"has"	"capital"	1
+182	"the Almoravid dynasty"	"be ruling"	"until mid-12th century"	0
+182	"the Almoravid dynasty"	"constructed"	"a unified Al-Andalus"	1
+182	"the Almoravid dynasty"	"constructed"	"a unified Al-Andalus"	"[enabler=After the Muslim victory at the Battle of Sagrajas"	"1086"	"put at temporary stop to Christian expansion]"	1
+182	"the Almoravid dynasty"	"constructed"	"a unified Al-Andalus After the Muslim victory at the Battle of Sagrajas put at temporary stop to Christian expansion"	1
+182	"the Almoravid dynasty"	"constructed"	"a unified Al-Andalus in Granada"	1
+182	"the Almoravid dynasty"	"constructed"	"a unified Al-Andalus ruling until mid-12th century"	0
+182	"the Almoravid dynasty"	"constructed"	"a unified Al-Andalus with its capital"	1
+182	"the Almoravid dynasty"	"constructed a unified Al-Andalus ruling until"	"mid-12th century"	"[enabler=After the Muslim victory at the Battle of Sagrajas"	"1086"	"put at temporary stop to Christian expansion]"	0
+182	"the Almoravid dynasty"	"constructed a unified Al-Andalus with"	"its capital"	"[enabler=After the Muslim victory at the Battle of Sagrajas"	"1086"	"put at temporary stop to Christian expansion]"	0
+182	"the Battle of Sagrajas"	"put at"	"temporary stop"	0
+182	"the Muslim victory"	"put at"	"temporary stop"	0
+182	"the Muslim victory"	"put to"	"Christian expansion"	0
+Lancaster was nominated four times for Academy Awards and won once - for his work in "Elmer Gantry" in 1960.
+183	"Lancaster"	"was"	"nominated"	1
+183	"Lancaster"	"was nominated"	"four times"	1
+183	"Lancaster"	"was nominated"	"four times for Academy Awards"	1
+183	"Lancaster"	"was nominated for"	"Academy Awards"	1
+183	"Lancaster"	"was nominated four times for"	"Academy Awards"	1
+183	"Lancaster"	"won"	"once for his work"	1
+183	"Lancaster"	"won"	"once for his work in Elmer Gantry in 1960"	1
+183	"Lancaster"	"won once for"	"his work"	1
+183	"his"	"has"	"work"	1
+The shield can be shown surrounded by the insignia of an honorary Knight Commander of the Most Honorable Order of the Bath (KCB), an award the General received after the first Gulf War.
+184	"The shield"	"can be shown"	0
+184	"The shield"	"can be shown surrounded by"	"the insignia of an honorary Knight Commander of the Most Honorable Order of the Bath"	0
+184	"an honorary Knight Commander of the Most Honorable Order of the Bath"	"KCB"	"of received after"	"the first Gulf War"	0
+184	"the Bath KCB"	"is"	"an award"	0
+184	"the General"	"of received after"	"the first Gulf War"	0
+184	"the General"	"received"	"after the first Gulf War an award"	1
+184	"the General"	"received"	"an award"	1
+184	"the General"	"received after"	"the first Gulf War"	0
+She was discharged from the Sirio-Libanes Hospital on the June 23, 2008 after suffering strong chest pains.
+185	"She"	"was discharged"	"from the Sirio-Libanes Hospital on the"	0
+185	"She"	"was discharged"	"from the Sirio-Libanes Hospital on the June 23 2008"	0
+185	"She"	"was discharged"	"from the Sirio-Libanes Hospital on the after suffering strong chest pains"	0
+185	"She"	"was discharged from"	"the Sirio-Libanes Hospital"	1
+185	"She"	"was discharged on"	"the June 23 , 2008"	1
+However, the trio did appear on the 12-date benefit tour for Action for Research into Multiple Sclerosis, as well as on the album "Guitar Boogie".
+186	"the trio"	"However did appear on"	"the 12-date benefit tour"	0
+186	"the trio"	"However did appear on"	"the album"	0
+186	"the trio"	"did appear"	"on the 12-date benefit tour for Action"	0
+186	"the trio"	"did appear"	"on the 12-date benefit tour for Action However"	0
+186	"the trio"	"did appear"	"on the 12-date benefit tour for Action for Research into Multiple Sclerosis"	1
+186	"the trio"	"did appear"	"on the 12-date benefit tour for Action for Research into Multiple Sclerosis as well as on the album Guitar Boogie"	1
+186	"the trio"	"did appear"	"on the 12-date benefit tour for Action for Research on the album Guitar Boogie"	0
+186	"the trio"	"did appear on"	"the 12-date benefit tour"	1
+Crick stressed the importance of finding new methods to probe human brain function.
+187	"Crick"	"stressed"	"the importance"	1
+187	"Crick"	"stressed"	"the importance finding new methods to probe human brain function"	0
+187	"Crick"	"stressed"	"the importance of finding new methods to probe human brain function"	1
+Among modern critics, Steve Biodrowski of "Cinefantastique" wrote, "In the end, "Destroy All Monsters" is too slim in its storyline, too thin in its characterizations, to be considered a truly great film.
+188	"All Monsters"	"is too"	"slim"	0
+188	"All Monsters"	"is too slim in"	"its storyline"	0
+188	"All Monsters"	"is too slim in"	"the end"	0
+188	"Destroy All Monsters"	"is"	"slim in its storyline too thin in its characterizations to be considered a truly great film"	0
+188	"Destroy All Monsters"	"is"	"slim too thin in its characterizations to be considered a truly great film"	0
+188	"Destroy All Monsters"	"is"	"slim too thin in its characterizations to be considered a truly great film Among modern critics"	0
+188	"Destroy All Monsters"	"is"	"slim too too thin in its characterizations to be considered a truly great film"	0
+188	"Steve Biodrowski of Cinefantastique"	"wrote"	"Among modern critics Destroy All Monsters is too slim in its storyline too thin in its characterizations to be considered a truly great film"	0
+188	"its"	"has"	"characterizations"	1
+188	"its"	"has"	"storyline"	1
+More widely, in late August, 2007 the group was accused in "The Telegraph", a conservative British newspaper, of torturing, detaining, and firing on unarmed protesters who had objected to policies of the Hamas government.
+189	"2007 the group"	"More widely was accused in"	"The Telegraph" , a conservative British newspaper , of torturing"	0
+189	"2007 the group"	"More widely was accused in"	"late August"	0
+189	"2007 the group"	"was accused"	"in The Telegraph of detaining"	0
+189	"2007 the group"	"was accused"	"in The Telegraph of detaining More widely"	0
+189	"2007 the group"	"was accused"	"in The Telegraph of detaining in late August"	0
+189	"2007 the group"	"was accused"	"in The Telegraph of firing on unarmed protesters"	0
+189	"2007 the group"	"was accused"	"in The Telegraph of firing on unarmed protesters More widely"	0
+189	"2007 the group"	"was accused"	"in The Telegraph of firing on unarmed protesters in late August"	0
+189	"2007 the group"	"was accused"	"in The Telegraph of torturing"	0
+189	"2007 the group"	"was accused"	"in The Telegraph of torturing More widely"	0
+189	"2007 the group"	"was accused"	"in The Telegraph of torturing detaining and firing on unarmed protesters"	0
+189	"2007 the group"	"was accused"	"in The Telegraph of torturing detaining and firing on unarmed protesters More widely"	0
+189	"2007 the group"	"was accused"	"in The Telegraph of torturing detaining and firing on unarmed protesters in late August"	0
+189	"2007 the group"	"was accused"	"in The Telegraph of torturing in late August"	0
+189	"The Telegraph of detaining"	"is"	"a conservative British newspaper"	0
+189	"The Telegraph of firing on unarmed protesters"	"is"	"a conservative British newspaper"	0
+189	"The Telegraph of torturing"	"is"	"a conservative British newspaper"	0
+189	"The Telegraph of torturing detaining and firing on unarmed protesters"	"is"	"a conservative British newspaper"	0
+189	"a conservative British newspaper"	"be The Telegraph" of"	"torturing"	0
+189	"unarmed protesters"	"had objected"	"to policies of the Hamas government"	1
+189	"unarmed protesters"	"had objected to"	"policies of the Hamas government"	1
+The court's official seat is in The Hague, Netherlands, but its proceedings may take place anywhere.
+190	"Hague"	"may take anywhere"	"place"	0
+190	"The court"	"has"	"official seat"	1
+190	"The court 's official seat"	"is"	"in The Hague Netherlands"	1
+190	"The court 's official seat"	"is in"	"The Hague , Netherlands"	1
+190	"its"	"has"	"proceedings"	1
+190	"its proceedings"	"may take"	"place"	1
+190	"its proceedings"	"may take"	"place anywhere"	1
+Donald Markwel argued that in the absence of such an international approach, there would be a risk of worsening international relations and possibly even world war arising from similar economic factors to those present during the depression of the 1930s.
+191	"Donald Markwel"	"argued"	"that in the absence of such an international approach there would be a risk of possibly even world war arising from similar economic factors to those present during the depression of the 1930s"	1
+191	"Donald Markwel"	"argued"	"that in the absence of such an international approach there would be a risk of worsening international relations"	1
+191	"Donald Markwel"	"argued"	"that in the absence of such an international approach there would be a risk of worsening international relations and possibly even world war arising from similar economic factors to those present during the depression of the 1930s"	1
+191	"international relations"	"be worsening during"	"the depression of the 1930s"	1
+191	"possibly even world war"	"be arising"	"from similar economic factors to those present"	0
+191	"possibly even world war"	"be arising"	"from similar economic factors to those present during the depression of the 1930s"	0
+This was a first for the United States, as the market shifts away from traditional television.
+192	"This"	"was"	"a first"	1
+192	"This"	"was"	"a first as the market shifts away from traditional television"	1
+192	"This"	"was"	"a first for the United States"	1
+192	"This"	"was a first for"	"the United States"	1
+192	"the market"	"shifts away"	"from traditional television"	0
+192	"the market"	"shifts away from"	"traditional television"	0
+The Ottoman Central Bank is the first building at right.
+193	"The Ottoman Central Bank"	"is"	"the first building"	1
+193	"The Ottoman Central Bank"	"is"	"the first building at right"	1
+193	"The Ottoman Central Bank"	"is the first building at"	"right"	0
+This may seem out of step with his agnostic convictions, but he believed that the Bible's significant moral teachings and superb use of language were relevant to English life.
+194	"This"	"may seem out"	"of step with his agnostic convictions"	1
+194	"This"	"may seem out of"	"step"	1
+194	"he"	"believed"	"that the Bible 's significant moral superb use of language were relevant to English life"	0
+194	"he"	"believed"	"that the Bible 's significant moral teachings and superb use of language were relevant to English life"	1
+194	"he"	"believed"	"that the Bible 's significant moral teachings use of language were relevant to English life"	0
+194	"his"	"has"	"agnostic convictions"	1
+194	"relevant"	"be superb use of"	"language"	0
+194	"the Bible"	"has"	"significant moral superb use of language"	0
+194	"the Bible"	"has"	"significant moral teachings and superb use of language"	1
+194	"the Bible"	"has"	"significant moral teachings use of language"	0
+194	"the Bible 's significant moral superb use of language"	"were"	"relevant"	0
+194	"the Bible 's significant moral superb use of language"	"were"	"relevant to English life"	0
+194	"the Bible 's significant moral teachings and superb use of language"	"were"	"relevant"	1
+194	"the Bible 's significant moral teachings and superb use of language"	"were"	"relevant to English life"	1
+194	"the Bible 's significant moral teachings and superb use of language"	"were relevant to"	"English life"	"[attrib=he believed]"	1
+194	"the Bible 's significant moral teachings use of language"	"were"	"relevant"	0
+194	"the Bible 's significant moral teachings use of language"	"were"	"relevant to English life"	0
+Since the dissolution of the Soviet Union, Ukraine continues to maintain the second largest military in Europe, after that of Russia.
+195	"Ukraine"	"continues"	"to maintain the second largest military"	0
+195	"Ukraine"	"continues"	"to maintain the second largest military Since the dissolution of the Soviet Union"	0
+195	"Ukraine"	"continues"	"to maintain the second largest military after that of Russia"	0
+195	"Ukraine"	"continues"	"to maintain the second largest military after that of Russia Since the dissolution of the Soviet Union"	0
+195	"Ukraine"	"continues"	"to maintain the second largest military in Europe"	1
+195	"Ukraine"	"continues"	"to maintain the second largest military in Europe Since the dissolution of the Soviet Union"	1
+195	"Ukraine"	"continues since"	"the dissolution of the Soviet Union"	0
+195	"Ukraine"	"continues to maintain"	"the second largest military"	0
+The Venice Film Festival is the oldest film festival in the world.
+196	"The Venice Film Festival"	"is"	"the oldest film festival"	1
+196	"The Venice Film Festival"	"is"	"the oldest film festival in the world"	1
+196	"The Venice Film Festival"	"is the oldest film festival in"	"the world"	0
+196	"The Venice Film Festival"	"is the oldest film festival of"	"the world"	0
+Although the numbers on each side were about equal, William had both cavalry and infantry, including many archers, while Harold had only foot soldiers and few if any archers.
+197	"Harold"	"had"	"few"	0
+197	"Harold"	"had"	"foot soldiers and few if any archers"	1
+197	"Harold"	"had"	"only foot soldiers"	0
+197	"Harold"	"had"	"only foot soldiers and few"	0
+197	"Harold"	"had only"	"foot soldiers"	0
+197	"William"	"had"	"both cavalry and infantry"	1
+197	"William"	"had"	"both cavalry and infantry including many archers while Harold had only foot soldiers and few"	0
+197	"William"	"had"	"both cavalry and infantry including many archers while Harold had only foot soldiers and few Although the numbers on each side were about equal"	0
+197	"William"	"had"	"both cavalry and infantry including many archers while Harold had only foot soldiers and few if any archers"	1
+197	"William"	"had"	"cavalry and infantry"	1
+197	"William"	"had"	"cavalry including many archers while Harold had few"	0
+197	"William"	"had"	"cavalry including many archers while Harold had few Although the numbers on each side were about equal"	0
+197	"William"	"had"	"cavalry including many archers while Harold had few if any archers"	0
+197	"William"	"had"	"cavalry including many archers while Harold had only foot soldiers"	0
+197	"William"	"had"	"cavalry including many archers while Harold had only foot soldiers Although the numbers on each side were about equal"	0
+197	"William"	"had"	"cavalry including many archers while Harold had only foot soldiers if any archers"	0
+197	"William"	"had"	"infantry including many archers while Harold had few"	0
+197	"William"	"had"	"infantry including many archers while Harold had few Although the numbers on each side were about equal"	0
+197	"William"	"had"	"infantry including many archers while Harold had few if any archers"	0
+197	"William"	"had"	"infantry including many archers while Harold had only foot soldiers"	0
+197	"William"	"had"	"infantry including many archers while Harold had only foot soldiers Although the numbers on each side were about equal"	0
+197	"William"	"had"	"infantry including many archers while Harold had only foot soldiers if any archers"	0
+197	"any"	"archers"	0
+197	"the numbers on each side"	"were"	"equal"	0
+197	"the numbers on each side"	"were"	"equal about"	1
+The highest mountain in this range is the Moncayo (2,313 m) and, despite getting less snow than in the Pyrenees, it has several ski resorts.
+198	"The highest mountain"	"is"	"the Moncayo"	0
+198	"The highest mountain in this range"	"is"	"the Moncayo 2,313 m and despite getting less snow than in the Pyrenees it has several ski resorts"	0
+198	"The highest mountain in this range"	"is"	"the Moncayo 2,313 m despite getting less snow than in the Pyrenees it has several ski resorts"	0
+198	"it"	"has"	"several ski resorts"	1
+198	"it"	"has"	"several ski resorts despite getting less snow than in the Pyrenees"	1
+198	"the Moncayo"	"be The highest mountain in"	"this range"	1
+198	"the Moncayo"	"has"	"several ski resorts"	1
+198	"this range"	"is"	"the Moncayo"	0
+The Battle of Weihaiwei was a 23 day siege with a major land and naval component during the First Sino-Japanese War.
+199	"The Battle of Weihaiwei"	"was"	"a 23 day siege"	1
+199	"The Battle of Weihaiwei"	"was"	"a 23 day siege during the First Sino-Japanese War"	1
+199	"The Battle of Weihaiwei"	"was"	"a 23 day siege with a major land"	0
+199	"The Battle of Weihaiwei"	"was"	"a 23 day siege with a major land and naval component"	1
+199	"The Battle of Weihaiwei"	"was"	"a 23 day siege with naval component"	1
+199	"The Battle of Weihaiwei"	"was a 23 day siege during"	"the First Sino-Japanese War"	0
+199	"The Battle of Weihaiwei"	"was a 23 day siege with"	"a major land and naval component"	0

@@ -1,0 +1,1298 @@
+The nation 's health maintenance organizations were required to tell the federal government by midnight Monday whether they plan to continue providing health insurance to Medicare recipients next year , raise premiums , or reduce benefits .
+The two-year note 's yield was unchanged at 5.95 percent .
+The 12 to 18-month target price is $ 70.00 per share .
+The principal opposition parties boycotted the polls after accusations of vote-rigging , and the only other name on the ballot was a little-known challenger from a marginal political party .
+3	"The principal opposition parties"	"boycotted"	"the polls"	0.547614657847
+Gallery hours are 11 a.m. to 6 p.m. daily .
+4	"Gallery hours"	"are"	"11 a.m. to 6 p.m."	0.748481855149
+A Spanish official , who had just finished a siesta and seemed not the least bit tense , offered what he believed to be a perfectly reasonable explanation for why the portable facilities were n't in service .
+5	"A Spanish official"	"who had finished seemed"	"not the least bit tense"	0.330847759621
+5	"A Spanish official"	"who had finished"	"a siesta"	0.421087211914
+5	"a perfectly reasonable explanation"	"were n't in"	"service"	0.446511823285
+5	"he"	"believed to be"	"the portable facilities"	0.349428015284
+5	"the portable facilities"	"were n't in"	"service"	0.743166022255
+The current El Nino , a complicated and vaguely understood series of phenomena that affect weather around the globe , is either the weather event of the century or an event whose bluster ca n't come close to living up to the super-hype preceding it .
+6	"The current El Nino"	"affect weather around"	"the globe"	0.339724182797
+6	"a complicated and vaguely understood series of phenomena"	"that affect weather around"	"the globe"	0.456345172329
+And he has eased up on team rules .
+7	"he"	"has eased up"	"on team rules"	0.787307756195
+Jake decides to give Melanie a bit of a hard time because she 's giving him and everyone else she grew up with a megadose of New York attitude , which in this film is almost as grossly exaggerated as the Southern stuff .
+8	"Jake"	"decides to give because"	"she"	0.235680384258
+8	"Jake"	"decides to give"	"a bit of a hard time"	0.391431119087
+8	"Melanie"	"'s giving"	"everyone else"	0.498034396963
+8	"Melanie"	"'s giving"	"him"	0.862283871286
+8	"Melanie"	"'s giving"	"she"	0.291194363359
+8	"a bit of a hard time"	"'s giving"	"everyone else"	0.620436130836
+8	"a bit of a hard time"	"'s giving"	"him"	0.95160520106
+8	"a bit of a hard time"	"'s giving"	"she"	0.38624678813
+8	"everyone else"	"grew up with"	"a megadose of New York attitude"	0.726248007953
+8	"him"	"grew up with"	"a megadose of New York attitude"	0.533177888366
+8	"she"	"'s giving"	"everyone else"	0.475232185637
+8	"she"	"'s giving"	"him"	0.82821213303
+8	"she"	"'s giving"	"she"	0.323041548062
+8	"she"	"grew up with"	"a megadose of New York attitude"	0.553072974953
+Sather , whose box sits high above the Garden ice behind one of the nets , said that he could hardly notice the netting .
+9	"he"	"could notice"	"the netting"	0.788251640187
+Eight percent went to Europe , while 1 percent went to other regions in the world .
+10	"1 percent"	"went to"	"other regions"	0.702282298472
+10	"Eight percent"	"went to"	"1 percent"	0.403834902992
+10	"Eight percent"	"went to"	"Europe"	0.654803291926
+As he left the UN building , Sabri said he hoped Iraq 's announcement was a first step toward the `` lifting of this brutal regime of sanctions '' against his country .
+11	"Iraq 's announcement"	"was"	"a first step"	0.782227411258
+11	"Sabri"	"hoped"	"Iraq 's announcement"	0.74004729697
+11	"he"	"hoped"	"Iraq 's announcement"	0.721062536555
+11	"he"	"left"	"Sabri"	0.55455081562
+11	"he"	"left"	"the UN building"	0.833472874474
+11	"the UN building"	"said"	"he"	0.970392506545
+A backdrop of steady economic growth , scant inflation , and stable bond yields provided support for stocks .
+His teammates indeed loved the show .
+13	"His teammates"	"loved"	"the show"	0.800133731803
+The Revolution also gave up a 90th-minute goal in a 2-2 regulation draw at D.C. United Sept. 16 but they recovered to win their final two matches .
+14	"The Revolution"	"gave up"	"a 90th-minute goal"	0.766983133134
+One factor , he said , might be that consumers have just decided they have enough stuff and are salting money away for retirement or spending it on vacations or entertainment .
+15	"consumers"	"have decided"	"they"	0.767658433161
+15	"enough stuff"	"are salting for spending"	"it"	0.662208997405
+15	"enough stuff"	"are salting for"	"retirement"	0.467157151131
+15	"they"	"have are salting for spending"	"it"	0.543263482313
+15	"they"	"have are salting for"	"retirement"	0.658934498827
+15	"they"	"have are salting"	"money"	0.780503378116
+15	"they"	"have"	"enough stuff"	0.81345764682
+He threw three scoreless innings , enabling Seattle to climb back into the game .
+16	"He"	"threw"	"three scoreless innings"	0.833472943474
+16	"Seattle"	"to climb into"	"the game"	0.687973048187
+Programmers always enter a season worried about the future of specific programs ; but never before have so many of them entered a season so worried about the future of the entire business .
+A spokesperson for Omega in Rio de Janeiro , was not immediately available for comment .
+Dell Computer Corp. 's quarter also looks good .
+Output was reduced in 1996 after one of its three furnaces exploded , killing one worker .
+The Residential Internship Program should meet the district 's needs , too , Quiriconi said .
+21	"The Residential Internship Program"	"should meet"	"Quiriconi"	0.861173980499
+21	"The Residential Internship Program"	"should meet"	"the district 's needs"	0.818218560013
+Esaka and six other top executives will quit to take responsibility for 67.28 million yen in payoffs to corporate racketeer Ryuichi Koike , 54 .
+She 's a hard act to follow , '' said Ruth Brown of London , who was among the crowds Wednesday .
+23	"Ruth Brown of London"	"who was among"	"Wednesday"	0.275543663188
+23	"She"	"'s"	"a hard act"	0.846338589998
+Most epidemiologists say the disorder stems from a genetic dysfunction , probably a short circuit in the brain .
+24	"the disorder"	"stems from"	"a genetic dysfunction"	0.738682519353
+24	"the disorder"	"stems from"	"a short circuit"	0.553807086138
+But on the turn , she settled in .
+It also took an interception of a Warren Moon pass by Chiefs free safety Jerome Woods in overtime to set up Stoyanovich 's game-winner .
+26	"It"	"took"	"an interception of a Warren Moon pass"	0.800133731803
+But she would concern herself less with the motives of those willing to help than with their pitching in .
+27	"she"	"would concern with"	"the motives of those willing"	0.489622361822
+27	"she"	"would concern"	"herself"	0.800117299913
+We are going to have to do it when we see fit , '' said Bobby Brown , Netanyahu 's adviser on world Jewish affairs .
+Congress holds hearings to consider anti-road-rage legislation .
+29	"Congress"	"holds"	"hearings"	0.846338589998
+29	"hearings"	"to consider"	"anti-road-rage legislation"	0.718594301195
+I only smoke one .
+I 've been here 19 years and it 's never been a good time .
+31	"19 years"	"'s been"	"a good time"	0.847522503442
+31	"it"	"'s been"	"a good time"	0.756067047929
+But some conglomerates , like Viacom and the News Corp. , have already bumped up against the limits of the rules .
+E-mail : jsuydamstatesman.com In person Ms. Holloman looks less like a tomboy than her film roles suggest , with her hazel eyes and faint drawl her most beguiling features .
+He died en route to hospital .
+34	"He"	"died en"	"route"	0.611524028493
+The benchmark 30-year bond rose 3/8 , or $ 3.75 per $ 1,000 bond , to 96 30/32 , pushing its yield down 3 basis points to 6.61 percent .
+35	"The benchmark 30-year bond"	"rose"	"$ 3.75"	0.464326990178
+35	"The benchmark 30-year bond"	"rose"	"3 / 8"	0.810444080796
+It begins life with a $ 75 million annual debt service burden , and a negative book value of nearly $ 300 million .
+36	"It"	"begins"	"life"	0.846338589998
+Part of this indifference is probably caused by the unearned cynicism of the age .
+These immigrants `` deserve consideration under the laws that were in place when they applied '' for asylum , said Rep. Lincoln Diaz-Balart , R-Fla. , who is the lead sponsor of House legislation that would change the current law .
+In previous games , Edwards believes that defenders were pressing , trying to overcompensate for the lack of certainty about the system by leaving their assignments to attempt a big play .
+39	"their assignments"	"to attempt"	"a big play"	0.718594301195
+In a nutshell : Weird mix of redneck humor , girly fantasy and the occasional moment of reality make this Reese Witherspoon vehicle for starry-eyed romantics only .
+40	"Weird mix of redneck humor"	"make"	"this Reese Witherspoon vehicle"	0.314104201875
+40	"girly fantasy"	"make"	"this Reese Witherspoon vehicle"	0.518800984431
+40	"the occasional moment of reality"	"make"	"this Reese Witherspoon vehicle"	0.796640899179
+He stepped out of his Mercedes and stood among dozens of other stupefied commuters , all staring helplessly at the smoke and flames in the distance .
+But in late September , Giorgio began getting headaches .
+42	"Giorgio"	"began getting"	"headaches"	0.723250211518
+Koplowitz 's next concert will be a more modest affair and presented indoors at Dance Theater Workshop in May .
+43	"Koplowitz 's next concert"	"will be presented at"	"Dance Theater Workshop"	0.719911759794
+43	"Koplowitz 's next concert"	"will be"	"a more modest affair"	0.793311448361
+Only about one in five private-sector employees still receives that kind of deal , experts say .
+44	"Only about one in five private-sector employees"	"receives"	"experts"	0.674261659341
+44	"Only about one in five private-sector employees"	"receives"	"that kind of deal"	0.803713293188
+It did n't specify which goods in either case .
+45	"It"	"did n't specify"	"which goods"	0.84242683713
+The committee is planning to hear from him this month .
+46	"The committee"	"is planning to hear from"	"this month"	0.435080940463
+The scandal has now forced resignations at Japan 's fourth-largest bank and three of Japan 's Big Four brokerages .
+47	"The scandal"	"has forced"	"resignations"	0.800616349475
+It said it wanted the court to establish whether the government had failed to `` apply the same rules '' to all the bidders .
+48	"It"	"wanted"	"the court"	0.77174815242
+48	"it"	"wanted"	"the court"	0.833472874474
+If Calcavecchia plays Friday morning , he knows the importance of starting well , because the Americans have a recent history of falling behind early .
+49	"Calcavecchia"	"plays"	"Friday morning"	0.73994384664
+49	"Calcavecchia"	"plays"	"he"	0.471877164938
+49	"Friday morning"	"knows"	"the importance"	0.990032659917
+49	"he"	"knows"	"the importance"	0.846338490749
+49	"the Americans"	"have"	"a recent history"	0.81345764682
+On the next play , Tuman , who had lined up on the left side , glided unchecked to the right and caught Griese 's pass for a 53-yard play to the Colorado 2. Two plays later , Chris Floyd 's dive for a 1-yard touchdown put Michigan ahead .
+Although Charles Darwin had written in 1872 about the consistency of expressions in mammals , social scientists of the 1960s and 1970s believed expressions are learned through culture .
+51	"expressions"	"are learned through"	"culture"	0.653121508359
+51	"social scientists of the 1960s and 1970s"	"believed"	"expressions"	0.833472930564
+The Hearst News Service has filed or will file the following for Wednesday .
+Deputies said that as many as 57 deputies who were members of Fatah let Arafat know in a meeting Tuesday night that they intended to vote against him .
+53	"Arafat"	"know in that"	"they"	0.516710421108
+53	"Arafat"	"know in"	"Tuesday night"	0.515060996066
+53	"Arafat"	"know in"	"a meeting"	0.678606232207
+53	"as many as 57 deputies"	"who were"	"members of Fatah"	0.635455897783
+53	"members of Fatah"	"let"	"Arafat"	0.721062536555
+Inspired by the Cadillac Vison concept SUV shown at last year 's auto shows , the new Cadillac SRX will become one of the newest entrants into the fast-growing medium luxury utility segment , in which rival Lincoln is about to add its own Aviator , based on the Ford Explorer/Mercury Mountaineer platform .
+It 's an effective , maybe even subversive , way to get the message across .
+55	"It"	"'s"	"an effective , maybe even subversive , way"	0.846338589998
+55	"an effective , maybe even subversive , way"	"to get"	"the message"	0.718594301195
+For their part , investors kept selling off stocks in trading and deregulated power companies , spurred Monday by negative news for El Paso Corp. Better yet , Miller and Roy Oswalt have won 19 straight decisions , and since July 1 , they 're a combined 21-1 with a 2.41 ERA.
+56	"Miller"	"have won"	"19 straight decisions"	0.375786376206
+56	"Roy Oswalt"	"have won"	"19 straight decisions"	0.812000827365
+56	"investors"	"kept selling off"	"deregulated power companies"	0.343784820453
+56	"investors"	"kept selling off"	"stocks"	0.713131865465
+56	"stocks"	"spurred"	"Monday"	0.553107915418
+56	"stocks"	"spurred"	"negative news"	0.211120420535
+Organogenesis Inc. of Canton Monday ended its troubled six-year relationship with giant Novartis Pharma AG , unilaterally terminating a marketing agreement in a move that will likely lead Organogenesis to file for bankruptcy protection from creditors this week .
+57	"Organogenesis Inc. of Canton Monday"	"ended"	"its troubled six-year relationship"	0.833472948946
+57	"Organogenesis"	"to file for"	"bankruptcy protection"	0.73490873708
+57	"a marketing agreement"	"will lead"	"Organogenesis"	0.249809777224
+In the first effort in Congress to estimate the fiscal cost of an Iraqi war , Democrats on the House Budget Committee released a report on Monday putting the likely price tag at between $ 30 billion and $ 60 billion , less than that of the Gulf War in 1991 .
+58	"a report"	"putting"	"the likely price tag"	0.76797799479
+ONE OF THOSE DAYS FOR JARRETT Worn out by the travel and discouraged by agency 's perpetual financial difficulties and the intractable nature of the Palestinian problem , Rennie retired in 1977 at 60 .
+59	"ONE OF THOSE DAYS"	"Worn out by"	"agency 's perpetual financial difficulties"	0.20823734473
+59	"ONE OF THOSE DAYS"	"Worn out by"	"the intractable nature of the Palestinian problem"	0.137621913446
+Extendicare Inc. agreed to buy Arbor Health Care Co. for about US$ 432 million in cash and assumed debt , nearly doubling its Florida and Ohio businesses and making it one of North America 's largest long-term health care providers .
+60	"Arbor Health Care Co."	"for assumed nearly doubling"	"it"	0.0640653986207
+60	"Arbor Health Care Co."	"for assumed nearly doubling"	"its Florida and Ohio businesses"	0.0940549543473
+60	"Arbor Health Care Co."	"for assumed"	"debt"	0.341427076903
+60	"its Florida and Ohio businesses"	"one of"	"North America 's largest long-term health care providers"	0.414449801166
+She began her career as a chunky woman , awkward on stage and unsure of her musical direction .
+61	"She"	"began"	"her career"	0.833472943474
+This leads to one of two inescapable conclusions : Either the president reads BioScope or I got lucky .
+62	"the president"	"reads"	"BioScope"	0.739943737306
+62	"the president"	"reads"	"I"	0.606955570306
+Luckily for them , nobody was watching .
+The first photograph of the fatal crash in which Diana , Princess of Wales , died appeared on the front page of Bild Zeitung Monday .
+Hooters of America owns , operates or franchises a total of 192 of the hot wing restaurants , vs. the 12 run by Hooters Inc.
+65	"Hooters of America"	"operates or franchises"	"a total of 192 of the hot wing restaurants"	0.454259970446
+Tropical Storm Edouard will meander about 125 miles off the Georgia coast causing surf to build along parts of the Southeast Coast .
+66	"Tropical Storm Edouard"	"will meander"	"about 125 miles"	0.841092672645
+66	"surf"	"to build along"	"parts of the Southeast Coast"	0.593709213058
+The drill has a keyless chuck , a built-in level for drilling straight holes and nonslip texturing over the whole drill body to provide a firm grip .
+67	"The drill"	"has"	"a built-in level"	0.494257350178
+67	"The drill"	"has"	"a keyless chuck"	0.87911582042
+67	"The drill"	"has"	"nonslip texturing"	0.320671934149
+Six of the 11 missing were dead , and the whereabouts of another is unknown .
+The first batter he faced , Carl Everett , singled .
+Rhodes discovered he had cancer last October after he felt a sharp pain in his right leg .
+70	"Rhodes"	"discovered"	"he"	0.833472943474
+70	"he"	"felt"	"a sharp pain"	0.833472874474
+70	"he"	"had cancer after"	"he"	0.492565906773
+70	"he"	"had cancer"	"last October"	0.533327304792
+70	"last October"	"felt"	"a sharp pain"	0.934254686488
+Graham threw four touchdown passes in the title game and set up Groza 's 16-yard winning field goal with 28 seconds left on a frozen field at Cleveland 's Municipal Stadium .
+71	"Graham"	"threw set up"	"Groza 's 16-yard winning field goal"	0.3624062761
+71	"Graham"	"threw"	"four touchdown passes"	0.833472943474
+71	"four touchdown passes"	"set up"	"Groza 's 16-yard winning field goal"	0.562650797722
+If his use of the Web to create art sounds highfalutin , Koplowitz begs to differ .
+72	"his use of the Web"	"to create"	"Koplowitz"	0.456521783928
+72	"his use of the Web"	"to create"	"art sounds"	0.718594301195
+That 's a lot of maybes in a sport where the right thing seldom happens , but with a shot at Mike Tyson having disappeared because of the sleight of hand of promoter Don King , Ruiz now knows he must turn in another direction if he wants the multimillion-dollar payday he 's been seeking for two years .
+73	"Ruiz"	"knows"	"he"	0.803713293188
+73	"he"	"'s been seeking for"	"two years"	0.62950708636
+73	"he"	"must turn in if"	"he"	0.929774065578
+73	"he"	"must turn in"	"another direction"	0.72667901251
+73	"he"	"wants"	"he"	0.754738023174
+73	"he"	"wants"	"the multimillion-dollar payday"	0.846338490749
+73	"the multimillion-dollar payday"	"'s been seeking for"	"two years"	0.818235939379
+73	"the sleight of hand of promoter Don King"	"knows"	"he"	0.976497046634
+DeLillo has brilliantly described the simultaneous explosion of knowledge in our times and the spread of Dark Age superstitions , the loss of family and community ties , replaced by the bloodless , invasive connections spawned by the World Wide Web.
+74	"DeLillo"	"has described"	"the simultaneous explosion of knowledge"	0.800616349475
+Continuing to maintain his innocence of terrorism charges , Salim said the stabbing was unrelated to the escape plan and stemmed instead from his dissatisfaction with his lawyers .
+75	"Continuing"	"to maintain"	"Salim"	0.80897646748
+75	"Continuing"	"to maintain"	"his innocence of terrorism charges"	0.718594306301
+75	"his innocence of terrorism charges"	"said"	"the stabbing"	0.970392506545
+75	"the stabbing"	"was to stemmed from"	"his dissatisfaction"	0.500504721116
+Tax revenue will fall as economic growth slows and the government will reduce spending , Mar 'ie said , again without specifying how big the cuts will be or where they will be made .
+76	"Tax revenue"	"will fall as"	"economic growth"	0.793718913766
+76	"the government"	"will reduce"	"Mar ' ie"	0.461930066103
+76	"the government"	"will reduce"	"spending"	0.821249156623
+The group 's attacks on the Kurdish leadership give it common cause with Saddam Hussein , though a firm link with the Iraqi dictator has not been established .
+77	"The group 's attacks"	"give"	"it"	0.506321420788
+I showed him 15 photographs which represented what I felt the movie should look and feel like .
+78	"I"	"felt"	"the movie"	0.833472945264
+78	"I"	"showed"	"15 photographs"	0.820342251978
+78	"I"	"showed"	"him"	0.833472945264
+The p53 protein is known to work as a genetic switch , binding to various sites along the DNA of cells and switching on nearby genes , a process called transactivation .
+79	"a process"	"called"	"transactivation"	0.547614491077
+79	"nearby genes"	"called"	"transactivation"	0.754239894106
+Only 19 percent of a national sample of 1,051 adults surveyed late last week said they believed the accord would reduce the number of teen-agers who begin smoking .
+80	"Only 19 percent of a national sample of 1,051 adults"	"surveyed"	"late last week"	0.547614678959
+80	"late last week"	"believed would reduce"	"the number of teen-agers"	0.334190906416
+80	"late last week"	"believed"	"the accord"	0.771748102886
+80	"the accord"	"would reduce"	"the number of teen-agers"	0.800117299913
+80	"they"	"believed would reduce"	"the number of teen-agers"	0.734442653231
+80	"they"	"believed"	"the accord"	0.833472874474
+Complete with health spa , three restaurants and 363 rooms in a variety of traditional furnishings , it is dominated by a six-story rotunda .
+81	"363 rooms"	"is dominated by"	"a six-story rotunda"	0.667834478596
+The companies have been in business for more than 20 years .
+82	"The companies"	"have been in"	"business"	0.807148061122
+Calcavecchia has looked steady recently , finishing in the top 35 in three of his last four starts , including a seventh-place finish at last month 's PGA Championship .
+In March , prices rose $ 2.50 per 1,000 cigarettes at wholesale , which equaled about 5 cents a pack for premium cigarettes at retail .
+84	"prices"	"rose per"	"1,000 cigarettes"	0.810133997587
+84	"prices"	"rose"	"$ 2.50"	0.777302059088
+But a meeting seemed unlikely .
+Four years later , workers still clear rubble from the site of Ufundi House , although the Cooperative Bank Building has been completely renovated and the site of the embassy has been turned into a park , a memorial to the victims of that day .
+86	"the site of the embassy"	"has been turned into"	"a memorial"	0.746981660408
+86	"the site of the embassy"	"has been turned into"	"a park"	0.688414908136
+Even so , the average rate of new starts for the first eight months of the year -- 1.449 million -- remains close to the eight-year high of 1.476 million new starts recorded in 1996 , according to government statistics .
+Maybe Sikes should apply for workman 's compensation .
+88	"Sikes"	"should apply for"	"workman 's compensation"	0.765592410098
+Last week , the Jets used some new alignments , including one in which John Abraham and Shaun Ellis lined up on one side and Mo Lewis rushed from the other .
+89	"John Abraham"	"lined up"	"on one side"	0.283660406258
+89	"Last week"	"used"	"some new alignments"	0.621901526643
+89	"Shaun Ellis"	"lined up"	"on one side"	0.817363620588
+89	"the Jets"	"used"	"some new alignments"	0.833472874474
+Without admitting any error , the department has rapidly increased the number of cattle it tests annually .
+90	"any error"	"has increased"	"it"	0.2249271333
+90	"any error"	"has increased"	"the number of cattle"	0.347565482308
+90	"the department"	"has increased"	"it"	0.579909730079
+90	"the department"	"has increased"	"the number of cattle"	0.80061633472
+It did not take long .
+She sought out the untouchables of our society and she touched them .
+92	"She"	"sought out"	"she"	0.198216488323
+92	"She"	"sought out"	"the untouchables of our society"	0.808287775064
+You can venture out 100 yards and still find the water no deeper than 4 feet .
+93	"100 yards"	"find no"	"deeper than 4 feet"	0.532855415194
+93	"You"	"can venture out"	"100 yards"	0.734740804851
+Died on Aug. 16 , 1938 , in Three Forks , Miss .
+Farris was replaced by sophomore Dustin Long in the second quarter against Pitt , and sophomore Jason Carter and freshman Reggie McNeal played in the opener .
+95	"freshman Reggie McNeal"	"played in"	"the opener"	0.740159633744
+BIGGEST CONCERNS Express pilots currently have no pension .
+96	"BIGGEST CONCERNS Express pilots"	"have"	"no pension"	0.743100840592
+Japanese automakers have taken some of the biggest strides with their new car models : Honda Motor Co. 's new Accord , likely to be a best-seller , is bigger , better and cheaper .
+Following are excerpts from an interview with Sen. Richard C. Shelby , the Alabama Republican who is the ranking minority member of the Intelligence Committee : `` Maybe God just had a plan for me and wanted me to be around for a little while longer , '' said Johnson , who has a wife , Cookie , and three children .
+98	"God"	"had wanted"	"me"	0.478259628827
+98	"God"	"had"	"a plan"	0.852100282479
+98	"Johnson"	"who has"	"Cookie"	0.390122663188
+98	"Johnson"	"who has"	"three children"	0.65845424966
+98	"a plan"	"wanted"	"me"	0.779466532294
+98	"the Alabama Republican"	"who is"	"God"	0.254296251629
+98	"the Alabama Republican"	"who is"	"the ranking minority member of the Intelligence Committee"	0.514728938025
+98	"the ranking minority member of the Intelligence Committee"	"had"	"a plan"	0.73180248493
+Type in your ZIP code and fill out the easy questionnaire , and you 'll get side-by-side comparisons for plans in your area .
+99	"the easy questionnaire"	"get"	"side-by-side comparisons"	0.568224768594
+Katzenberg , for example , is feuding with former employer Disney , which he sued for $ 250 million , claiming he was denied his cut of the Disney animated films he helped make .
+100	"he"	"sued for claiming"	"he"	0.426169579986
+100	"he"	"sued for"	"$ 250 million"	0.737936317673
+100	"he"	"was denied"	"he"	0.53972949468
+100	"he"	"was denied"	"his cut of the Disney animated films"	0.740130692468
+So , 1,200-degree air is pumped back to the turbine blades from the compressor in order to cool the blades .
+101	"1,200-degree air"	"is pumped to"	"the turbine blades"	0.62196987161
+NYT News Service And when `` Presidio Med '' fills the time between those scenes with even more stock situations , it may be a sign that it 's time for a moratorium on medical dramas , if not for complete euthanasia .
+102	"NYT News Service"	"fills"	"the time"	0.508665773427
+102	"`` Presidio Med ' '"	"fills"	"the time"	0.846338490749
+102	"it"	"'s"	"time"	0.846338490749
+102	"it"	"may be that"	"it"	0.694929802424
+102	"it"	"may be"	"a sign"	0.769495376653
+M2+CDs rose 3.0 percent in the April-June period .
+But the poverty rate for people 18 to 64 rose a half percentage point , to 10.1 percent .
+104	"18 to 64"	"rose"	"a half percentage point"	0.833472930564
+104	"the poverty rate"	"rose"	"a half percentage point"	0.461966142192
+BSA seized items from SM Summit in a raid on Aug. 12 and 13 . c.2002 SAN FRANCISCO CHRONICLE City Supervisor Tom Ammiano , who sponsored the law , said many of the problems were simply a matter of getting the new system up and running .
+105	"BSA"	"seized"	"items"	0.83347294435
+After a few minutes and some lighthearted chuckles , normalcy prevailed and everyone reverted to their traditional duties .
+106	"everyone"	"reverted to"	"their traditional duties"	0.702282285307
+106	"normalcy"	"reverted to"	"their traditional duties"	0.515891514854
+106	"some lighthearted chuckles"	"prevailed and"	"everyone"	0.513736824723
+Together , the Alden Trust and the other foundations controlled by the firm have contributed $ 1.7 million to Clark in the last five years .
+107	"the other foundations"	"have contributed to"	"Clark"	0.21863632558
+107	"the other foundations"	"have contributed"	"$ 1.7 million"	0.338491171823
+Of course there are elegant souls who consider such journalism beneath their attention .
+108	"elegant souls"	"who consider"	"such journalism"	0.668904834163
+Some think the blend is more weighted toward expedience .
+Trucking companies , meanwhile , have finally rebounded after years of laggard performance relative to the rest of the U.S. stock market .
+If you have questions , please call Susie McBee or Tim Spence at 202-298-6920 .
+111	"questions"	"please call"	"Tim Spence"	0.404768383444
+111	"you"	"have"	"questions"	0.81345764682
+Should caulking be done at the time of the reglazing or after , at a cost of $ 70 ? JUDY FRIEDMAN , West Roxbury ENDIT We must continue to lead by example .
+His legislation would allow tax-free savings for expenses , including tuition , for any school , public , private or religious .
+113	"His legislation"	"would allow"	"tax-free savings"	0.800117317172
+Bullion rose as the U.S. dollar fell against the yen and the German mark , making it cheaper for investors using other major currencies to buy the precious metal , analysts said .
+114	"Bullion"	"rose as"	"the U.S. dollar"	0.613126196637
+114	"it"	"using"	"other major currencies"	0.625550280155
+114	"other major currencies"	"to buy"	"analysts"	0.693958364918
+114	"other major currencies"	"to buy"	"the precious metal"	0.718594301195
+114	"the German mark"	"cheaper for"	"investors"	0.653425856838
+Solutia is saddled with $ 1 billion in debt and even more than that in retiree medical costs and environmental liabilities .
+115	"Solutia"	"is saddled with in"	"debt"	0.606828224245
+115	"Solutia"	"is saddled with"	"$ 1 billion"	0.758560655166
+A grocery store strike between Ralphs ' parent company , Kroger Co. , and 3,300 union employees in Wms T$ Virginia , Ohio and Kentucky ities between the two situations offer reason to hope : Both strikes involve Kroger stores and United Food and Commercial Workers employees , both disputes center on health care plans , both began in early October , and both have been mediated by federal officials .
+116	"Both strikes"	"involve"	"Kroger stores"	0.669224279715
+116	"Both strikes"	"involve"	"United Food and Commercial Workers employees"	0.368317418005
+116	"both disputes center"	"began in"	"early October"	0.470624817291
+Seattle 's roster is old .
+Those three were apprehended Sunday .
+118	"Those three"	"were apprehended"	"Sunday"	0.651787212958
+The most unpopular agencies , he noted , are usually those charged with solving the most unsolvable problems .
+There should be about 3 cups vegetables chopped medium fine .
+The movie , a $ 120 million change of pace for arty `` Crouching Tiger , Hidden Dragon '' director Ang Lee , is set to debut in June .
+Kidd , 29 , the team 's star point guard , extended his current contract years ago and may not sign another extension with the Nets before becoming a free agent on July 1 .
+122	"another extension"	"before becoming"	"a free agent"	0.3182055308
+U.S. stocks were mixed after a report on durable goods showed unexpected strength , squelching hopes for a bond market rally that could boost shares .
+123	"hopes"	"for could boost"	"shares"	0.531838306271
+Slowing corporate profits and weakening export growth has also forced economic growth expectations lower .
+124	"corporate profits"	"has forced"	"economic growth expectations"	0.307612600974
+124	"export growth"	"has forced"	"economic growth expectations"	0.80061633472
+Euromoney 's executives spent several days this week huddled in negotiations with Robert Teitelman , managing editor of Institutional Investor 's Americas edition , whom they named editor to replace Cudaback .
+125	"Euromoney 's executives"	"spent"	"several days"	0.833472943474
+125	"Euromoney 's executives"	"spent"	"this week"	0.754091663481
+125	"editor"	"to replace"	"Cudaback"	0.675554100289
+125	"managing editor of Institutional Investor 's Americas edition"	"named"	"editor"	0.850983514165
+125	"they"	"named"	"editor"	0.833472874474
+125	"this week"	"huddled in"	"negotiations"	0.740159633744
+Ms. Denis 's gift is to integrate the characters so fully in their milieu that they emerge from it almost insensibly .
+126	"they"	"emerge from"	"it"	0.672427378188
+Oh , and keep the cats away .
+The board of directors of UAL , the parent company of United Airlines , is likely to name Glenn F. Tilton , an oil industry executive , as the airline 's new president and chief executive in a meeting Monday morning , according to people with knowledge of the situation .
+Dell stock fell 2 1/16 to 87 1/8 Friday .
+129	"Dell stock"	"fell 16 to"	"87 1 / 8 Friday"	0.378756580032
+129	"Dell stock"	"fell"	"2 1 /"	0.810444069767
+It will also increase luxury taxes on other goods `` that are not essential for development , '' in order to lower non-productive imports .
+130	"It"	"will increase"	"luxury taxes"	0.814998657424
+Jim Suydam writes for the Austin American-Statesman .
+131	"Jim Suydam"	"writes for"	"the Austin American-Statesman"	0.764408430025
+As for Miller and Oswalt , they accept the responsibility without blinking .
+132	"they"	"accept"	"the responsibility"	0.796640899179
+For Use By Clients of the New York Times News Service `` I was pretty obnoxious , '' says Steers , who did a year at Hotchkiss and another at an Indiana military school before running away to New York , where he bunked with members of a dance company he had worked for as a stagehand the previous summer on Martha 's Vineyard .
+133	"he"	"bunked with"	"he"	0.498350712131
+133	"he"	"bunked with"	"members of a dance company"	0.680858275632
+133	"he"	"had worked for as"	"the previous summer"	0.487775384861
+The glamour of Callas ' life has been much exaggerated .
+For clients of the New York Times News Service Manufacturers ' orders will likely be stronger than the 9.1 percent growth for the July-September quarter the EPA originally forecast , the government said .
+Politicians , historians , locals and the victims ' families are grappling with how the site should be preserved .
+Then with sheer determination she shed 70 pounds and became the sleekly beautiful and charismatic musical actress of legend .
+137	"she"	"shed became"	"the sleekly beautiful and charismatic musical actress of legend"	0.753772209383
+137	"she"	"shed"	"70 pounds"	0.81044399124
+Born in New York City to Greek parents , she returned with her mother to Greece at 14 and entered the conservatory in Athens .
+138	"she"	"returned with"	"her mother"	0.680858275632
+Gurney boosts backers Stars general manager Bob Gainey said he was uncomfortable with increased team incentives for one player .
+139	"Gurney"	"boosts"	"backers Stars general manager Bob Gainey"	0.846338589998
+139	"backers Stars general manager Bob Gainey"	"was with"	"increased team incentives"	0.624041309937
+I am having my bathtubs reglazed .
+140	"I"	"am having"	"my bathtubs"	0.744459634714
+BLUE RIBBON COOK BOOK 1907 DEVILED EGGS Cut in two , crosswise , one dozen hard-boiled eggs .
+141	"BLUE RIBBON COOK BOOK 1907"	"DEVILED"	"EGGS Cut"	0.845607051038
+Fowler clearly resented Ickes ' authority , and his testimony affirms once again that Ickes , probably more than any other person , knows the full story of the 1996 Clinton campaign , including President Clinton 's role in the fund-raising excesses .
+142	"Fowler"	"resented"	"Ickes ' authority"	0.8128272472
+142	"Fowler"	"resented"	"his testimony"	0.551533102845
+142	"Ickes ' authority"	"affirms"	"Ickes"	0.672163319293
+Netscape is aiming to distribute 100 million copies of Navigator over the next year through partners , including Internet service providers and U.S. Robotics , a division of 3Com Corp. Wide familiarity with Navigator helps Netscape sell its higher-end Internet software packages , especially to large companies .
+143	"Netscape"	"sell"	"its higher-end Internet software packages"	0.707348765839
+143	"Netscape"	"sell"	"large companies"	0.898118798146
+143	"U.S. Robotics"	"helps"	"Netscape"	0.324315542911
+143	"a division of 3Com Corp. Wide familiarity"	"helps"	"Netscape"	0.831309728147
+Childhood cancers only make up 2 percent of all cancer cases in the United States .
+144	"Childhood cancers"	"make"	"up 2 percent of all cancer cases"	0.804271088751
+He did , and their discussion lit a flame that had temporarily burned out .
+145	"He"	"lit"	"a flame"	0.368176460128
+145	"their discussion"	"lit"	"a flame"	0.833472874474
+But he did n't fool me .
+146	"he"	"did n't fool"	"me"	0.842426836094
+Confusingly , hurricanelike tropical cyclones born over the southwestern Pacific and the Indian Ocean are usually called just `` cyclones '' in the media .
+147	"Confusingly"	"born over"	"the southwestern Pacific"	0.570591713973
+147	"the Indian Ocean"	"are called"	"just `` cyclones"	0.763939820622
+The New York Stock Exchange floor will be a sea of khaki-clad legs tomorrow as Gap Inc. promotes casual Fridays with free pants and shirts for about 3,500 traders .
+148	"The New York Stock Exchange floor"	"will be"	"a sea of khaki-clad legs tomorrow"	0.793311448361
+The spread between the notional yield on the most active 10-year Japanese government bond futures contract and the seven-year swap rate was little changed from yesterday at 42 basis points .
+149	"the seven-year swap rate"	"was changed from"	"yesterday"	0.74117442577
+Had I known then what I know now , I might have argued for a different arrangement .
+150	"I"	"might have argued for"	"a different arrangement"	0.611546153007
+Kors also used silk on belted polo dresses and trousers .
+If the administration wished to support something appropriate and useful , President Clinton would embrace , rather than resist , U.S. Sen. Paul Coverdell 's K-12 education savings A+ Accounts .
+He did n't quite understand what I was getting at , or so he claimed .
+We get long digressions about the rivalry between Los Alamos and a second nuclear weapons lab set up at Livermore , Calif. , and eye-glazing asides about technical problems at both labs .
+154	"a second nuclear weapons lab"	"set up at"	"Calif."	0.917153545604
+154	"a second nuclear weapons lab"	"set up at"	"eye-glazing asides"	0.397995868075
+He was back in Atlanta last October on a non-guaranteed training camp contract , but the Hawks released him so he could sign a guaranteed deal with Panathinaikos , a Greek team that he led to the Euroleague championship .
+155	"He"	"was in"	"Atlanta last October"	0.590472021933
+155	"a guaranteed deal"	"led to"	"the Euroleague championship"	0.370563235079
+155	"he"	"could sign"	"a guaranteed deal"	0.793881158412
+155	"he"	"led to"	"the Euroleague championship"	0.702282285307
+155	"him"	"could sign"	"a guaranteed deal"	0.949761269113
+155	"the Hawks"	"released"	"him"	0.833472874474
+Why does this `` moment , '' to use a term bandied about by designers , call for an excess of clothes rendered in guipure lace , with ruffles , ribbons or other frilly edging , in polka-dotted or liquid silks or with lingerie-style details ? $ $ $ Still , traders said they expect investors to look for opportunities to buy temporarily depressed big-company shares , which have outperformed those of smaller companies for the past 2 1/2 years .
+A spokesman for Hayden said Sunday that the senator was looking at several areas for possible legislation , including clarification of existing laws dealing with stalking and trespassing .
+157	"A spokesman"	"said"	"Sunday"	0.641925790512
+What the team did n't count on was that Boselli would have two more surgical procedures on his shoulder after he became a Texan .
+158	"he"	"became"	"a Texan"	0.833472874474
+158	"that Boselli"	"would have"	"two more surgical procedures"	0.752129258126
+Think of how many people stay in bad marriages because they are financially dependent or simply afraid of the unknown .
+159	"Think of how many people"	"stay in because"	"they"	0.66670304254
+159	"Think of how many people"	"stay in"	"bad marriages"	0.738852303681
+But within seconds , his smile had receded and his tone had again turned serious .
+Story Filed By Cox Newspapers -- Dao Heng Bank Group Ltd. was rated `` buy '' in new coverage by analyst Elan Cohen at J.P. Morgan Securities .
+161	"Dao Heng Bank Group Ltd."	"was rated in"	"new coverage"	0.641763566151
+161	"Dao Heng Bank Group Ltd."	"was rated"	"`` buy ' '"	0.740130707822
+161	"Story"	"Filed By"	"Dao Heng Bank Group Ltd."	0.291789669771
+They sweet-talked , cajoled , and begged people to come talk .
+162	"people"	"to come"	"talk"	0.718594301195
+That , he said , is what many of the POWs would like more than anything .
+163	"he"	"is would like"	"more than anything"	0.331228647948
+163	"what many of the POWs"	"would like"	"more than anything"	0.800117299913
+Jane Boynton , a nurse from Miami who heard Forbes speak at the Christian Coalition convention , said : `` He said exactly what the people wanted to hear .
+164	"Forbes"	"speak at"	"the Christian Coalition convention"	0.719022255333
+164	"He"	"said"	"the people"	0.420029371613
+164	"Jane Boynton"	"from heard"	"Forbes"	0.189574602155
+164	"a nurse"	"heard"	"Forbes"	0.510994373577
+That 's about 2 percentage points more than investment grade bonds and in contrast to the 6.7 percent average yield on benchmark 30-year Treasuries this year .
+The couple was riding in a rented Mercedes-Benz , and the driver , trying to avoid the photographers ' harassment , crashed the car at high speed against a concrete pillar .
+166	"The couple"	"was riding in"	"a rented Mercedes-Benz"	0.644388244874
+166	"The couple"	"was riding in"	"the driver"	0.387419917553
+They want news of the latest United Nations debate , bulletins on the Sudanese economy , inside dope on the recent political coup in Cambodia .
+167	"They"	"want"	"bulletins"	0.43472608198
+167	"They"	"want"	"news of the latest United Nations debate"	0.796641007199
+Spokesmen for the SEC and the New York and Philadelphia exchanges declined to say whether they are investigating trading in Salomon 's stock .
+168	"they"	"are investigating"	"trading"	0.760307938908
+For starters , try the Internet .
+It says that Indonesia will lower tariffs on some goods used to make exports .
+170	"Indonesia"	"will lower"	"tariffs"	0.821249172675
+170	"It"	"will lower"	"tariffs"	0.895915547516
+The confusion over ADD is not new .
+The BSA suit , filed on behalf of Microsoft Corp. , Autodesk Inc. and Adobe Systems Inc. , alleged SM Summit committed software piracy .
+172	"Autodesk Inc."	"alleged"	"SM Summit"	0.644399997704
+172	"SM Summit"	"committed"	"software piracy"	0.833472943474
+172	"The BSA suit"	"filed on"	"Autodesk Inc."	0.594001650466
+A year ago , three-fifths of Americans said the government had done enough to protect them against another terrorist attack ; now just two-fifths do .
+Plus , Gidley notes , there are also a number of `` push providers '' such as PointCast Inc. , which provides news and information directly to computer users rather than requiring users to surf the Net to find it .
+174	"PointCast Inc."	"which provides to"	"computer users"	0.887222625374
+174	"PointCast Inc."	"which provides"	"news and information"	0.681962191058
+Rookie Antonio Bryant is fiery , but he must find some consistency in his route running .
+175	"he"	"must find"	"some consistency"	0.793385877656
+Airports act as `heat islands , ' so temperatures can vary as much as 10 degrees Fahrenheit from far away vegetable fields and citrus groves .
+The Rams sorely miss departed third receiver Az Hakim .
+177	"The Rams"	"miss departed"	"third receiver Az Hakim"	0.746222198754
+In the last four games of the losing streak , they surrendered deciding goals in the last minutes of the half or game three times and were blanked , 4-0 , by Tampa Bay .
+178	"they"	"surrendered deciding"	"goals"	0.723250201773
+Eating disorders affect 5 million to 10 million American adolescent girls and women and about 1 million American boys and men .
+179	"Eating disorders"	"affect"	"5 million to 10 million American adolescent girls and women"	0.769919875528
+179	"Eating disorders"	"affect"	"men"	0.15209584086
+A similar bill is pending in the Senate , sponsored by Florida Sens. Connie Mack , a Republican , and Bob Graham , a Democrat .
+180	"A similar bill"	"is pending in"	"the Senate"	0.739400800754
+Taylor missed only one day of school , but another week went by before she could move her head smoothly to the right , or lift her writing arm up to desk level without pain .
+181	"Taylor"	"missed"	"another week"	0.538068030188
+181	"Taylor"	"missed"	"only one day of school"	0.833472943474
+181	"another week"	"could move"	"her head"	0.789869767311
+181	"only one day of school"	"went before"	"she"	0.269302228195
+181	"she"	"could move to"	"the right"	0.911194592314
+181	"she"	"could move"	"her head"	0.793881158412
+Well , you can still buy a single quart at the corner store , but it 'll cost you a few dollars extra .
+182	"it"	"ll cost"	"a few dollars"	0.535583856849
+182	"you"	"can buy"	"a single quart"	0.82304377161
+If force is necessary , let it be force in the best interest of all , and supported by all who truly want a peaceful world .
+183	"force"	"be"	"force"	0.417027292976
+183	"it"	"be"	"force"	0.76059446224
+Organizations in the 33 states can use the grants announced today for both education and enforcement efforts -- including funding for enforcement , housing counseling and other activities that will promote fair housing , Clinton said .
+184	"Organizations"	"can use"	"the grants"	0.360327209738
+184	"housing counseling"	"will promote"	"fair housing"	0.390840153908
+184	"other activities"	"that will promote"	"Clinton"	0.650840445467
+184	"other activities"	"that will promote"	"fair housing"	0.504121751658
+184	"the grants"	"announced"	"today"	0.833472874474
+Come to think of it , that would be revolutionary .
+But Leslie Robison , an epidemiologist from the University of Minnesota , who estimates that 1 out 630 children will develop cancer before the age of 15 , said that cancer has very different implications for a child compared to adults , even for those who survive .
+186	"cancer"	"has"	"very different implications"	0.879115701475
+He calculates his annual maintenance costs at $ 25,000 .
+187	"He"	"calculates"	"his annual maintenance costs"	0.846338589998
+Towers Financial was formed by one-time New York Post bidder Steven Hoffenberg .
+Or it can maintain and expand a safety net that is already larger than many people had thought , possibly giving more discouraged workers reason to depend on a government check .
+189	"it"	"can maintain and expand"	"a safety net"	0.755868235853
+189	"more discouraged workers reason"	"to depend on"	"a government check"	0.745085944215
+But Aftonbladet said Chatty was interviewed by the police after Sept. 11 and subsequently made a pilgrimage to Mecca .
+190	"Aftonbladet"	"was interviewed by"	"the police"	0.509754560381
+She said she was looking forward to returning to Texas with her family .
+And just to get to that point , the Chiefs had to overcome a 10-0 first-half deficit and a 17-14 Seahawks advantage in the third quarter .
+192	"the Chiefs"	"had to overcome"	"a 17-14 Seahawks advantage"	0.208838157022
+For historians , this euphoria rang a bell of memory .
+193	"this euphoria"	"rang"	"a bell of memory"	0.833472874474
+Even if you just want to take a dip , you 'll find the ocean conditions generally inviting -- and family-friendly .
+194	"a dip"	"find"	"the ocean conditions"	0.803949855648
+194	"you"	"find"	"the ocean conditions"	0.771108255359
+194	"you"	"want to take"	"you"	0.559637365445
+Together , the year 's two moves have raised prices 14 percent at the wholesale level , and 7 percent at retail , according to Black .
+195	"the year 's two moves"	"have raised"	"prices 14 percent"	0.812000798353
+It was Tuesday , he explained .
+196	"It"	"was"	"Tuesday"	0.649690565668
+196	"It"	"was"	"he"	0.500673457789
+There is no escaping the fact that Arab political emotions have been shaped by the region 's encounter with French and British colonialism , by the defeat of the Arab effort to prevent the existence of Israel and by the subsequent American support for Israel and its treatment of the Palestinians , as well as by the direct injection of American power into the region .
+For P.T. International , the drought represents the second setback in as many years .
+198	"the drought"	"represents"	"the second setback"	0.846338490749
+Diana raised our consciousness about diseased children in Third World countries , people living with AIDS and the ravages of land mines .
+199	"Diana"	"raised"	"our consciousness"	0.833472943474
+199	"people"	"living with"	"the ravages of land mines"	0.333292462911
+Hooters Inc. founded the chain 14 years ago , and owns the company trademark and related rights .
+200	"Hooters Inc."	"founded"	"14 years"	0.820342254264
+200	"Hooters Inc."	"founded"	"the chain"	0.833472948946
+200	"Hooters Inc."	"founded"	"the company trademark and related rights"	0.356502611987
+Story Filed By Cox Newspapers Champions of the National Endowment for the Arts , which congressional conservatives are trying to shut down , have joined CBS , Bravo and others in producing public service announcements about the importance of the arts .
+Waiting in Guyana for their turn , Charles and Charlene looked after each other .
+Today , Mackovic is presented with a real-life role reversal that could prove painful for his football team if played out to the hilt at Rice Stadium .
+203	"Mackovic"	"is presented with"	"a real-life role reversal"	0.71984348591
+203	"Today"	"is presented with"	"a real-life role reversal"	0.956414308607
+Next up on the politics-and-calories calendar is a Buell dinner Monday for Chellie Pingree , the Dems ' Maine senatorial candidate .
+Meanwhile , Federal Express said it has kept about 15 percent of the extra deliveries it gained during the UPS strike .
+205	"Federal Express"	"has kept about"	"15 percent of the extra deliveries"	0.918779936812
+205	"Federal Express"	"has kept about"	"it"	0.580642571332
+205	"it"	"gained during"	"the UPS strike"	0.765109659053
+205	"it"	"has kept about"	"15 percent of the extra deliveries"	0.706453230011
+205	"it"	"has kept about"	"it"	0.62512275314
+Biondi said that Kay Koplovitz would remain as chairwoman of the company .
+206	"Biondi"	"would remain as"	"chairwoman of the company"	0.43835530342
+206	"Kay Koplovitz"	"would remain as"	"chairwoman of the company"	0.771020699839
+Like most visitors to Xi'an , Rubin tours China 's most astounding archeological treasure : the army of thousands of life-size figures that protect the graves of the Chinese emperors .
+207	"China 's most astounding archeological treasure"	"protect"	"the graves of the Chinese emperors"	0.319990595525
+207	"Rubin"	"tours protect"	"the graves of the Chinese emperors"	0.203777960028
+207	"Rubin"	"tours"	"China 's most astounding archeological treasure"	0.73994384664
+207	"Rubin"	"tours"	"the army of thousands of life-size figures"	0.527467907548
+207	"the army of thousands of life-size figures"	"that protect"	"the graves of the Chinese emperors"	0.835729132457
+The yield spread between an index of option-free 10-year `` A2 '' bank bonds and the 10-year Treasury note was 70 basis points yesterday , 2 basis points wider from a week earlier .
+208	"The yield"	"spread between"	"an index of option-free 10-year `` A2 ' ' bank bonds"	0.565297660149
+208	"The yield"	"spread between"	"the 10-year Treasury note"	0.359964421171
+208	"the 10-year Treasury note"	"was from"	"a week"	0.374065871594
+208	"the 10-year Treasury note"	"was"	"2 basis points"	0.37633581629
+208	"the 10-year Treasury note"	"was"	"70 basis points"	0.754165317336
+208	"the 10-year Treasury note"	"was"	"yesterday"	0.557099966617
+As a human rights officer , she regularly traveled around the country , returning to brief officials about ethnic clashes and human rights abuses that deter Bosnia 's refugees from returning home .
+209	"she"	"traveled around"	"the country"	0.769262049613
+This quality transcended fashion .
+210	"This quality"	"transcended"	"fashion"	0.833472943474
+Dot with food coloring and wait .
+Most were dragged off instantly by police officers who had apparently been warned .
+The public was clearly fed up , and as Congress took up the issue in early 2001 the only question seemed to be one of timing , whether the necessary reforms could be enacted before the 2002 midterm elections .
+213	"Congress"	"took up"	"the issue"	0.817363620588
+213	"the necessary reforms"	"could be enacted before"	"the 2002 midterm elections"	0.817039574838
+Region prospers While a successful Teamsters union strike last month was viewed as a comeback for U.S. labor , the turmoil surrounding President Ron Carey casts doubt on its future .
+214	"President Ron Carey"	"casts"	"doubt"	0.846338589998
+214	"Region"	"prospers While"	"a successful Teamsters union strike"	0.667965741234
+214	"Region"	"prospers While"	"last month"	0.507664267706
+214	"last month"	"was viewed as"	"a comeback"	0.683801816603
+The subject was a Lakers four-peat - a campaign that begins one week from today , when the Lakers open training camp in El Segundo .
+215	"The subject"	"was begins"	"one week"	0.455594268207
+215	"The subject"	"was"	"a Lakers four-peat-a campaign"	0.782227411258
+215	"a Lakers four-peat-a campaign"	"that begins"	"one week"	0.841959493783
+By the early 1980s , it was ZZZZ Best that showed how easy fraud could be .
+216	"it"	"was"	"ZZZZ Best"	0.649690493161
+A physician 's diet , exercise , The brewer said the improvement in trading performance was due to increased volumes led by canned Draught Guinness , an 11 percent increase in productivity per employee and returns on a 10 percent increase in marketing investment to 107 million pounds .
+217	"A physician 's diet , exercise"	"said"	"the improvement"	0.392428965679
+217	"the improvement"	"was to"	"increased volumes"	0.246455204073
+The number of passengers on Lufthansa 's domestic routes declined 5.5 percent in the first half , even as overall passenger numbers rose 3 percent .
+218	"overall passenger numbers"	"rose"	"3 percent"	0.81044399124
+Even though it was first diagnosed by a British pediatrician in 1902 , no one knows what causes it .
+It was an area in central Bosnia that Melnick knew well .
+220	"It"	"was"	"an area"	0.782227411258
+The scene was oddly serene compared with the mayhem on Monday after 12 North Koreans tried to enter a compound housing the Ecuadorian Embassy , which is usually lightly guarded .
+Spurred by requests from customers , health food stores started calling their suppliers yesterday looking for the sprouts , which are n't commercially available .
+222	"health food stores"	"started calling"	"their suppliers"	0.723250201773
+222	"health food stores"	"started calling"	"yesterday"	0.534542997922
+222	"their suppliers"	"looking for"	"the sprouts"	0.804931403939
+But do n't let a Web site substitute for a physician , either : Anyone who has himself for a doctor has a fool for a patient .
+223	"Anyone"	"who has"	"himself"	0.482627823224
+His mother said he was in Saudi Arabia on Sept. 11 .
+224	"His mother"	"was in"	"Saudi Arabia"	0.604237200645
+224	"he"	"was in"	"Saudi Arabia"	0.627236564905
+The governor 's campaign aides offered a quick retort .
+225	"The governor 's campaign aides"	"offered"	"a quick retort"	0.833472943474
+The proposed accord was reached June 20 by the tobacco industry and 39 states .
+226	"The proposed accord"	"was reached"	"June 20"	0.728017925647
+Among the other companies that got a boost from restructurings , Sara Lee Corp. gained 17 percent for the week after announcing it will sell some business and cut costs to raise $ 3 billion for a stock buyback .
+227	"Sara Lee Corp."	"gained"	"17 percent"	0.810444076103
+227	"a boost"	"gained"	"17 percent"	0.36356110917
+227	"costs"	"to raise for"	"a stock buyback"	0.771908047246
+227	"costs"	"to raise"	"$ 3 billion"	0.74631314168
+227	"it"	"will sell"	"some business"	0.821249156623
+227	"some business"	"to raise for"	"a stock buyback"	0.617136143615
+227	"some business"	"to raise"	"$ 3 billion"	0.929198484931
+The announcement , which came only days after a visit to Pyongyang by Japan 's prime minister , Junichiro Koizumi , marked a significant change of strategy for the administration , which had terminated similar negotiations pursued with North Korea by President Bill Clinton shortly before he left office .
+228	"he"	"left"	"office"	0.833472874474
+228	"similar negotiations"	"pursued with"	"North Korea"	0.633301467808
+E. Martin Gibson is the company 's chairman and has served as a director of the parent company since 1992 .
+229	"E. Martin Gibson"	"is has served as"	"a director of the parent company"	0.500315331609
+229	"E. Martin Gibson"	"is"	"the company 's chairman"	0.80002929069
+Her friend was waiting for her at a bar , shaken and alone .
+230	"Her friend"	"was waiting for"	"her"	0.664371000487
+By contrast , European countries tested 10 million animals last year .
+231	"European countries"	"tested"	"10 million animals"	0.810444069767
+231	"European countries"	"tested"	"last year"	0.559122858567
+Sometimes he thinks he is improving , but then he runs out of breath , his pulse and blood pressure start jumping around or he turns forgetful in a way that he never was before .
+232	"he"	"runs out of"	"his pulse and blood pressure"	0.595201313483
+232	"he"	"thinks"	"he"	0.846338490749
+232	"he"	"turns in that"	"he"	0.71786416568
+Intel Corp. rose 1 13/16 to 97 3/4 and was among the leaders after it introduced a new product to link computers that improves efficiency 30 percent .
+233	"1 13 /"	"16 to was among after"	"it"	0.247195955388
+233	"1 13 /"	"16 to was among"	"the leaders"	0.290022309213
+233	"Intel Corp."	"rose 16 to was among after"	"it"	0.278984379991
+233	"Intel Corp."	"rose 16 to was among"	"the leaders"	0.340399761941
+233	"Intel Corp."	"rose 16 to"	"97 3 / 4"	0.378756581077
+233	"Intel Corp."	"rose"	"1 13 /"	0.810444076103
+233	"a new product"	"to link improves"	"efficiency 30 percent"	0.49886155336
+233	"a new product"	"to link"	"computers"	0.718594301195
+233	"computers"	"that improves"	"efficiency 30 percent"	0.85393691369
+233	"it"	"introduced"	"a new product"	0.833472874474
+Deutsche BA , meanwhile , saw passenger numbers almost double in the first six months of 1997 , helped by a new marketing campaign and the introduction of two new routes .
+234	"Deutsche BA"	"saw"	"passenger numbers"	0.600314478317
+Before tonight 's meeting Clinton aides had been talking to industry officials , trying to wrest new concessions , but with little progress .
+Syrian President Hafez Assad hopes the violence will pressure Israel into relinquishing the Golan Heights , land it captured in the 1967 war .
+236	"Israel"	"captured in"	"the 1967 war"	0.866318569062
+236	"Syrian President Hafez Assad"	"hopes will pressure relinquishing"	"the Golan Heights"	0.490954959267
+236	"Syrian President Hafez Assad"	"hopes will pressure"	"Israel"	0.745751145941
+236	"Syrian President Hafez Assad"	"hopes"	"the violence"	0.846338589998
+236	"it"	"captured in"	"the 1967 war"	0.77223822623
+236	"land"	"captured in"	"the 1967 war"	0.647800786829
+236	"the Golan Heights"	"captured in"	"the 1967 war"	0.851837727806
+236	"the violence"	"will pressure"	"Israel"	0.789293599894
+He now needs inhaled asthma medicine to help him breathe , even though he never had asthma before .
+237	"He"	"needs"	"inhaled asthma medicine"	0.803713293188
+237	"he"	"had"	"asthma"	0.852100186556
+237	"inhaled asthma medicine"	"to help"	"him"	0.718594301195
+The foundations , separate from the boards of educations , are modeled on those that began appearing in California in the 1970s after the passage of Proposition 13 , which limited property taxes .
+For example , he wants to erect a multiplex theater and virtual-reality amusement park in Coney Island and is a finalist in the competition to choose a developer for the site of the New York Coliseum in Manhattan .
+They make `` Alabama '' a relatively painless experience , provided , again , you leave before Jewel starts singing .
+240	"They"	"make '"	"a relatively painless experience"	0.576741787885
+240	"They"	"make"	"Alabama"	0.632265775094
+240	"you"	"leave"	"Jewel"	0.494661342279
+At least 170,000 civilian prisoners died at Majdanek , the suit claims , including 13,000 Jews who were murdered within a month of Bucmys 's arrival .
+241	"170,000 civilian prisoners"	"died at"	"Majdanek"	0.735328749452
+241	"170,000 civilian prisoners"	"died at"	"the suit"	0.854374868877
+It was her sheer life force that was almost blinding , so blinding it is hard to believe it was not permanent , such a shock to discover that it could be destroyed or taken away .
+242	"It"	"was"	"her sheer life force"	0.782227411258
+To do so , Selig will have to overcome strong feelings on both sides .
+Meanwhile , another tropical disturbance in the western Gulf of Mexico will promote locally heavy showers along the coast from Texas to the central Gulf States .
+244	"another tropical disturbance"	"will promote"	"locally heavy showers"	0.23025005364
+Woodson kept Chiaverini behind him and made the leaping interception at the Michigan 45 .
+245	"Chiaverini"	"made"	"the leaping interception"	0.779877233112
+245	"Woodson"	"kept made"	"the leaping interception"	0.614467025562
+245	"Woodson"	"kept"	"Chiaverini"	0.721062610241
+Have you ever looked closely at a Cheez Doodle ?
+Bensonhurst is a vintage Italian neighborhood , a place of tidy two-family brick homes adorned with Madonnas in the front yard and American flags snapping over the front doors .
+247	"Bensonhurst"	"is a"	"a place of tidy two-family brick homes"	0.358164416988
+247	"a place of tidy two-family brick homes"	"adorned with"	"American flags"	0.166407883128
+247	"vintage Italian neighborhood"	"adorned with"	"American flags"	0.197887557898
+247	"vintage Italian neighborhood"	"adorned with"	"Madonnas"	0.660783938007
+He still remembers when Weinberg came to him with his wife 's sculpture portfolio and proposed making similarly styled knobs and hardware .
+248	"Weinberg"	"came to"	"him"	0.702282301137
+The money losing airline offered discount prices between western Canadian destinations .
+249	"The money"	"offered"	"discount prices"	0.713880884663
+249	"airline"	"offered"	"discount prices"	0.833472874474
+The ailing incumbent , Lansana Conte , in office since seizing power in a coup in 1984 , was widely expected to win .
+You can also look up individual carriers for more detailed info on their respective products and special offers .
+At times there were beautiful moments .
+E-mail her at mmccartycoxohio.com A Ply Gem Industries Inc. shareholder is suing Furman Selz Inc. for $ 100 million , claiming it was negligent in recommending Nortek Inc. 's takeover offer as fair to shareholders .
+253	"A Ply Gem Industries Inc. shareholder"	"is suing"	"Furman Selz Inc."	0.743816290458
+253	"Furman Selz Inc."	"claiming"	"it"	0.372355601366
+So they fire up the pits and smoke the briskets for 18 hours over mesquite or hickory .
+254	"they"	"fire up"	"the briskets"	0.51774740499
+254	"they"	"fire up"	"the pits and smoke"	0.681818654193
+Ruiz hopes Lewis 's decision will give light heavyweight champion Roy Jones Jr. the impetus to take on Ruiz Dec. 7 on HBO , the idea being that the winner would fight the winner of the WBA title next spring .
+255	"Lewis 's decision"	"will give"	"light heavyweight champion Roy Jones Jr."	0.82313104306
+255	"Lewis 's decision"	"will give"	"the impetus"	0.480102818115
+255	"Ruiz Dec. 7"	"being that"	"the winner"	0.653234465724
+255	"Ruiz"	"hopes will give"	"light heavyweight champion Roy Jones Jr."	0.416511958185
+255	"Ruiz"	"hopes will give"	"the impetus"	0.292862155097
+255	"Ruiz"	"hopes"	"Lewis 's decision"	0.73994384664
+255	"light heavyweight champion Roy Jones Jr."	"to take on"	"Ruiz Dec. 7"	0.69811821921
+255	"the idea"	"would fight"	"next spring"	0.406679064126
+255	"the idea"	"would fight"	"the winner of the WBA title"	0.602061117753
+255	"the impetus"	"to take on"	"Ruiz Dec. 7"	0.77801211128
+255	"the winner"	"would fight"	"next spring"	0.547687101404
+255	"the winner"	"would fight"	"the winner of the WBA title"	0.800117299913
+Grbac wore a quizzical look , like a guy who was given a wonderful gift by his worst enemy .
+256	"Grbac"	"wore"	"a quizzical look"	0.833472943474
+256	"a quizzical look"	"was given"	"a wonderful gift"	0.325475532799
+Turnout was light , according to news agency reports from the capital , Conakry .
+A Swiss Bank spokesman in Basel , Michel Willi , declined to comment on the talks , as did a spokesman in London .
+For one thing , members of Congress and their staffs have a traditional `` defined benefit '' program , meaning that they know exactly what they 'll get upon retirement .
+259	"a traditional `` defined benefit ' ' program"	"know"	"they"	0.543461333001
+259	"members of Congress"	"have"	"a traditional `` defined benefit ' ' program"	0.408274291374
+259	"members of Congress"	"have"	"they"	0.234756548328
+259	"their staffs"	"have"	"a traditional `` defined benefit ' ' program"	0.81345764682
+259	"their staffs"	"have"	"they"	0.463307190387
+259	"they"	"get upon"	"retirement"	0.80211810849
+259	"they"	"know"	"they"	0.74896708122
+He moved Jerry Pettibone 's 6 a.m.
+260	"He"	"moved"	"Jerry Pettibone 's 6"	0.688177849499
+The Stars have a team incentive plan in place that awards bonuses on a years-played basis .
+261	"The Stars"	"have"	"a team incentive"	0.813457769967
+261	"a team incentive"	"plan in"	"place"	0.73885228893
+In the most world-renowned episode , seven frantic photographers on motorbikes chased Princess Diana and her companion , Dodi al-Fayed , after leaving the Ritz hotel in Paris .
+262	"seven frantic photographers"	"chased"	"Princess Diana"	0.780352192281
+The need for strong federal action to protect the right to vote and the integrity of future national elections could not have been clearer .
+263	"strong federal action"	"to protect"	"the right"	0.718594301195
+Pale strawberries soaked in a water-based liquid are lined up beside richly colored berries soaked in a balsamic vinegar-brown sugar sauce that stained them vivid red .
+264	"beside richly colored berries"	"soaked in stained"	"them"	0.424517203742
+264	"beside richly colored berries"	"soaked in stained"	"vivid red"	0.191475573344
+On Wednesday , FBI Director Louis Freeh told the Senate Judiciary Subcommittee on Technology , Terrorism and Government Information that the keys and export restrictions are needed by law enforcement to combat criminals in the information age .
+265	"FBI Director Louis Freeh"	"told"	"the Senate Judiciary Subcommittee"	0.833472943474
+Clearly , he understands the end of his career is in sight and wants to make the most of the time remaining .
+266	"he"	"understands"	"the end of his career"	0.846338490749
+266	"the end of his career"	"is in wants to make"	"the most of the time"	0.560726275463
+266	"the end of his career"	"is in"	"sight"	0.740758989195
+He took to the idea and has encouraged the couple ever since .
+267	"He"	"took to has encouraged"	"the couple"	0.529139798312
+267	"He"	"took to"	"the idea"	0.702282301137
+The North Korean leader , Kim Jong Il , promptly satisfied Japan 's demands , although not in the way Japan 's overly confident diplomats had imagined .
+In silence , a dozen women emerged in white chadors , the final one in black , standing silently and gazing mutely at the audience .
+269	"a dozen women"	"emerged in"	"the final one"	0.780028643778
+269	"a dozen women"	"emerged in"	"white chadors"	0.740159633744
+Silver inventories in Comex warehouses rose 454,000 ounces to 141.118 million ounces , the exchanges said in its daily stockpile report after trading yesterday , up from a 10-month low of 140.664 million ounces .
+270	"454,000 ounces"	"said in"	"its daily stockpile report"	0.232718091236
+Growth in 1998 is also likely to be less than earlier forecast -- 2.1 percent , not 3.0 percent as the IMF estimated in May .
+Lois Epstein , an engineer with the Alaska environmental organization Cook Inlet Keeper and a longtime pipeline safety activist , said the legislation achieved a number of needed reforms , but did not go far enough .
+272	"Lois Epstein"	"said"	"the legislation"	0.113658694049
+272	"an engineer"	"said"	"the legislation"	0.467652030742
+272	"the legislation"	"achieved"	"a number of needed reforms"	0.833472874474
+The country can cut benefits at a time when joblessness is rising and leave relatively unskilled workers to fend for themselves .
+273	"The country"	"can cut"	"benefits"	0.829486680399
+If the other driver is amenable , the agent said he analyzes the client 's policy to determine whether paying for all the damages will cost less money than paying a premium increase over six years .
+274	"he"	"analyzes"	"the client 's policy"	0.846338490749
+274	"the agent"	"analyzes"	"the client 's policy"	0.896352034948
+274	"the other driver"	"analyzes"	"the client 's policy"	0.263292102751
+274	"the other driver"	"said"	"he"	0.625685225283
+The original basis for some of them grew out of fears of the experience before World War II when totalitarian governments in Europe and Asia controlled all media outlets .
+275	"Asia"	"controlled"	"all media outlets"	0.833472943474
+275	"totalitarian governments"	"controlled"	"all media outlets"	0.731695374631
+He was so inspired by Snyder 's speech on how he made the program a success that when he learned Snyder had to hurry to the airport , Riley begged to go along for the ride .
+276	"Snyder"	"had to hurry to"	"Riley"	0.643510184245
+276	"he"	"learned"	"Snyder"	0.721062536555
+276	"he"	"made when"	"he"	0.255029999806
+276	"he"	"made"	"a success"	0.754091633428
+276	"he"	"made"	"the program"	0.833472874474
+276	"the program"	"learned"	"Snyder"	0.427789266158
+We are looking for a middle ground .
+277	"We"	"are looking for"	"a middle ground"	0.782339452517
+Chicken minced very finely may be added if desired .
+Hatley created a wild garden , complete with long grasses , hillocks , wildflowers and pathways , that turned the underground stage at the Manhattan Theater Club into a thrilling terrarium , a reminder that in any production , any of the myriad collaborators may leave a brilliant mark .
+279	"Hatley"	"created"	"a wild garden"	0.833472943474
+279	"Hatley"	"created"	"long grasses , hillocks , wildflowers and pathways"	0.923030318358
+And part is probably contained in the lowered expectations so many have about what government and politicians can and cannot do .
+280	"part"	"is contained in"	"the lowered expectations"	0.568958439284
+Just weeks after the victory over United Parcel Service of America Inc. , a federal overseer was entangled in a fund-raising scandal among Carey aides and resigned , leaving in doubt Carey 's eligibility to run in a new election -- as well as its timetable .
+281	"a federal overseer"	"was entangled in"	"a fund-raising scandal"	0.639744696231
+281	"the victory"	"was entangled in"	"a fund-raising scandal"	0.0995226605486
+2. CHICKEN SOUP FOR THE TEENAGE SOUL , compiled by nn If the owner ca n't read the riot act after a game like that , when can he ?
+They 're in the title credits of the film , '' he says .
+Bush instructed Secretary of State Colin Powell to begin intensive diplomacy aimed at crafting a U.N. Security Council resolution that would amount to an ultimatum for Iraq : comply or face the prospect of military attack .
+284	"Bush"	"instructed"	"Secretary of State Colin Powell"	0.721062610241
+284	"Secretary of State Colin Powell"	"to begin"	"intensive diplomacy"	0.718594306301
+But Lucas ' next big film is `` The Hulk , '' based on the comic book about Bruce Banner , who , when a scientific experiment goes wrong , is genetically afflicted with the ability to morph into a mammoth being .
+285	"Lucas ' next big film"	"is"	"The Hulk"	0.589898061043
+If that fails , the government will liquidate banks that are insolvent .
+286	"the government"	"will liquidate"	"banks"	0.821249156623
+El Pueblo Gallery is located in space E-13 on Olvera Street , downtown Los Angeles .
+287	"El Pueblo Gallery"	"is located in"	"space E"	0.671732590339
+Oakland , in need of a catcher after trading Ramon Hernandez to San Diego , acquired Michael Barrett from Montreal for a player to be named later .
+Edge Rams Offensive linemen `` Texans are passionate about cooking briskets , '' McAdams adds .
+289	"Edge Rams Offensive linemen"	"are"	"briskets"	0.273686092504
+Hoffenberg was sentenced in March to 20 years in jail and ordered to pay $ 462.6 million in restitution and a $ 1 million fine for defrauding Tower Financial debt holders of $ 460 million .
+290	"Hoffenberg"	"was sentenced in"	"March to 20 years"	0.673617952282
+When Adecco was formed , the company said it was the market leader in six of 11 countries that make up 90 percent of the temporary employment market , including France --Europe 's biggest temporary employment market -- Spain , Germany , Switzerland , Britain and Australia .
+291	"it"	"was"	"11 countries"	0.626005600875
+291	"it"	"was"	"the market leader"	0.782227339736
+291	"the company"	"was"	"the market leader"	0.69683151506
+Pat Day , the winning jockey , agreed that Royal Indy had been `` a little hot and nervous '' before the race , but added : `` She always seems to be like that , so I was n't that concerned .
+292	"Royal Indy"	"had been"	"a little hot and nervous ' ' before the race"	0.578851998857
+3Com 's success at integrating U.S. Robotics and the introduction of a large number of new networking products will boost 3Com 's sales and profit margins , said Paul Meeks , director of research at Jurika &AMP ; Voyles LP , which owned 3.7 million 3Com shares at the end of June .
+293	"Voyles LP"	"which owned"	"3.7 million"	0.679762018864
+The Rangers and Giants represent opposite viewpoints .
+294	"The Rangers and Giants"	"represent"	"opposite viewpoints"	0.796641007199
+Dell Computer said it 's adding 25 million shares to its stock repurchase program , for a total of 125 million shares , almost a third of its 383 million outstanding as of last quarter .
+295	"Dell Computer"	"'s adding"	"25 million shares"	0.925202370992
+295	"it"	"'s adding"	"25 million shares"	0.847937223297
+The last prisoner was released in 1988 .
+Do look at me with just a little lust !
+Pageant officials do not release the winner 's name of the preliminary interview contest until within hours of Saturday night 's final competition .
+298	"Pageant officials"	"do not release within"	"hours of Saturday night 's final competition"	0.657761060477
+298	"Pageant officials"	"do not release"	"the winner 's name of the preliminary interview contest"	0.802386599807
+And the same things could have been said in Tennessee and Pittsburgh .
+Moving in financial categories .
+Boruchin adds : `` The zealots who have been campaigning against cigarettes have trouble telling people that three cigars a week is dangerous to their health .
+And as city officials scrambled to recruit new foster parents , they found themselves struggling to find homes for teen-agers , children suffering from psychological disorders , young mothers with babies and large groups of siblings .
+302	"children"	"suffering from"	"young mothers"	0.648911624865
+302	"city officials"	"scrambled to recruit"	"they"	0.527646757201
+302	"homes"	"suffering from"	"psychological disorders"	0.785297661457
+302	"homes"	"suffering from"	"young mothers"	0.612834649612
+302	"new foster parents"	"found"	"themselves"	0.988378524209
+302	"they"	"found"	"themselves"	0.833472874474
+Maybe this is what the autistic twins in Oliver Sacks ' `` The Man Who Mistook His Wife for a Hat '' saw with their inner eyes .
+Their pieces sell well in the $ 20 range , said Michael Rizzuto , a senior buyer at Gracious Home , which was the first store to feature the North River Mint .
+304	"Michael Rizzuto"	"which was"	"the first store"	0.263017751563
+304	"Their pieces"	"sell in"	"the $ 20 range"	0.75755680242
+304	"a senior buyer"	"which was"	"the first store"	0.362881301375
+304	"the first store"	"to feature"	"the North River Mint"	0.718594301195
+But a group of protesters showed up and burned two American flags .
+305	"a group of protesters"	"showed"	"two American flags"	0.307868753545
+Open positions of short sales on the Nasdaq stock market rose 1 percent in the most recent month , according to figures released Wednesday .
+The Mariners ' oldest players -- Edgar Martinez , Jamie Moyer , John Olerud and Mark McLemore -- have been among the most productive , though Martinez and McLemore have had injury problems .
+307	"Martinez and McLemore"	"have had"	"injury problems"	0.803318952107
+The average yield on junk bonds is a little more than 9 percent so far this year , according to Merrill Lynch &AMP ; Co.
+More than 30 years ago , when Ekman first set out to determine whether facial expressions are innate or learned , he was derided by esteemed social scientists , including the famous anthropologist Margaret Mead .
+American involvement in the Middle East is clearly the main impulse of the hatred that has been directed at America .
+310	"American involvement"	"is"	"the main impulse of the hatred"	0.447007629062
+The troubled answers about the campaign against terrorism at home and abroad conveyed a similar fatalistic , slightly cranky mood .
+The findings , which the researchers say probably apply to men too , appear in the current issue of The Journal of the National Cancer Institute .
+That , in itself , is n't awful .
+Nancy Cole , the president of ETS , says that the company is aware that its nonprofit status is a source of concern , particularly to outsiders , as the testing service increases its competition with for-profit businesses .
+314	"its nonprofit status"	"is"	"outsiders"	0.531615919702
+314	"the testing service"	"increases"	"its competition"	0.846338490749
+Led by Guy Hands , managing director for Nomura International 's Principal Finance Group , the unit has completed more than $ 11 billion in securitizations since 1995 , including the 944 million pound securitization of Angel Trains , which the U.K. government sold as part of its rail privatization program ; the 904 million pound securitization of Annington Homes , a group of 57,000 British military houses ; and the 249 million pound securitization of the Phoenix Inns pub chain Nomura also bought from GrandMet and Fosters .
+He said keeping her off the ballot was part of his effort to promote the emergence of new political leaders , though opposition leaders accuse him of manipulation to protect his hold on power .
+316	"him of manipulation"	"to protect"	"his hold"	0.718594301195
+316	"opposition leaders"	"accuse"	"him of manipulation"	0.796640899179
+316	"part of his effort"	"to promote"	"opposition leaders"	0.52241881086
+316	"part of his effort"	"to promote"	"the emergence of new political leaders"	0.718594301195
+316	"the emergence of new political leaders"	"accuse"	"him of manipulation"	0.563205852525
+Joining the NFL in 1950 , the Browns proved themselves once more .
+317	"the Browns"	"proved"	"themselves"	0.833472874474
+317	"the NFL"	"proved"	"themselves"	0.664741209371
+One of the most disturbing factors for Rohrabacher is that there has never been any formal apology from any of the Japanese companies .
+Story Filed By Cox Newspapers It is the cultural issues , though , that probably pose the biggest challenges .
+319	"It"	"is"	"the cultural issues"	0.800029284339
+Poverty rates for children , 16.3 percent , and the elderly , 10.1 percent , were virtually unchanged from 2000 .
+Any notoriety for a Latina actress will promote Latina actresses in general , says Bel Hernandez , former actress and publisher of a Hollywood trade publication for Latinos , Latin Heat .
+321	"Any notoriety"	"will promote"	"Latina actresses"	0.374332167371
+321	"Latina actresses"	"says"	"Bel Hernandez"	0.558206043956
+321	"Latina actresses"	"says"	"former actress and publisher of a Hollywood trade publication"	0.661898757182
+After a while , they do n't feel the acute pain of someone who has been dumped .
+322	"they"	"do n't feel"	"the acute pain of someone"	0.791079178453
+Such remarks prompt speculation the U.S. may change its strong-dollar policy .
+323	"Such remarks"	"may change"	"its strong-dollar policy"	0.265844212621
+323	"the U.S."	"may change"	"its strong-dollar policy"	0.799847625086
+Hose contracted inhalation anthrax while handling mail for the State Department in Sterling , Va .
+Police departments launch massive enforcement plans to combat road rage .
+325	"Police departments launch massive enforcement plans"	"to combat"	"road rage"	0.718594306301
+The company exported 2.13 million barrels a day of crude oil , and 966,000 barrels a day of refined products .
+326	"The company"	"exported"	"2.13 million barrels"	0.777302153319
+326	"The company"	"exported"	"966,000 barrels"	0.186071288145
+326	"The company"	"exported"	"a day of crude oil"	0.610596681806
+Cleveland : Federal Reserve Bank of Cleveland President Jerry Jordan speaks on money and monetary policy to the Cleveland Business Economists Club , noon .
+327	"Cleveland"	"speaks on"	"monetary policy"	0.223898517848
+327	"Federal Reserve Bank of Cleveland President Jerry Jordan"	"speaks on"	"monetary policy"	0.381426687538
+327	"Federal Reserve Bank of Cleveland President Jerry Jordan"	"speaks on"	"money"	0.770697513419
+The event fizzled after the bombing that rocked the games .
+328	"The event"	"fizzled after"	"the bombing that"	0.598442877269
+Still there is lingering concern that further earthquakes could follow , leading to some `` transportation problems and mud-slides in Colombia , '' according to Tim Fallar , president of The Fallar Co. in West Harrison , New York .
+Did not the same radiant hope accompany the transition from the 19th to the 20th century ?
+Born in 1912 in Hazelhurst , Miss .
+An online bidder in Boerne paid $ 525 for a 20-inch Sony television set that retails at less than $ 350 new .
+332	"An online bidder"	"paid for"	"a 20-inch Sony television set"	0.482402147239
+332	"An online bidder"	"paid"	"$ 525"	0.774829358217
+His memory was a good deal better about White House management of the DNC , especially its fund-raising operations .
+333	"His memory"	"was about"	"White House management of the DNC"	0.718393805293
+333	"His memory"	"was better about"	"its fund-raising operations"	0.289990275458
+333	"His memory"	"was"	"a good deal"	0.782227411258
+The company , Hydra Biosciences , is largely based on the work of Dr. Mark T. Keating , a founder of the company and a biologist at Harvard who studies regeneration in zebrafish .
+334	"The company , Hydra Biosciences"	"is based on"	"a biologist"	0.256062598843
+334	"The company , Hydra Biosciences"	"is based on"	"a founder of the company"	0.828340412228
+334	"a biologist"	"who studies"	"regeneration"	0.294910536932
+For its part , Israel has long said it will not pull out of southern Lebanon until it gains a peace treaty with Lebanon and Syria .
+335	"Israel"	"has said"	"it"	0.492898492235
+335	"it"	"gains"	"a peace treaty"	0.846338490749
+The finding revealed bay trees , not oak trees , to be the unexpected , key disperser of the disease .
+336	"The finding"	"revealed"	"bay trees , not oak trees"	0.833472943474
+At the time , Little said he left Ramirez in the game because the slugger apologized to everybody in the dugout .
+337	"Little"	"left"	"Ramirez"	0.74004729697
+337	"he"	"left"	"Ramirez"	0.721062536555
+337	"the slugger"	"apologized to"	"everybody"	0.702282285307
+The Cardinals considered very seriously drafting Purdue fullback Mike Alstott with their second-round pick a year ago .
+He paid $ 350,000 for the car in 1990 , then thoroughly remodeled it .
+339	"He"	"paid for"	"the car"	0.905064725896
+339	"He"	"paid"	"$ 350,000"	0.810444069767
+He also appears to be as motivated as he 's been in some time .
+340	"he"	"'s been in"	"some time"	0.799666573886
+The Chinese are still firing eight or nine million workers a year as part of their reforming of state-owned enterprises , and those workers do n't have a safety net '' - much less a wage .
+341	"The Chinese"	"are firing"	"a year"	0.582060692004
+341	"The Chinese"	"are firing"	"eight or nine million workers"	0.778281554768
+341	"a year"	"do n't have"	"a safety net ' ' -"	0.507391385834
+341	"those workers"	"do n't have less"	"a wage"	0.613700743683
+341	"those workers"	"do n't have"	"a safety net ' ' -"	0.814713665319
+Investigators are clearly looking into whether executives misled investors about the financial well-being of the company and its future prospects , said Jacob Frankel , a former Securities and Exchange Commission lawyer now in private practice .
+342	"executives"	"misled"	"investors"	0.833472874474
+342	"investors"	"said"	"Jacob Frankel"	0.3003182268
+342	"investors"	"said"	"a former Securities and Exchange Commission lawyer"	0.186627901818
+342	"its future prospects"	"said in"	"private practice"	0.505937282907
+342	"its future prospects"	"said"	"a former Securities and Exchange Commission lawyer"	0.554829256381
+Now you can gag .
+Special-interest groups publish studies and issue news releases using road rage to make the case for highway construction , road improvements , tougher traffic regulations .
+344	"road rage"	"to make"	"the case"	0.718594301195
+344	"studies"	"using"	"road rage"	0.549181243171
+By early September , not only had the Revolution been involved in an 11-game losing streak , including cup games and exhibitions , they appeared to lose faith in themselves .
+345	"the Revolution"	"been involved in"	"cup games and exhibitions"	0.269967692749
+In the end , blacks and whites came , and , to hear many of them tell it , climbed over a lot of harsh terrain to get there .
+Playing before a crowd of 39,294 , Army jumped to a 7-0 lead on its second possession , covering 66 yards in a 14-play drive that culminated in a 1-yard leap into the end zone by the junior fullback Joe Hewitt .
+347	"66 yards"	"in that culminated in"	"a 1-yard leap"	0.366238378475
+347	"Army"	"jumped to"	"a 7-0 lead"	0.742166387571
+Houston : Baker Hughes Inc. releases its weekly survey of the number of active oil and gas drilling rigs in the U.S. and Canada .
+348	"Baker Hughes Inc."	"releases"	"its weekly survey of the number of active oil and gas drilling rigs"	0.846338597321
+348	"Houston"	"releases"	"its weekly survey of the number of active oil and gas drilling rigs"	0.46686356017
+Only Nikko Securities Co. has the same top executives it started the year with .
+349	"Only Nikko Securities Co."	"has"	"it"	0.757977705559
+349	"Only Nikko Securities Co."	"has"	"the same top executives"	0.8791158287
+349	"it"	"started"	"the year"	0.833472874474
+349	"the same top executives"	"started"	"the year"	0.915570706506
+Illustrating that point , he asserted that Iraq could be a laboratory for terror groups , easily furnishing them with the chemical and biological weapons it had developed .
+350	"Iraq"	"could be"	"a laboratory"	0.762890342769
+350	"he"	"could be"	"a laboratory"	0.791376754475
+350	"that point"	"asserted that could be"	"a laboratory"	0.708647270918
+350	"that point"	"asserted that"	"Iraq"	0.940729535949
+As for labeling the products flops as Pecoriello did , Reilly said : `` It 's very early days to count on the success of brands that were launched just this summer .
+351	"It"	"'s"	"early days"	0.650496029733
+351	"Pecoriello"	"said"	"It"	0.388731132068
+351	"Reilly"	"'s"	"early days"	0.952703872128
+351	"early days"	"to count on"	"the success of brands"	0.745085944215
+Some city tests of the water have indeed found small traces of crude oil , and during the trial this summer , Jeff Davis , who supervised a water-pipe replacement in the early 1990s , testified : `` Ooze was coming out of the side next to the water line , and there were pools of oil at the bottom .
+352	"Some city tests of the water"	"have found"	"small traces of crude oil"	0.767658447113
+352	"Some city tests of the water"	"have found"	"the trial"	0.440325395006
+352	"a water-pipe replacement"	"testified"	"Ooze"	0.372959652329
+352	"small traces of crude oil"	"who supervised"	"a water-pipe replacement"	0.0954074718049
+At least that was the case for linebacker Brendon Ayanbadejo at the Rose Bowl on Saturday .
+He used T-bone , and then carved the steak off the bone and into slices once it was cooked al sangue , which is to say , deliciously rare , though obviously you should cook the steak just how you like to eat it .
+354	"He"	"used"	"T-bone"	0.700047243726
+354	"it"	"was cooked"	"al sangue"	0.740130692468
+354	"you"	"should cook how"	"you"	0.658229776084
+354	"you"	"should cook"	"the steak"	0.818218544595
+To make matters worse , they accidentally bumped into each other in the street some distance from their meeting spot .
+Red Sox manager Grady Little kept Ramirez in the game but later admitted he should have benched him .
+356	"Red Sox manager Grady Little"	"kept"	"Ramirez"	0.721062610241
+With some prompting from his own earlier deposition on this issue , Fowler acknowledged that Harold Ickes , who was deputy chief of staff , had the strongest voice in directing the DNC finance division from the White House .
+357	"Fowler"	"who was"	"deputy chief of staff"	0.288499566589
+357	"deputy chief of staff"	"had"	"the DNC finance division"	0.382538545932
+A Georgia inventor has won a patent for a method of regiving items ordered online when they turn out to be white elephants .
+358	"A Georgia inventor"	"has won"	"a patent"	0.812448300112
+So Michigan Stadium is indeed the largest in the nation in seating capacity .
+Still , the agent said he advises clients who are at fault in minor fender benders where there are no personal injuries to inquire whether a private resolution is possible .
+360	"clients"	"who are at"	"fault"	0.338932349918
+360	"he"	"advises are at"	"fault"	0.466681370541
+360	"he"	"advises"	"clients"	0.846338490749
+360	"the agent"	"advises are at"	"fault"	0.412861223953
+360	"the agent"	"advises"	"clients"	0.896352034948
+The latest price rise was the second by the cigarette makers this year .
+It went from testing 219 in 1997 to 20,526 last year .
+362	"It"	"went from"	"testing 219"	0.709593809022
+Mills stressed that the release of test results and his plans for a review panel were not a reaction to criticism .
+At times there was silence , and sometimes the silence turned volcanic .
+She was a little anxious early on .
+That creature was in turn named for the mythical multiheaded serpent that regrew new heads when one was cut off .
+366	"That creature"	"was in"	"turn"	0.674845645321
+Hydra , of Cambridge , Mass. , is named after a pond-dwelling creature that can grow two wholes after being sliced in half .
+Yet other studies point to fetal exposure to environmental toxins like lead , cigarettes and alcohol .
+368	"other studies"	"point to"	"fetal exposure"	0.786096163613
+With one or two new distributors signing on every week , the Weinbergs are busy planning to expand into clothing hooks and towel racks .
+369	"busy planning"	"to expand into"	"clothing hooks"	0.770980848073
+369	"the Weinbergs"	"are"	"busy planning"	0.810141055741
+Hevesi said that in managing an investment portfolio , there are a wide array of stocks and that the performance of the broader markets affects the level of return .
+370	"a wide array of stocks"	"affects"	"the level of return"	0.550713711272
+370	"an investment portfolio"	"are"	"the performance of the broader markets"	0.295944400027
+370	"the performance of the broader markets"	"affects"	"the level of return"	0.846338490749
+In its report , the IMF also said it cut in half its growth estimate for Japan this year -- to 1.1 percent from May 's estimate of 2.2 percent .
+371	"it"	"cut in"	"half its growth estimate"	0.740159633744
+Moreover , he said that foreign students spend an estimated $ 11 billion a year for tuition and rent , not to mention items ranging from jeans to pizzas .
+372	"foreign students"	"spend"	"an estimated $ 11 billion a year"	0.769919755522
+372	"he"	"spend"	"an estimated $ 11 billion a year"	0.698348370174
+But starters Torry Holt and Isaac Bruce might be the best and most explosive tandem in the league .
+373	"Isaac Bruce"	"might be"	"the best and most explosive tandem"	0.71747215192
+373	"starters Torry Holt"	"might be"	"the best and most explosive tandem"	0.410125186979
+The Bank of Japan said in its quarterly report , the `` josei handan , '' that it expects M2+CDs to grow by about 3.0 percent in the July-September quarter .
+Another survivor , David Hose , 60 , also expressed frustration over his slow recovery .
+TO MIDNIGHT When the results are compiled , sometime next year , the census is expected to confirm what demographers have already been predicting : the steady decline in the Russian population due to ill health , migration and what demographers call `` the echo of war '' from World War II ; the increasing concentration of jobs and wealth in the biggest cities ; and what may be the largest mass movement of people here since Stalin 's forced relocations after World War II .
+For the major airlines , including Fort Worth-based American , it was as if an artery had been cut .
+Some 75 percent said it would not .
+Ford plans to announce a similar move soon .
+The show is scheduled to be filmed in Austin till November , when MTV will decide whether to continue `` Austin Stories '' for a full season .
+Sometime later , the smell of a skunk seemed to permeate the bus .
+In broad terms , the statement released by Mar 'ie addressed these concerns .
+The 12-month target price is HK$ 51.00 per share .
+383	"The 12-month target price"	"is per"	"share"	0.804399020312
+383	"The 12-month target price"	"is"	"HK$ 51.00"	0.590095719195
+The exchange next year even may permit growers to trade directly in the market instead of being forced to deal with the 12 market makers authorized by the exchange .
+384	"The exchange"	"may permit"	"growers"	0.880524769726
+384	"growers"	"to trade in"	"the market"	0.711201946551
+384	"next year"	"may permit"	"growers"	0.714738010843
+Those close to the company say Tigrett lost support on the board last year when the company took a big hit in the wake of a $ 15 million extravaganza at last year 's Summer Olympics .
+385	"Tigrett"	"lost"	"support"	0.833472943474
+385	"the company"	"took"	"a big hit"	0.833472874474
+Ratner has been one of the most aggressive builders in the city in recent years and he needs government approval for many of his projects .
+386	"he"	"needs"	"government approval"	0.846338490749
+386	"he"	"needs"	"his projects"	0.743225592864
+They simply feel nothing .
+387	"They"	"feel"	"nothing"	0.765703733108
+When Steve Forbes was running for president , he did n't talk very much about the rights of the unborn .
+388	"Steve Forbes"	"was running for"	"he"	0.72268677516
+388	"Steve Forbes"	"was running for"	"president"	0.664371000487
+You do n't have a computer ?
+A fitting book for the millennium , Underworld is certain to become a key text for the interpretation of American culture in the second half of the 20th century .
+Even as those stocks slumped , smaller stocks rallied , pushing the Russell and Nasdaq to records .
+391	"smaller stocks"	"rallied pushing"	"Nasdaq"	0.276341446831
+391	"those stocks"	"rallied pushing"	"Nasdaq"	0.1523131474
+Fill the spaces in the whites of the eggs with the spiced yolks ; smooth it even with top ; sprinkle with chopped parsley ; garnish with the same and serve cold .
+In response , a group of Amherst College students held a patriotism rally in October , reciting the Pledge of Allegiance .
+393	"a group of Amherst College students"	"held"	"a patriotism rally"	0.833472874474
+393	"a patriotism rally"	"reciting"	"the Pledge of Allegiance"	0.4864297653
+Koizumi and his foreign ministry have come under harsh criticism for promising North Korea large amounts of aid , as well as normalization talks , in exchange for clear information about the abductees .
+394	"Koizumi"	"have come under"	"harsh criticism"	0.222898740589
+394	"his foreign ministry"	"have come under"	"harsh criticism"	0.683597935102
+They litter the road to redemption with chaos , contraband , broken marriages , jilted women and political aspirations , but there still is a ray of hope and happiness for the residents of a small Cuban town called Guantanamera .
+395	"They"	"litter"	"the road"	0.796641007199
+That sharp drop in confidence was mirrored in follow-up interviews .
+396	"That sharp drop"	"was mirrored in"	"follow-up interviews"	0.807575580738
+The large multinational companies in the S&AMP;P 500 and the Dow had performed best this year , until those averages peaked on Aug. 6 .
+397	"P 500"	"had performed"	"best this year"	0.426918868087
+397	"best this year"	"peaked on"	"Aug. 6"	0.344851578465
+397	"the Dow"	"had performed"	"best this year"	0.806802567912
+In many quarters , the dead princess is being hailed as a visionary struck down in a battle to drag the stuffy monarchy and all of Britain into the 21st century .
+You likely have all but one of the ingredients in }72847:929434:77 ;*4292092607 ;0940:477973 :4219 9:06309227921482 1: :10941066 7:722d table salt , water , ammonia and laundry bluing .
+In the U.S. , Volkswagen sales peaked at 293,000 in 1980 , dropped to 49,533 in 1993 , then climbed to 135,907 in 1996 .
+Lucas plays Banner 's nemesis , Maj .
+401	"Lucas"	"plays"	"Banner 's nemesis"	0.73994384664
+401	"Lucas"	"plays"	"Maj"	0.764081871891
+In the auction 's early hours , as people stood in two-hour lines just to get into the bidding room , it seemed that the Enron connection was propping up some dubious prices .
+402	"it"	"was propping up"	"some dubious prices"	0.356066632501
+402	"people"	"stood in"	"two-hour lines"	0.740159633744
+402	"the Enron connection"	"was propping up"	"some dubious prices"	0.630163940045
+How many cigars do I need to smoke a day to get cancer ?
+Shares of the New York-based company rose 5 1/4 , or 8.4 percent , to 67 3/4 in midday trading of 2.1 million , triple the three-month daily average .
+404	"Shares of the New York-based company"	"rose"	"5 1 / 4"	0.810444069767
+404	"Shares of the New York-based company"	"rose"	"8.4 percent"	0.458392592882
+Remove the yolks carefully , mash them very fanE$ and season sparely with mustard , vinegar , salt , pepper and a tablespoonful of melted butter .
+SLOW RETURN : Carroll said he would hold tailback Justin Fargas out of practice to make sure they are available for next week 's game with Colorado .
+406	"Carroll"	"would hold"	"practice"	0.190252518788
+406	"Carroll"	"would hold"	"tailback Justin Fargas"	0.921676659144
+406	"SLOW RETURN"	"said"	"he"	0.960155962249
+406	"he"	"would hold"	"practice"	0.265161626197
+406	"he"	"would hold"	"tailback Justin Fargas"	0.800117299913
+406	"tailback Justin Fargas"	"to make"	"they"	0.82733936152
+I do n't know why I said it , but I did , and the secretary turns to me and says , ` You know , you 've got a point there . '
+407	"I"	"said"	"it"	0.682349370267
+407	"You"	"ve got"	"a point"	0.894153589573
+407	"the secretary"	"turns to says"	"You"	0.432247965526
+407	"the secretary"	"turns to"	"me"	0.743094271183
+In contrast to the two technique books , it has few photos in its 500+ pages , and those illustrate concepts such as the water solubility of anthyocyanins .
+The rules were written to encourage diversity of voices on the airwaves and competition among media outlets , and to prevent the biggest companies from becoming too powerful in controlling news and entertainment .
+The new Cadillac is scheduled to go on sale next summer for model year 2004 .
+410	"The new Cadillac"	"is scheduled to go on"	"next summer"	0.337734074502
+U.S. officials say Japan has done little since April to change unfair port practices .
+411	"April"	"to change"	"unfair port practices"	0.718594306301
+411	"U.S. officials"	"has done since"	"April"	0.888359601483
+Since the report was prepared , however , the energy market has declined and the number of possible buyers has dwindled , diminishing the value of those assets , analysts say .
+412	"the number of possible buyers"	"has dwindled diminishing"	"analysts"	0.343803035322
+In the past , senior American intelligence officials have said that some Iraqi fighters who opposed the United States in Afghanistan have now drifted back to Iraq and joined ranks with Ansar al-Islam .
+413	"senior American intelligence officials"	"have said that opposed"	"the United States"	0.445814873823
+413	"some Iraqi fighters"	"who opposed"	"the United States"	0.749777582015
+Hilton 's shares rose 1 1/16 to 33 3/16 .
+414	"Hilton 's shares"	"rose 16 to"	"33 3 /"	0.378756580032
+414	"Hilton 's shares"	"rose"	"1 1 /"	0.810444069767
+Mar 'ie said the government will also `` encourage '' the merger of insolvent banks with solvent ones .
+By GREG LUCAS The end-of-the-month deadlines are a result of the landmark Immigration Reform Act passed by Congress last year to turn back the tide of illegal immigrants .
+416	"a result of the landmark Immigration Reform Act"	"passed by"	"last year"	0.438030264471
+416	"last year"	"to turn back"	"the tide of illegal immigrants"	0.361992111093
+He has n't had a save opportunity in nine games , matching a season high .
+417	"He"	"has n't had"	"a save opportunity"	0.855728868004
+417	"a save opportunity"	"matching"	"a season high"	0.375567943416
+She has done so with depth and confidence .
+Also , on a recent afternoon , the waves were so small and punchless that they could n't even provide sufficient lift for a 165-pound bodysurfer .
+419	"they"	"could n't provide"	"sufficient lift"	0.770478897408
+She knew too well that the world is filled with people who talk about virtue but has a much shorter supply of those who act on it .
+420	"the world"	"is filled with"	"people"	0.719843460478
+Yet in her work for people with AIDS she broke through .
+In fact , Clark appears to have a reserved seat .
+Seagram shares rose C$ 0.25 to C$ 50.30 in midmorning Toronto trading and rose 3/16 to 36 3/16 in New York .
+423	"C$ 0.25"	"to in rose 16 to"	"36 3 /"	0.184147212743
+423	"C$ 0.25"	"to in rose"	"3 /"	0.326252764451
+423	"Seagram shares"	"rose to in"	"midmorning Toronto trading"	0.4359999829
+423	"Seagram shares"	"rose to rose 16 to"	"36 3 /"	0.0825945113752
+423	"Seagram shares"	"rose to rose"	"3 /"	0.147796588318
+423	"Seagram shares"	"rose to"	"C$ 50.30"	0.718981774344
+423	"Seagram shares"	"rose"	"C$ 0.25"	0.643028385645
+Does it still matter who wins ?
+Helou joins a number of top writers like Claudia Roden , Paula Wolfert and Nancy Harmon Jenkins , in making the Mediterranean the focus of their studies .
+425	"Helou"	"joins"	"a number of top writers"	0.846338589998
+Instead , he gives blow-by-blow accounts of encounters Oppenheimer had in the 1930s with Communist sympathizers , of FBI efforts to bug his homes and offices , of the machinations of Lewis Strauss on the Atomic Energy Commission to have him removed from power and of differences Oppenheimer had with his colleagues .
+426	"blow-by-blow accounts of encounters Oppenheimer"	"had in"	"the 1930s"	0.781119950748
+426	"he"	"gives"	"blow-by-blow accounts of encounters Oppenheimer"	0.846338490749
+As Dr. Norman J. Silver was winding down his orthopedic surgery practice in New Rochelle , N.Y. , he wanted to make sure there were opportunities for continuing education in the place where he would ultimately retire .
+427	"Dr. Norman J. Silver"	"was winding down"	"his orthopedic surgery practice"	0.608893100305
+They defeated the defending champion Philadelphia Eagles handily in their first NFL game and went on to win the league championship with a dramatic 30-28 victory over the Los Angeles Rams .
+428	"They"	"defeated in"	"their first NFL game"	0.939572970372
+428	"They"	"defeated"	"the defending champion Philadelphia Eagles"	0.833472943474
+428	"the defending champion Philadelphia Eagles"	"handily in"	"the league championship"	0.161250920158
+Two other suspects , Brian Jay Robbins , 28 , and Ronald Eugene Timms , late 20s , were arrested Wednesday afternoon .
+Are the awards just an excuse to haul the stars out in finery given to them by designers ?
+Some historians and the Turkish government have disputed claims of an organized genocide and the numbers of Armenians killed .
+431	"Some historians"	"have disputed"	"claims of an organized genocide"	0.294891488677
+431	"Some historians"	"have disputed"	"the numbers of Armenians"	0.107723294538
+431	"the Turkish government"	"have disputed"	"claims of an organized genocide"	0.789376666567
+431	"the Turkish government"	"have disputed"	"the numbers of Armenians"	0.204165555406
+Those very same men who dismissed her as `` barmy '' are now seen in TV studios up and down the land regaling us with tales of her specialness .
+432	"Those very same men"	"who dismissed"	"barmy"	0.208399419923
+Earrings and facial hair are now OK .
+Strong wind gusts and most of the heavy rain will remain offshore Tuesday , although a few squalls will reach the immediate coast from South Carolina to northern Florida .
+434	"Strong wind gusts"	"will remain"	"offshore Tuesday"	0.249841514167
+434	"offshore Tuesday"	"will reach"	"the immediate coast"	0.469633811298
+The test results have just been compiled , said Mills , who added that he wants as much public input and discussion on the new tests as possible .
+435	"Mills"	"wants"	"as much public input and discussion"	0.907112753354
+435	"he"	"wants"	"as much public input and discussion"	0.846338490749
+We moved boxes and bags , favorite shirts and CDs , computer , new socks , notebooks , tennis racket , and shoebox stuffed with emergency chocolate cupcakes , into a microscopically small dorm room , half of which would be inhabited by a completely unknown quantity and the other half of which would be inhabited by a quantity so known and so loved that I ca n't even remember any time passing at all between his first tiny breath 18 years ago and the one he draws in today so that he can say , `` Bye , Mom .
+When he failed to have the lawyers dismissed by a judge , he said , he decided to attack them .
+437	"the lawyers"	"dismissed by"	"he"	0.435954751038
+White House aides say the Democratic president plans to offer his fast-track bill to the Republican Congress sometime during the second week of September , which already promises to be hectic .
+Today 's average yield on the sale of C$ 2.1 billion of six-month bills was 3.615 percent , up from 3.561 percent two weeks ago .
+Hot-rolled and cold-rolled sheet , which has a smoother finish and is used on the outside of autos and appliances , account for about half of all U.S. steel shipments .
+440	"Hot-rolled"	"which has is used on"	"the outside of autos and appliances"	0.255205449615
+440	"Hot-rolled"	"which has"	"a smoother finish"	0.635425688368
+440	"cold-rolled sheet"	"which has is used on"	"the outside of autos and appliances"	0.524278633998
+440	"cold-rolled sheet"	"which has"	"a smoother finish"	0.500460672552
+When I finally got the package the next day , the phone was activated , though the battery needed to be charged for four hours .
+441	"I"	"got"	"the next day"	0.58589236916
+441	"I"	"got"	"the package"	0.800133733647
+441	"I"	"got"	"the phone"	0.460878861329
+441	"the next day"	"was activated though"	"the battery"	0.187047412057
+441	"the package"	"was activated though"	"the battery"	0.11382913748
+The clamor for coverage arising from Diana 's death recalled how profitable her image had been for some publications during her life .
+442	"her image"	"had been for"	"some publications"	0.796327641198
+With the patent issued to William Dodd , from Marietta , a present could become a virtual gift that only ligHtli touches down in the recipient 's e-mail box before being rejected and passed on to someone else with the click of a mouse .
+443	"a present"	"could become"	"a virtual gift"	0.793881158412
+Then the secretary tells me a second one hit the towers , and I said right out loud , ` It must be an Arab . '
+444	"a second one"	"hit"	"I"	0.701553290296
+444	"a second one"	"hit"	"the towers"	0.833472874474
+444	"me"	"hit"	"I"	0.419044980362
+444	"the secretary"	"tells"	"a second one"	0.754738023174
+444	"the secretary"	"tells"	"me"	0.846338490749
+Space business will boom , he said , if the federal government will leave it largely unregulated .
+445	"he"	"will leave"	"it"	0.314633396137
+445	"the federal government"	"will leave"	"it"	0.821249156623
+Traina and three other trustees , including Fletcher and Clark treasurer James E. Collins , each make $ 123,000 a year for part-time work .
+446	"Traina"	"including"	"$ 123,000 a year"	0.119211569638
+In fact , Fox , ABC and UPN are offering the same shows in the time slot now as they did a year ago .
+447	"ABC and UPN"	"are offering"	"the same shows"	0.760307955254
+447	"they"	"did"	"a year"	0.833472874474
+Brown and her staff persisted .
+Some of that money is earmarked for the new Traina Center for the Arts .
+I did n't stop living because I was diagnosed with HIV.
+What he did n't understand was the true essence of the Raiders : You might not understand it all , but you 're never going to get cheated .
+451	"You"	"might not understand"	"it"	0.82165153744
+451	"he"	"did n't understand was"	"You"	0.2232299605
+451	"the true essence of the Raiders"	"might not understand"	"it"	0.559691130555
+When the passengers realized that other commercial jets had been hijacked and crashed , they fulfilled `` the quintessential American desire to act '' and `` decided to take matters into their own hands to avert a catastrophe , '' he said .
+452	"they"	"fulfilled"	"the quintessential American desire"	0.693048654414
+Officials at Volvo , long known for safe design , acknowledge that their cars are no match for a large sport utility vehicle .
+453	"their cars"	"are"	"no match"	0.810141055741
+Sacks wrote of how he observed the brothers one day at a state mental hospital as they sat in apparent rapture exchanging six-figure primes that they seemed to pull from their heads .
+454	"Sacks"	"observed"	"the brothers"	0.569885871578
+454	"he"	"observed"	"one day"	0.754091633428
+454	"he"	"observed"	"the brothers"	0.833472874474
+454	"they"	"sat in"	"apparent rapture"	0.740159633744
+Mary McCarty writes for the Dayton Daily News .
+455	"Mary McCarty"	"writes for"	"the Dayton Daily News"	0.764408430025
+You should probably just go online .
+One of life 's simple pleasures is guessing who 'll walk away with the VeeHee .
+2. Place the garlic and jalapeno in the bowl of a food processor .
+As dramatic as these developments are , the tipping point is a long way off , said Stephen S. Roach , chief economist at Morgan Stanley .
+459	"long way"	"said"	"chief economist"	0.697220322948
+459	"the tipping point"	"is said"	"Stephen S. Roach"	0.384207459334
+For this year , Thailand is bracing for growth of only 3 percent or even a recession ; the Philippines expects gross domestic product to grow 5.55 percent ; Standard &AMP ; Poor 's expects Malaysia to grow 7 percent ; Indonesia 's economy is expected to expand 7 percent and Singapore 's between 6 percent and 7 percent .
+Company after company followed suit as heightened security at major airports posed new obstacles .
+461	"Company after company"	"followed"	"suit"	0.833472943474
+When speed is your life , the race never ends .
+462	"speed"	"is"	"the race"	0.63651655437
+462	"speed"	"is"	"your life"	0.800029191208
+That carpet cleaning company was started by a 16-year old who wound up with stock worth more than $ 100 million after his company went public .
+In Norway , striking offshore oil workers forced state-owned oil company Statoil to shut down its 40,000 barrel-a-day Yme oil field in the North Sea .
+464	"Statoil"	"to shut down"	"its 40,000 barrel-a-day Yme oil field"	0.7469362754
+464	"state-owned oil company"	"to shut down"	"its 40,000 barrel-a-day Yme oil field"	0.427532577374
+464	"striking offshore oil workers"	"forced"	"Statoil"	0.675656436576
+464	"striking offshore oil workers"	"forced"	"state-owned oil company"	0.833472874474
+The other five are still alive and will be allowed to return home if they want .
+Lucas stopped in Atlanta recently to talk about `` Sweet Home Alabama , '' his new romantic comedy with Reese Witherspoon .
+466	"Lucas"	"stopped in"	"Atlanta recently"	0.697379388898
+In return for shelling out the $ 368.5 billion , Philip Morris , RJR Nabisco Holdings Corp. and other tobacco companies would obtain protection from future class-action lawsuits that have threatened the industry 's well-being .
+467	"Philip Morris"	"and would obtain"	"protection"	0.110404748874
+467	"RJR Nabisco Holdings Corp."	"would obtain"	"protection"	0.404066026434
+467	"other tobacco companies"	"would obtain"	"protection"	0.800117299913
+467	"protection"	"from have threatened"	"the industry 's well-being"	0.339422756332
+467	"the $ 368.5 billion"	"and would obtain"	"protection"	0.136459648256
+Or balanced on the tip of the tongue .
+But Alea and Tabio use political strife as a broad backdrop on which to place the characters instead of making specific statements about revolution .
+469	"Alea and Tabio"	"use"	"political strife"	0.796641007199
+The dollar often declines when U.S. Treasury officials express concern that Japan may be trying to boost its economy through exports .
+470	"U.S. Treasury officials"	"express that"	"Japan"	0.909020791505
+470	"U.S. Treasury officials"	"express"	"concern"	0.79664101574
+Perhaps examining the food on the plate too closely is something we should all avoid .
+471	"the food"	"is"	"something"	0.599567251831
+471	"the food"	"is"	"we"	0.325318906668
+Specifically , he 's driven by the prospect of rematches with Shane Mosley and Felix Trinidad , the only fighters to beat him .
+Efforts to reach Johnson were unsuccessful .
+473	"Efforts"	"to reach"	"Johnson"	0.675554105592
+When you have to resort to 1,200-degree air to cool something , you 're running a hot system .
+474	"something"	"running"	"a hot system"	0.892596488793
+I asked the Armenian native if the neighborhood kids or anybody else ever poked fun at the sign , which is basically a Bart Simpson dream come true .
+475	"I"	"asked if poked"	"fun"	0.366906385646
+475	"I"	"asked if"	"the neighborhood kids"	0.67810381732
+475	"I"	"asked"	"the Armenian native"	0.833472945264
+475	"anybody else"	"poked"	"fun"	0.800133635952
+475	"the Armenian native"	"if poked"	"fun"	0.517201892399
+475	"the neighborhood kids"	"poked"	"fun"	0.786446437709
+Ariel bought its shares in the mid-teens .
+476	"Ariel"	"bought"	"its shares"	0.833472943474
+They add barbecue sauces developed with Texas taste panels for the chopped and sliced versions .
+477	"They"	"add"	"barbecue sauces"	0.796641007199
+477	"barbecue sauces"	"developed with"	"Texas taste panels"	0.633301467808
+Lee Janzen IF PUSHED TO THE WALL , ISRAEL MIGHT FIRE NUKES That earned him the respect of analysts and investors , though the public remains skeptical .
+478	"ISRAEL"	"MIGHT FIRE"	"NUKES That"	0.861088180277
+478	"NUKES That"	"earned"	"him"	0.833472943474
+478	"NUKES That"	"earned"	"the respect of analysts and investors"	0.754091663481
+Arnoldy logs about 30,000 miles a year aboard Intrepid , parking it on a private siding in Houston when he 's not riding the rails .
+479	"Arnoldy"	"logs"	"a year"	0.55931353131
+479	"Arnoldy"	"logs"	"about 30,000 miles"	0.82473453466
+479	"a year"	"parking"	"it"	0.440461630167
+479	"he"	"'s not riding"	"the rails"	0.834130727515
+There were also searches of two warehouses owned by the firms in Schleswig-Holstein state and the office of the firms ' tax adviser in Hamburg .
+The Treasury Department is responsible for U.S. foreign exchange policy .
+So is Nissan Motor Co. 's Altima .
+Television pictures showed police officers climbing over the roof and entering the offices of two related companies , Tatari Design and Tatex Trading G.m.b.H. , in Fitzbek , a village 35 miles from Hamburg .
+483	"Television pictures"	"showed"	"police officers"	0.833472943474
+Sprint Corp. 's recent disclosure that it expects a net loss in wireless customers this quarter helped send the company 's PCS tracking stock below $ 2 on Wednesday for the first time .
+484	"a net loss"	"helped send"	"the company 's PCS tracking stock"	0.753996768729
+484	"it"	"expects"	"a net loss"	0.846338490749
+They are moving to install side air bags to provide more protection to the head and chest .
+485	"side air bags"	"to provide"	"more protection"	0.718594301195
+The average yield on the sale of C$ 1.9 billion of one-year bills was 4.167 percent , up from 4.165 percent two weeks ago .
+It has outstanding stock options that could swell its roster of shares by 15 percent , and thus reduce earnings per share .
+487	"It"	"has could swell"	"its roster of shares"	0.484290841755
+487	"It"	"has"	"outstanding stock options"	0.87911582042
+487	"outstanding stock options"	"that could swell"	"15 percent"	0.404293275313
+487	"outstanding stock options"	"that could swell"	"earnings"	0.52658799959
+487	"outstanding stock options"	"that could swell"	"its roster of shares"	0.503356224526
+They say it cannot be done , but we beat City Hall , '' said Becky Fenger , a spokesperson for NO Transit Taxes .
+488	"City Hall"	"said"	"a spokesperson"	0.53251088484
+488	"we"	"beat"	"City Hall"	0.721062536555
+When the university 's president , Richard P. Traina , retired in 2000 , he moved right into a spot on the board of the George I. Alden Trust , a $ 135 million foundation that 's run out of Fletcher , Tilton 's offices and which has been a strong Clark supporter .
+489	"a $ 135 million foundation"	"that 's run out of"	"Tilton 's offices"	0.368556994685
+489	"he"	"moved into"	"a spot"	0.501468612293
+July 's exports surpassed June 's total of $ 24.39 billion , and were well ahead of the previous January benchmark of C$ 24.88 billion .
+490	"July 's exports"	"surpassed"	"June 's total of $ 24.39 billion"	0.643028385645
+490	"July 's exports"	"surpassed"	"the previous January benchmark of C$ 24.88 billion"	0.329554424441
+Its commercial spine , 18th Avenue , is chock full of pork and pasta stores and the Italian colors of green , white and red everywhere .
+491	"Its commercial spine , 18th Avenue"	"is of"	"pork and pasta stores"	0.380248930072
+491	"Its commercial spine , 18th Avenue"	"is of"	"the Italian colors of green , white and red"	0.125751092509
+Instead of converging on the meeting place , Hall and Sax both approached from the same direction .
+492	"Hall"	"both approached from"	"the same direction"	0.58397101409
+Musharraf defended his government 's decision to ban Bhutto , now living in exile in London and charged with corruption , from taking part in parliamentary elections .
+493	"Musharraf"	"defended"	"his government 's decision"	0.833472943474
+493	"his government 's decision"	"to ban"	"Bhutto"	0.675554100289
+The demoted starter had not pitched in a week , but showed no signs of the long layoff .
+494	"The demoted starter"	"had not pitched in"	"a week"	0.700887136887
+McDaniel postponed ruling on Reilly 's motion and also on a defense motion to move the trial out of Middlesex County because of the publicity the case has received .
+495	"McDaniel"	"postponed ruling on"	"Reilly 's motion"	0.7235707849
+Beyond these practical considerations , there are other factors that can affect quality of life .
+496	"other factors"	"that can affect"	"quality of life"	0.492794763469
+That 's enough of a difference to entice pension funds into junk .
+But Dionne said he was skeptical about whether television advertising is so powerful .
+498	"Dionne"	"was"	"television advertising"	0.231289263129
+The agency suspended imposition of the $ 100,000-per-voyage fines in April after Japan promised to address U.S. concerns by today .
+499	"The agency"	"suspended"	"imposition of the $ 100,000-per-voyage fines"	0.810444069767

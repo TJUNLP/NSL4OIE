@@ -1,0 +1,697 @@
+CourtLink, which has 160 employees, developed a filing system that enables judges, lawyers and court clerks to process pleadings, motions and other documents electronically over a secure connection.
+0	"160 employees"	"be has by"	"CourtLink"	0.672
+0	"CourtLink"	"developed"	"a filing system that enables judges , lawyers and court clerks to process pleadings , motions and other documents electronically over a secure connection"	0.908
+0	"judges , lawyers and court clerks"	"to process electronically"	"pleadings , motions and other documents"	0.647
+0	"judges , lawyers and court clerks"	"to process motions electronically over"	"a secure connection"	0.773
+0	"judges , lawyers and court clerks"	"to process other documents electronically over"	"a secure connection"	0.773
+0	"judges , lawyers and court clerks"	"to process pleadings , electronically over"	"a secure connection"	0.773
+0	"pleadings , motions and other documents"	"to be process electronically over"	"a secure connection"	0.754
+A graduate of the University of Arizona, she is a lecturer in writing at Princeton University and an author under the name of Kathryn Watterson Burkhart.
+1	"she"	"be an author under"	"the name of Kathryn Watterson Burkhart"	0.727
+1	"she"	"is"	"a lecturer in writing at Princeton University and an author"	0.734
+The events occurred in July.
+2	"The events"	"occurred in"	"July"	0.886
+Terrorist attacks by E.T.A. have declined in recent years and the number of its hardcore militants is thought to have fallen from the hundreds of 15 years ago to several score.
+3	"the number of its hardcore militants"	"have declined in"	"recent years"	0.859
+Mr. Mahdi and Mr. Chalabi say they aim to form a "national unity" government with Iraq's main political leaders, presumably including Mr. Allawi.
+4	"a "national unity " government"	"to be form with"	"Iraq 's main political leaders"	0.58
+4	"they"	"aim to form a "national unity " government with"	"Iraq 's main political leaders"	0.835
+4	"they"	"aim to form"	"a "national unity " government"	0.833
+"The girls want to protect themselves."
+5	"The girls"	"want to protect"	"themselves"	0.639
+He also had stints with the New York Philharmonic, Metropolitan Opera Orchestra, CBS Symphony and Symphony of the Air, the NBC Symphony's successor.
+6	"He"	"also had"	"stints"	0.758
+6	"the Air"	"be successor of"	"the NBC Symphony"	0.426
+In recent weeks, as the incentive wars have escalated, other automakers have beefed up their warranties.
+7	"other automakers"	"have beefed up their warranties in"	"recent weeks"	0.504
+7	"other automakers"	"have beefed up"	"their warranties"	0.634
+President Bush deserves much credit for sharply increasing United States financing for AIDS prevention programs overseas.
+8	"President Bush"	"deserves"	"much credit"	0.821
+"The opportunity is significant and I hope we can take the opportunity to move forward," he said referring to his coming trip to Britain.
+9	"I"	"is"	"significant"	0.3
+9	"The opportunity"	"is"	"significant"	0.585
+9	"we"	"can take"	"the opportunity to move forward"	0.7
+And, since, as any reputable language teacher knows, bilingualism in the school merely reinforces what the child hears at home - and slows his learning of English - the whole idea is pointless.
+10	"bilingualism"	"slows"	"his learning of English"	0.517
+10	"the child"	"hears at"	"home"	0.732
+10	"the whole idea"	"is"	"pointless"	0.645
+In its most recent survey, the Congress for New Urbanism, a nonprofit organization based in Chicago, reported 648 neighborhood-scale New Urbanist communities in the United States, an increase of 176 over a 12-month period.
+11	"648 neighborhood-scale New Urbanist communities"	"be reported in"	"its most recent survey"	0.373
+11	"New Urbanist"	"be communities in"	"the United States"	0.808
+11	"a nonprofit organization based in Chicago"	"be the Congress for"	"New Urbanism"	0.368
+11	"a nonprofit organization"	"be based in"	"Chicago"	0.717
+11	"the Congress"	"reported 648 neighborhood-scale New Urbanist communities in the United States , an increase of 176 over a 12-month period in"	"its most recent survey"	0.353
+11	"the Congress"	"reported"	"648 neighborhood-scale New Urbanist communities"	0.743
+11	"the United States"	"be 648 neighborhood-scale New Urbanist communities in"	"an increase of 176"	0.406
+11	"the United States"	"be an increase of 176 over"	"a 12-month period"	0.585
+11	"the United States"	"be an increase of"	"176"	0.669
+Meanwhile, the truth - that in most families where child abuse (sexual or otherwise) takes place, women are also victimized, either through dominance and control or actual violence - that reality is smokescreened, and the problem of the powerful abusing their power is perpetuated.
+12	"child abuse"	"sexual or otherwise"	"takes place"	"are also victimized in"	"most families"	0.564
+12	"child abuse"	"sexual or otherwise"	"takes place"	"are also victimized through"	"dominance and control or actual violence"	0.867
+12	"place"	"be takes by"	"child abuse"	0.564
+12	"their power"	"is perpetuated in"	"the powerful abusing"	0.642
+12	"women"	"are also victimized in"	"most families"	0.395
+12	"women"	"are also victimized through"	"dominance and control or actual violence"	0.867
+It goes against all that this country stands for.
+But inexpensive point-and-shoot cameras can do the job if they have a telephoto setting or a zoom lens.
+14	"inexpensive point-and-shoot cameras"	"can do"	"the job"	"[enabler=if they have a telephoto setting or a zoom lens]"	0.751
+14	"they"	"have"	"a telephoto setting or a zoom lens"	0.149
+Few have tried, and far fewer have succeeded.
+We can use a little more of that trust this year.
+The Embassy said 6,700 Americans were in Pakistan.
+17	"6,700 Americans"	"were in"	"Pakistan"	"[attrib=The Embassy said]"	0.879
+17	"The Embassy"	"said"	"6,700 Americans"	0.705
+Along with Dow Jones and Microsoft, the companies included CNN, but not its parent, AOL Time Warner.
+18	"the companies"	"included"	"CNN,"	0.736
+"I'd recommend three Xanax, a great bottle of cabernet and looking for a new publicist.
+19	"I"	"'d recommend"	"three Xanax"	0.626
+19	"I"	"looking for"	"a new publicist"	0.46
+19	"three Xanax"	"be a great bottle of"	"cabernet"	0.635
+The case is being appealed.
+Doctors in Pennsylvania and West Virginia are expected to notify S.M.I. bioterror experts of any "suspicious event," from an unusual rash to a finger lost in an explosion, identifying but not informing the patient.
+21	"Doctors"	"are expected from"	"an unusual rash"	0.867
+21	"Doctors"	"to notify"	"S.M.I. bioterror experts of any " suspicious event"	0.807
+21	"a finger"	"be lost in"	"an explosion"	0.706
+Nothing else is untouched, regardless of its provenance.
+22	"Nothing else"	"is regardless of its provenance"	"untouched"	0.494
+A large influx is going to create problems.
+23	"A large influx"	"is going to create"	"problems"	0.595
+23	"A large influx"	"to create"	"problems"	0.709
+Morningwood Ulysses S. Grant, the second-ranked basset hound in 1998, was received, the quota had been filled.
+24	"Morningwood Ulysses S. Grant"	"be the second-ranked basset hound in"	"1998"	0.691
+McGaughey said that Personal Ensign might race again in New York this year and definitely would race next year and be pointed for the Breeders' Cup.
+25	"Personal Ensign"	"be pointed for"	"the Breeders ' Cup"	"[attrib=McGaughey said]"	0.546
+25	"Personal Ensign"	"might be race again in"	"New York"	"[attrib=McGaughey said]"	0.443
+The region is still far from rebuilt, despite Government promises to have the work completed within two years, and there have been accusations of corruption and misuse of relief funds.
+26	"Government"	"completed within"	"two years"	0.822
+26	"Government"	"have been accusations of"	"corruption and misuse of relief funds"	0.858
+26	"Government"	"promises to have"	"the work"	0.649
+Simmons said she would not reveal her opinion on reparations so as not to influence the committee.
+27	"she"	"be her opinion on"	"reparations"	0.332
+27	"she"	"would not reveal"	"her opinion"	"[attrib=Simmons said]"	0.653
+An asbestos and lead survey found "a substantial amount" of asbestos in the buildings.
+28	"An asbestos and lead survey"	"found"	"a substantial amount " of asbestos"	0.845
+Meanwhile, Ms. Coughlin is pursuing her case in a Federal court in Nevada against the last remaining defendant, the Las Vegas Hilton, which has denied it negligently failed to provide adequate security.
+29	"Ms. Coughlin"	"Meanwhile is pursuing her case against"	"the last remaining defendant"	0.651
+29	"Ms. Coughlin"	"Meanwhile is pursuing her case in"	"a Federal court"	0.733
+29	"Ms. Coughlin"	"Meanwhile is pursuing"	"her case"	0.583
+29	"her case"	"Meanwhile is pursuing against"	"the last remaining defendant"	0.696
+29	"her case"	"Meanwhile is pursuing in"	"a Federal court"	0.772
+To reach the museums by foot, leave from the station's 30th Street exit and walk along J.
+30	"the museums"	"To be reach by"	"foot"	0.78
+In lieu of flowers, donations in his memory can be made to the International Myeloma Foundation, 12650 Riverside Drive, Suite 206, North Hollywood, CA.
+31	"donations"	"can be made in"	"lieu of flowers"	0.81
+31	"donations"	"can be made on"	"lieu of flowers"	0.429
+31	"donations"	"can be made to"	"the International Myeloma Foundation"	0.888
+Julian Stark does his own hapless stunts in his takeoff on the "Hercules" movies starring Steve Reeves; Shannon Plumb contributes a Chaplinesque "Diary of a Mad Housewife."
+32	"Julian Stark"	"does his own hapless stunts in his takeoff on"	"the " Hercules " movies"	0.837
+32	"Julian Stark"	"does"	"his own hapless stunts"	0.779
+32	"Shannon Plumb"	"contributes"	"a Chaplinesque " Diary of a Mad Housewife"	0.804
+The negative outlook also reflects the possibility of "further managerial instability and movement, financial penalties, findings supporting shareholder litigation and further reserve adjustments.
+33	"The negative outlook"	"also reflects"	"the possibility of "further managerial instability"	0.752
+My words were as perishable as doodles on an Etch-a-Sketch, I got half the money for twice the work, and I had to share the writer's credit.
+34	"I"	"got half the money for"	"the work"	0.67
+34	"I"	"got"	"the money"	0.537
+34	"I"	"had to share"	"the writer 's credit"	0.721
+34	"I"	"to share"	"the writer 's credit"	0.654
+34	"My words"	"were as perishable as"	"doodles"	0.889
+34	"My words"	"were as"	"perishable"	0.84
+34	"the money"	"be got for"	"the work"	0.736
+Although the classic loafer can travel anywhere, this spring's variations are certainly a step in a new direction.
+35	"this spring 's variations"	"are certainly a step in"	"a new direction"	"[enabler=Although the classic loafer can travel anywhere]"	0.884
+Eventually, they say, fares should cover about 50 percent of the costs of the system, up from the current 25 to 38 percent, depending on the method of calculation.
+36	"fares"	"Eventually should cover up from the current 25 to 38 percent"	"about 50 percent of the costs of the system"	0.632
+Taken for granted it sometimes may be, but this year the Defense Department sought $950 million in assistance from Congress (and secured half that amount) for Ankara's huge military machine, which includes the biggest standing army in NATO outside the United States.
+37	"Ankara 's huge military machine"	"includes the biggest standing army in NATO outside"	"the United States"	0.603
+37	"the Defense Department"	"sought $ 950 million in assistance from Congress half"	"and secured half"	0.862
+37	"the Defense Department"	"sought $ 950 million in assistance from Congress in"	"this year"	0.607
+37	"the biggest standing army"	"be includes by"	"Ankara 's huge military machine"	0.539
+An article last Sunday about the purchase of 40 Wall Street referred incorrectly to the buyer's arrangements with the owner of the land.
+38	"An article"	"referred incorrectly to"	"the buyer 's arrangements"	0.913
+38	"the purchase of 40 Wall Street"	"referred incorrectly to"	"the buyer 's arrangements"	0.853
+But if it does happen, Senator Pell will no longer be around to receive special back-room briefings from Uri Geller, the psychic spoon-bender.
+39	"Senator Pell"	"to receive"	"special back-room briefings"	0.793
+39	"Senator Pell"	"will no longer be around to receive"	"special back-room briefings"	0.813
+The Giants convened today to begin their first preparations for Monday night's game in Minnesota against the Vikings.
+40	"The Giants"	"convened in"	"today"	0.803
+40	"The Giants"	"convened to begin"	"their first preparations"	0.665
+John Lamar Odom, pastor of the First Presbyterian Church in Oceanside, L.I., were married yesterday.
+41	"John Lamar Odom"	"be pastor of the First Presbyterian Church in"	"Oceanside"	0.672
+41	"John Lamar Odom"	"be pastor of"	"the First Presbyterian Church"	0.801
+41	"John Lamar Odom"	"were married in"	"yesterday"	0.727
+41	"Oceanside"	"be pastor of the First Presbyterian Church in"	"L.I."	0.261
+The World Health Organization has issued a report detailing an ambitious, often covert effort by the tobacco industry to curb global anti-smoking initiatives, dating back to the late 1980's.
+42	"The World Health Organization"	"has issued a report detailing an ambitious , often covert effort by the tobacco industry to curb global anti-smoking initiatives dating back to"	"the late 1980"	0.42
+42	"The World Health Organization"	"has issued"	"a report detailing an ambitious , often covert effort by the tobacco industry"	0.881
+Kent was not told of the situation until the game was over.
+43	"Kent"	"was not told of"	"the situation"	"[enabler=until the game was over]"	0.888
+It has set up a robotic system that systematically tests all 2,000 existing chemical drugs in combinations of two.
+44	"It"	"has set up"	"a robotic system that systematically tests all 2,000 existing chemical drugs in combinations of two"	0.769
+44	"a robotic system"	"systematically tests all 2,000 existing chemical drugs in"	"combinations of two"	0.74
+44	"all 2,000 existing chemical drugs"	"be systematically tests by"	"a robotic system"	0.563
+The state-run English-language Teheran Times reported that Parliament would begin debate on the Cabinet on Tuesday, with "two weeks to complete discussions and vote."
+45	"Parliament"	"to complete"	"discussions and vote"	0.382
+45	"Parliament"	"would begin debate on the Cabinet in"	"Tuesday"	"[attrib=The state-run English-language Teheran Times reported]"	0.424
+45	"Parliament"	"would begin debate on the Cabinet on"	"Tuesday"	"[attrib=The state-run English-language Teheran Times reported]"	0.716
+45	"Parliament"	"would begin debate on the Cabinet to complete"	"discussions and vote"	"[attrib=The state-run English-language Teheran Times reported]"	0.499
+45	"Parliament"	"would begin debate on the Cabinet with"	"two weeks"	"[attrib=The state-run English-language Teheran Times reported]"	0.758
+45	"Parliament"	"would begin"	"debate"	"[attrib=The state-run English-language Teheran Times reported]"	0.731
+45	"debate"	"would be begin on"	"Tuesday"	"[attrib=The state-run English-language Teheran Times reported]"	0.624
+45	"debate"	"would be begin with"	"two weeks"	"[attrib=The state-run English-language Teheran Times reported]"	0.739
+He said the public school from which he transferred three years ago had metal detectors that still failed to keep out the sense that danger lurked nearby.
+46	"He"	"said"	"the public school from which he transferred three years ago"	0.66
+46	"the public school from which he transferred three years ago"	"had"	"metal detectors that still failed to keep out the sense that danger lurked nearby"	"[attrib=He said]"	0.88
+Nordstrom Inc., the retail chain based on the West Coast, said today that it had created an office of the president to strengthen its executive management team.
+47	"Nordstrom Inc."	"said in"	"today"	0.753
+47	"it"	"had created"	"an office of the president to strengthen its executive management team"	"[attrib=Nordstrom Inc. said]"	0.654
+47	"the retail chain"	"be based on"	"the West Coast"	0.734
+All of these portraits, incidentally, are based on fact.
+Dr. Weiss graduated summa cum laude from Brandeis University and received his medical degree from Yale University.
+49	"summa cum"	"laude from"	"Brandeis University"	0.852
+49	"summa cum"	"received"	"his medical degree"	0.724
+The announced crowd was 15,568.
+50	"The announced crowd"	"was"	"15,568"	0.661
+In times past, getting a taxi at a New York City airport was often a Darwinian affair, a frenzied, survival-of-the-fittest scene of piled-up luggage, darting taxis and shouting cabbies looking for an edge.
+51	"a Darwinian affair"	"be a frenzied , survival-of-the-fittest scene of"	"piled-up luggage"	0.641
+51	"a taxi"	"be getting at"	"a New York City airport"	0.675
+51	"cabbies"	"looking for"	"an edge"	0.773
+They won 26 of their next 31 games, including 11 straight in June.
+52	"They"	"won"	"26 of their next 31 games"	0.838
+This revelatory micro-exhibition reunites five portraits of the postal worker Joseph Roulin, whom van Gogh met while in Arles.
+53	"This revelatory micro-exhibition"	"reunites"	"five portraits of the postal worker Joseph Roulin"	0.788
+We did not want to have something in our home that would be too heavy for us to lift.
+54	"We"	"did not want to have"	"something that would be too heavy for us to lift"	0.641
+54	"We"	"to have"	"something that would be too heavy for us to lift"	0.612
+A defense spokesman added that British officials were "aware of the potential" for missile attacks along the border between the province and the Irish republic.
+55	"British officials"	"were"	""aware of the potential ""	0.688
+Like all good pamphlets, "The Missionary Position," by Christopher Hitchens, is very short, zealously overwritten, and rails wildly in defense of an almost nonsensical proposition: that Mother Teresa of Calcutta is actually not a saint but an evil and selfish old woman.
+56	"Mother Teresa of Calcutta"	"is actually"	"not a saint"	0.639
+56	"The Missionary Position"	"is very"	"short , zealously overwritten"	0.739
+56	"The Missionary Position"	"rails in"	"defense of an almost nonsensical proposition"	0.739
+Devoted mother of Lyn Boland Dosik and the late Howard Batzar.
+57	"Devoted"	"be mother of"	"Lyn Boland Dosik and the late Howard Batzar"	0.844
+Steamed crabs with scallions and ginger ($10.95) were tender, easy to open and delicately flavored.
+"It's only going to get worse before it gets better."
+Tickets are $30 and $25.
+He is the assistant director for policy at the Gay Men's Health Crisis.
+61	"He"	"is the assistant director at"	"the Gay Men 's Health Crisis"	0.84
+61	"He"	"is the assistant director for"	"policy"	0.887
+61	"He"	"is"	"the assistant director"	0.645
+The Hall of Fame-bound pitcher fires a fastball.
+62	"The Hall of Fame-bound pitcher"	"fires"	"a fastball"	0.782
+"It was clear to us when we visited there in October that the Romanians hated those who had left the country," said Liselotte Leicht, program director at the Helsinki Federation.
+63	"It"	"was clear to"	"us"	"[attrib=Liselotte Leicht said]"	0.633
+63	"It"	"was"	"clear"	0.635
+63	"Liselotte Leicht"	"be program director at"	"the Helsinki Federation"	0.677
+63	"we"	"visited in"	"October"	0.814
+63	"we"	"visited"	"October"	0.556
+Officials declined yesterday to identify the medication involved.
+64	"Officials"	"declined in"	"yesterday"	0.813
+64	"Officials"	"declined to identify"	"the medication involved"	0.69
+I readied my gear for a truly local fishing trip.
+65	"I"	"readied my gear for"	"a truly local fishing trip"	0.847
+65	"I"	"readied"	"my gear"	0.71
+65	"my gear"	"be readied for"	"a truly local fishing trip"	0.83
+Yesterday, when The News led with "Friendly Fire" and "30 Marines wounded in attack near Nassiriya," The Post said, "Saddam's evil order to kids: Fight or your parents die," followed by "How low can Iraq sink.
+66	"30 Marines"	"wounded in"	"attack"	0.792
+66	"The News"	"led with"	"Friendly Fire"	0.812
+They live with Dirk, Weetzie's gay best friend, his lover, Duck, and Weetzie's daughter, Cherokee, possibly conceived during group sex with Dirk and Duck.
+67	"Cherokee"	"be daughter of"	"Dirk , Weetzie 's gay best friend , his lover , Duck , and Weetzie"	0.574
+67	"They"	"live with"	"Dirk , Weetzie 's gay best friend , his lover , Duck , and Weetzie 's daughter"	0.804
+Among his many honors, he won the Waterford International Biomedical Award and Eli Lilly Award in Bacteriology and citations from the American Association of Medical Colleges and the American Society of Cell Biology.
+68	"he"	"won Eli Lilly Award in Bacteriology among"	"his many honors"	0.444
+68	"he"	"won Eli Lilly Award in Bacteriology from"	"the American Association of Medical Colleges and the American Society of Cell Biology"	0.794
+68	"he"	"won citations among"	"his many honors"	0.287
+68	"he"	"won citations from"	"the American Association of Medical Colleges and the American Society of Cell Biology"	0.66
+68	"he"	"won the Waterford International Biomedical Award among"	"his many honors"	0.536
+68	"he"	"won the Waterford International Biomedical Award from"	"the American Association of Medical Colleges and the American Society of Cell Biology"	0.848
+68	"he"	"won"	"the Waterford International Biomedical Award and Eli Lilly Award in Bacteriology and citations"	0.764
+68	"the Waterford International Biomedical Award and Eli Lilly Award in Bacteriology and citations"	"be won among"	"his many honors"	0.295
+68	"the Waterford International Biomedical Award and Eli Lilly Award in Bacteriology and citations"	"be won from"	"the American Association of Medical Colleges and the American Society of Cell Biology"	0.668
+Sheik Thamer is the deputy to Grand Ayatollah Ali al-Sestani, the country's most senior Shiite cleric.
+69	"Sheik Thamer"	"is the deputy to"	"Grand Ayatollah Ali al-Sestani"	0.905
+69	"Sheik Thamer"	"is"	"the deputy"	0.764
+69	"the deputy"	"be senior Shiite cleric of"	"the country"	0.558
+The limits, which have not been made definite, will be even lower for economy and business-class travelers.
+70	"The limits which have not been made definite"	"will be even lower for"	"economy and business-class travelers"	0.827
+The shuttle between Times Square and Grand Central also was stopped, and Flushing line trains bypassed Grand Central.
+71	"Flushing line"	"trains bypassed"	"Grand Central"	0.782
+It will not settle anything and her advisers will walk away and they'll still be making demands.
+72	"It"	"'ll still be making"	"demands"	0.376
+72	"It"	"will not settle"	"anything and her advisers"	0.576
+72	"they"	"'ll still be making"	"demands"	0.716
+72	"they"	"will not settle"	"anything and her advisers"	0.584
+His one miscalculation was to ask for humming in the second song, for nobody can hum to fill Carnegie Hall.
+73	"His one miscalculation"	"to ask for"	"humming"	0.854
+73	"His one miscalculation"	"to ask for"	"nobody"	0.799
+73	"His one miscalculation"	"was to ask for"	"humming"	0.916
+73	"His one miscalculation"	"was to ask for"	"nobody"	0.881
+The San Antonio News Express reported yesterday that negotiations had broken down.
+74	"The San Antonio News Express"	"reported in"	"yesterday"	0.803
+The playing wasn't bad, really; it just wasn't good enough to justify the event.
+75	"The playing"	"was really"	"n't bad"	0.559
+75	"it"	"just was enough"	"n't good"	0.446
+75	"it"	"to justify"	"the event"	0.651
+Frauke Petersen Haasemann, the assistant conductor of the Westminster Choir and professor of conducting at the Westminster Choir College, died last Friday at her home in Princeton, N.J.
+76	"Frauke Petersen Haasemann"	"be the assistant conductor of"	"the Westminster Choir"	0.732
+76	"Frauke Petersen Haasemann"	"died at"	"her home"	0.814
+76	"Frauke Petersen Haasemann"	"died in"	"last Friday"	0.753
+76	"Princeton"	"be her home in"	"N.J"	0.308
+For the proposal itself, he toured five hotels in search of a room with a view of Central Park and selected one on a high floor of the Carlyle.
+77	"five hotels"	"be toured for"	"the proposal"	0.565
+77	"five hotels"	"be toured in"	"search of a room"	0.851
+77	"he"	"selected one on"	"a high floor of the Carlyle"	0.786
+77	"he"	"selected"	"one"	0.602
+77	"he"	"toured five hotels for"	"the proposal"	0.601
+77	"he"	"toured five hotels in"	"search of a room"	0.895
+77	"he"	"toured"	"five hotels"	0.75
+77	"one"	"be selected on"	"a high floor of the Carlyle"	0.822
+Mr. Hashimoto, who denied the bribery charges, took his case to the Supreme Court, but the court had not issued a ruling by the time of his death.
+78	"Mr. Hashimoto"	"took his case to"	"the Supreme Court"	0.908
+78	"Mr. Hashimoto"	"took"	"his case"	0.846
+78	"his case"	"be took to"	"the Supreme Court"	0.831
+78	"the court"	"had not issued"	"a ruling"	0.822
+It is not really a camp, because no one is running things.
+79	"It"	"is really"	"not really a camp"	0.458
+79	"no one"	"is running"	"things"	0.527
+That pushed the unemployment rate to 12.5 percent, from 12.4 percent in May.
+80	"the unemployment rate"	"be pushed from"	"12.4 percent"	0.804
+80	"the unemployment rate"	"be pushed in"	"May"	0.752
+80	"the unemployment rate"	"be pushed to"	"12.5 percent"	0.736
+It's not that I wouldn't drink these -- a number of them were very good.
+81	"I"	"would n't drink"	"good"	0.569
+81	"a number of them"	"were very"	"good"	0.76
+81	"good"	"be a number of"	"them"	0.26
+Costello's main work since joining the Defense Department last October has been to develop a series of policies aimed at strengthening industrial technologies and manufacturing methods in areas that are deemed important to arms production.
+82	"Costello 's main work"	"has been to develop"	"a series of policies"	0.726
+Her father retired as a representative of manufacturers of railroad equipment.
+83	"Her father"	"be a representative of"	"manufacturers of railroad equipment"	0.589
+83	"Her father"	"retired as"	"a representative of manufacturers of railroad equipment"	0.946
+A class-action lawsuit against the N.C.A.A., contending that major college football teams violate antitrust laws by refusing to give athletic scholarships to all walk-on players, was filed yesterday in a United States District Court in Seattle.
+84	"athletic scholarships"	"to give to be"	"all walk-on players"	0.65
+84	"major college football teams"	"violate"	"antitrust laws"	0.685
+Following the killing of Amadou Diallo, the inexorable conclusion is that this is a Police Department out of control, with elected officials who are not interested in holding anybody accountable for its actions.
+Indeed, history shows that those who ignore energy prices and their impact on overall inflation do so at their own risk.
+The New Jersey school, like most others, issued the flag patches that have become ubiquitous on players' uniforms these days as a gesture of support for allied efforts in the Persian Gulf.
+87	"The New Jersey school"	"issued the flag patches that have become ubiquitous on players ' uniforms these days as a gesture of support for allied efforts in the Persian Gulf like"	"most others"	0.766
+87	"The New Jersey school"	"issued"	"the flag patches that have become ubiquitous on players ' uniforms these days as a gesture of support for allied efforts in the Persian Gulf"	0.894
+87	"the flag patches that have become ubiquitous on players ' uniforms these days as a gesture of support for allied efforts in the Persian Gulf"	"be issued like"	"most others"	0.607
+Two Japanese travel agencies have desks beside the finely manicured English-style garden adjacent to the lobby, busily booking free-spending guests for golf, horseback riding and guided shopping jaunts.
+88	"Two Japanese travel agencies"	"guided shopping"	"jaunts"	0.492
+88	"Two Japanese travel agencies"	"have desks beside"	"the finely manicured English-style garden adjacent"	0.85
+88	"Two Japanese travel agencies"	"have"	"desks"	0.79
+Net income represented net asset value.
+89	"Net income"	"represented"	"net asset value"	0.771
+Barak also ended six weeks of total public silence on policy to reproach President Clinton for making seemingly offhand remarks about the rights of Palestinian refugees.
+90	"Barak"	"also ended in"	"six weeks of total public silence"	0.869
+We can break news at any time.
+91	"We"	"can break news at"	"any time"	0.768
+91	"We"	"can break"	"news"	0.719
+91	"news"	"can be break at"	"any time"	0.52
+At least 8 schoolchildren were killed and at least 15 people were wounded when a deranged man burst into an elementary school near Osaka and began stabbing students and teachers with a kitchen knife.
+92	"a deranged man"	"began stabbing students with"	"a kitchen knife"	0.748
+92	"a deranged man"	"began stabbing teachers with"	"a kitchen knife"	0.673
+92	"a deranged man"	"began stabbing"	"students and teachers"	0.686
+92	"a deranged man"	"burst into"	"an elementary school"	0.882
+92	"students and teachers"	"be stabbing with"	"a kitchen knife"	0.674
+Fans paid close attention to the game, and the reason was Marcus Camby.
+93	"Fans"	"paid close attention to"	"the game"	0.76
+93	"Fans"	"paid"	"close attention"	0.695
+93	"Fans"	"was"	"Marcus Camby"	0.331
+93	"close attention"	"be paid to"	"the game"	0.681
+93	"the reason"	"paid close attention to"	"the game"	0.766
+93	"the reason"	"paid"	"close attention"	0.702
+93	"the reason"	"was"	"Marcus Camby"	0.675
+Russia's eavesdropping station at Lourdes, Cuba, is a cold war jewel: 28 square miles of antennae and computers that message Russian embassies, submarines and spies, and vacuum up U.S. satellite and radio communications.
+94	"Lourdes"	"be Russia 's eavesdropping station at"	"Cuba"	0.344
+94	"Russia 's eavesdropping station"	"is"	"a cold war jewel"	0.644
+94	"a cold war jewel"	"be Russia 's eavesdropping station at"	"Lourdes"	0.397
+A report in the Egos & Ids column of Styles of the Times on July 26 omitted the name of Annette Tab ert's co-author for the forthcoming book "The Power of Style."
+95	"A report"	"omitted"	"the name of Annette Tab ert 's co-author"	0.731
+It was "The Wife of Governor Dufresne."
+96	"It"	"was The Wife of"	"Governor Dufresne"	0.6
+96	"It"	"was"	"The Wife of Governor Dufresne"	0.636
+Union officials say they are pleased with the G.H.I. plan and they assert that the main reason they are being asked to pay premiums is that the Oxford plan is costing Barnard $63,000 more than G.H.I.
+97	"they"	"are being asked in"	"the main reason"	0.515
+97	"they"	"are pleased with"	"the G.H.I. plan"	"[attrib=Union officials say]"	0.922
+97	"they"	"to pay"	"premiums"	0.768
+He chose not to do that.
+The menu, imported from Ben's Deli in Queens, includes matzoh ball soup, corned beef and pastrami sandwiches, chopped liver, kishke and knishes.
+99	"The menu imported from Ben 's Deli in Queens"	"includes"	"matzoh ball soup , corned beef and pastrami sandwiches"	0.772
+99	"The menu"	"be imported from"	"Ben 's Deli"	0.849
+Ashcroft said afterward, through Mr. Hilton, that the talk had been "even and businesslike" and that he had made the point that there would be no peace between him and the Governor until the Governor and his fellow Missouri Democrats demonstrated good faith by ending their practice of "hate politics."
+100	"Ashcroft"	"said afterward through"	"Mr. Hilton"	0.807
+100	"he"	"had made"	"the point"	"[attrib=Ashcroft said afterward]"	0.515
+100	"the Governor and his fellow Missouri Democrats"	"demonstrated"	"good faith"	0.758
+100	"the talk"	"had made"	"the point"	"[attrib=Ashcroft said afterward]"	0.631
+But while it may surprise anyone who has been stung by them, yellow jackets actually have a reason for existing and a place in the universe.
+101	"it"	"may surprise"	"anyone who has been stung by them"	0.527
+101	"yellow jackets"	"actually have"	"a reason"	0.734
+Beat in the eggs one at a time.
+The line was "That is my last word," not "You can't go to Berlin!"
+103	"The line"	"was is"	"my last word"	0.497
+103	"You"	"ca n't go to"	"Berlin"	0.836
+Most significantly, the new machines will give Sony and other makers of the devices unusual control over the presentation of programming, which could well influence what consumers choose to watch.
+104	"the new machines"	"will give"	"Sony and other makers of the devices"	0.725
+As a medium-sized group of American lawyers and judges and their companions, we were able to interact on a personal basis with a number of Egyptian citizens, tourist personnel, lawyers, judges, storekeepers and families.
+105	"medium-sized"	"be group of"	"American lawyers and judges and their companions"	0.243
+105	"we"	"were able as"	"a medium-sized group of American lawyers"	0.536
+105	"we"	"were"	"able"	0.38
+Trust Company's quest for customers among the new rich, included erroneous figures for millionaire households supplied by PSI, a financial services research firm in Tampa, Fla.
+106	"PSI"	"be a financial services research firm in"	"Tampa"	0.35
+106	"Trust Company 's quest"	"included"	"erroneous figures"	0.859
+106	"millionaire households"	"be supplied by"	"PSI"	0.608
+In a sobering speech meant to register with opinion leaders in the international community, the Irish Foreign Minister, Dick Spring, has warned about the peril to the peace process if there is further delay.
+107	"the Irish Foreign Minister"	"has warned about"	"the peril"	"[enabler=a sobering speech meant to register with opinion leaders in the international community , the Irish Foreign Minister , Dick Spring , has warned about the peril to the peace process if there is further delay]"	0.865
+Sharpe said the students were sent to work in the manure, not stand in it.
+108	"the students"	"to work in the manure , not in"	"the manure"	0.735
+Shown today at 2 and 6 p.m. and tomorrow at 4 and 7 p.m. at the Walter Reade Theater at Lincoln Center, 165 West 65th Street, Manhattan, as part of the 32nd New Directors/New Films series of the Film Society of Lincoln Center and the department of film and media of the Museum of Modern Art.
+109	"165 West 65th Street"	"be the Walter Reade Theater at"	"Lincoln Center"	0.308
+A table in Business Day on Thursday showing the New York Stock Exchange's uncovered short sales, or "short interest," for the four weeks ended June 15 included an incorrect amount for the Tech-Sym Corporation, provided by the company to the exchange, and misstated the total accordingly.
+110	"A table showing the New York Stock Exchange 's uncovered short sales , or " short interest"	"included"	"an incorrect amount provided by the company to the exchange"	0.845
+110	"A table showing the New York Stock Exchange 's uncovered short sales , or " short interest"	"misstated"	"the total"	0.63
+110	"an incorrect amount"	"be provided by"	"the company"	0.812
+110	"the four weeks"	"be ended in"	"June 15"	0.673
+"She could easily be seen as someone who tries to help the public with a tax cut when she can, but who is also candid enough to level with folks when the state fiscal situation prevents a tax giveback.
+111	"She"	"could easily be seen as"	"someone who tries to help the public with a tax cut when she can , but who is also candid enough to level with folks when the state fiscal situation prevents a tax giveback"	0.859
+111	"the public"	"to be help with"	"a tax cut"	0.59
+111	"the state fiscal situation"	"prevents"	"a tax giveback"	0.66
+Just before this season began, the baseball commissioner's office suspended him for violating the terms of his after-care program for substance abuse.
+112	"the baseball commissioner 's office"	"suspended"	"him"	0.773
+The songs are driven by short melodic riffs, call-and-response with her backup singers, the combination of djembe (hand drum) and metal scraper and the plunk of the kamalngoni, a harp similar to the kora played by griots.
+113	"The songs"	"are driven call-and-response with her backup singers by"	"short melodic riffs"	0.827
+113	"The songs"	"are driven"	"call-and-response"	0.79
+113	"hand drum"	"be the plunk of"	"the kamalngoni"	0.749
+113	"the kora"	"be played by"	"griots"	0.705
+Two batters later, Edgardo Alfonzo rapped a two-run double down the third-base line for a 3-0 lead, and Hundley later launched a double to the left-center warning track to make it 4-0.
+114	"Edgardo Alfonzo"	"Two batters later rapped"	"a two-run double"	0.806
+114	"Edgardo Alfonzo"	"later launched"	"a double"	0.729
+114	"Hundley"	"Two batters later rapped"	"a two-run double"	0.506
+114	"Hundley"	"later launched"	"a double"	0.842
+Tests to detect the use of performance-enhancing drugs like EPO and human-growth hormones are unlikely to be approved for Sydney.
+Farrow is trying in Manhattan's Surrogate's Court to void Mr. Allen's adoptions of Moses and Dylan.
+116	"Farrow"	"is trying in"	"Manhattan 's Surrogate 's Court"	0.788
+116	"Farrow"	"is trying to void"	"Mr. Allen 's adoptions of Moses"	0.557
+116	"Farrow"	"to void"	"Mr. Allen 's adoptions of Moses"	0.795
+Mexican reporters staked out meetings of the board of Dow Jones & Company, where Mr. Salinas is a member, but caught just a brief glimpse of him on the 43d floor of the World Trade Center.
+117	"Mexican reporters"	"staked out"	"meetings of the board of Dow Jones"	0.778
+117	"Mr. Salinas"	"is"	"a member"	0.675
+In October, the university's Electronic Music Center will put the finishing touches on an ambitious surround-sound speaker installation.
+118	"Center"	"will put the finishing touches on"	"an ambitious surround-sound speaker installation"	0.846
+118	"Center"	"will put"	"the finishing touches"	0.813
+118	"the finishing touches"	"will be put on"	"an ambitious surround-sound speaker installation"	0.708
+Addictions should not be called habits, Dr. Cahan said.
+119	"Addictions"	"should not be called"	"habits"	"[attrib=Dr. Cahan said]"	0.717
+The International Business Machines Corporation said it signed an agreement to provide more than $100 million worth of computer hardware and software to what will be the world's largest computerized travel reservation system.
+120	"The International Business Machines Corporation"	"said"	"it"	0.642
+120	"it"	"signed"	"an agreement to provide more than $ 100 million worth of computer hardware and software to what will be the world 's largest computerized travel reservation system"	"[attrib=The International Business Machines Corporation said]"	0.805
+The director of the Center for Mathematical Sciences Research at Rutgers University, Dr. Joel Lebowitz, will receive the Dalmar S. Fahrney Medal from the Franklin Institute in Philadelphia in May.
+121	"The director of the Center"	"will receive the Dalmar S. Fahrney Medal from"	"the Franklin Institute"	0.746
+121	"The director of the Center"	"will receive"	"the Dalmar S. Fahrney Medal"	0.665
+121	"the Dalmar S. Fahrney Medal"	"will be receive from"	"the Franklin Institute"	0.727
+Two independent journalists went on trial today accused of defaming President Franjo Tudjman in a case that has helped sour Croatia's relations with Western Europe.
+122	"President Franjo Tudjman"	"be defaming in"	"a case that has helped sour Croatia 's relations with Western Europe"	0.786
+122	"Two independent journalists"	"went accused defaming President Franjo Tudjman a case that has helped sour Croatia 's relations Western Europe in"	"today"	0.32
+122	"Two independent journalists"	"went accused defaming President Franjo Tudjman a case that has helped sour Croatia 's relations Western Europe on"	"trial"	0.468
+The chief executive, Sir Colin Marshall, will take a similar cut, putting his pay at around $540,000.
+123	"The chief executive"	"will take a similar cut putting"	"his pay"	0.482
+123	"The chief executive"	"will take"	"a similar cut"	0.734
+Annually, some 600 miles of municipal roads are expected to deteriorate.
+Rather than resort to the usual bunker mentality, he tried a more practical approach.
+125	"he"	"tried"	"a more practical approach"	"[enabler=Rather than resort to the usual bunker mentality]"	0.72
+So far, Mr. Ginty has elicited praise from conservatives like Steven Lonegan, who ran for governor last year.
+126	"Mr. Ginty"	"So far has elicited praise from"	"conservatives"	0.823
+126	"Mr. Ginty"	"So far has elicited"	"praise"	0.759
+126	"Steven Lonegan"	"ran for"	"governor"	0.713
+The club is tearing up the turf field and replacing it with grass.
+127	"The club"	"is tearing up"	"the turf field"	0.604
+127	"The club"	"replacing it with"	"grass"	0.74
+127	"The club"	"replacing"	"it"	0.613
+127	"it"	"be replacing with"	"grass"	0.558
+He plans to give the diploma to his mother, to hang in their Brooklyn home.
+128	"He"	"plans to give the diploma to"	"his mother"	0.689
+128	"He"	"plans to give"	"the diploma"	0.722
+128	"He"	"to give the diploma to"	"his mother"	0.643
+128	"the diploma"	"to give to be"	"his mother"	0.581
+I have also learned that lice plan their arrival to maximize household stress.
+129	"lice"	"plan"	"their arrival to maximize household stress"	0.639
+Mr. Riley's numbers did not change.
+Miss Collins is immutably Miss Collins.
+131	"Miss Collins"	"is immutably"	"Miss Collins"	0.764
+IT was graduation night at the Ophelia DeVore School of Charm.
+132	"IT"	"was graduation night at"	"the Ophelia DeVore School of Charm"	0.904
+132	"IT"	"was"	"graduation night"	0.649
+The market wants to do better, said Gregory Bundy, head of equity trading at Merrill Lynch Japan Inc.
+133	"Gregory Bundy"	"be head of equity trading at"	"Merrill Lynch Japan Inc."	0.709
+133	"Gregory Bundy"	"be head of"	"equity trading"	0.791
+Last month we saw an American patient who had been to five gynecologists before the last one said there is this procedure and referred her to us.
+134	"her"	"be referred to"	"us"	0.622
+134	"we"	"saw in"	"Last month"	0.54
+134	"we"	"saw"	"an American patient who had been to five gynecologists before the last one"	0.653
+A senior American diplomat added, "We couldn't tolerate a treaty ally buying a Russian jet."
+135	"We"	"could n't tolerate"	"a treaty ally buying a Russian jet"	"[attrib=A senior American diplomat added]"	0.658
+Bonilla gave chase, but hesitated as he reached the wall, allowing the ball to drop.
+136	"Bonilla"	"gave"	"chase"	0.83
+136	"he"	"reached"	"the wall"	0.618
+A day after strong winds stirred up the Hauraki Gulf and broke the mast of Team New Zealand, a lack of wind caused Race 5 of the America's Cup to be abandoned today.
+137	"Race 5 of the America 's Cup"	"caused to be abandoned in"	"today"	0.699
+137	"a lack of wind"	"caused to be abandoned in"	"today"	0.711
+137	"strong winds"	"broke"	"the mast of Team New Zealand"	0.673
+137	"strong winds"	"stirred up"	"the Hauraki Gulf"	0.528
+Reno's supporters said today's decision demonstrated her willingness to go outside the Justice Department to investigate a high-ranking Clinton official when the facts justified it.
+138	"it"	"to be go outside"	"the Justice Department"	"[enabler=when the facts justified]"	0.302
+138	"today 's decision"	"demonstrated"	"her willingness to go outside the Justice Department to investigate a high-ranking Clinton official when the facts justified it"	"[attrib=Reno 's supporters said]"	0.828
+The Xbox looks better (next to a TV set).
+Mr. Lemelson was an independent inventor who was granted more than 500 patents during his lifetime and whose estate continues to receive patents based on applications he submitted before he died five years ago.
+140	"Mr. Lemelson"	"was"	"an independent inventor who was granted more than 500 patents during his lifetime and whose estate continues to receive patents"	0.733
+140	"patents"	"be based on"	"applications he submitted before he died five years ago"	0.816
+140	"whose estate"	"continues to receive"	"patents based on applications"	0.802
+He was John Dickinson, not Dickenson.
+141	"He"	"was"	"John Dickinson , not"	0.557
+Every gray leather seat is taken.
+Then he elevates himself off the ground to escape the ball that becomes a game-tying wild pitch.
+143	"he"	"Then elevates himself off"	"the ground to escape the ball"	0.678
+143	"he"	"Then elevates off the ground to escape the ball that becomes a game-tying wild pitch"	"himself"	0.33
+The Federal Home Loan Bank Board last week provided reassurances to securities dealers holding certain futures and options contracts with the American Savings and Loan Association, the nation's largest savings institution.
+144	"The Federal Home Loan Bank Board"	"provided reassurances to"	"securities dealers holding certain futures and options contracts with the American Savings and Loan Association , the nation 's largest savings institution"	0.858
+144	"The Federal Home Loan Bank Board"	"provided"	"reassurances"	0.683
+144	"certain futures and options contracts"	"be holding with"	"the American Savings and Loan Association"	0.541
+144	"reassurances"	"be provided to"	"securities dealers holding certain futures and options contracts with the American Savings and Loan Association , the nation 's largest savings institution"	0.849
+144	"securities dealers"	"holding certain futures with"	"the American Savings and Loan Association"	0.494
+144	"securities dealers"	"holding options contracts with"	"the American Savings and Loan Association"	0.402
+144	"the American Savings and Loan Association"	"be largest savings institution of"	"the nation"	0.426
+As at all the parties, the guests in strapless gowns and gleaming tuxedos were lining up at cash bars for drinks and at a photo op where they could be snapped in front of an inaugural seal -- not all that different from a high school prom photograph.
+145	"the guests"	"were lining up at"	"cash bars"	0.705
+145	"they"	"could be snapped in"	"front of an inaugural seal"	0.942
+Governor Florio proposed an ethics package that would give New Jersey some of the nation's most stringent rules for lawmakers and senior government appointees.
+146	"Governor Florio"	"proposed"	"an ethics package that would give New Jersey some of the nation 's most stringent rules for lawmakers and senior government appointees"	0.854
+This makes it more difficult to find delicate and crisp wines in the 10.5 percent to 12 percent range.
+147	"it"	"to find"	"delicate and crisp wines"	0.71
+On Fridays and Saturdays (the only nights it is open), every inch of that floor is rocking with people who are mostly from uptown -- specifically, the Upper East Side.
+148	"every inch of that floor"	"is rocking specifically with"	"people who are mostly from uptown"	0.619
+148	"it"	"is"	"open"	0.539
+148	"people"	"are from"	"uptown"	0.634
+Leopold complained about this approach in the 1940's, saying the landowner had "an obligation to manage his land in the interest of the community, as well as in his own interest.
+149	"Leopold"	"complained about"	"this approach"	0.936
+149	"Leopold"	"complained in"	"1940"	0.885
+149	"his land"	"to be manage in"	"the interest of the community"	0.825
+149	"the landowner"	"had"	"an obligation to manage his land in the interest of the community"	0.802
+A 19th-century Chinese portrait and a Kenneth Noland painting of a bull's-eye dominate the living room, drawing the eye in both vertical and horizontal directions.
+150	"A 19th-century Chinese portrait and a Kenneth Noland painting of a bull"	"dominate the living room drawing the eye in"	"vertical and horizontal directions"	0.681
+150	"A 19th-century Chinese portrait and a Kenneth Noland painting of a bull"	"dominate the living room drawing"	"the eye"	0.628
+150	"A 19th-century Chinese portrait and a Kenneth Noland painting of a bull"	"dominate"	"the living room"	0.783
+150	"the eye"	"be drawing in"	"vertical and horizontal directions"	0.723
+"Feeders and Eaters," which opens with its narrator stranded late at night in the wrong part of town, is not particularly concerned with this character's trajectory, but with the story of an old acquaintance he meets at a squalid cafe, and the insatiably hungry woman his shadowy friend keeps at home.
+151	"he"	"meets at"	"a squalid cafe"	0.774
+151	"his shadowy friend"	"keeps at"	"home"	0.881
+151	"its narrator"	"stranded late at"	"night"	0.854
+151	"its narrator"	"stranded late in"	"the wrong part of town"	0.814
+151	"wrong"	"be part of"	"town"	0.189
+Mr. Kerik first came to know Mr. Giuliani when he provided security during his second mayoral campaign.
+152	"Mr. Kerik"	"first came to know"	"Mr. Giuliani"	"[enabler=when he provided security during his second mayoral campaign]"	0.779
+152	"Mr. Kerik"	"to know"	"Mr. Giuliani"	0.721
+152	"he"	"provided security during"	"his second mayoral campaign"	0.8
+152	"he"	"provided"	"security"	0.75
+152	"security"	"be provided during"	"his second mayoral campaign"	0.716
+Targets in Kosovo province also came under sustained pounding, Serbian media said.
+153	"Serbian media"	"said"	"Targets"	0.646
+The statue stands 56 feet tall and was placed atop Red Mountain in 1936.
+Otherwise, she could receive up to 25 years in prison.
+155	"she"	"Otherwise could receive"	"up to 25 years"	0.728
+155	"she"	"up to be 25 years in"	"prison"	0.302
+The Yankees had erased an early 4-0 deficit and tied the game in the top of the ninth when Roberto Kelly smashed a two-run homer off the nearly invincible Gregg Olson.
+156	"Roberto Kelly"	"smashed a two-run homer off"	"the nearly invincible Gregg Olson"	0.903
+156	"Roberto Kelly"	"smashed"	"a two-run homer"	0.842
+156	"The Yankees"	"had erased"	"an early 4-0 deficit"	0.712
+156	"The Yankees"	"tied the game in"	"the top of the ninth"	"[enabler=when Roberto Kelly smashed a two-run homer off the nearly invincible Gregg Olson]"	0.836
+156	"The Yankees"	"tied"	"the game"	"[enabler=when Roberto Kelly smashed a two-run homer off the nearly invincible Gregg Olson]"	0.785
+156	"a two-run homer"	"be smashed off"	"the nearly invincible Gregg Olson"	0.716
+The United States has talked tough on trade during eight months of negotiations, but Japan has called its bluff and has yielded virtually nothing.
+157	"Japan"	"has called"	"its bluff"	0.678
+157	"Japan"	"has yielded"	"nothing"	0.776
+157	"The United States"	"has talked during"	"eight months of negotiations"	0.799
+157	"The United States"	"has talked on"	"trade"	0.807
+The day after the Bulls' Dennis Rodman suggested that they were "yellow" in Tuesday's night's loss to Chicago, the Knicks laughed it off as Rodman merely being Rodman.
+158	"The day"	"laughed it off as"	"Rodman merely being Rodman"	"[enabler=after the Bulls ' Dennis Rodman suggested that they were "yellow " in Tuesday 's night 's loss to Chicago]"	0.831
+158	"The day"	"laughed off"	"it"	"[enabler=after the Bulls ' Dennis Rodman suggested that they were "yellow " in Tuesday 's night 's loss to Chicago]"	0.491
+158	"it"	"be laughed off as"	"Rodman merely being Rodman"	"[enabler=after the Bulls ' Dennis Rodman suggested that they were "yellow " in Tuesday 's night 's loss to Chicago]"	0.636
+158	"the Knicks"	"laughed it off as"	"Rodman merely being Rodman"	"[enabler=after the Bulls ' Dennis Rodman suggested that they were "yellow " in Tuesday 's night 's loss to Chicago]"	0.902
+158	"the Knicks"	"laughed off"	"it"	"[enabler=after the Bulls ' Dennis Rodman suggested that they were "yellow " in Tuesday 's night 's loss to Chicago]"	0.644
+158	"they"	"were "yellow in"	"Tuesday 's night 's loss"	0.786
+158	"they"	"were"	""yellow"	0.677
+Unlike the Rangers, that is one commodity Steinbrenner doesn't seem bent on buying, no matter how good the price.
+159	"Steinbrenner"	"is does n't seem bent no matter how good the price on"	"buying"	0.711
+159	"Steinbrenner"	"is does n't seem bent no matter how good the price unlike"	"the Rangers"	0.534
+159	"Steinbrenner"	"is does n't seem bent"	"no matter"	0.588
+159	"one commodity"	"is does n't seem bent no matter how good the price on"	"buying"	0.69
+159	"one commodity"	"is does n't seem bent no matter how good the price unlike"	"the Rangers"	0.494
+159	"one commodity"	"is does n't seem bent"	"no matter"	0.564
+They maintain that this "negligent distribution" makes the companies collectively liable for the shootings in the case -- even if it cannot be proven which company's gun was used in a given shooting -- an argument that legal experts term novel in gun litigation.
+160	"company 's gun"	"was used an argument that legal experts term novel in gun litigation in"	"a given shooting"	0.69
+160	"company 's gun"	"was used"	"an argument"	0.78
+160	"the companies"	"be collectively liable for"	"the shootings"	0.62
+The Russian Parliament voted Wednesday to contribute only 23.4 billion rubles for the coming year, less than a 10th of the total budget for the year.
+161	"The Russian Parliament"	"to contribute only 23.4 billion rubles for"	"the coming year"	0.781
+161	"The Russian Parliament"	"to contribute"	"only 23.4 billion rubles"	0.779
+161	"The Russian Parliament"	"voted in"	"Wednesday"	0.79
+161	"The Russian Parliament"	"voted to contribute only 23.4 billion rubles for"	"the coming year"	0.782
+161	"The Russian Parliament"	"voted to contribute"	"only 23.4 billion rubles"	0.722
+161	"only 23.4 billion rubles"	"to be contribute for"	"the coming year"	0.643
+Tierney Finn, an actress, and Mark Fitzmartin, a television commercial producer for Fernbach Productions in New York, both graduates of New York University's Tisch School of the Arts, were married yesterday in Holy Trinity Chapel at N.Y.U.
+162	"Fernbach Productions"	"be a television commercial producer for"	"both graduates of New York University 's Tisch School of the Arts"	0.349
+162	"Fernbach Productions"	"be both graduates of"	"New York University 's Tisch School of the Arts"	0.687
+162	"Tierney Finn , an actress , and Mark Fitzmartin"	"be a television commercial producer for"	"Fernbach Productions"	0.72
+162	"Tierney Finn , an actress , and Mark Fitzmartin"	"were married at"	"N.Y."	0.825
+162	"Tierney Finn , an actress , and Mark Fitzmartin"	"were married in"	"Holy Trinity Chapel"	0.849
+162	"both graduates of New York University 's Tisch School of the Arts"	"be Fernbach Productions in"	"New York"	0.206
+Jesse Jackson and one of his campaign fund-raisers misstated the history of Mr. Jackson's requests for permission to visit South Africa.
+163	"his campaign fund-raisers"	"misstated the history of"	"Mr. Jackson 's requests"	0.927
+I'm tickled to death that he's coming back because he should be back.
+164	"I"	"'m tickled to"	"death"	0.891
+Many Schubert admirers I know, however, would be ecstatic to learn that their idol was a fellow homosexual, who acted on his sexuality with joy and pride.
+165	"a fellow homosexual"	"acted on"	"his sexuality"	0.74
+165	"their idol"	"was"	"a fellow homosexual who acted on his sexuality with joy and pride"	0.659
+He graduated summa cum laude from the University of California, Los Angeles.
+166	"He"	"graduated summa cum laude from"	"the University of California"	0.86
+166	"He"	"graduated"	"summa cum laude"	0.761
+166	"Los Angeles"	"be the University of"	"California"	0.397
+166	"summa cum laude"	"be graduated from"	"the University of California"	0.785
+He washed dishes and chopped vegetables for a year before getting a scholarship to attend the State University of New York at Oneonta.
+167	"He"	"washed chopped vegetables for"	"a year"	0.777
+167	"He"	"washed dishes for"	"a year"	0.835
+167	"He"	"washed"	"dishes and chopped vegetables"	0.761
+167	"dishes and chopped vegetables"	"be washed for"	"a year"	0.804
+167	"the State University of New York"	"to be attend at"	"Oneonta"	0.677
+She was a continuing source of love, kindness and generosity who never failed to nurture her adoring family.
+168	"She"	"was a continuing source of"	"love , kindness and generosity who never failed to nurture her adoring family"	0.858
+168	"She"	"was"	"a continuing source of love"	0.636
+There is a mind-bending illogic behind the Bush administration's decision yesterday to withhold $34 million from the United Nations Population Fund, which is working in China despite continued practices there of coerced abortion and sterilization.
+In 1954, the committee presented a $100 million improvement plan and obtained legislation to set up a nondividend paying corporation to borrow the funds to create a new Aqueduct and to improve Belmont and Saratoga race tracks.
+170	"a $ 100 million improvement plan"	"be presented in"	"1954"	0.565
+170	"the committee"	"presented a $ 100 million improvement plan in"	"1954"	0.708
+170	"the committee"	"presented"	"a $ 100 million improvement plan"	0.767
+She is a daughter of Mr. and Mrs. Francis T. Doyen of Fishers Island.
+171	"She"	"is a daughter of"	"Mr. and Mrs. Francis T. Doyen of Fishers Island"	0.919
+171	"She"	"is"	"a daughter of Mr. and Mrs. Francis T. Doyen of Fishers Island"	0.681
+The Roman Catholic Church denied Tuesday that it was sheltering a top Croatian war crimes suspect, after an allegation by a United Nations prosecutor that the suspect was hiding in a monastery and that the Vatican had refused pleas to help find him.
+172	"The Roman Catholic Church"	"denied in"	"Tuesday"	0.79
+172	"a top Croatian war crimes"	"suspect after"	"an allegation"	0.806
+172	"the Vatican"	"had refused"	"pleas to help find him"	0.663
+172	"the Vatican"	"was hiding in"	"a monastery"	0.384
+172	"the suspect"	"had refused"	"pleas to help find him"	0.663
+172	"the suspect"	"was hiding in"	"a monastery"	0.576
+While the Christmas-New Year's season is always a slack time for most lines of work, it's even more so when the holidays break two consecutive normal weeks into four discombobulating two-day weeks.
+173	"the Christmas-New Year 's season"	"is always a slack time for"	"most lines of work"	0.876
+173	"the Christmas-New Year 's season"	"is always"	"a slack time"	0.686
+Then another musical selection served as a prelude to scenes from a comic dance-drama in the folk style.
+174	"another musical selection"	"Then served as"	"a prelude"	0.855
+Divertimento" from "Le Baiser de la Fee," presented by the New York City Ballet on Wednesday night at the New York State Theater, is one of George Balanchine's odder ballets.
+175	"Le Baiser"	"is"	"one of George Balanchine 's odder ballets"	0.665
+The consortium, called CityLink Telecommunications Ltd., has pledged to invest $568 million to upgrade the telecommunication capabilities of the subway system, which is being overhauled, and maintain it for 20 years.
+176	"it"	"be maintain for"	"20 years"	0.734
+Today's bet is that the promise of sending British or German or American troops to defend Warsaw or Prague against an unnamed enemy will not only make that unnecessary but will also help to entrench democracy and a free market system in Eastern Europe.
+177	"Warsaw or Prague"	"to be defend against"	"an unnamed enemy"	0.643
+177	"democracy and a free market system"	"to be entrench in"	"Eastern Europe"	0.615
+It may seem as if she did not need the training, but it is already paying off.
+178	"she"	"did not need"	"the training"	0.083
+His staging has a touch of Broadway corn, with six choreographed female dancers.
+179	"His staging"	"has"	"a touch of Broadway corn"	0.814
+179	"six"	"choreographed"	"female dancers"	0.536
+Nightmarish Soviet-style bureaucratic controls remain, like needing a special government permit to buy a delivery van.
+The Daisy Systems Corporation said today that some of its bondholders had filed a petition for involuntary bankruptcy against the computer company.
+181	"The Daisy Systems Corporation"	"said in"	"today"	0.803
+The Digital Domain column last Sunday, about Craigslist, the online bulletin board, misstated the name of a consulting firm that found in a survey last fall that many newspaper industry executives were unaware of the site's arrival in their cities.
+182	"The Digital Domain column"	"misstated"	"the name of a consulting firm"	0.756
+182	"a consulting firm"	"found in"	"a survey"	0.74
+182	"many newspaper industry executives"	"were unaware of"	"the site 's arrival"	0.8
+182	"many newspaper industry executives"	"were"	"unaware of the site 's arrival"	0.749
+A review on June 29, about two books on German musicians and music in the Nazi period, referred incorrectly to Fred K. Prieberg's 1982 German book on those subjects.
+183	"A review"	"be about two books on"	"German musicians and music"	0.748
+183	"A review"	"referred incorrectly to"	"Fred K. Prieberg 's 1982 German book"	0.862
+Hayden's Point was built by James Gamble Rogers for Chet Bowles, and it was never meant to be a showplace.
+184	"Hayden 's Point"	"was built by"	"James Gamble Rogers"	0.919
+184	"Hayden 's Point"	"was never meant"	"a showplace"	0.602
+184	"it"	"was built by"	"James Gamble Rogers"	0.775
+184	"it"	"was never meant"	"a showplace"	0.652
+Bennett confirmed when he addressed the Township Council tonight that the United States attorney's office had requested information from the township.
+185	"he"	"addressed"	"the Township Council tonight"	0.75
+185	"the United States attorney 's office"	"had requested information from"	"the township"	0.744
+185	"the United States attorney 's office"	"had requested"	"information"	0.696
+In 1964, he joined CBS News as an associate producer of "CBS News With Walter Cronkite" in Washington, and he later became the producer for White House correspondent Dan Rather, now CBS's weekday anchor, during the Nixon Administration.
+186	"CBS News"	"be joined as"	"an associate producer of "CBS News"	0.737
+186	"CBS News"	"be joined in"	"1964"	0.39
+186	"Dan Rather"	"be correspondent for"	"White House"	0.57
+186	"Dan Rather"	"be correspondent of"	"White House"	0.645
+186	"Walter Cronkite"	"later became the producer for"	"White House correspondent Dan Rather"	0.848
+186	"Walter Cronkite"	"later became"	"" in Washington , and he later became the producer"	0.75
+186	"he"	"be an associate producer of"	""CBS News"	0.312
+186	"he"	"joined CBS News as"	"an associate producer of "CBS News"	0.895
+186	"he"	"joined CBS News in"	"1964"	0.601
+186	"he"	"joined CBS News"	"1964"	0.302
+186	"he"	"joined"	"CBS News"	0.73
+186	"he"	"later became the producer for"	"White House correspondent Dan Rather"	0.835
+Her subjects were friends and artists who posed for her in their "Full Monty" glory.
+187	"Her subjects"	"were"	"friends and artists who posed for her in their " Full Monty " glory"	0.847
+Justice Charles R. Alberti, a retired associate justice of the Massachusetts Superior Court in Pittsfield, performed the ceremony at the home of the bride's parents.
+188	"Justice Charles R. Alberti"	"be a retired associate justice of"	"the Massachusetts Superior Court"	0.801
+188	"Justice Charles R. Alberti"	"performed the ceremony at"	"the home of the bride 's parents"	0.898
+188	"Justice Charles R. Alberti"	"performed"	"the ceremony"	0.783
+188	"the ceremony"	"be performed at"	"the home of the bride 's parents"	0.861
+David Johansen's latest genre excursion heads for the recorded roots of American music: the blues, ballads, country and gospel songs, full of murder and adultery and hope for redemption, that were collected by Harry Smith for his Anthology of American Folk Music, a foundation of the 1950's folk revival.
+189	"a foundation of the 1950 's folk revival"	"be his Anthology of"	"American Folk Music"	0.36
+189	"a foundation of the 1950 's folk revival"	"were collected for"	"his Anthology of American Folk Music"	0.585
+189	"his Anthology of American Folk Music"	"be a foundation of"	"1950 's folk revival"	0.67
+Ford shares fell 2 cents, to $9.96.
+190	"Ford shares"	"fell"	"2 cents"	0.722
+Bic is being sued by people who say their lighters exploded, causing burns, and in some cases, death.
+191	"Bic"	"is being sued by"	"people who say their lighters exploded , causing burns"	0.802
+Indeed, they were treated more fairly than Lawrence H. Summers, the president of Harvard, has been treated by his faculty.
+192	"Lawrence H. Summers"	"be the president of"	"Harvard"	0.596
+With the Jets' training camp opening next Monday, Hadley Engelhard, the agent for the team's first-round draft pick, Dewayne Robertson, will arrive in New York today and expects to meet with the Jets tomorrow in an effort to start contract negotiations.
+193	"Monday"	"be the agent for"	"the team 's first-round draft pick"	0.509
+193	"Monday"	"expects to meet in"	"an effort to start contract negotiations"	0.705
+193	"Monday"	"expects to meet with"	"the Jets"	0.603
+193	"Monday"	"to meet in"	"an effort to start contract negotiations"	0.661
+193	"Monday"	"to meet with"	"the Jets"	0.553
+193	"Monday"	"will arrive at"	"New York"	0.27
+193	"Monday"	"will arrive in"	"New York"	0.559
+193	"Monday"	"will arrive with"	"the Jets ' training camp opening"	0.424
+A winner will be announced in October.
+194	"A winner"	"will be announced in"	"October"	0.907
+Until the investigation is completed and the I.A.A.F. convenes in London April 15 to decide her case, the federation has instructed the British Amateur Athletic Board to withdraw Budd from all international competition.
+195	"April 15"	"to decide"	"her case"	0.66
+195	"Budd"	"to be withdraw from"	"all international competition"	0.543
+195	"I.A.A.F."	"convenes in"	"London"	0.786
+195	"the federation"	"has instructed the British Amateur Athletic Board to withdraw Budd from"	"all international competition"	0.695
+195	"the federation"	"has instructed the British Amateur Athletic Board to withdraw"	"Budd"	0.756
+195	"the federation"	"has instructed"	"the British Amateur Athletic Board"	0.774
+The bride is the stepdaughter of Richard L. Harris.
+196	"The bride"	"is the stepdaughter of"	"Richard L. Harris"	0.92
+196	"The bride"	"is"	"the stepdaughter of Richard L. Harris"	0.768
+But how about Bodynet, an enveloping computer web in which your wireless-data telephone might actually be a hat?
+197	"your wireless-data telephone"	"might actually be"	"a hat"	0.807
+Mr. Parkin's office was also searched by the F.B.I.
+198	"Mr. Parkin 's office"	"was also searched by"	"the F.B.I."	0.914
+General Blevins agreed and said he would strike with a tank regiment held in reserve as well as with helicopters and Air Force support.
+199	"a tank regiment"	"held in"	"reserve"	0.758
+199	"a tank regiment"	"held"	"reserve"	0.356

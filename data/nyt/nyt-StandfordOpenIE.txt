@@ -1,0 +1,963 @@
+she	author under	name of Kathryn Watterson Burkhart	1.000
+she	author under	name	1.000
+she	is lecturer	writing	1.000
+she	is lecturer	writing at Princeton University	1.000
+events	occurred in	July	1.000
+attacks	have declined in	years	1.000
+number	is thought	have fallen	1.000
+Terrorist attacks	have declined in	years	1.000
+number	fallen to	score	1.000
+number	is	thought	1.000
+Terrorist attacks	have declined in	recent years	1.000
+number	is thought	have fallen to score	1.000
+number	fallen to	several score	1.000
+number	is thought	have fallen to several score	1.000
+attacks	have declined in	recent years	1.000
+Iraq	with	main political leaders	1.000
+national unity government	is with	Iraq 's main political leaders	1.000
+girls	protect	themselves	1.000
+He	also had	stints	1.000
+stints	is with	New York Philharmonic	1.000
+He	also had	stints with New York Philharmonic	1.000
+He	had	stints with New York Philharmonic	1.000
+NBC Symphony	has	successor	1.000
+He	had	stints	1.000
+automakers	have beefed up	their warranties	1.000
+other automakers	have beefed up	their warranties	1.000
+President Bush	deserves	much credit	1.000
+President Bush	deserves	credit	1.000
+President Bush	deserves credit for	increasing United States financing	1.000
+President Bush	deserves credit for	increasing United States financing for AIDS prevention programs	1.000
+President Bush	deserves credit for	sharply increasing United States financing for AIDS prevention programs overseas	1.000
+President Bush	deserves credit for	United States financing for AIDS prevention programs	1.000
+President Bush	deserves credit for	United States financing for AIDS prevention programs overseas	1.000
+President Bush	deserves credit for	sharply increasing United States financing for AIDS prevention programs	1.000
+President Bush	deserves credit for	United States financing	1.000
+President Bush	deserves credit for	increasing United States financing for AIDS prevention programs overseas	1.000
+President Bush	deserves credit for	sharply increasing United States financing	1.000
+he	referring to	his trip to Britain	1.000
+he	said	referring	1.000
+he	said	referring to his coming trip	1.000
+he	said	referring to his trip to Britain	1.000
+he	said	referring to his trip	1.000
+he	referring to	his coming trip	1.000
+he	referring to	his coming trip to Britain	1.000
+he	referring to	his trip	1.000
+he	said	referring to his coming trip to Britain	1.000
+idea	is	pointless	1.000
+bilingualism	is in	school	1.000
+bilingualism	slows	his learning of English	1.000
+bilingualism	slows	his learning	1.000
+whole idea	is	pointless	1.000
+648 neighborhood-scale New Urbanist communities	increase of	176	1.000
+United States	in communities is	increase of 176 over 12-month period	1.000
+648 neighborhood-scale New Urbanist communities	is in	United States	1.000
+Congress	reported	648 neighborhood-scale New Urbanist communities	1.000
+Congress	reported	648 New Urbanist communities	1.000
+Congress	reported	increase	1.000
+648 neighborhood-scale New Urbanist communities	increase over	12-month period	1.000
+Congress	reported	increase of 176 over period	1.000
+Congress	reported	648 neighborhood-scale New Urbanist communities in United States	1.000
+Congress	reported	increase over 12-month period	1.000
+Congress	reported	increase of 176 over 12-month period	1.000
+Congress	reported	increase of 176	1.000
+Congress	reported	increase over period	1.000
+Congress	reported	648 New Urbanist communities in United States	1.000
+It	goes against	all	1.000
+inexpensive point-and-shoot cameras	can do	job	1.000
+point-and-shoot cameras	can do	job	1.000
+they	have	zoom lens	1.000
+they	have	telephoto setting	1.000
+We	can use	little more	1.000
+We	can use	more of trust	1.000
+We	can use	little more of trust	1.000
+We	can use	more	1.000
+companies	included	its parent	1.000
+companies	included	AOL Time Warner	1.000
+its	parent	AOL Time Warner	1.000
+three Xanax	bottle of	cabernet	1.000
+I	'd recommend	bottle of cabernet	1.000
+I	'd recommend	three Xanax	1.000
+I	'd recommend	great bottle	1.000
+I	'd recommend	great bottle of cabernet	1.000
+I	'd recommend	bottle	1.000
+case	is	is appealed	1.000
+Doctors	are expected from	rash to finger lost in explosion	1.000
+Doctors	are expected from	rash to finger	1.000
+Doctors	are expected from	rash	1.000
+Doctors	are expected from	unusual rash to finger lost	1.000
+Doctors	are expected from	unusual rash to finger	1.000
+Doctors	is in	Pennsylvania	1.000
+Doctors	are	expected	1.000
+Doctors	are expected from	unusual rash	1.000
+Doctors	notify	S.M.I. bioterror experts of suspicious event	1.000
+Doctors	are expected from	rash to finger lost	1.000
+Doctors	are expected from	unusual rash to finger lost in explosion	1.000
+Nothing	is	untouched	1.000
+Nothing	is untouched regardless of	its provenance	1.000
+influx	create	problems	1.000
+large influx	create	problems	1.000
+second-ranked basset hound	is in	1998	1.000
+quota	had	had filled	1.000
+Morningwood Ulysses S. Grant	hound in	1998	1.000
+region	is far	still rebuilt	1.000
+region	is far	rebuilt	1.000
+asbestos	found	substantial amount	1.000
+lead survey	found	amount of asbestos	1.000
+lead survey	found	substantial amount of asbestos	1.000
+survey	found	substantial amount of asbestos	1.000
+lead survey	found	amount	1.000
+survey	found	amount of asbestos	1.000
+survey	found	amount	1.000
+asbestos	found	amount	1.000
+asbestos	found	substantial amount of asbestos	1.000
+lead survey	found	substantial amount	1.000
+asbestos	found amount in	buildings	1.000
+survey	found	substantial amount	1.000
+asbestos	found	amount of asbestos	1.000
+survey	found amount in	buildings	1.000
+lead survey	found amount in	buildings	1.000
+it	provide	security	1.000
+it	provide	adequate security	1.000
+Federal court	is in	Nevada	1.000
+Ms. Coughlin	Meanwhile is pursuing	her case	1.000
+Ms. Coughlin	is pursuing	her case	1.000
+station	from	30th Street exit	1.000
+donations	is in	his memory	1.000
+donations	can	can made	1.000
+donations	can	can made to International Myeloma Foundation	1.000
+Julian Stark	does	his own stunts	1.000
+Julian Stark	does	his stunts	1.000
+Julian Stark	does	his own hapless stunts	1.000
+Julian Stark	does	his hapless stunts	1.000
+outlook	reflects	possibility of managerial instability	1.000
+findings	supporting	reserve adjustments	0.526
+outlook	also reflects	possibility of further instability	1.000
+outlook	reflects	possibility of instability	1.000
+findings	supporting	further reserve adjustments	0.526
+negative outlook	also reflects	possibility of managerial instability	1.000
+outlook	also reflects	possibility	1.000
+findings	supporting	shareholder litigation	0.526
+negative outlook	reflects	possibility of managerial instability	1.000
+negative outlook	reflects	possibility of further instability	1.000
+outlook	reflects	possibility of further managerial instability	1.000
+outlook	reflects	possibility	1.000
+negative outlook	reflects	possibility	1.000
+negative outlook	also reflects	possibility of instability	1.000
+negative outlook	reflects	possibility of instability	1.000
+outlook	also reflects	possibility of instability	1.000
+negative outlook	also reflects	possibility	1.000
+outlook	reflects	possibility of further instability	1.000
+negative outlook	also reflects	possibility of further managerial instability	1.000
+negative outlook	also reflects	possibility of further instability	1.000
+outlook	also reflects	possibility of further managerial instability	1.000
+outlook	also reflects	possibility of managerial instability	1.000
+negative outlook	reflects	possibility of further managerial instability	1.000
+writer	has	credit	1.000
+My words	were	as perishable	1.000
+My words	were perishable as	doodles on Etch-a-Sketch	1.000
+My words	were perishable as	doodles	1.000
+My words	were as perishable as	doodles	1.000
+My words	were as perishable as	doodles on Etch-a-Sketch	1.000
+I	share	writer 's credit	1.000
+My words	were	perishable	1.000
+spring 's variations	are step	loafer can travel anywhere	1.000
+spring 's variations	are step in	direction	1.000
+spring	has	variations	1.000
+spring 's variations	are certainly step	loafer can travel	1.000
+spring 's variations	are	certainly step	1.000
+spring 's variations	are certainly step	loafer can travel anywhere	1.000
+spring 's variations	are step	classic loafer can travel anywhere	1.000
+spring 's variations	are step	classic loafer can travel	1.000
+spring 's variations	are certainly step	classic loafer can travel	1.000
+spring 's variations	are step	loafer can travel	1.000
+spring 's variations	are certainly step	classic loafer can travel anywhere	1.000
+spring 's variations	are certainly step in	new direction	1.000
+spring 's variations	are	step	1.000
+step	is in	new direction	1.000
+spring 's variations	are certainly step in	direction	1.000
+spring 's variations	are step in	new direction	1.000
+article last Sunday	referred to	buyer 's arrangements	1.000
+article	referred incorrectly to	buyer 's arrangements with owner	1.000
+article	referred incorrectly to	buyer 's arrangements	1.000
+article last Sunday	referred to	buyer 's arrangements with owner of land	1.000
+article Sunday	referred to	buyer 's arrangements with owner of land	1.000
+article last Sunday	referred incorrectly to	buyer 's arrangements	1.000
+article	referred incorrectly to	buyer 's arrangements with owner of land	1.000
+article last Sunday	referred to	buyer 's arrangements with owner	1.000
+buyer	to	arrangements with owner of land	1.000
+article last Sunday	referred incorrectly to	buyer 's arrangements with owner	1.000
+article	referred to	buyer 's arrangements	1.000
+buyer 's arrangements	is with	owner of land	1.000
+article	referred to	buyer 's arrangements with owner of land	1.000
+article Sunday	referred incorrectly to	buyer 's arrangements with owner	1.000
+article Sunday	referred incorrectly to	buyer 's arrangements with owner of land	1.000
+article Sunday	referred to	buyer 's arrangements	1.000
+article Sunday	referred to	buyer 's arrangements with owner	1.000
+article	referred to	buyer 's arrangements with owner	1.000
+article Sunday	referred incorrectly to	buyer 's arrangements	1.000
+article last Sunday	referred incorrectly to	buyer 's arrangements with owner of land	1.000
+Giants	begin	their first preparations for Monday night 's game in Minnesota against Vikings	1.000
+Giants	begin	their first preparations for Monday night 's game against Vikings	1.000
+Giants	begin	their preparations for Monday night 's game	1.000
+Giants	convened	begin	0.136
+Giants	begin	their first preparations for Monday night 's game	1.000
+Giants	begin	their first preparations for Monday night 's game in Minnesota	1.000
+Giants	begin	their preparations for Monday night 's game in Minnesota against Vikings	1.000
+Giants	begin	their preparations	1.000
+Giants	begin	their preparations for Monday night 's game in Minnesota	1.000
+Giants	convened at_time	today	1.000
+Giants	begin	their first preparations	1.000
+Monday night	for	game in Minnesota against Vikings	1.000
+Monday night 's game	is in	Minnesota	1.000
+Giants	begin	their preparations for Monday night 's game against Vikings	1.000
+John Lamar Odom	pastor of	First Presbyterian Church in Oceanside	1.000
+John Lamar Odom	were married at_time	yesterday	1.000
+John Lamar Odom	were	married	1.000
+First Presbyterian Church	is in	Oceanside	1.000
+World Health Organization	dating 's	late 1980 's	1.000
+World Health Organization	dating back 's	late 1980 's	1.000
+World Health Organization	has issued	report	1.000
+retail chain	based on	West Coast	0.481
+Nordstrom Inc.	said at_time	today	1.000
+chain	based on	West Coast	0.481
+Dr. Weiss	graduated	summa cum laude	1.000
+Dr. Weiss	received	his medical degree	1.000
+Dr. Weiss	graduated summa cum laude from	Brandeis University	1.000
+Dr. Weiss	received	his degree	1.000
+announced crowd	was	15,568	1.000
+crowd	was	15,568	1.000
+times	In affair is	frenzied survival-of-the-fittest scene of piled-up luggage	1.000
+taxis	shouting	cabbies	1.000
+Darwinian affair	scene of	piled-up luggage	1.000
+Darwinian affair	is In	times past	1.000
+taxis	shouting	cabbies looking	1.000
+taxis	shouting	cabbies looking for edge	1.000
+They	won	26 of their next 31 games including 11 straight	1.000
+They	won	26 of their 31 games including 11 straight in June	1.000
+They	won	26 their next 31 games including 11 straight in June	1.000
+They	won	26 their 31 games including 11 straight in June	1.000
+They	won	26 of their next 31 games including 11 straight in June	1.000
+They	won	26 their next 31 games including 11 straight	1.000
+They	won	26 their 31 games including 11 straight	1.000
+They	won	26 of their 31 games including 11 straight	1.000
+micro-exhibition	reunites	five portraits	1.000
+van Gogh	met while	while Arles	1.000
+revelatory micro-exhibition	reunites	five portraits	1.000
+officials	were	aware	1.000
+officials	were aware of	potential for missile attacks along border	1.000
+officials	were aware of	potential	1.000
+officials	were aware of	potential for missile attacks	1.000
+British officials	were aware of	potential for missile attacks	1.000
+British officials	were	aware	1.000
+officials	were aware of	potential for missile attacks along border between province	1.000
+British officials	were aware of	potential for missile attacks along border between province	1.000
+British officials	were aware of	potential	1.000
+British officials	were aware of	potential for missile attacks along border	1.000
+Steamed crabs	were	tender easy	1.000
+Steamed crabs	is with	scallions	1.000
+Steamed crabs	were	tender	1.000
+crabs	were	tender easy	1.000
+crabs	were	tender	1.000
+It	get	worse	1.000
+It	's only going	get	1.000
+It	's going	get	1.000
+It	get	it gets	1.000
+It	get	it gets better	1.000
+He	is	assistant director	1.000
+He	is assistant director for	policy	1.000
+He	is director at	Gay Men 's Health Crisis	1.000
+He	is	director	1.000
+He	is	director for policy at Gay Men 's Health Crisis	1.000
+He	is assistant director at	Gay Men 's Health Crisis	1.000
+Gay Men	at	Health Crisis	1.000
+He	is director for	policy	1.000
+He	is	assistant director for policy at Gay Men 's Health Crisis	1.000
+Hall	fires	fastball	1.000
+Liselotte Leicht	director at	Helsinki Federation	1.000
+Officials	declined at_time	yesterday	1.000
+Officials	identify	medication involved	1.000
+Officials	identify	medication	1.000
+I	readied	my gear	1.000
+30 Marines	wounded in	attack near Nassiriya	1.000
+30 Marines	wounded in	attack	1.000
+News	led with	Friendly Fire	1.000
+Marines	wounded in	attack near Nassiriya	1.000
+Saddam	has	evil order to kids	1.000
+Fight	followed by	can Iraq sink	0.903
+Marines	wounded in	attack	1.000
+Weetzie	has	daughter	1.000
+They	live with	Weetzie 's gay best friend	1.000
+They	live with	his lover	1.000
+Dirk	with lover is	his	1.000
+They	live with	Dirk	1.000
+Weetzie	's daughter is	Cherokee	1.000
+They	live with	Weetzie 's friend	1.000
+They	live with	Weetzie 's best friend	1.000
+Weetzie	has	gay best friend	1.000
+They	live with	Weetzie 's gay friend	1.000
+he	won Eli Lilly Award Among	his many honors	1.000
+he	won Waterford International Biomedical Award Among	his many honors	1.000
+he	won Eli Lilly Award Among	his honors	1.000
+Award	is in	Bacteriology	1.000
+he	won Waterford International Biomedical Award Among	his honors	1.000
+Sheik Thamer	is deputy to	country 's senior cleric	1.000
+Sheik Thamer	is deputy to	country 's most senior cleric	1.000
+Sheik Thamer	is deputy to	Grand Ayatollah Ali al-Sestani	1.000
+Sheik Thamer	is deputy to	country 's cleric	1.000
+country	has	most senior Shiite cleric	1.000
+Sheik Thamer	is deputy to	country 's senior Shiite cleric	1.000
+Grand Ayatollah Ali al-Sestani	cleric 's	country	1.000
+Sheik Thamer	is deputy to	country 's Shiite cleric	1.000
+Sheik Thamer	is deputy to	country 's most senior Shiite cleric	1.000
+Sheik Thamer	is	deputy	1.000
+shuttle	was	stopped	1.000
+shuttle	was	also stopped	1.000
+Flushing line trains	bypassed	Grand Central	1.000
+His one miscalculation	was	ask for nobody	1.000
+His miscalculation	ask	humming in second song	1.000
+His miscalculation	ask	humming	1.000
+His miscalculation	was	ask for nobody	1.000
+His one miscalculation	ask	humming in second song	1.000
+His one miscalculation	ask	humming in song	1.000
+His miscalculation	ask	humming in song	1.000
+His one miscalculation	was	ask	1.000
+His miscalculation	ask for	nobody	1.000
+His miscalculation	was	ask	1.000
+His one miscalculation	ask for	nobody	1.000
+His one miscalculation	ask	humming	1.000
+San Antonio News Express	reported at_time	yesterday	1.000
+it	justify	event	1.000
+Frauke Petersen Haasemann	died at_time	Friday	1.000
+Frauke Petersen Haasemann	died at_time	last Friday	1.000
+Frauke Petersen Haasemann	died at	her home in Princeton	1.000
+Frauke Petersen Haasemann	died at	her home	1.000
+Frauke Petersen Haasemann	conductor of	Westminster Choir	1.000
+her home	is in	Princeton	1.000
+he	selected	one on high floor of Carlyle	1.000
+he	selected	one on floor of Carlyle	1.000
+he	toured	five hotels	1.000
+selected	one on	high floor	0.699
+he	selected	one on high floor	1.000
+selected	one on	floor	0.699
+selected	one on	floor of Carlyle	0.699
+room	is with	view of Central Park	1.000
+selected	one on	high floor of Carlyle	0.699
+he	selected	one on floor	1.000
+12.4 percent	is in	May	1.000
+Costello	has	main work joining last October	1.000
+Her father	retired as	representative of manufacturers	1.000
+Her father	retired as	representative	1.000
+Her father	retired as	representative of manufacturers of railroad equipment	1.000
+college football teams	violate laws	refusing	1.000
+class-action lawsuit	was	filed yesterday in United States District Court	1.000
+major college football teams	violate	laws	1.000
+college football teams	violate	laws	1.000
+class-action lawsuit	was filed in	United States District Court	1.000
+class-action lawsuit	was	filed	1.000
+major college football teams	violate laws	refusing	1.000
+lawsuit	was filed in	United States District Court	1.000
+lawsuit	was filed at_time	yesterday	1.000
+lawsuit	was	filed	1.000
+United States District Court	is in	Seattle	1.000
+college football teams	violate	antitrust laws	1.000
+major college football teams	violate	antitrust laws	1.000
+class-action lawsuit	was filed at_time	yesterday	1.000
+lawsuit	was	filed yesterday in United States District Court	1.000
+Police Department	is with	elected officials	1.000
+conclusion	is Following	killing of Amadou Diallo	1.000
+inexorable conclusion	is Following	killing of Amadou Diallo	1.000
+inexorable conclusion	is Following	killing	1.000
+conclusion	is Following	killing	1.000
+history	Indeed shows	that	0.678
+history	shows	that	0.678
+allied efforts	is in	Persian Gulf	1.000
+Two Japanese travel agencies	busily booking	horseback	1.000
+Japanese travel agencies	busily booking	guests	1.000
+Japanese travel agencies	have	desks beside manicured garden adjacent to lobby	1.000
+Japanese travel agencies	have	desks beside finely manicured English-style garden adjacent	1.000
+Japanese travel agencies	have	desks beside manicured English-style garden adjacent	1.000
+Japanese travel agencies	have	desks beside finely manicured garden adjacent	1.000
+Japanese travel agencies	have	desks beside garden adjacent to lobby	1.000
+Japanese travel agencies	have	desks beside manicured English-style garden adjacent to lobby	1.000
+Japanese travel agencies	have	desks beside finely manicured garden adjacent to lobby	1.000
+Japanese travel agencies	have	desks beside English-style garden adjacent	1.000
+Japanese travel agencies	have	desks beside manicured English-style garden	1.000
+Japanese travel agencies	have	desks beside garden	1.000
+Two Japanese travel agencies	booking horseback for	golf	1.000
+Japanese travel agencies	busily booking horseback for	golf	1.000
+Two Japanese travel agencies	busily booking guests for	golf	1.000
+Two Japanese travel agencies	booking	free-spending guests	1.000
+Japanese travel agencies	have	desks	1.000
+Japanese travel agencies	have	desks beside manicured garden adjacent	1.000
+Japanese travel agencies	busily booking	free-spending guests	1.000
+Two Japanese travel agencies	busily booking horseback for	golf	1.000
+Two Japanese travel agencies	busily booking	guests	1.000
+Two Japanese travel agencies	booking guests for	golf	1.000
+Japanese travel agencies	busily booking guests for	golf	1.000
+Two Japanese travel agencies	booking	horseback	1.000
+Japanese travel agencies	busily booking	horseback	1.000
+Japanese travel agencies	have	desks beside garden adjacent	1.000
+Two Japanese travel agencies	busily booking	free-spending guests	1.000
+Japanese travel agencies	have	desks beside finely manicured garden	1.000
+Japanese travel agencies	have	desks beside finely manicured English-style garden	1.000
+Japanese travel agencies	have	desks beside finely manicured English-style garden adjacent to lobby	1.000
+Japanese travel agencies	booking	horseback	1.000
+Japanese travel agencies	have	desks beside manicured garden	1.000
+Japanese travel agencies	have	desks beside English-style garden adjacent to lobby	1.000
+Japanese travel agencies	booking	guests	1.000
+Japanese travel agencies	booking	free-spending guests	1.000
+Japanese travel agencies	booking guests for	golf	1.000
+Japanese travel agencies	booking horseback for	golf	1.000
+Japanese travel agencies	have	desks beside English-style garden	1.000
+Two Japanese travel agencies	booking	guests	1.000
+Net income	represented	net asset value	1.000
+income	represented	net asset value	1.000
+income	represented	asset value	1.000
+Net income	represented	asset value	1.000
+Barak	ended at_time	six weeks of silence	1.000
+Barak	ended at_time	six weeks of total public silence	1.000
+Barak	reproach	President Clinton	1.000
+Barak	ended at_time	six weeks of total silence on policy	1.000
+Barak	ended at_time	six weeks of public silence	1.000
+Barak	also ended at_time	six weeks of public silence on policy	1.000
+Barak	ended at_time	six weeks	1.000
+Barak	also ended at_time	six weeks of total silence	1.000
+Barak	also ended at_time	six weeks of public silence	1.000
+Barak	also ended at_time	six weeks of total silence on policy	1.000
+Barak	also ended at_time	six weeks of silence	1.000
+Barak	also ended at_time	six weeks of total public silence on policy	1.000
+Barak	ended at_time	six weeks of total public silence on policy	1.000
+Barak	ended at_time	six weeks of public silence on policy	1.000
+Barak	ended at_time	six weeks of total silence	1.000
+Barak	also ended at_time	six weeks of silence on policy	1.000
+Barak	also ended at_time	six weeks of total public silence	1.000
+Barak	also ended at_time	six weeks	1.000
+Barak	ended at_time	six weeks of silence on policy	1.000
+We	can break news at	time	1.000
+schoolchildren	were	killed	1.000
+people	were	wounded when	1.000
+people	were	wounded	1.000
+Fans	paid attention to	game	1.000
+Fans	paid	close attention	1.000
+Fans	paid	attention	1.000
+reason	was	Marcus Camby	1.000
+Russia 's eavesdropping station	is	cold war jewel	1.000
+Russia	has	eavesdropping station at Lourdes	1.000
+station	is	cold	1.000
+Russia 's eavesdropping station	is	war jewel	1.000
+Annette Tab ert	of	co-author for forthcoming book	1.000
+It	was Wife of	Governor Dufresne	1.000
+It	was	Wife	1.000
+menu	imported from	Ben Deli	0.683
+menu	includes	liver	1.000
+Ben 's Deli	is in	Queens	1.000
+menu	includes	beef	1.000
+menu	includes	knishes	1.000
+menu	imported from	Ben Deli Queens	0.683
+menu	includes	corned beef	1.000
+menu	includes	matzoh ball soup	1.000
+menu	includes	pastrami sandwiches	1.000
+menu	includes	chopped liver	1.000
+menu	includes	kishke	1.000
+Ben	from	Deli in Queens	1.000
+Ashcroft	said through	Mr. Hilton	1.000
+Ashcroft	said afterward through	Mr. Hilton	1.000
+jackets	actually have	reason existing	1.000
+jackets	have	reason existing	1.000
+yellow jackets	actually have	reason existing	1.000
+yellow jackets	have	reason existing	1.000
+place	is in	universe	1.000
+Beat	is in	eggs one	1.000
+line	is	my last word	1.000
+line	is	my word	1.000
+new machines	significantly will give	Sony unusual control	1.000
+new machines	Most significantly will give	Sony unusual control	1.000
+machines	Most significantly will give	Sony unusual control	1.000
+new machines	significantly will give	Sony control	1.000
+machines	significantly will give	Sony unusual control	1.000
+machines	significantly will give	Sony control	1.000
+new machines	will give	Sony unusual control	1.000
+new machines	Most significantly will give	Sony control	1.000
+machines	will give	Sony unusual control	1.000
+machines	will give	Sony control	1.000
+machines	Most significantly will give	Sony control	1.000
+new machines	will give	Sony control	1.000
+we	interact on	personal basis	1.000
+we	were able As	medium-sized group of American lawyers	1.000
+we	were	able	1.000
+we	were able As	medium-sized group	1.000
+we	interact on	basis	1.000
+we	were able As	group of American lawyers	1.000
+we	were able As	group of lawyers	1.000
+we	were able As	medium-sized group of lawyers	1.000
+we	were able As	group	1.000
+Trust Company	has	quest for customers among new rich	1.000
+Trust Company 's quest	included	erroneous figures for millionaire households supplied by PSI	1.000
+Trust Company 's quest	included	erroneous figures for millionaire households	1.000
+Trust Company 's quest	included	erroneous figures for households supplied by PSI	1.000
+Trust Company 's quest	included	erroneous figures for households supplied	1.000
+Trust Company 's quest	included	erroneous figures for millionaire households supplied	1.000
+PSI	firm in	Tampa	1.000
+financial services research firm	is in	Tampa	1.000
+Trust Company 's quest	included	erroneous figures	1.000
+Trust Company 's quest	included	erroneous figures for households	1.000
+Irish Foreign Minister	has warned In	speech	1.000
+Irish Foreign Minister	has warned about	peril	1.000
+Irish Foreign Minister	has warned	is further delay	1.000
+Irish Foreign Minister	has warned In	sobering speech	1.000
+Irish Foreign Minister	has warned	is delay	1.000
+Irish Foreign Minister	has warned In	speech meant	1.000
+Irish Foreign Minister	has warned In	sobering speech meant	1.000
+short interest	misstated	total	1.000
+short interest	misstated accordingly	total	1.000
+four weeks	ended	June 15	0.469
+baseball commissioner 's office	suspended	him	1.000
+baseball commissioner 's office	violating	terms of his program for substance abuse	1.000
+baseball commissioner	has	office	1.000
+baseball commissioner 's office	violating	terms of his program	1.000
+baseball commissioner 's office	violating	terms	1.000
+baseball commissioner 's office	violating	terms of his after-care program for substance abuse	1.000
+baseball commissioner 's office	violating	terms of his after-care program	1.000
+songs	are driven by	short melodic riffs	1.000
+songs	are driven by	riffs	1.000
+songs	are driven by	call-and-response	1.000
+songs	are driven by	short riffs	1.000
+kamalngoni	of plunk is	harp similar to kora played by griots	1.000
+call-and-response	is with	her backup singers	1.000
+short melodic riffs	call-and-response with	her backup singers	1.000
+songs	are driven by	melodic riffs	1.000
+songs	are driven by	call-and-response with her backup singers	1.000
+songs	are	driven	1.000
+Edgardo Alfonzo	rapped	double down line	1.000
+Hundley	launched	double	1.000
+Edgardo Alfonzo	rapped	double down third-base line	1.000
+Edgardo Alfonzo	rapped	two-run double down third-base line	1.000
+Edgardo Alfonzo	rapped	two-run double down line	1.000
+Edgardo Alfonzo	later rapped	two-run double down line	1.000
+Edgardo Alfonzo	later rapped	double down third-base line	1.000
+Edgardo Alfonzo	later rapped	double	1.000
+Hundley	make	it 4-0	1.000
+Edgardo Alfonzo	later rapped	two-run double down third-base line	1.000
+Hundley	later launched	double	1.000
+Edgardo Alfonzo	rapped	two-run double	1.000
+Edgardo Alfonzo	rapped	double	1.000
+Edgardo Alfonzo	later rapped	two-run double	1.000
+Edgardo Alfonzo	later rapped	double down line	1.000
+Tests	detect	use of performance-enhancing drugs like EPO	0.742
+Tests	detect	use	0.742
+Tests	detect	use of performance-enhancing drugs	0.742
+Tests	detect	use of drugs	0.742
+Tests	detect	use of drugs like EPO	0.742
+Tests	detect	use like EPO	0.742
+Manhattan	has	Surrogate	1.000
+Farrow	void	Mr. Allen 's adoptions	1.000
+Farrow	is trying in	Manhattan 's Surrogate 's Court	1.000
+Farrow	void	Mr. Allen 's adoptions of Moses	1.000
+Mr. Allen	has	adoptions of Moses	1.000
+Surrogate	in	Court	1.000
+Mr. Salinas	is	where member	1.000
+Mr. Salinas	is	member	1.000
+university 's Electronic Music Center	will put touches on	surround-sound speaker installation	1.000
+university 's Electronic Music Center	will put touches on	speaker installation	1.000
+university 's Music Center	will put touches on	ambitious surround-sound speaker installation	1.000
+university 's Music Center	will put touches on	ambitious speaker installation	1.000
+university 's Electronic Music Center	will put	touches	1.000
+university 's Music Center	will put	finishing touches	1.000
+university 's Music Center	will put touches In	October	1.000
+university 's Music Center	will put touches on	surround-sound speaker installation	1.000
+university 's Music Center	will put	touches	1.000
+university 's Electronic Music Center	will put touches In	October	1.000
+university 's Electronic Music Center	will put touches on	ambitious surround-sound speaker installation	1.000
+university	has	Electronic Music Center	1.000
+university 's Electronic Music Center	will put	finishing touches	1.000
+university 's Music Center	will put touches on	speaker installation	1.000
+university 's Electronic Music Center	will put touches on	ambitious speaker installation	1.000
+Center	of director is	Dr. Joel Lebowitz	1.000
+director	will receive Dalmar S. Fahrney Medal in	May	1.000
+Franklin Institute	is in	Philadelphia	1.000
+director	will receive Dalmar S. Fahrney Medal from	Franklin Institute in Philadelphia	1.000
+director	will receive	Dalmar S. Fahrney Medal	1.000
+director	will receive Dalmar S. Fahrney Medal from	Franklin Institute	1.000
+independent journalists	went	accused	1.000
+Two independent journalists	went	accused	1.000
+Two independent journalists	went at_time	today	1.000
+sour Croatia 's relations	is with	Western Europe	1.000
+Two independent journalists	went on	trial	1.000
+independent journalists	went on	trial	1.000
+independent journalists	went at_time	today	1.000
+chief executive	putting	his pay	1.000
+executive	will take	cut	1.000
+executive	will take	similar cut	1.000
+chief executive	will take	similar cut	1.000
+chief executive	will take	cut	1.000
+executive	putting	his pay	1.000
+he	tried approach Rather than	resort	1.000
+he	tried	practical approach	1.000
+he	tried Rather than	resort to bunker mentality	0.288
+he	tried Rather than	resort to usual bunker mentality	0.288
+he	tried Rather than	resort	0.288
+he	tried	approach	1.000
+he	tried approach Rather than	resort to usual bunker mentality	1.000
+he	tried	more practical approach	1.000
+he	tried approach Rather than	resort to bunker mentality	1.000
+Mr. Ginty	far has elicited	praise	1.000
+Mr. Ginty	So far has elicited	praise	1.000
+Mr. Ginty	far has elicited	praise from conservatives	1.000
+Mr. Ginty	So far has elicited	praise from conservatives	1.000
+Mr. Ginty	has elicited	praise from conservatives	1.000
+Mr. Ginty	has elicited	praise	1.000
+club	is tearing up	turf field	1.000
+club	replacing	it	1.000
+He	give	diploma	1.000
+He	give diploma	hang in their Brooklyn home	1.000
+He	give diploma	hang	1.000
+He	give diploma to	his mother	1.000
+lice	plan	their arrival	1.000
+lice	maximize	household stress	1.000
+Mr. Riley	has	numbers	1.000
+Miss Collins	is	Miss Collins	1.000
+Miss Collins	is	immutably Miss Collins	1.000
+IT	was	graduation night at Ophelia DeVore School of Charm	1.000
+IT	was	graduation night	1.000
+IT	was	graduation night at Ophelia DeVore School	1.000
+Gregory Bundy	head of	equity trading	1.000
+Gregory Bundy	head at	Merrill Lynch Japan Inc.	1.000
+last one	referred to	us	0.402
+last one	referred	her	1.000
+winds	broke	mast	1.000
+strong winds	stirred up	Hauraki Gulf	1.000
+lack	caused	abandoned	1.000
+America	of	Cup	1.000
+winds	stirred up	Hauraki Gulf	1.000
+lack	caused	abandoned today	1.000
+strong winds	broke	mast	1.000
+today	has	decision	1.000
+Reno	has	supporters	1.000
+Lemelson	was	independent	1.000
+gray leather seat	is	taken	1.000
+he	elevates	himself	1.000
+Federal Home Loan Bank Board	provided reassurances at_time	week	1.000
+Federal Home Loan Bank Board	reassurances to	securities dealers	0.624
+nation	has	largest savings institution	1.000
+Federal Home Loan Bank Board	provided	reassurances to securities dealers	1.000
+Federal Home Loan Bank Board	provided	reassurances	1.000
+Federal Home Loan Bank Board	provided reassurances at_time	last week	1.000
+guests	is in	strapless gowns	1.000
+they	could	could snapped	1.000
+they	could	where could snapped	1.000
+guests	were lining up As	As parties	1.000
+nation	of	most stringent rules for lawmakers	1.000
+delicate wines	is in	10.5 percent	1.000
+it	find wines to	12 percent range	1.000
+it	find	wines in 10.5 percent	1.000
+it	delicate wines in	10.5 percent	0.806
+it	find	delicate wines in 10.5 percent	1.000
+it	wines in	10.5 percent	0.806
+it	delicate and crisp wines in	10.5 percent	0.806
+it	find	wines	1.000
+it	find	delicate wines	1.000
+Leopold	complained about	approach	1.000
+19th-century portrait	dominate	living room	1.000
+portrait	dominate	living room	1.000
+19th-century Chinese portrait	dominate	living room	1.000
+Kenneth Noland painting	drawing	eye	1.000
+Chinese portrait	dominate	living room	1.000
+Kenneth Noland painting	drawing eye in	directions	1.000
+bull	of	eye	1.000
+Kenneth Noland painting	drawing eye in	vertical directions	1.000
+Kenneth Noland painting	dominate	living room	1.000
+Mr. Kerik	came	know	0.191
+he	provided security during	his campaign	1.000
+he	provided security during	his mayoral campaign	1.000
+Mr. Kerik	first came	know	0.191
+Mr. Kerik	know	Mr. Giuliani	1.000
+he	provided security during	his second mayoral campaign	1.000
+he	provided	security	1.000
+he	provided security during	his second campaign	1.000
+media	said under	pounding	1.000
+Serbian media	said under	pounding	1.000
+Targets	is in	Kosovo province	1.000
+media	said under	sustained pounding	1.000
+Serbian media	said under	sustained pounding	1.000
+statue	was placed in	1936	1.000
+statue	stands	56 feet tall	1.000
+statue	was	placed atop Red Mountain in 1936	1.000
+statue	stands	tall	1.000
+statue	was	placed	1.000
+statue	was placed atop	Red Mountain	1.000
+she	Otherwise could receive in	prison	1.000
+she	could receive in	prison	1.000
+Yankees	had erased	deficit	1.000
+Roberto Kelly	smashed homer off	nearly invincible Gregg Olson	1.000
+Yankees	tied	game	1.000
+Yankees	tied game in	top	1.000
+Yankees	tied game in	top of ninth	1.000
+Roberto Kelly	smashed homer off	Gregg Olson	1.000
+Roberto Kelly	smashed	homer	1.000
+Yankees	had erased	early deficit	1.000
+Yankees	had erased	early 4-0 deficit	1.000
+Roberto Kelly	smashed	two-run homer	1.000
+Roberto Kelly	smashed homer off	invincible Gregg Olson	1.000
+Yankees	had erased	4-0 deficit	1.000
+they	were yellow in	Tuesday 's night 's loss	1.000
+they	were	yellow	1.000
+night	in	loss to Chicago	1.000
+Rodman	being	merely Rodman	1.000
+Rodman	being	Rodman	1.000
+Knicks	laughed off	Rodman	0.151
+Knicks	laughed off	merely Rodman	0.151
+Knicks	laughed off	Bulls ' Dennis Rodman suggested	0.151
+Tuesday	has	night	1.000
+Knicks	laughed off	it	1.000
+they	were yellow in	Tuesday 's night 's loss to Chicago	1.000
+Russian Parliament	contribute for	coming year	0.153
+Russian Parliament	voted	contribute	0.153
+Russian Parliament	contribute	only 23.4 billion rubles	1.000
+Russian Parliament	contribute	less than 10th for year	0.153
+Russian Parliament	contribute for	year	0.153
+Russian Parliament	voted	contribute for coming year	0.153
+Russian Parliament	contribute	less than 10th of budget for year	0.153
+Russian Parliament	contribute	less than 10th of total budget	0.153
+Russian Parliament	voted	contribute for year	0.153
+Russian Parliament	contribute	less than 10th of total budget for year	0.153
+Russian Parliament	contribute	less than 10th	0.153
+Russian Parliament	contribute	less for year	0.153
+Russian Parliament	contribute	less	0.153
+Russian Parliament	contribute	less than 10th of budget	0.153
+Russian Parliament	voted at_time	Wednesday	1.000
+Mark Fitzmartin	were	married at N.Y. U. Jesse Jackson	1.000
+Mark Fitzmartin	were	married in Holy Trinity Chapel	1.000
+Fernbach Productions	is in	New York	1.000
+Mr. Jackson	of	requests for permission visit	1.000
+one	history of	Mr. Jackson 's requests	0.536
+Mark Fitzmartin	producer for	Fernbach Productions in New York	1.000
+Mark Fitzmartin	were	married	1.000
+New York University	of	Tisch School of Arts	1.000
+Mark Fitzmartin	were	married in Holy Trinity Chapel at N.Y. U. Jesse Jackson	1.000
+he	coming	he should be	1.000
+he	coming	he should be back	1.000
+he	coming back	he should be	1.000
+I	'm tickled to	death	1.000
+he	coming back	he should be back	1.000
+I	'm	tickled	1.000
+idol	was	fellow	1.000
+He	graduated summa cum laude from	Los Angeles	1.000
+He	graduated	summa cum laude	1.000
+He	graduated summa cum laude from	University	1.000
+He	graduated summa cum laude from	University of California	1.000
+scholarship	attend State University at	Oneonta	1.000
+scholarship	attend	State University	1.000
+scholarship	attend	State University of New York	1.000
+He	washed	dishes	1.000
+She	was	continuing	1.000
+mind-bending illogic	withhold	$ 34 million	1.000
+illogic	withhold	$ 34 million	1.000
+mind-bending illogic	is at_time	yesterday	1.000
+illogic	is at_time	yesterday	1.000
+Bush administration	behind	decision	1.000
+committee	presented	$ 100 million improvement plan	1.000
+committee	presented	improvement plan	1.000
+committee	presented improvement plan In	1954	1.000
+She	is daughter of	Mr. Francis T. Doyen	1.000
+She	is daughter of	Mr. Francis T. Doyen of Fishers Island	1.000
+She	is	daughter	1.000
+top war crimes	suspect after	allegation	1.000
+top Croatian war crimes	suspect after	allegation	1.000
+Croatian war crimes	suspect after	allegation	1.000
+war crimes	suspect after	allegation	1.000
+war crimes	suspect after	allegation by United Nations prosecutor	1.000
+Roman Catholic Church	denied at_time	Tuesday	1.000
+top Croatian war crimes	suspect after	allegation by United Nations prosecutor	1.000
+top war crimes	suspect after	allegation by United Nations prosecutor	1.000
+Croatian war crimes	suspect after	allegation by United Nations prosecutor	1.000
+it	has	more	1.000
+it	's more	time for most lines of work	1.000
+it	's even more	slack time for lines of work	1.000
+it	's even more	time for lines of work	1.000
+holidays	break at_time	two weeks	1.000
+Christmas-New Year	has	season	1.000
+it	's more	always time for most lines of work	1.000
+holidays	break at_time	two consecutive weeks	1.000
+it	's more	always time for lines of work	1.000
+it	's more	always slack time for lines of work	1.000
+it	's more	slack time for most lines of work	1.000
+it	's even more	time for most lines of work	1.000
+it	's even more	always time for most lines of work	1.000
+it	has	even more	1.000
+holidays	break into	four discombobulating two-day weeks	1.000
+Christmas-New Year 's season	is always time for	most lines of work	1.000
+it	's more	slack time for lines of work	1.000
+holidays	break into	four two-day weeks	1.000
+Christmas-New Year 's season	is time for	most lines of work	1.000
+Christmas-New Year 's season	is slack time for	most lines of work	1.000
+it	's even more	always slack time for lines of work	1.000
+Christmas-New Year 's season	is always time for	lines of work	1.000
+Christmas-New Year 's season	is always slack time for	lines of work	1.000
+it	's even more	always slack time for most lines of work	1.000
+it	's more	time for lines of work	1.000
+holidays	break at_time	two consecutive normal weeks	1.000
+holidays	break into	four discombobulating weeks	1.000
+holidays	break at_time	two normal weeks	1.000
+holidays	break into	four weeks	1.000
+it	's even more	slack time for most lines of work	1.000
+it	's more	always slack time for most lines of work	1.000
+it	's even more	always time for lines of work	1.000
+Christmas-New Year 's season	is slack time for	lines of work	1.000
+season	is	slack	1.000
+Christmas-New Year 's season	is time for	lines of work	1.000
+Christmas-New Year 's season	is always slack time for	most lines of work	1.000
+comic dance-drama	is in	folk style	1.000
+George Balanchine	of	odder ballets	1.000
+Divertimento	is one of	George Balanchine 's odder ballets	1.000
+Divertimento	is one	George Balanchine 's odder ballets	1.000
+Divertimento	is one of	George Balanchine 's ballets	1.000
+Divertimento	is one	George Balanchine 's ballets	1.000
+consortium	invest	$ 568 million	1.000
+$ 568 million	maintain	it	1.000
+troops	defend Prague against	unnamed enemy	1.000
+troops	defend Prague against	enemy	1.000
+troops	defend	Prague	1.000
+Today	has	bet	1.000
+troops	defend Warsaw against	enemy	1.000
+troops	defend	Warsaw	1.000
+troops	defend Warsaw against	unnamed enemy	1.000
+His staging	has touch with	six dancers	1.000
+His staging	has touch with	six choreographed dancers	1.000
+His staging	has touch with	six female dancers	1.000
+His staging	has	touch of Broadway corn	1.000
+His staging	has touch with	six choreographed female dancers	1.000
+His staging	has	touch	1.000
+Daisy Systems Corporation	said at_time	today	1.000
+newspaper industry executives	were	unaware	1.000
+many newspaper industry executives	were	unaware	1.000
+Digital Domain column Sunday	misstated	name	1.000
+newspaper industry executives	were unaware of	site 's arrival in their cities	1.000
+site	of	arrival in cities	1.000
+newspaper industry executives	were unaware of	site 's arrival	1.000
+many newspaper industry executives	were unaware of	site 's arrival	1.000
+Craigslist	about column is	online bulletin board	1.000
+Digital Domain column last Sunday	misstated	name	1.000
+Digital Domain column	misstated	name	1.000
+last Sunday	column at_time	online bulletin board	1.000
+site 's arrival	is in	their cities	1.000
+many newspaper industry executives	were unaware of	site 's arrival in their cities	1.000
+review	referred incorrectly to	Fred K. Prieberg 's 1982 German book on subjects	1.000
+June 29	books on	German musicians in Nazi period	1.000
+Fred K. Prieberg	to	1982 German book on subjects	1.000
+review	referred to	Fred K. Prieberg 's 1982 German book	1.000
+review	referred to	Fred K. Prieberg 's 1982 German book on subjects	1.000
+German musicians	is in	Nazi period	1.000
+review	referred to	Fred K. Prieberg 's 1982 book	1.000
+review	referred incorrectly to	Fred K. Prieberg 's 1982 German book	1.000
+review	referred to	Fred K. Prieberg 's 1982 book on subjects	1.000
+review	referred incorrectly to	Fred K. Prieberg 's 1982 book on subjects	1.000
+review	referred incorrectly to	Fred K. Prieberg 's 1982 book	1.000
+Hayden 's Point	was	built by James Gamble Rogers for Chet Bowles	1.000
+Hayden	has	Point	1.000
+Hayden 's Point	was	built	1.000
+Hayden 's Point	was built by	James Gamble Rogers	1.000
+Hayden 's Point	was built for	Chet Bowles	1.000
+it	be	showplace	1.000
+United States attorney	has	office	1.000
+United States attorney 's office	requested information from	township	1.000
+he	addressed Township Council at_time	tonight	1.000
+United States attorney 's office	requested	information	1.000
+he	addressed	Township Council	1.000
+he	later became	producer for White House correspondent Dan Rather during Nixon Administration	1.000
+he	joined CBS News as	producer of CBS News With Walter Cronkite in Washington	1.000
+White House correspondent Dan Rather	anchor 's	CBS	1.000
+he	joined CBS News as	associate producer	1.000
+he	became	producer for White House correspondent Dan Rather	1.000
+he	became	producer during Nixon Administration	1.000
+he	joined CBS News as	producer	1.000
+he	producer for	CBS 's weekday anchor	1.000
+he	joined CBS News as	associate producer of CBS News With Walter Cronkite	1.000
+he	joined CBS News as	associate producer of CBS News	1.000
+CBS News	is With	Walter Cronkite	1.000
+he	joined CBS News as	producer of CBS News in Washington	1.000
+CBS News	is in	Washington	1.000
+he	became	producer for White House correspondent Dan Rather during Nixon Administration	1.000
+he	joined CBS News In	1964	1.000
+he	producer for	now CBS 's weekday anchor	1.000
+he	later became	producer during Nixon Administration	1.000
+he	joined CBS News as	producer of CBS News	1.000
+he	later became	producer	1.000
+he	producer during	Nixon Administration	1.000
+he	became	producer	1.000
+he	joined	CBS News	1.000
+he	joined CBS News as	associate producer of CBS News in Washington	1.000
+he	joined CBS News as	associate producer of CBS News With Walter Cronkite in Washington	1.000
+he	joined CBS News as	producer of CBS News With Walter Cronkite	1.000
+he	producer for	White House correspondent Dan Rather	1.000
+he	later became	producer for White House correspondent Dan Rather	1.000
+artists	posed in	their Full Monty glory	1.000
+artists	posed for	her	1.000
+artists	posed in	their Monty glory	1.000
+Justice Charles R. Alberti	performed ceremony at	home	1.000
+Justice Charles R. Alberti	performed ceremony at	home of bride 's parents	1.000
+Massachusetts Superior Court	is in	Pittsfield	1.000
+bride	of	parents	1.000
+Justice Charles R. Alberti	justice of	Massachusetts Superior Court in Pittsfield	1.000
+Justice Charles R. Alberti	performed	ceremony	1.000
+country	were	collected by Harry Smith	1.000
+country	were	collected for his Anthology of Folk Music	1.000
+1950	of	folk revival	1.000
+country	were	collected	1.000
+country	were	collected by Harry Smith for his Anthology of American Folk Music	1.000
+country	were	collected by Harry Smith for his Anthology	1.000
+American Folk Music	foundation of	1950 's folk revival	1.000
+ballads	hope for	redemption	0.546
+David Johansen	has	latest genre excursion heads for recorded roots of American music	1.000
+country	were	collected for his Anthology	1.000
+country	were	collected for his Anthology of American Folk Music	1.000
+country	were	collected by Harry Smith for his Anthology of Folk Music	1.000
+Ford shares	fell	2 cents	1.000
+Bic	causing	burns	1.000
+Bic	is	is sued	1.000
+treated	has	has treated	1.000
+Lawrence H. Summers	president of	Harvard	1.000
+they	were	treated fairly than Lawrence H. Summers	0.850
+they	were	treated more fairly	0.850
+they	were	treated	0.850
+they	were	Indeed treated more fairly than Lawrence H. Summers	0.850
+treated	has	has treated by his faculty	1.000
+they	were	treated more fairly than Lawrence H. Summers	0.850
+they	were	Indeed treated	0.850
+they	were	treated fairly	0.850
+they	were	Indeed treated fairly	0.850
+they	were	Indeed treated more fairly	0.850
+they	were	Indeed treated fairly than Lawrence H. Summers	0.850
+Jets ' training camp	opening at_time	next Monday	1.000
+Hadley Engelhard	will arrive	Jets ' training camp opening Monday	1.000
+Hadley Engelhard	agent for	team 's first-round draft pick	1.000
+Hadley Engelhard	will arrive	Jets ' training camp opening next Monday	1.000
+Hadley Engelhard	expects	meet with Jets tomorrow	1.000
+Hadley Engelhard	expects	meet	1.000
+Hadley Engelhard	expects	meet with Jets	1.000
+Hadley Engelhard	will arrive at_time	today	1.000
+Hadley Engelhard	expects	meet tomorrow	1.000
+team	for	first-round draft pick	1.000
+Jets ' training camp	opening at_time	Monday	1.000
+Hadley Engelhard	will arrive	Jets ' training camp opening	1.000
+winner	will	will announced	1.000
+winner	will	will announced in October	1.000
+I.A.A.F.	decide	her case	1.000
+investigation	is	completed	1.000
+federation	withdraw Budd from	international competition	1.000
+federation	has instructed	British Amateur Athletic Board	1.000
+federation	has instructed	British Athletic Board	1.000
+I.A.A.F.	convenes in	London April 15	1.000
+I.A.A.F.	convenes	decide	0.132
+federation	has instructed	Athletic Board	1.000
+federation	has instructed Athletic Board	completed	1.000
+federation	has instructed	Amateur Athletic Board	1.000
+bride	is stepdaughter of	Richard L. Harris	1.000
+bride	is	stepdaughter	1.000
+Mr. Parkin 's office	was	also searched	1.000
+Mr. Parkin 's office	was also searched by	F.B.I. General Blevins	1.000
+Mr. Parkin 's office	was	searched	1.000
+Mr. Parkin	has	office	1.000
+Mr. Parkin 's office	was searched	agreed	1.000
+Mr. Parkin 's office	was also searched	agreed	1.000
+Mr. Parkin 's office	was searched by	F.B.I. General Blevins	1.000

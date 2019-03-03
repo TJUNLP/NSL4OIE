@@ -1,4 +1,15 @@
 # NeuralSequenceLearning4OIE
-Please contact shengbinjia@tongji.edu.cn
 
-The related paper “Neural Sequence Tagging Network for Open Relation Extraction” is under review.
+Dear Readers,
+
+We are glad that our work has attracted your attention.
+
+However, We are sorry that our article is still under review. It is not convenient for us to disclose more information. 
+
+If our submissions progress, we will update the relevant content on GitHub in time.
+
+
+
+Sincerely,
+
+Shengbin Jia
